@@ -11,3 +11,7 @@
 ### Everyone is going to University and doing certs, but I learned in my life that you should take the path least travelled. Sign up to GitHub and Codewars and change your life !!!! 
 
 #### Kimbo Slice is best known for mutual combat street fights which were spread across the Internet, leading Rolling Stone to call him "The King of the Web Brawlers". Kimbo Slice likes to fight anyone in the backyard !!!
+
+#### The side of my dusty old bookshelf showing swag
+
+![Bookshelf Swag Stickers](images/bookshelf.png)
