@@ -8,9 +8,11 @@
 
 ### Of course don't be fooled by those people that have industry based certificates. Based on Exam Labs stats they are now giving the certs out to 98.4% of people or basically just giving these qualifications out to everyone.  There is no point in having a test if everyone passes.
 
-### Everyone is going to University and doing certs, but I learned in my life that you should take the path least travelled. Sign up to GitHub and Codewars and change your life !!!! 
+### Everyone is going to University and doing certs, but I learned in my life that you should take the path least travelled. Sign up to GitHub and [Codewars](https://www.codewars.com) and change your life !!!! 
 
-#### Kimbo Slice is best known for mutual combat street fights which were spread across the Internet, leading Rolling Stone to call him "The King of the Web Brawlers". Kimbo Slice likes to fight anyone in the backyard !!!
+#### [Kimbo Slice](https://en.wikipedia.org/wiki/Kimbo_Slice) is best known for mutual combat street fights which were spread across the Internet, leading Rolling Stone to call him "The King of the Web Brawlers". Kimbo Slice likes to fight anyone in the backyard !!!
+
+#### [Yukihiro Matsumoto](https://en.wikipedia.org/wiki/Yukihiro_Matsumoto), also known as [Matz](https://github.com/matz), is a Japanese computer scientist and software programmer best known as the chief designer of the Ruby programming language and its reference implementation, Matz's Ruby Interpreter. Matz is the Super Grandmaster and he codes much faster !!!
 
 #### The side of my dusty old bookshelf showing swag
 
