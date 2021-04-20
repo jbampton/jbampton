@@ -17,3 +17,49 @@
 #### The side of my dusty old bookshelf showing swag
 
 ![Bookshelf Swag Stickers](images/bookshelf.png)
+
+![Hacktoberfest tshirts](images/hacktoberfest-tshirts.jpg)
+
+![Webiny Swag](images/webiny-tshirt.jpg)
+
+![Infracloud Swag](images/infracloud-tshirt.jpg)
+
+![Hasura Build Shit Fast](images/hasura-tshirt-build-shit-fast.jpg)
+
+![Gatsby tshirts](images/gatsby-tshirts.jpg)
+
+![Camunda tshirt](images/camunda-tshirt.jpg)
+
+![Gatsby Swag](images/gatsby-swag.jpg)
+
+![Gatsby Bottle](images/gatsby-bottle.jpg)
+
+![Gatsby Caps](images/gatsby-caps.jpg)
+
+![Gatsby Socks](images/gatsby-socks-3.jpg)
+
+![Gatsby Socks Tag](images/gatsby-socks-tag.jpg)
+
+![Vonage Socks](images/vonage-socks.jpg)
+
+![Books](images/books-1.jpg)
+
+![Books](images/books-2.jpg)
+
+![Stewart Calculus](images/stewart-calculus.jpg)
+
+![Unix Book front cover](images/unix-book.jpg)
+
+![Unix Book back cover](images/unix-book-back.jpg)
+
+![LongBranch and hot chips](images/longbranch.jpg)
+
+![Nolet Vodka](images/nolet-family.jpg)
+
+![Old Ripy](images/old-ripy.jpg)
+
+![Battlestar Fuchsia](images/battlestar-fuchsia.jpg)
+
+![Beautiful Springtime](images/springtime-logo.jpg)
+
+![John Bampton in Green](images/me-pic-green.jpg)
