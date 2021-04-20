@@ -14,6 +14,8 @@
 
 #### [Yukihiro Matsumoto](https://en.wikipedia.org/wiki/Yukihiro_Matsumoto), also known as [Matz](https://github.com/matz), is a Japanese computer scientist and software programmer best known as the chief designer of the Ruby programming language and its reference implementation, Matz's Ruby Interpreter. Matz is the Super Grandmaster and he codes much faster !!!
 
+#### In the office it's a competition to see who can work the least 🚀🚀🚀
+
 #### The side of my dusty old bookshelf showing swag
 
 ![Bookshelf Swag Stickers](images/bookshelf.png)
@@ -58,7 +60,21 @@
 
 ![Old Ripy](images/old-ripy.jpg)
 
+![Sunshine Vodka](images/vodka-sunshine.jpg)
+
+![Whiskey](images/whiskey-2.jpg)
+
+![Drinks](images/drinks-1.jpg)
+
 ![Battlestar Fuchsia](images/battlestar-fuchsia.jpg)
+
+![Fuchsia Logo](images/fuchsia-logo-1.jpg)
+
+![Fuchsia Logo](images/fuchsia-logo-2.jpg)
+
+![Fuchsia Logo](images/fuchsia-logo-3.jpg)
+
+![Fuchsia Logo](images/fuchsia-logo-4.jpg)
 
 ![Beautiful Springtime](images/springtime-logo.jpg)
 
