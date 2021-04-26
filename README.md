@@ -1,3 +1,17 @@
+# Jorge Araica was a husband and father of two young men.
+
+## Jorge died in Venezuela of COVID-19 in April 2021.
+
+### Jorge was classically trained as a mechanical engineer but later in life he pursued his love of graphic design.
+
+### Jorge was extremely talented, a real ideas man and no one will ever replace him.
+
+### Jorge was my best friend.
+
+![Victor Araica](images/victor-araica.png)
+
+![Jorga Araica](images/jorge-luis-araica-mazzei.png)
+
 # Ruby is...
 
 ## A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
