@@ -10,6 +10,8 @@
 
 ![Victor Araica](images/victor-araica.png)
 
+![Jorga Araica](images/jorge-about-the-author.png)
+
 ![Jorga Araica](images/jorge-luis-araica-mazzei.png)
 
 # Ruby is...
