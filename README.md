@@ -34,6 +34,8 @@
 
 #### The side of my dusty old bookshelf showing swag
 
+![Heath Ledger](images/heath-ledger.jpg)
+
 ![Bookshelf Swag Stickers](images/bookshelf.png)
 
 ![Hacktoberfest tshirts](images/hacktoberfest-tshirts.jpg)
