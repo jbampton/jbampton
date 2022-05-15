@@ -46,6 +46,14 @@
 
 ![Hacktoberfest tshirts](images/hacktoberfest-tshirts.jpg)
 
+![Hacktoberfest 2021](images/hacktoberfest-2021-2.jpg)
+
+![Hacktoberfest 2021](images/hacktoberfest-2021-1.jpg)
+
+![Hacktoberfest 2021](images/hacktoberfest-2021-3.jpg)
+
+![Hacktoberfest 2021](images/hacktoberfest-2021-4.jpg)
+
 ![Webiny Swag](images/webiny-tshirt.jpg)
 
 ![Infracloud Swag](images/infracloud-tshirt.jpg)
