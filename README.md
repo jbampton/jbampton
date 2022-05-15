@@ -72,11 +72,7 @@
 
 ![Books](images/books-2.jpg)
 
-![Stewart Calculus](images/stewart-calculus.jpg)
-
-![Unix Book front cover](images/unix-book.jpg)
-
-![Unix Book back cover](images/unix-book-back.jpg)
+![Books](images/books-3.jpg)
 
 ![LongBranch and hot chips](images/longbranch.jpg)
 
