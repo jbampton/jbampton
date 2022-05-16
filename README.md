@@ -76,11 +76,35 @@
 
 ![Vonage Socks](images/vonage-socks.jpg)
 
+![GOT shirt 1](images/got-shirt-1.jpeg)
+
+![GOT shirt 2](images/got-shirt-2.jpeg)
+
+![Ties](images/six-ties.jpeg)
+
 ![Books](images/books-1.jpg)
 
 ![Books](images/books-2.jpg)
 
 ![Books](images/books-3.jpg)
+
+![AOL Internet](images/aol-front.jpeg)
+
+![AOL Internet](images/aol-back.jpeg)
+
+![Video Cards](images/video-cards.jpeg)
+
+![Blockbuster](images/blockbuster.jpeg)
+
+![Mixmag card](images/mixmag-card.jpeg)
+
+![Firefox OS](images/firefox-os.jpeg)
+
+![Sharon](images/sharon.jpeg)
+
+![Goddess](images/goddess.jpeg)
+
+![Park Life](images/parklife.jpeg)
 
 ![LongBranch and hot chips](images/longbranch.jpg)
 
