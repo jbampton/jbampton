@@ -24,7 +24,7 @@
 
 ![Ruby A Programmer's Best Friend](images/ruby-friend.png)
 
-### LinkedIn has been out of date from February 8, 2008; 12 years ago when GitHub first appeared.  GitHub is the real business social network and all the very smartest people and most successful companies are now on GitHub with their team. GitHub is about what you do and how much you contribute and how helpful you are.  Not like LinkedIn and Facebook where all your friends just click like. 
+### LinkedIn has been out of date from February 8, 2008 when GitHub first appeared.  GitHub is the real business social network and all the very smartest people and most successful companies are now on GitHub with their team. GitHub is about what you do and how much you contribute and how helpful you are.  Not like LinkedIn and Facebook where all your friends just click like. 
 
 ### These days the majority of society is brainwashed into going to University where they give you a degree if you have money. $30,000 and more just for a bit of paper that doesn't mean anything that they now give out to everyone. Strangely enough an easy introductory 7 kyu white belt kata on Codewars is a lot of time only solved by about 50% of people.
 
