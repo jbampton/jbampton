@@ -5,11 +5,12 @@
 
 - Username: Beast
 - Name: John Bampton
-- Honor: 24904
 - Clan: Summerhill
-- Leaderboard Position: 162
 - Skills: ['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']
+- Honor: 24904
+- Leaderboard Position: 162
 - Overalll Rank: 2 kyu
+- Total Completed Kata: 1618
 
 
 ## lichess

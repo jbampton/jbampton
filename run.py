@@ -6,7 +6,7 @@ from datetime import datetime
 
 pattern = re.compile(r"(<!-- data -->)(.*?)(<!-- data -->)", re.MULTILINE | re.DOTALL)
 perfTypes = ['bullet', 'blitz', 'rapid'] # 'classical', 'correspondence', 'chess960', 'crazyhouse']
-lichess = f'## lichess\n\n'
+lichess = '## lichess\n\n'
 for perf in perfTypes:
     with urllib.request.urlopen(f'https://lichess.org/api/user/SexyMate/perf/{perf}') as url:
         data = json.load(url)
@@ -35,13 +35,15 @@ with urllib.request.urlopen(f'https://www.codewars.com/api/v1/users/Beast') as u
         skills = data['skills']
         ranks = data['ranks']
         overall = ranks['overall']['name']
+        totalCompleted = data['codeChallenges']['totalCompleted']
         codewars += f'''- Username: {username}
 - Name: {name}
-- Honor: {honor}
 - Clan: {clan}
-- Leaderboard Position: {leaderboardPosition}
 - Skills: {skills}
-- Overalll Rank: {overall}\n\n
+- Honor: {honor}
+- Leaderboard Position: {leaderboardPosition}
+- Overalll Rank: {overall}
+- Total Completed Kata: {totalCompleted}\n\n
 '''
 
 sections = codewars + lichess
