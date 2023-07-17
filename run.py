@@ -4,7 +4,7 @@ import urllib.request
 from datetime import datetime
 
 
-pattern = re.compile(r"(<!-- data -->)(.*?)(<!-- data -->)", re.MULTILINE | re.DOTALL)
+pattern = re.compile(r"(<!-- start-data -->)(.*)\Z", re.MULTILINE | re.DOTALL)
 perfTypes = ['bullet', 'blitz', 'rapid'] # 'classical', 'correspondence', 'chess960', 'crazyhouse']
 lichess = '## lichess\n\n'
 for perf in perfTypes:
@@ -43,19 +43,18 @@ with urllib.request.urlopen(f'https://www.codewars.com/api/v1/users/Beast') as u
 - Honor: {honor}
 - Leaderboard Position: {leaderboardPosition}
 - Overalll Rank: {overall}
-- Total Completed Kata: {totalCompleted}\n\n
+- Total Completed Kata: {totalCompleted}\n
 '''
 
 wikipedia = '## Wikipedia\n\n'
 with urllib.request.urlopen(f'https://en.wikipedia.org/api/rest_v1/page/random/summary') as url:
     data = json.load(url)
     extract = data['extract']
-    page = data['content_urls']['mobile']['page']
-    wikipedia += f'{extract}\n\n'
+    wikipedia += f'{extract}'
 
-sections = codewars + lichess + wikipedia
+sections = f'\n{codewars}{lichess}{wikipedia}'
 with open("README.md", 'r+') as my_file:
     readme = my_file.read()
-    readme = re.sub(pattern, r"\1\n"+sections+r"\3", readme)
+    readme = re.sub(pattern, r"\1"+sections, readme)
     my_file.seek(0)
     my_file.write(readme)
