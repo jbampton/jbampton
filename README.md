@@ -41,6 +41,9 @@
 
 ## Wikipedia
 
-Cemetery Ridge is a geographic feature in Gettysburg National Military Park, south of the town of Gettysburg, Pennsylvania, that figured prominently in the Battle of Gettysburg, July 1 to July 3, 1863. It formed a primary defensive position for the Union Army during the battle, roughly the center of what is popularly known as the "fish-hook" line. The Confederate States Army launched attacks on the Union positions on the second and third days of the battle, but were driven back both times.
+Kalathomyrmex is a genus of ant in the subfamily Myrmicinae containing the single species Kalathomyrmex emeryi. First described as Myrmicocrypta emeryi by Forel in 1907, the species was most recently moved to its current genus by Klingenberg and Brandao in 2009.
+
+<!-- data -->
+ roughly the center of what is popularly known as the "fish-hook" line. The Confederate States Army launched attacks on the Union positions on the second and third days of the battle, but were driven back both times.
 
 <!-- data -->
