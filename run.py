@@ -26,17 +26,17 @@ for perf in perfTypes:
 
 codewars = '## Codewars\n\n'
 with urllib.request.urlopen(f'https://www.codewars.com/api/v1/users/Beast') as url:
-        data = json.load(url)
-        username = data['username']
-        name = data['name']
-        honor = data['honor']
-        clan = data['clan']
-        leaderboardPosition = data['leaderboardPosition']
-        skills = data['skills']
-        ranks = data['ranks']
-        overall = ranks['overall']['name']
-        totalCompleted = data['codeChallenges']['totalCompleted']
-        codewars += f'''- Username: {username}
+    data = json.load(url)
+    username = data['username']
+    name = data['name']
+    honor = data['honor']
+    clan = data['clan']
+    leaderboardPosition = data['leaderboardPosition']
+    skills = data['skills']
+    ranks = data['ranks']
+    overall = ranks['overall']['name']
+    totalCompleted = data['codeChallenges']['totalCompleted']
+    codewars += f'''- Username: {username}
 - Name: {name}
 - Clan: {clan}
 - Skills: {skills}
@@ -46,7 +46,14 @@ with urllib.request.urlopen(f'https://www.codewars.com/api/v1/users/Beast') as u
 - Total Completed Kata: {totalCompleted}\n\n
 '''
 
-sections = codewars + lichess
+wikipedia = '## Wikipedia\n\n'
+with urllib.request.urlopen(f'https://en.wikipedia.org/api/rest_v1/page/random/summary') as url:
+    data = json.load(url)
+    extract = data['extract']
+    page = data['content_urls']['mobile']['page']
+    wikipedia += f'{extract}\n\n'
+
+sections = codewars + lichess + wikipedia
 with open("README.md", 'r+') as my_file:
     readme = my_file.read()
     readme = re.sub(pattern, r"\1\n"+sections+r"\3", readme)
