@@ -1,0 +1,31 @@
+name: lichess
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # At the beginning of every day.
+    - cron: "0 0 * * *"
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'  # Version range or exact version of a Python version to use, using SemVer's version range syntax
+          architecture: 'x64'  # optional x64 or x86. Defaults to x64 if not specified
+      - name: Update README
+        run: |
+          python run.py
+      - name: Push to repository
+        run: |
+          git config --global user.name "John Bampton"
+          git config --global user.email "jbampton@users.noreply.github.com"
+          now=$(date)
+          git add -A
+          git diff-index --quiet HEAD || git commit -m "Auto Push on $now"
+          git push
