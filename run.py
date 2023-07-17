@@ -4,13 +4,13 @@ import urllib.request
 from datetime import datetime
 
 
-pattern = re.compile(r"(<!-- lichess -->)(.*?)(<!-- lichess -->)", re.MULTILINE | re.DOTALL)
+pattern = re.compile(r"(<!-- data -->)(.*?)(<!-- data -->)", re.MULTILINE | re.DOTALL)
 perfTypes = ['bullet', 'blitz', 'rapid'] # 'classical', 'correspondence', 'chess960', 'crazyhouse']
-sections = ''
+lichess = f'## lichess\n\n'
 for perf in perfTypes:
     with urllib.request.urlopen(f'https://lichess.org/api/user/SexyMate/perf/{perf}') as url:
         data = json.load(url)
-        results = f'## Best {perf} wins\n\n'
+        results = f'### Best {perf} wins\n\n'
         for row in data['stat']['bestWins']['results']:
             title = row['opId']['title']
             if title == None:
@@ -22,7 +22,29 @@ for perf in perfTypes:
             date = row['at']
             results += f'- {title}{name} ({rating}) {date}\n'
         results += '\n'
-        sections += results
+        lichess += results
+
+codewars = '## Codewars\n\n'
+with urllib.request.urlopen(f'https://www.codewars.com/api/v1/users/Beast') as url:
+        data = json.load(url)
+        username = data['username']
+        name = data['name']
+        honor = data['honor']
+        clan = data['clan']
+        leaderboardPosition = data['leaderboardPosition']
+        skills = data['skills']
+        ranks = data['ranks']
+        overall = ranks['overall']['name']
+        codewars += f'''- Username: {username}
+- Name: {name}
+- Honor: {honor}
+- Clan: {clan}
+- Leaderboard Position: {leaderboardPosition}
+- Skills: {skills}
+- Overalll Rank: {overall}\n\n
+'''
+
+sections = codewars + lichess
 with open("README.md", 'r+') as my_file:
     readme = my_file.read()
     readme = re.sub(pattern, r"\1\n"+sections+r"\3", readme)
