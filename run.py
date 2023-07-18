@@ -4,7 +4,7 @@ import urllib.request
 from datetime import datetime
 
 
-pattern = re.compile(r"(<!-- start-data -->)(.*)\Z", re.MULTILINE | re.DOTALL)
+pattern = re.compile(r"(<!-- start-data -->)(.*)", re.MULTILINE | re.DOTALL)
 perfTypes = ['bullet', 'blitz', 'rapid'] # 'classical', 'correspondence', 'chess960', 'crazyhouse']
 lichess = '## lichess\n\n'
 for perf in perfTypes:
@@ -50,11 +50,13 @@ wikipedia = '## Wikipedia\n\n'
 with urllib.request.urlopen(f'https://en.wikipedia.org/api/rest_v1/page/random/summary') as url:
     data = json.load(url)
     extract = data['extract']
-    wikipedia += f'{extract}'
+    page = data['content_urls']['mobile']['page']
+    wikipedia += f'{extract}\n\n{page}'
 
-sections = f'\n{codewars}{lichess}{wikipedia}'
+sections = f'\n{codewars}{lichess}{wikipedia}\n'
 with open("README.md", 'r+') as my_file:
     readme = my_file.read()
     readme = re.sub(pattern, r"\1"+sections, readme)
+    my_file.truncate(0)
     my_file.seek(0)
     my_file.write(readme)

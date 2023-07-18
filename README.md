@@ -40,4 +40,6 @@
 
 ## Wikipedia
 
-Home Shanti is an Indian Hindi-language family comedy drama web series written and directed by Akanksha Dua. The series premiered on 6 May 2022 on Disney+ Hotstar. It stars Supriya Pathak, Manoj Pahwa, Chakori Dwivedi and Poojan Chhabra.ong the Greensand Ridge and two named localities exist to the north and south of the historic village centre which features pubs, a set of stocks and a whipping post.
+Norbert Gstrein is an Austrian writer. He was born in Mils in Tyrol, the son of the hotelier and ski school director Norbert Gstrein (1931–1988) and Maria Gstrein, née Thurner. He grews up with his five siblings in Vent and attended the secondary school from 1971 to 1979 in Imst. From 1979 to 1984, Gstrein studied mathematics in Innsbruck, Stanford and Erlangen. He not completed his PhD in 1988 at the University of Innsbruck, under the supervision of Roman Liedl and Gerhard Frey.
+
+https://en.m.wikipedia.org/wiki/Norbert_Gstrein
