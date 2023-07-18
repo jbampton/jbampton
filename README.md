@@ -7,7 +7,7 @@
 - Name: John Bampton
 - Clan: Summerhill
 - Skills: ['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']
-- Honor: 24904
+- Honor: 24905
 - Leaderboard Position: 162
 - Overalll Rank: 2 kyu
 - Total Completed Kata: 1618
@@ -40,4 +40,4 @@
 
 ## Wikipedia
 
-"I'm Forever Blowing Bubbles" is a popular American song written in 1918, released in late 1919, becoming a number one hit for Ben Selvin's Novelty Orchestra. It has been revived and adapted over the years, serving as the anthem of Premier League club, West Ham United.
+Alfold is a village and civil parish in Surrey, England on the West Sussex border. Alfold is a dispersed or polyfocal village in the Green Belt, which is buffered from all other settlements. The Greensand Way runs north of the village along the Greensand Ridge and two named localities exist to the north and south of the historic village centre which features pubs, a set of stocks and a whipping post.
