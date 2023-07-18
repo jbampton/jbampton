@@ -40,6 +40,6 @@
 
 ## Wikipedia
 
-Thomas Lewinski was an architect in Kentucky, United States. Born in England, he immigrated to the United States. For his work at Allenhurst and elsewhere, Lewinski was known in his day as one of the leading architects of the Greek Revival style. He designed many architecturally significant buildings that survive and are listed on the United States National Register of Historic Places.
+Thomas Pitt, 1st Baron Camelford was a British politician who sat in the House of Commons from 1761 until 1784 when he was raised to the peerage as Baron Camelford. He was an art connoisseur.
 
-https://en.m.wikipedia.org/wiki/Thomas_Lewinski
+https://en.m.wikipedia.org/wiki/Thomas_Pitt%2C_1st_Baron_Camelford
