@@ -40,6 +40,6 @@
 
 ## Wikipedia
 
-Norbert Gstrein is an Austrian writer. He was born in Mils in Tyrol, the son of the hotelier and ski school director Norbert Gstrein (1931–1988) and Maria Gstrein, née Thurner. He grews up with his five siblings in Vent and attended the secondary school from 1971 to 1979 in Imst. From 1979 to 1984, Gstrein studied mathematics in Innsbruck, Stanford and Erlangen. He not completed his PhD in 1988 at the University of Innsbruck, under the supervision of Roman Liedl and Gerhard Frey.
+Tachibana clan  was one of the four most powerful kuge families in Japan's Nara and early Heian periods—the other three were the Minamoto, the Fujiwara, and the Taira. Members of the Tachibana family often held high court posts within the Daijō-kan, most frequently Sadaijin. Like the other major families at court, they also constantly sought to increase and secure their power by marrying into the imperial family. However, as the Minamoto clan and the Fujiwara clan gained power over the course of the 9th and 10th centuries, the Tachibana were eclipsed and eventually became scattered across the country. Though serving in high government posts outside the capital, they were thus denied the degree of power and influence within the court at Kyoto (Heian-kyō) which they once enjoyed.
 
-https://en.m.wikipedia.org/wiki/Norbert_Gstrein
+https://en.m.wikipedia.org/wiki/Tachibana_clan_(kuge)
