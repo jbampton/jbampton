@@ -3,43 +3,43 @@
 <!-- start-data -->
 ## Codewars
 
-- Username: Beast
-- Name: John Bampton
-- Clan: Summerhill
-- Skills: ['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']
-- Honor: 24905
-- Leaderboard Position: 162
-- Overalll Rank: 2 kyu
-- Total Completed Kata: 1618
+- Username: __Beast__
+- Name: __John Bampton__
+- Clan: __Summerhill__
+- Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
+- Honor: __24905__
+- Leaderboard Position: __162__
+- Overalll Rank: __2 kyu__
+- Total Completed Kata: __1618__
 
 ## lichess
 
 ### Best bullet wins
 
-- Shriram07 (1604) 2022-10-24T08:07:41.092Z
-- SAPANK (1567) 2022-10-24T12:13:48.583Z
-- Acountname (1510) 2022-10-24T08:26:59.948Z
-- Acountname (1509) 2022-10-24T08:18:53.624Z
-- Danila_Samodelov (1485) 2022-10-24T18:53:03.855Z
+- Shriram07 __(1604)__ 2022-10-24 Monday 8:07:41 AM
+- SAPANK __(1567)__ 2022-10-24 Monday 12:13:48 PM
+- Acountname __(1510)__ 2022-10-24 Monday 8:26:59 AM
+- Acountname __(1509)__ 2022-10-24 Monday 8:18:53 AM
+- Danila_Samodelov __(1485)__ 2022-10-24 Monday 6:53:03 PM
 
 ### Best blitz wins
 
-- FM steva23 (2414) 2023-03-26T21:01:44.418Z
-- FM steva23 (2412) 2022-10-31T11:25:30.058Z
-- muuhab (1905) 2022-10-25T00:31:43.743Z
-- Theknigh (1584) 2022-07-09T11:34:46.957Z
-- benghis (1504) 2023-04-30T10:45:06.472Z
+- __FM__ steva23 __(2414)__ 2023-03-26 Sunday 9:01:44 PM
+- __FM__ steva23 __(2412)__ 2022-10-31 Monday 11:25:30 AM
+- muuhab __(1905)__ 2022-10-25 Tuesday 12:31:43 AM
+- Theknigh __(1584)__ 2022-07-09 Saturday 11:34:46 AM
+- benghis __(1504)__ 2023-04-30 Sunday 10:45:06 AM
 
 ### Best rapid wins
 
-- PavelLion2015 (1611) 2022-12-28T14:17:57.505Z
-- MARCHEUR (1605) 2021-10-03T09:32:03.483Z
-- Ahmedabdelkader44 (1601) 2023-04-13T00:55:27.021Z
-- uclaprep (1586) 2022-12-28T20:00:26.226Z
-- LEON2135791240 (1579) 2022-12-28T14:43:54.764Z
+- PavelLion2015 __(1611)__ 2022-12-28 Wednesday 2:17:57 PM
+- MARCHEUR __(1605)__ 2021-10-03 Sunday 9:32:03 AM
+- Ahmedabdelkader44 __(1601)__ 2023-04-13 Thursday 12:55:27 AM
+- uclaprep __(1586)__ 2022-12-28 Wednesday 8:00:26 PM
+- LEON2135791240 __(1579)__ 2022-12-28 Wednesday 2:43:54 PM
 
 ## Wikipedia
 
-Tachibana clan  was one of the four most powerful kuge families in Japan's Nara and early Heian periods—the other three were the Minamoto, the Fujiwara, and the Taira. Members of the Tachibana family often held high court posts within the Daijō-kan, most frequently Sadaijin. Like the other major families at court, they also constantly sought to increase and secure their power by marrying into the imperial family. However, as the Minamoto clan and the Fujiwara clan gained power over the course of the 9th and 10th centuries, the Tachibana were eclipsed and eventually became scattered across the country. Though serving in high government posts outside the capital, they were thus denied the degree of power and influence within the court at Kyoto (Heian-kyō) which they once enjoyed.
+Thomas Lewinski was an architect in Kentucky, United States. Born in England, he immigrated to the United States. For his work at Allenhurst and elsewhere, Lewinski was known in his day as one of the leading architects of the Greek Revival style. He designed many architecturally significant buildings that survive and are listed on the United States National Register of Historic Places.
 
-https://en.m.wikipedia.org/wiki/Tachibana_clan_(kuge)
+https://en.m.wikipedia.org/wiki/Thomas_Lewinski

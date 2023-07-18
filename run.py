@@ -16,11 +16,12 @@ for perf in perfTypes:
             if title == None:
                 title = ''
             else:
-                title += ' '
+                title = f'__{title}__ '
             name = row['opId']['name']
             rating = row['opRating']
-            date = row['at']
-            results += f'- {title}{name} ({rating}) {date}\n'
+            d = datetime.strptime(row['at'], '%Y-%m-%dT%H:%M:%S.%fZ')
+            date = d.strftime('%Y-%m-%d %A %-I:%M:%S %p')
+            results += f'- {title}{name} __({rating})__ {date}\n'
         results += '\n'
         lichess += results
 
@@ -36,14 +37,14 @@ with urllib.request.urlopen(f'https://www.codewars.com/api/v1/users/Beast') as u
     ranks = data['ranks']
     overall = ranks['overall']['name']
     totalCompleted = data['codeChallenges']['totalCompleted']
-    codewars += f'''- Username: {username}
-- Name: {name}
-- Clan: {clan}
-- Skills: {skills}
-- Honor: {honor}
-- Leaderboard Position: {leaderboardPosition}
-- Overalll Rank: {overall}
-- Total Completed Kata: {totalCompleted}\n
+    codewars += f'''- Username: __{username}__
+- Name: __{name}__
+- Clan: __{clan}__
+- Skills: __{skills}__
+- Honor: __{honor}__
+- Leaderboard Position: __{leaderboardPosition}__
+- Overalll Rank: __{overall}__
+- Total Completed Kata: __{totalCompleted}__\n
 '''
 
 wikipedia = '## Wikipedia\n\n'
