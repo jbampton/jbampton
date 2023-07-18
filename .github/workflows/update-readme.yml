@@ -1,4 +1,4 @@
-name: lichess
+name: update readme
 
 on:
   push:
@@ -26,6 +26,8 @@ jobs:
           git config --global user.name "John Bampton"
           git config --global user.email "jbampton@users.noreply.github.com"
           now=$(date)
+          index=$(shuf -i 0-4 -n 1)
+          array=(💚 💙 🖤 💜 🧡)
           git add -A
-          git diff-index --quiet HEAD || git commit -m "Auto Push on $now"
+          git diff-index --quiet HEAD || git commit -m "${array[index]} Auto Push on $now"
           git push
