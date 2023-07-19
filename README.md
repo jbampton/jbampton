@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __24905__
+- Honor: __24921__
 - Leaderboard Position: __162__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -40,6 +40,6 @@
 
 ## Wikipedia
 
-Thomas Pitt, 1st Baron Camelford was a British politician who sat in the House of Commons from 1761 until 1784 when he was raised to the peerage as Baron Camelford. He was an art connoisseur.
+Scotland Yard Investigator is a 1945 American crime film directed by George Blair and starring C. Aubrey Smith, Erich von Stroheim and Stephanie Bachelor. Following the outbreak of the Second World War the Mona Lisa is moved to a London gallery for safekeeping, where a German art collector attempts to steal it. The film was a loose sequel to Republic's 1944 thriller Secrets of Scotland Yard with a number of the same cast and crew.
 
-https://en.m.wikipedia.org/wiki/Thomas_Pitt%2C_1st_Baron_Camelford
+https://en.m.wikipedia.org/wiki/Scotland_Yard_Investigator
