@@ -5,15 +5,15 @@ from datetime import datetime
 
 
 pattern = re.compile(r"(<!-- start-data -->)(.*)", re.MULTILINE | re.DOTALL)
-perfTypes = ['bullet', 'blitz', 'rapid'] # 'classical', 'correspondence', 'chess960', 'crazyhouse']
+perfTypes = ['bullet', 'blitz', 'rapid'] # 'classical', 'correspondence', 'chess960', 'crazyhouse'
 lichess = '## lichess\n\n'
 for perf in perfTypes:
     with urllib.request.urlopen(f'https://lichess.org/api/user/SexyMate/perf/{perf}') as url:
         data = json.load(url)
-        results = f'### Best {perf} wins\n\n'
+        results = f'### Best {perf} wins\n\n| Name | Rating | Date |\n| - | - | - |\n'
         for row in data['stat']['bestWins']['results']:
             title = row['opId']['title']
-            if title == None:
+            if title is None:
                 title = ''
             else:
                 title = f'__{title}__ '
@@ -21,7 +21,7 @@ for perf in perfTypes:
             rating = row['opRating']
             d = datetime.strptime(row['at'], '%Y-%m-%dT%H:%M:%S.%fZ')
             date = d.strftime('%Y-%m-%d %A %-I:%M:%S %p')
-            results += f'- {title}{name} __({rating})__ {date}\n'
+            results += f'| {title}{name} | __({rating})__ | {date} |\n'
         results += '\n'
         lichess += results
 
