@@ -46,6 +46,6 @@
 
 ## Wikipedia
 
-The theory of belief functions, also referred to as evidence theory or Dempster–Shafer theory (DST), is a general framework for reasoning with uncertainty, with understood connections to other frameworks such as probability, possibility and imprecise probability theories. First introduced by Arthur P. Dempster in the context of statistical inference, the theory was later developed by Glenn Shafer into a general framework for modeling epistemic uncertainty—a mathematical theory of evidence. The theory allows one to combine evidence from different sources and arrive at a degree of belief that takes into account all the available evidence.
+Maksim Stanislavovich Lepskiy is a Russian former professional football player.
 
-https://en.m.wikipedia.org/wiki/Dempster%E2%80%93Shafer_theory
+https://en.m.wikipedia.org/wiki/Maksim_Stanislavovich_Lepskiy
