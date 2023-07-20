@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Upper Historic District is a historic district encompassing the historic center of Washington, Massachusetts. Centered on the junction of Washington Mountain Road and Branch Road, the town center flourished from the town's establishment in the 1750s until the center of the town's business moved closer to the newly lain railroad in the 1830s. The district includes the old town hall, cemetery, common, and pound, as well as a number of residences. A meeting house (church) and schoolhouse once stood in the area, but the 1792 church was destroyed by lightning in 1859, and the schoolhouse is no longer extant. The district was added to the National Register of Historic Places in 1987.
+Huskvarna constitutes the eastern part of Jönköping, a city in the Swedish province of Småland, and has a population of about 24,000. The distance to central Jönköping is about 5 km. The name Huskvarna translates to House Mill.
 
-https://en.m.wikipedia.org/wiki/Upper_Historic_District_(Washington%2C_Massachusetts)
+https://en.m.wikipedia.org/wiki/Huskvarna
