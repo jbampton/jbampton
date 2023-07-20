@@ -21,7 +21,7 @@ for perf in perfTypes:
             rating = row['opRating']
             d = datetime.strptime(row['at'], '%Y-%m-%dT%H:%M:%S.%fZ')
             date = d.strftime('%Y-%m-%d %A %-I:%M:%S %p')
-            results += f'| {title}{name} | __({rating})__ | {date} |\n'
+            results += f'| [{title}{name}](https://lichess.org/@/{name}) | __({rating})__ | {date} |\n'
         results += '\n'
         lichess += results
 
