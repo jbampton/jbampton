@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __24928__
+- Honor: __24929__
 - Leaderboard Position: __162__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-WVLT is a radio station licensed to Vineland, New Jersey. The station is owned by Clear Communications, Inc. It airs an Oldies music format.
+Baselios Thomas I  is a Syriac Orthodox Catholicos of India (Maphrian) and head of the Jacobite Syrian Christian Church, the Syriac Orthodox Church in India. He was enthroned on 26 July 2002 by Syriac Orthodox Patriarch Ignatius Zakka I Iwas, Patriarch of Antioch and All the East in a ceremony held in Damascus, Syria.
 
-https://en.m.wikipedia.org/wiki/WVLT_(FM)
+https://en.m.wikipedia.org/wiki/Baselios_Thomas_I
