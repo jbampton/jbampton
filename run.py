@@ -10,7 +10,7 @@ lichess = '## lichess\n\n'
 for perf in perfTypes:
     with urllib.request.urlopen(f'https://lichess.org/api/user/SexyMate/perf/{perf}') as url:
         data = json.load(url)
-        results = f'### Best {perf} wins\n\n| Name | Rating | Date |\n| - | - | - |\n'
+        results = f'### Best *{perf}* wins\n\n| Name | Rating | Date |\n| - | - | - |\n'
         for row in data['stat']['bestWins']['results']:
             title = row['opId']['title']
             if title is None:
@@ -47,7 +47,7 @@ with urllib.request.urlopen(f'https://www.codewars.com/api/v1/users/Beast') as u
 - Total Completed Kata: __{totalCompleted}__\n
 '''
 
-wikipedia = '## Wikipedia\n\n'
+wikipedia = '## Random Wikipedia\n\n'
 with urllib.request.urlopen(f'https://en.wikipedia.org/api/rest_v1/page/random/summary') as url:
     data = json.load(url)
     extract = data['extract']
