@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __24921__
+- Honor: __24922__
 - Leaderboard Position: __162__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -40,6 +40,6 @@
 
 ## Wikipedia
 
-Scotland Yard Investigator is a 1945 American crime film directed by George Blair and starring C. Aubrey Smith, Erich von Stroheim and Stephanie Bachelor. Following the outbreak of the Second World War the Mona Lisa is moved to a London gallery for safekeeping, where a German art collector attempts to steal it. The film was a loose sequel to Republic's 1944 thriller Secrets of Scotland Yard with a number of the same cast and crew.
+1 Decembrie is a commune in the south of Ilfov County, Muntenia, Romania, composed of a single village, 1 Decembrie. It also included Copăceni village until 2005, when it was split off to form a separate commune. It has a population of 8,206, of which 8,067 (96.08%) are Romanians and 263 (3.84%) are Roma.
 
-https://en.m.wikipedia.org/wiki/Scotland_Yard_Investigator
+https://en.m.wikipedia.org/wiki/1_Decembrie
