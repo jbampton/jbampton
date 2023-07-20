@@ -7,14 +7,14 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __24925__
+- Honor: __24928__
 - Leaderboard Position: __162__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
 ## lichess
 
-### Best bullet wins
+### Best *bullet* wins
 
 | Name | Rating | Date |
 | - | - | - |
@@ -24,7 +24,7 @@
 | Acountname | __(1509)__ | 2022-10-24 Monday 8:18:53 AM |
 | Danila_Samodelov | __(1485)__ | 2022-10-24 Monday 6:53:03 PM |
 
-### Best blitz wins
+### Best *blitz* wins
 
 | Name | Rating | Date |
 | - | - | - |
@@ -34,7 +34,7 @@
 | Theknigh | __(1584)__ | 2022-07-09 Saturday 11:34:46 AM |
 | benghis | __(1504)__ | 2023-04-30 Sunday 10:45:06 AM |
 
-### Best rapid wins
+### Best *rapid* wins
 
 | Name | Rating | Date |
 | - | - | - |
@@ -44,8 +44,8 @@
 | uclaprep | __(1586)__ | 2022-12-28 Wednesday 8:00:26 PM |
 | LEON2135791240 | __(1579)__ | 2022-12-28 Wednesday 2:43:54 PM |
 
-## Wikipedia
+## Random Wikipedia
 
-Maksim Stanislavovich Lepskiy is a Russian former professional football player.
+WVLT is a radio station licensed to Vineland, New Jersey. The station is owned by Clear Communications, Inc. It airs an Oldies music format.
 
-https://en.m.wikipedia.org/wiki/Maksim_Stanislavovich_Lepskiy
+https://en.m.wikipedia.org/wiki/WVLT_(FM)
