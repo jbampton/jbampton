@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __24930__
+- Honor: __24937__
 - Leaderboard Position: __162__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Huskvarna constitutes the eastern part of Jönköping, a city in the Swedish province of Småland, and has a population of about 24,000. The distance to central Jönköping is about 5 km. The name Huskvarna translates to House Mill.
+Tripsis is the sixth and final full-length studio album by the Australian progressive metal band Alchemist. Recorded in 2007, Adam Agius stated that the songwriting focused on a consistently heavy approach. A promotional music video for the song "Wrapped in Guilt" was planned. A music video for "Tongues and Knives" premiered on 8 October 2008.
 
-https://en.m.wikipedia.org/wiki/Huskvarna
+https://en.m.wikipedia.org/wiki/Tripsis
