@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __24937__
-- Leaderboard Position: __162__
+- Honor: __24953__
+- Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Tripsis is the sixth and final full-length studio album by the Australian progressive metal band Alchemist. Recorded in 2007, Adam Agius stated that the songwriting focused on a consistently heavy approach. A promotional music video for the song "Wrapped in Guilt" was planned. A music video for "Tongues and Knives" premiered on 8 October 2008.
+Cliché  is the reissue of Romanian recording artist Alexandra Stan's debut studio album, Saxobeats (2011). It was released for digital download on 2 October 2013 through Maan Studio; its deluxe edition was made available for digital and physical consumption on 23 October 2013 by Victor Entertainment. The record premiered following an alleged physical altercation with her former manager Marcel Prodan, which resulted in Stan taking a break from her career. Along with Andrei Nemirschi and Marcian Alin Soare, Prodan has written and produced nearly all the songs on Cliché .
 
-https://en.m.wikipedia.org/wiki/Tripsis
+https://en.m.wikipedia.org/wiki/Clich%C3%A9_(Hush_Hush)
