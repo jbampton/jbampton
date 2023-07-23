@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __24953__
+- Honor: __24965__
 - Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Cliché  is the reissue of Romanian recording artist Alexandra Stan's debut studio album, Saxobeats (2011). It was released for digital download on 2 October 2013 through Maan Studio; its deluxe edition was made available for digital and physical consumption on 23 October 2013 by Victor Entertainment. The record premiered following an alleged physical altercation with her former manager Marcel Prodan, which resulted in Stan taking a break from her career. Along with Andrei Nemirschi and Marcian Alin Soare, Prodan has written and produced nearly all the songs on Cliché .
+José Olímpio Silveira Moraes often referred to as José Olimpio or Missionário José Olimpio is a Brazilian politician, businessman, and pastor from São Paulo, having served as city councilmen and state representative. He is also a senior leader of the Igreja Mundial do Poder de Deus.
 
-https://en.m.wikipedia.org/wiki/Clich%C3%A9_(Hush_Hush)
+https://en.m.wikipedia.org/wiki/Jos%C3%A9_Ol%C3%ADmpio_Silveira_Moraes
