@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __24965__
+- Honor: __24973__
 - Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-José Olímpio Silveira Moraes often referred to as José Olimpio or Missionário José Olimpio is a Brazilian politician, businessman, and pastor from São Paulo, having served as city councilmen and state representative. He is also a senior leader of the Igreja Mundial do Poder de Deus.
+Alexandria Again and Forever is the third entry in a quadrilogy of films by director Youssef Chahine. This 104-minute-long film is mainly in Arabic, with English-language subtitles. It was preceded by the films Alexandria... Why? (1978) An Egyptian Story (1982) and followed by Alexandria... New York (2004) The film features, and among others in cameo appearances representing the Egyptian actors syndicate. The film was selected as the Egyptian entry for the Best Foreign Language Film at the 63rd Academy Awards, but was not accepted as a nominee.
 
-https://en.m.wikipedia.org/wiki/Jos%C3%A9_Ol%C3%ADmpio_Silveira_Moraes
+https://en.m.wikipedia.org/wiki/Alexandria_Again_and_Forever
