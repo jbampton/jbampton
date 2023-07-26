@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __24981__
+- Honor: __24991__
 - Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Amerika-Gedenkbibliothek is one of the largest public libraries in Berlin, Germany. It was co-financed by a donation from the United States. The building was designed by American and German architects, including Fritz Bornemann and Willy Kreuer. It was opened on September 17, 1954, and was originally planned to become the Central Library of Berlin.
+The C. C. Van Arsdol House, at 1011 15th Street in Clarkston in Asotin County, Washington, was built in 1882. It was listed on the National Register of Historic Places in 1975.
 
-https://en.m.wikipedia.org/wiki/Amerika-Gedenkbibliothek
+https://en.m.wikipedia.org/wiki/C._C._Van_Arsdol_House
