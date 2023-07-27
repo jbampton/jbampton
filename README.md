@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __24991__
+- Honor: __24997__
 - Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The C. C. Van Arsdol House, at 1011 15th Street in Clarkston in Asotin County, Washington, was built in 1882. It was listed on the National Register of Historic Places in 1975.
+Rita La Roy was an American actress and dancer, beginning her career in 1929, and having her last significant role in 1940.
 
-https://en.m.wikipedia.org/wiki/C._C._Van_Arsdol_House
+https://en.m.wikipedia.org/wiki/Rita_La_Roy
