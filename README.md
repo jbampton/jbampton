@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __24997__
+- Honor: __25010__
 - Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Rita La Roy was an American actress and dancer, beginning her career in 1929, and having her last significant role in 1940.
+NGC 656 is a barred lenticular galaxy located in the Pisces constellation about 175 million light-years from the Milky Way. It was discovered by the Prussian astronomer Heinrich d'Arrest in 1865.
 
-https://en.m.wikipedia.org/wiki/Rita_La_Roy
+https://en.m.wikipedia.org/wiki/NGC_656
