@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25010__
+- Honor: __25020__
 - Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-NGC 656 is a barred lenticular galaxy located in the Pisces constellation about 175 million light-years from the Milky Way. It was discovered by the Prussian astronomer Heinrich d'Arrest in 1865.
+Samuele Zoccarato is an Italian racing cyclist, who currently rides for UCI ProTeam Green Project–Bardiani–CSF–Faizanè.
 
-https://en.m.wikipedia.org/wiki/NGC_656
+https://en.m.wikipedia.org/wiki/Samuele_Zoccarato
