@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25020__
+- Honor: __25025__
 - Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Samuele Zoccarato is an Italian racing cyclist, who currently rides for UCI ProTeam Green Project–Bardiani–CSF–Faizanè.
+Río Negro is a Chilean city and commune in Osorno Province, Los Lagos Region. The city is located 38 km south of Osorno and 6 km west of Route 5. It has an area of 1,266 km² and a population of 14,732 inhabitants.
 
-https://en.m.wikipedia.org/wiki/Samuele_Zoccarato
+https://en.m.wikipedia.org/wiki/R%C3%ADo_Negro%2C_Chile
