@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25025__
-- Leaderboard Position: __161__
+- Honor: __25039__
+- Leaderboard Position: __162__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Río Negro is a Chilean city and commune in Osorno Province, Los Lagos Region. The city is located 38 km south of Osorno and 6 km west of Route 5. It has an area of 1,266 km² and a population of 14,732 inhabitants.
+Thinali is a former municipality on the island of Corfu, Ionian Islands, Greece. Since the 2019 local government reform it is part of the municipality North Corfu, of which it is a municipal unit. It is located in the northernmost part of the island of Corfu, in the middle of the north coast. With its 77.899 km², it was the largest municipality on the island. Its population was 5,226 at the 2011 census. The seat of the municipality was the town of Acharavi. Its largest other towns are Nymfes and Epískepsi (332). It is located northwest of the city of Corfu. Last mayor of Thinali was Varelis Spiridon from village Lafki.
 
-https://en.m.wikipedia.org/wiki/R%C3%ADo_Negro%2C_Chile
+https://en.m.wikipedia.org/wiki/Thinali
