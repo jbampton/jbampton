@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25039__
-- Leaderboard Position: __162__
+- Honor: __25053__
+- Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Thinali is a former municipality on the island of Corfu, Ionian Islands, Greece. Since the 2019 local government reform it is part of the municipality North Corfu, of which it is a municipal unit. It is located in the northernmost part of the island of Corfu, in the middle of the north coast. With its 77.899 km², it was the largest municipality on the island. Its population was 5,226 at the 2011 census. The seat of the municipality was the town of Acharavi. Its largest other towns are Nymfes and Epískepsi (332). It is located northwest of the city of Corfu. Last mayor of Thinali was Varelis Spiridon from village Lafki.
+New Hampshire is a census-designated place in central Goshen Township, Auglaize County, Ohio, United States. As of the 2010 census, it had a population of 150.
 
-https://en.m.wikipedia.org/wiki/Thinali
+https://en.m.wikipedia.org/wiki/New_Hampshire%2C_Ohio
