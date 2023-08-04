@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25076__
+- Honor: __25106__
 - Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-John William Carson was an American television host, comedian, writer, and producer. He is best known as the host of The Tonight Show Starring Johnny Carson (1962–1992). Carson received six Primetime Emmy Awards, the Television Academy's 1980 Governor's Award, and a 1985 Peabody Award. He was inducted into the Television Academy Hall of Fame in 1987. Carson was awarded the Presidential Medal of Freedom in 1992 and received a Kennedy Center Honor in 1993.
+The River Inny is a river within the Shannon River Basin in Ireland. It is 88.5 kilometres (55.0 mi) in length, and has a number of lakes along its course.
 
-https://en.m.wikipedia.org/wiki/Johnny_Carson
+https://en.m.wikipedia.org/wiki/River_Inny_(Leinster)
