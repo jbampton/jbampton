@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25106__
+- Honor: __25120__
 - Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The River Inny is a river within the Shannon River Basin in Ireland. It is 88.5 kilometres (55.0 mi) in length, and has a number of lakes along its course.
+John Frederick Leach was an Australian rules footballer who played for the Collingwood Football Club in the Victorian Football League (VFL).
 
-https://en.m.wikipedia.org/wiki/River_Inny_(Leinster)
+https://en.m.wikipedia.org/wiki/Fred_Leach
