@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25120__
+- Honor: __25138__
 - Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-John Frederick Leach was an Australian rules footballer who played for the Collingwood Football Club in the Victorian Football League (VFL).
+Chief Leschi Schools is a Native American tribal school located in the Puyallup Valley near Mount Rainier in Washington. It is a 200,000-square-foot (19,000 m2) facility which is intended to be a model for Native American education. The current building opened in 1996 serving Native American students from 92 different bands which comprise the Puyallup tribe of Indians. It is the largest Bureau of Indian Education (BIE)-affiliated school.
 
-https://en.m.wikipedia.org/wiki/Fred_Leach
+https://en.m.wikipedia.org/wiki/Chief_Leschi_Schools
