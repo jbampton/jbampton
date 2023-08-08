@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25154__
+- Honor: __25159__
 - Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Martin Neumann is a German politician of the Free Democratic Party (FDP) who served as a member of the Bundestag from the state of Brandenburg from 2009 until 2013 and again from 2017 until 2021.
+The Van Wert County Courthouse is a historic governmental building in downtown Van Wert, Ohio, United States. Located at 121 E. Main Street, the courthouse is a Second Empire structure built in 1876. It is Van Wert County's third courthouse: when the county was established, the village of Willshire was designated the county seat; Van Wert was made the seat in 1838, and a courthouse-and-jail complex was built in that community in the following year.
 
-https://en.m.wikipedia.org/wiki/Martin_Neumann
+https://en.m.wikipedia.org/wiki/Van_Wert_County_Courthouse
