@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25159__
+- Honor: __25172__
 - Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Van Wert County Courthouse is a historic governmental building in downtown Van Wert, Ohio, United States. Located at 121 E. Main Street, the courthouse is a Second Empire structure built in 1876. It is Van Wert County's third courthouse: when the county was established, the village of Willshire was designated the county seat; Van Wert was made the seat in 1838, and a courthouse-and-jail complex was built in that community in the following year.
+Golf in Scotland was first recorded in the Scottish late Middle Ages, and the modern game of golf was first developed and established in the country. The game plays a key role in the national sporting consciousness.
 
-https://en.m.wikipedia.org/wiki/Van_Wert_County_Courthouse
+https://en.m.wikipedia.org/wiki/Golf_in_Scotland
