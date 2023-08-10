@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25172__
+- Honor: __25195__
 - Leaderboard Position: __161__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Golf in Scotland was first recorded in the Scottish late Middle Ages, and the modern game of golf was first developed and established in the country. The game plays a key role in the national sporting consciousness.
+Aharon Mor is a Polish-born Israeli civil servant who, as senior director, heads the Restitution of Rights and Jewish Property Department at the Israeli Ministry of Pensioner Affairs, which is affiliated with the Prime Minister's Office. He has worked at the Ministry of Finance and at the Prime Minister's Office, and has represented the Jewish state abroad as an emissary in a number of international organizations.
 
-https://en.m.wikipedia.org/wiki/Golf_in_Scotland
+https://en.m.wikipedia.org/wiki/Aharon_Mor
