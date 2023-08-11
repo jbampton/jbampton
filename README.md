@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25195__
-- Leaderboard Position: __161__
+- Honor: __25206__
+- Leaderboard Position: __160__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Aharon Mor is a Polish-born Israeli civil servant who, as senior director, heads the Restitution of Rights and Jewish Property Department at the Israeli Ministry of Pensioner Affairs, which is affiliated with the Prime Minister's Office. He has worked at the Ministry of Finance and at the Prime Minister's Office, and has represented the Jewish state abroad as an emissary in a number of international organizations.
+The 2023–24 Georgia Bulldogs basketball team will represent the University of Georgia during the 2023–24 NCAA Division I men's basketball season. The Bulldogs will be led by second-year head coach, Mike White. The Bulldogs will play their home games at the Stegeman Coliseum in Athens, Georgia as members of the Southeastern Conference.
 
-https://en.m.wikipedia.org/wiki/Aharon_Mor
+https://en.m.wikipedia.org/wiki/2023%E2%80%9324_Georgia_Bulldogs_basketball_team
