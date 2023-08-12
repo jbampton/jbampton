@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25206__
+- Honor: __25213__
 - Leaderboard Position: __160__
 - Overalll Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The 2023–24 Georgia Bulldogs basketball team will represent the University of Georgia during the 2023–24 NCAA Division I men's basketball season. The Bulldogs will be led by second-year head coach, Mike White. The Bulldogs will play their home games at the Stegeman Coliseum in Athens, Georgia as members of the Southeastern Conference.
+Helmut Lipfert was a German Luftwaffe fighter ace and recipient of Knight's Cross of the Iron Cross with Oak Leaves. Lipfert ranks as the world's thirteenth fighter ace. Lipfert was credited with 203 victories achieved in 687 combat missions. All his victories were claimed over the Eastern Front and included a P-51 Mustang, 41 Yakovlev Yak-1, 41 Yakovlev Yak-9 fighters, two four-engine bombers and 39 Ilyushin Il-2 ground-attack aircraft. He was shot down fifteen times, without being injured.
 
-https://en.m.wikipedia.org/wiki/2023%E2%80%9324_Georgia_Bulldogs_basketball_team
+https://en.m.wikipedia.org/wiki/Helmut_Lipfert
