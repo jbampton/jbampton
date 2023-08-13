@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Wallis Eastburn Howe (1868–1960) was a notable American architect from Rhode Island.
+The Mars Polar Lander, also known as the Mars Surveyor '98 Lander, was a 290-kilogram robotic spacecraft lander launched by NASA on January 3, 1999, to study the soil and climate of Planum Australe, a region near the south pole on Mars. It formed part of the Mars Surveyor '98 mission. On December 3, 1999, however, after the descent phase was expected to be complete, the lander failed to reestablish communication with Earth. A post-mortem analysis determined the most likely cause of the mishap was premature termination of the engine firing prior to the lander touching the surface, causing it to strike the planet at a high velocity.
 
-https://en.m.wikipedia.org/wiki/Wallis_Eastburn_Howe
+https://en.m.wikipedia.org/wiki/Mars_Polar_Lander
