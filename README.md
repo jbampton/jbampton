@@ -7,9 +7,9 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25213__
+- Honor: __25221__
 - Leaderboard Position: __160__
-- Overalll Rank: __2 kyu__
+- Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
 ## lichess
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Helmut Lipfert was a German Luftwaffe fighter ace and recipient of Knight's Cross of the Iron Cross with Oak Leaves. Lipfert ranks as the world's thirteenth fighter ace. Lipfert was credited with 203 victories achieved in 687 combat missions. All his victories were claimed over the Eastern Front and included a P-51 Mustang, 41 Yakovlev Yak-1, 41 Yakovlev Yak-9 fighters, two four-engine bombers and 39 Ilyushin Il-2 ground-attack aircraft. He was shot down fifteen times, without being injured.
+Wallis Eastburn Howe (1868–1960) was a notable American architect from Rhode Island.
 
-https://en.m.wikipedia.org/wiki/Helmut_Lipfert
+https://en.m.wikipedia.org/wiki/Wallis_Eastburn_Howe
