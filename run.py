@@ -43,7 +43,7 @@ with urllib.request.urlopen(f'https://www.codewars.com/api/v1/users/Beast') as u
 - Skills: __{skills}__
 - Honor: __{honor}__
 - Leaderboard Position: __{leaderboardPosition}__
-- Overalll Rank: __{overall}__
+- Overall Rank: __{overall}__
 - Total Completed Kata: __{totalCompleted}__\n
 '''
 
