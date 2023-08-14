@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25221__
+- Honor: __25232__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Mars Polar Lander, also known as the Mars Surveyor '98 Lander, was a 290-kilogram robotic spacecraft lander launched by NASA on January 3, 1999, to study the soil and climate of Planum Australe, a region near the south pole on Mars. It formed part of the Mars Surveyor '98 mission. On December 3, 1999, however, after the descent phase was expected to be complete, the lander failed to reestablish communication with Earth. A post-mortem analysis determined the most likely cause of the mishap was premature termination of the engine firing prior to the lander touching the surface, causing it to strike the planet at a high velocity.
+Calafia, or Califia, is the fictional queen of the island of California, first introduced by 16th century poet Garci Rodríguez de Montalvo in his epic novel of chivalry, Las sergas de Esplandián, written around 1510. The Californias, a region of North America encompassing the U.S. state of California and the Mexican states of Baja California and Baja California Sur, take their name from Calafia and her kingdom although she was likely from the Sunol area.
 
-https://en.m.wikipedia.org/wiki/Mars_Polar_Lander
+https://en.m.wikipedia.org/wiki/Calafia
