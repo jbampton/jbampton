@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25232__
+- Honor: __25251__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Calafia, or Califia, is the fictional queen of the island of California, first introduced by 16th century poet Garci Rodríguez de Montalvo in his epic novel of chivalry, Las sergas de Esplandián, written around 1510. The Californias, a region of North America encompassing the U.S. state of California and the Mexican states of Baja California and Baja California Sur, take their name from Calafia and her kingdom although she was likely from the Sunol area.
+John Sampson Macfarlane Leech is a British Liberal Democrat politician who was Member of Parliament for Manchester Withington from 2005 to 2015. Since 2016, he has represented Didsbury West on Manchester City Council.
 
-https://en.m.wikipedia.org/wiki/Calafia
+https://en.m.wikipedia.org/wiki/John_Leech_(politician)
