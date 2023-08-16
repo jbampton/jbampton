@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25251__
+- Honor: __25263__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-John Sampson Macfarlane Leech is a British Liberal Democrat politician who was Member of Parliament for Manchester Withington from 2005 to 2015. Since 2016, he has represented Didsbury West on Manchester City Council.
+San Basilio is the 30th quartiere of Rome (Italy), identified by the initials Q. XXX. It belongs to the Municipio IV.
 
-https://en.m.wikipedia.org/wiki/John_Leech_(politician)
+https://en.m.wikipedia.org/wiki/San_Basilio_(Rome)
