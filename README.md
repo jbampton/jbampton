@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25263__
+- Honor: __25272__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-San Basilio is the 30th quartiere of Rome (Italy), identified by the initials Q. XXX. It belongs to the Municipio IV.
+Thessaloniki, also known as Thessalonica, Saloniki, Salonika, or Salonica, is the second-largest city in Greece, with slightly over one million inhabitants in its metropolitan area, and the capital of the geographic region of Macedonia, the administrative region of Central Macedonia and the Decentralized Administration of Macedonia and Thrace. It is also known in Greek as η Συμπρωτεύουσα, literally "the co-capital", a reference to its historical status as the Συμβασιλεύουσα or "co-reigning" city of the Byzantine Empire alongside Constantinople.
 
-https://en.m.wikipedia.org/wiki/San_Basilio_(Rome)
+https://en.m.wikipedia.org/wiki/Thessaloniki
