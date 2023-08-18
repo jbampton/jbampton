@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25272__
+- Honor: __25285__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Thessaloniki, also known as Thessalonica, Saloniki, Salonika, or Salonica, is the second-largest city in Greece, with slightly over one million inhabitants in its metropolitan area, and the capital of the geographic region of Macedonia, the administrative region of Central Macedonia and the Decentralized Administration of Macedonia and Thrace. It is also known in Greek as η Συμπρωτεύουσα, literally "the co-capital", a reference to its historical status as the Συμβασιλεύουσα or "co-reigning" city of the Byzantine Empire alongside Constantinople.
+Termitaradus mitnicki is an extinct species of true bug in the family Termitaphididae known only from early Miocene Burdigalian stage Dominican amber deposits on the island of Hispaniola.
 
-https://en.m.wikipedia.org/wiki/Thessaloniki
+https://en.m.wikipedia.org/wiki/Termitaradus_mitnicki
