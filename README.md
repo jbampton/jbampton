@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25285__
+- Honor: __25302__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Termitaradus mitnicki is an extinct species of true bug in the family Termitaphididae known only from early Miocene Burdigalian stage Dominican amber deposits on the island of Hispaniola.
+See America Thirst is a 1930 American pre-Code comedy film produced and distributed by Universal Pictures and directed by William James Craft. Silent comics Harry Langdon and Slim Summerville star along with Bessie Love. Though released late in 1930, it nevertheless had a silent version.
 
-https://en.m.wikipedia.org/wiki/Termitaradus_mitnicki
+https://en.m.wikipedia.org/wiki/See_America_Thirst
