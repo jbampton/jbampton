@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25302__
+- Honor: __25315__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-See America Thirst is a 1930 American pre-Code comedy film produced and distributed by Universal Pictures and directed by William James Craft. Silent comics Harry Langdon and Slim Summerville star along with Bessie Love. Though released late in 1930, it nevertheless had a silent version.
+Entephria flavicinctata, the yellow-ringed carpet, is a moth of the family Geometridae. The species was first described by Jacob Hübner in 1813. It is found in the mountainous areas of the Palearctic realm The distribution is disjunct extending across the Pyrenees, the Alps, some lower mountains and then from Norway across the Arctic to northern Russia.
 
-https://en.m.wikipedia.org/wiki/See_America_Thirst
+https://en.m.wikipedia.org/wiki/Entephria_flavicinctata
