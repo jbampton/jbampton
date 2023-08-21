@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25315__
+- Honor: __25327__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Entephria flavicinctata, the yellow-ringed carpet, is a moth of the family Geometridae. The species was first described by Jacob Hübner in 1813. It is found in the mountainous areas of the Palearctic realm The distribution is disjunct extending across the Pyrenees, the Alps, some lower mountains and then from Norway across the Arctic to northern Russia.
+Nizhny Tagil is a city in Sverdlovsk Oblast, Russia, located 25 kilometers (16 mi) east of the boundary between Asia and Europe. Population: 338,966 (2021 Census); 361,811 (2010 Census); 390,498 (2002 Census); 439,521 (1989 Census).
 
-https://en.m.wikipedia.org/wiki/Entephria_flavicinctata
+https://en.m.wikipedia.org/wiki/Nizhny_Tagil
