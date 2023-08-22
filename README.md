@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25327__
+- Honor: __25339__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Nizhny Tagil is a city in Sverdlovsk Oblast, Russia, located 25 kilometers (16 mi) east of the boundary between Asia and Europe. Population: 338,966 (2021 Census); 361,811 (2010 Census); 390,498 (2002 Census); 439,521 (1989 Census).
+The Drakenstein Municipal Council is the elected unicameral legislature of the Drakenstein Local Municipality in Paarl, Western Cape, South Africa.
 
-https://en.m.wikipedia.org/wiki/Nizhny_Tagil
+https://en.m.wikipedia.org/wiki/Drakenstein_Municipal_Council
