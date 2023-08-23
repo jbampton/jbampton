@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25339__
+- Honor: __25360__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Drakenstein Municipal Council is the elected unicameral legislature of the Drakenstein Local Municipality in Paarl, Western Cape, South Africa.
+Eucalodium is a genus of land snails in the family Eucalodiidae.
 
-https://en.m.wikipedia.org/wiki/Drakenstein_Municipal_Council
+https://en.m.wikipedia.org/wiki/Eucalodium
