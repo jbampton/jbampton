@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25360__
+- Honor: __25378__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Eucalodium is a genus of land snails in the family Eucalodiidae.
+Robert Alan Salerno is an associate judge of the Superior Court of the District of Columbia.
 
-https://en.m.wikipedia.org/wiki/Eucalodium
+https://en.m.wikipedia.org/wiki/Robert_A._Salerno
