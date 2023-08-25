@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25378__
+- Honor: __25403__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Robert Alan Salerno is an associate judge of the Superior Court of the District of Columbia.
+Jean-Claude Fernandes is a French professional football manager, executive, and former player. As of August 2022, he is the sporting director of Championnat National 2 club Sainte-Geneviève.
 
-https://en.m.wikipedia.org/wiki/Robert_A._Salerno
+https://en.m.wikipedia.org/wiki/Jean-Claude_Fernandes
