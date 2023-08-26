@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25403__
+- Honor: __25409__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Jean-Claude Fernandes is a French professional football manager, executive, and former player. As of August 2022, he is the sporting director of Championnat National 2 club Sainte-Geneviève.
+The First Universalist Church, also once known as the Central Parish Church, is a historic church at 97 Main Street in Yarmouth, Maine. Built in 1859–60, it is an excellent local example of religious Italianate architecture, and one of the state's few surviving churches designed by architect Thomas Holt. It was listed on the National Register of Historic Places in 1988. The congregation was founded in 1859, and is affiliated with the Unitarian Universalist Association; its current minister is Rev. Hillary Collins-Gilpatrick.
 
-https://en.m.wikipedia.org/wiki/Jean-Claude_Fernandes
+https://en.m.wikipedia.org/wiki/Central_Parish_Church
