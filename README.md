@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25409__
+- Honor: __25418__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The First Universalist Church, also once known as the Central Parish Church, is a historic church at 97 Main Street in Yarmouth, Maine. Built in 1859–60, it is an excellent local example of religious Italianate architecture, and one of the state's few surviving churches designed by architect Thomas Holt. It was listed on the National Register of Historic Places in 1988. The congregation was founded in 1859, and is affiliated with the Unitarian Universalist Association; its current minister is Rev. Hillary Collins-Gilpatrick.
+The Day of Wrath is the major-label debut album of the Italian thrash/black metal band Bulldozer, released on 13 March 1985.
 
-https://en.m.wikipedia.org/wiki/Central_Parish_Church
+https://en.m.wikipedia.org/wiki/The_Day_of_Wrath
