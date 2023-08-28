@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25418__
+- Honor: __25421__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Day of Wrath is the major-label debut album of the Italian thrash/black metal band Bulldozer, released on 13 March 1985.
+The Philadelphia, Wilmington and Baltimore Railroad Freight Shed is an historic freight station in the Southwest Center City neighborhood of Philadelphia, Pennsylvania, along Broad Street. It was added to the National Register of Historic Places in 2011 and is today part of the Lincoln Square mixed-use development.
 
-https://en.m.wikipedia.org/wiki/The_Day_of_Wrath
+https://en.m.wikipedia.org/wiki/Philadelphia%2C_Wilmington_and_Baltimore_Railroad_Freight_Shed
