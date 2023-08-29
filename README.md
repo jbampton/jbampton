@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25421__
+- Honor: __25429__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,7 @@
 
 ## Random Wikipedia
 
-The Philadelphia, Wilmington and Baltimore Railroad Freight Shed is an historic freight station in the Southwest Center City neighborhood of Philadelphia, Pennsylvania, along Broad Street. It was added to the National Register of Historic Places in 2011 and is today part of the Lincoln Square mixed-use development.
+Shirenewton is a village and community in Monmouthshire, south east Wales. It is located 3 miles due west of Chepstow, 5 miles (8 km) by road. The village stands around 500 feet above sea level, and has extensive views of the Severn Estuary and Bristol Channel.
+The population of the village and the conjoined village of Mynydd-bach was 657 in 2011.
 
-https://en.m.wikipedia.org/wiki/Philadelphia%2C_Wilmington_and_Baltimore_Railroad_Freight_Shed
+https://en.m.wikipedia.org/wiki/Shirenewton
