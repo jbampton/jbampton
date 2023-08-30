@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25429__
+- Honor: __25446__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,7 +46,6 @@
 
 ## Random Wikipedia
 
-Shirenewton is a village and community in Monmouthshire, south east Wales. It is located 3 miles due west of Chepstow, 5 miles (8 km) by road. The village stands around 500 feet above sea level, and has extensive views of the Severn Estuary and Bristol Channel.
-The population of the village and the conjoined village of Mynydd-bach was 657 in 2011.
+Sugarpills is the debut album from New Zealand electropop band Kids of 88 released 16 August 2010. Singles released off the album include "My House", "Just a Little Bit" and most recently "Downtown". It was nominated for Best Pop Album at the 2011 New Zealand Music Awards.
 
-https://en.m.wikipedia.org/wiki/Shirenewton
+https://en.m.wikipedia.org/wiki/Sugarpills
