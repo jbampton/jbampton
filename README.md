@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25446__
+- Honor: __25457__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Sugarpills is the debut album from New Zealand electropop band Kids of 88 released 16 August 2010. Singles released off the album include "My House", "Just a Little Bit" and most recently "Downtown". It was nominated for Best Pop Album at the 2011 New Zealand Music Awards.
+Quincy is an unincorporated community in Columbia County, Oregon, United States. It is located about 4.5 miles northeast of Clatskanie and 3.5 miles southwest of Mayger in a drained and diked area of the Columbia River lowlands.
 
-https://en.m.wikipedia.org/wiki/Sugarpills
+https://en.m.wikipedia.org/wiki/Quincy%2C_Oregon
