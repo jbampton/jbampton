@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25471__
+- Honor: __25481__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Peddars Way is a long distance footpath that passes through Suffolk and Norfolk, England.
+Al-Hawl Subdistrict is a subdistrict of al-Hasakah District in eastern al-Hasakah Governorate, northeastern Syria. Administrative centre is the town of al-Hawl.
 
-https://en.m.wikipedia.org/wiki/Peddars_Way
+https://en.m.wikipedia.org/wiki/Al-Hawl_Subdistrict
