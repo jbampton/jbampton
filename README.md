@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25481__
+- Honor: __25489__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Al-Hawl Subdistrict is a subdistrict of al-Hasakah District in eastern al-Hasakah Governorate, northeastern Syria. Administrative centre is the town of al-Hawl.
+Depths is the debut studio album by American deathcore band Oceano, released April 7, 2009 through Earache Records. Music videos were made for the songs "District of Misery" and "A Mandatory Sacrifice". The song "District of Misery" is featured as downloadable content in Rock Band 2 via the Rock Band Network
 
-https://en.m.wikipedia.org/wiki/Al-Hawl_Subdistrict
+https://en.m.wikipedia.org/wiki/Depths_(Oceano_album)
