@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25489__
+- Honor: __25494__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Depths is the debut studio album by American deathcore band Oceano, released April 7, 2009 through Earache Records. Music videos were made for the songs "District of Misery" and "A Mandatory Sacrifice". The song "District of Misery" is featured as downloadable content in Rock Band 2 via the Rock Band Network
+Cave Girl is a fictional jungle girl heroine who appeared in comic books published by Magazine Enterprises from 1952 to 1955, created by writer Gardner Fox and artist Bob Powell. The character's adventures are an example of artist Powell's good girl art.
 
-https://en.m.wikipedia.org/wiki/Depths_(Oceano_album)
+https://en.m.wikipedia.org/wiki/Cave_Girl_(comics)
