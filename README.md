@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25494__
+- Honor: __25504__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Cave Girl is a fictional jungle girl heroine who appeared in comic books published by Magazine Enterprises from 1952 to 1955, created by writer Gardner Fox and artist Bob Powell. The character's adventures are an example of artist Powell's good girl art.
+The Dog King is a 1995 novel by the Austrian writer Christoph Ransmayr. Its original title is Morbus Kitahara. A work of alternative history, it is set in Central Europe after World War II and the implementation of the Morgenthau Plan, which has deindustrialized the region and created a ruthless post-apocalyptic-esque society. The main character is the son of a blacksmith who becomes the bodyguard of the only man in the area who owns a car.
 
-https://en.m.wikipedia.org/wiki/Cave_Girl_(comics)
+https://en.m.wikipedia.org/wiki/The_Dog_King
