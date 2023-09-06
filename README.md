@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25504__
+- Honor: __25521__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Dog King is a 1995 novel by the Austrian writer Christoph Ransmayr. Its original title is Morbus Kitahara. A work of alternative history, it is set in Central Europe after World War II and the implementation of the Morgenthau Plan, which has deindustrialized the region and created a ruthless post-apocalyptic-esque society. The main character is the son of a blacksmith who becomes the bodyguard of the only man in the area who owns a car.
+Ewa Kozanecka is a Polish politician. She was elected to the Sejm representing the constituency of Bydgoszcz.
 
-https://en.m.wikipedia.org/wiki/The_Dog_King
+https://en.m.wikipedia.org/wiki/Ewa_Kozanecka
