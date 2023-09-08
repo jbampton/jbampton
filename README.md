@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25531__
+- Honor: __25540__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Amen Andrews vs. Spac Hand Luke is a studio album by Luke Vibert credited to two of his aliases, Amen Andrews and Spac Hand Luke. It was released in 2006 on Rephlex Records.
+Laurens Vanthoor is a Belgian professional racing driver currently racing for Porsche Motorsport as a factory driver in the IMSA WeatherTech SportsCar Championship. He currently resides in Waiblingen outside of Stuttgart.
 
-https://en.m.wikipedia.org/wiki/Amen_Andrews_vs._Spac_Hand_Luke
+https://en.m.wikipedia.org/wiki/Laurens_Vanthoor
