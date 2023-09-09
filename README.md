@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25540__
+- Honor: __25554__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Laurens Vanthoor is a Belgian professional racing driver currently racing for Porsche Motorsport as a factory driver in the IMSA WeatherTech SportsCar Championship. He currently resides in Waiblingen outside of Stuttgart.
+Reichelsheim Airport is a general aviation airport in the German state of Hesse, 25 kilometres (16 mi) north of Frankfurt am Main.
 
-https://en.m.wikipedia.org/wiki/Laurens_Vanthoor
+https://en.m.wikipedia.org/wiki/Reichelsheim_Airport
