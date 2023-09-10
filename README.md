@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25554__
+- Honor: __25566__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Reichelsheim Airport is a general aviation airport in the German state of Hesse, 25 kilometres (16 mi) north of Frankfurt am Main.
+Sha'ari bin Tadin was a Singaporean politician who was the first Member of Parliament (MP) of Malay descent who graduated from a university. He was highly regarded as Cikgu Sha'ari, which translate to "Teacher Sha'ari" in English, for his role as an educator.
 
-https://en.m.wikipedia.org/wiki/Reichelsheim_Airport
+https://en.m.wikipedia.org/wiki/Sha'ari_Tadin
