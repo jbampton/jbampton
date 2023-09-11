@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25566__
+- Honor: __25572__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Sha'ari bin Tadin was a Singaporean politician who was the first Member of Parliament (MP) of Malay descent who graduated from a university. He was highly regarded as Cikgu Sha'ari, which translate to "Teacher Sha'ari" in English, for his role as an educator.
+The Pruniski House is a historic house at 345 Goshen Avenue in North Little Rock, Arkansas. Built in 1937, it is a remarkably forward-looking house design, presaging a number of features not generally found in residential construction until after World War II. It is a two-story wood-frame house with an attached two-car garage, a patio in the back yard, and a basement family room. The exterior is stylistically a revival of the Monterey style of architecture.
 
-https://en.m.wikipedia.org/wiki/Sha'ari_Tadin
+https://en.m.wikipedia.org/wiki/Pruniski_House
