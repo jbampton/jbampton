@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25572__
+- Honor: __25583__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Pruniski House is a historic house at 345 Goshen Avenue in North Little Rock, Arkansas. Built in 1937, it is a remarkably forward-looking house design, presaging a number of features not generally found in residential construction until after World War II. It is a two-story wood-frame house with an attached two-car garage, a patio in the back yard, and a basement family room. The exterior is stylistically a revival of the Monterey style of architecture.
+Robert James Gilbert Anderson was an English Olympic fencer and a renowned film fight choreographer, with a cinema career that spanned more than 50 years and included films such as Star Wars, Highlander, The Three Musketeers, The Princess Bride, The Mask of Zorro, The Lord of the Rings, and Die Another Day. He was regarded as the premier choreographer of Hollywood sword-fighting, and during his career he coached many actors in swordsmanship, including Errol Flynn, Sean Connery, Antonio Banderas, Mark Hamill, Viggo Mortensen, Adrian Paul, and Johnny Depp. He also appeared as a stunt double for Darth Vader's lightsaber battles in The Empire Strikes Back and Return of the Jedi.
 
-https://en.m.wikipedia.org/wiki/Pruniski_House
+https://en.m.wikipedia.org/wiki/Bob_Anderson_(fencer)
