@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25583__
+- Honor: __25595__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Robert James Gilbert Anderson was an English Olympic fencer and a renowned film fight choreographer, with a cinema career that spanned more than 50 years and included films such as Star Wars, Highlander, The Three Musketeers, The Princess Bride, The Mask of Zorro, The Lord of the Rings, and Die Another Day. He was regarded as the premier choreographer of Hollywood sword-fighting, and during his career he coached many actors in swordsmanship, including Errol Flynn, Sean Connery, Antonio Banderas, Mark Hamill, Viggo Mortensen, Adrian Paul, and Johnny Depp. He also appeared as a stunt double for Darth Vader's lightsaber battles in The Empire Strikes Back and Return of the Jedi.
+Pride of the Navy is a 1939 American action film directed by Charles Lamont and written by Ben Markson and Saul Elkins. The film stars James Dunn, Rochelle Hudson, Gordon Oliver, Horace McMahon, Gordon Jones and Charlotte Wynters. The film was released on January 23, 1939, by Republic Pictures.
 
-https://en.m.wikipedia.org/wiki/Bob_Anderson_(fencer)
+https://en.m.wikipedia.org/wiki/Pride_of_the_Navy
