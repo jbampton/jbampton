@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25595__
+- Honor: __25603__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Pride of the Navy is a 1939 American action film directed by Charles Lamont and written by Ben Markson and Saul Elkins. The film stars James Dunn, Rochelle Hudson, Gordon Oliver, Horace McMahon, Gordon Jones and Charlotte Wynters. The film was released on January 23, 1939, by Republic Pictures.
+Albemarle County, North Carolina was a county located in the Province of North Carolina. It contained what is now the northeastern portion of the U.S. state of North Carolina.
 
-https://en.m.wikipedia.org/wiki/Pride_of_the_Navy
+https://en.m.wikipedia.org/wiki/Albemarle_County%2C_North_Carolina
