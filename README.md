@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25603__
+- Honor: __25612__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Albemarle County, North Carolina was a county located in the Province of North Carolina. It contained what is now the northeastern portion of the U.S. state of North Carolina.
+Stomoxyini is a tribe of flies from the family Muscidae.
 
-https://en.m.wikipedia.org/wiki/Albemarle_County%2C_North_Carolina
+https://en.m.wikipedia.org/wiki/Stomoxyini
