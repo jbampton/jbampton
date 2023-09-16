@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25612__
+- Honor: __25622__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Stomoxyini is a tribe of flies from the family Muscidae.
+Switzerland competed at the 1984 Winter Olympics in Sarajevo, Yugoslavia.
 
-https://en.m.wikipedia.org/wiki/Stomoxyini
+https://en.m.wikipedia.org/wiki/Switzerland_at_the_1984_Winter_Olympics
