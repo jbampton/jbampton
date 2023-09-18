@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25635__
-- Leaderboard Position: __160__
+- Honor: __25644__
+- Leaderboard Position: __161__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Sir Henry James Sumner Maine,, was a British Whig comparative jurist and historian. He is famous for the thesis outlined in his book Ancient Law that law and society developed "from status to contract." According to the thesis, in the ancient world individuals were tightly bound by status dealing with(in) a particular group while in the modern one, in which individuals are viewed as autonomous agents, they are free to make contracts and form associations with whomever they choose. Because of this thesis, Maine can be seen as one of the forefathers of modern legal anthropology, legal history and sociology of law.
 
-https://en.m.wikipedia.org/wiki/Henry_James_Sumner_Maine
+
+https://en.m.wikipedia.org/wiki/Camp_Roberts%2C_California
