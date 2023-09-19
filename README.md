@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25644__
+- Honor: __25658__
 - Leaderboard Position: __161__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
+Incorporated is the fourth and final full-length studio album by American groove metal band Grip Inc. It was released on March 16, 2004.
 
-
-https://en.m.wikipedia.org/wiki/Camp_Roberts%2C_California
+https://en.m.wikipedia.org/wiki/Incorporated_(Grip_Inc._album)
