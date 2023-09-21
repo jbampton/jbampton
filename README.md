@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25664__
+- Honor: __25674__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,7 +46,6 @@
 
 ## Random Wikipedia
 
-Harry Valfrid Siljander was a Finnish light-heavyweight boxer who competed in the 1948 and 1952 Olympics. In 1948 he lost in a quarterfinal to the eventual champion George Hunter, and placed fifth. 
-Four years later he reached a semifinal, where he again lost to the eventual winner, Norvel Lee; yet he earned a bronze medal.
+Hajji Aslan Ashurov was an Azeri shipping and trading entrepreneur and politician, based in Baku. In 1903, he received a hereditary honour from Tsar Nicholas II. Aslan Ashurov was the father of Azeri politician, Agha Ashurov. His descendants today include the wife and children of Azeri politician and former National Security minister, Eldar Mahmudov.
 
-https://en.m.wikipedia.org/wiki/Harry_Siljander
+https://en.m.wikipedia.org/wiki/Aslan_Ashurov
