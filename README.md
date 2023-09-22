@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25674__
+- Honor: __25681__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Hajji Aslan Ashurov was an Azeri shipping and trading entrepreneur and politician, based in Baku. In 1903, he received a hereditary honour from Tsar Nicholas II. Aslan Ashurov was the father of Azeri politician, Agha Ashurov. His descendants today include the wife and children of Azeri politician and former National Security minister, Eldar Mahmudov.
+Troilite is a rare iron sulfide mineral with the simple formula of FeS. It is the iron-rich endmember of the pyrrhotite group. Pyrrhotite has the formula Fe(1-x)S which is iron deficient. As troilite lacks the iron deficiency which gives pyrrhotite its characteristic magnetism, troilite is non-magnetic.
 
-https://en.m.wikipedia.org/wiki/Aslan_Ashurov
+https://en.m.wikipedia.org/wiki/Troilite
