@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25681__
-- Leaderboard Position: __162__
+- Honor: __25688__
+- Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Troilite is a rare iron sulfide mineral with the simple formula of FeS. It is the iron-rich endmember of the pyrrhotite group. Pyrrhotite has the formula Fe(1-x)S which is iron deficient. As troilite lacks the iron deficiency which gives pyrrhotite its characteristic magnetism, troilite is non-magnetic.
+Wild Bulls and Horses is a collaborative studio album by ARIA Award winning artists and ARIA Hall of Fame inductees, Brian Cadd and Russell Morris. The album was released on 27 June 2011.
 
-https://en.m.wikipedia.org/wiki/Troilite
+https://en.m.wikipedia.org/wiki/Wild_Bulls_and_Horses
