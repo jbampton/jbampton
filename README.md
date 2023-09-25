@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25694__
+- Honor: __25698__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Keppy Ekpenyong Edet Bassey-Inyang is a Nigerian actor who received a commendation award from the Actors Guild of Nigeria in 2018 for his contributions to Nollywood. The inscription on the award plaque reads “In recognition of your excellent service, dedication, and commitment to the development of the Nigerian Movie Industry”
 
-https://en.m.wikipedia.org/wiki/Keppy_Ekpenyong
+
+https://en.m.wikipedia.org/wiki/Valsg%C3%A4rde
