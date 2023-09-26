@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25698__
+- Honor: __25705__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,7 @@
 
 ## Random Wikipedia
 
+The wilaya of El M'Ghair is an Algerian province created in 2019, previously, a delegated wilaya created in 2015. It is in the Algerian Sahara.
+It received four titles when it was founded, so it was called Riyad Enakhil since 1848 after the fall of the resistance of Ahmed Bey in the eastern region of Algeria, and the migration of Arabs Bani Salim and Banu Hillal to it and its reconstruction, where Ahmed Bey resided there for three days after the fall of his resistance. It was called Petit Ziban when it belonged to the wilaya of Biskra, because it consists of reefs, steppes and valleys, in addition to small low mountains, and the jewel of Oued Righ because it mediates the Righ region between Biskra and Touggourt. It was also called the Oasis of Springs due to the abundance of various water springs in its palm oases, and the first spring was emitted in 1845.
 
-
-https://en.m.wikipedia.org/wiki/Valsg%C3%A4rde
+https://en.m.wikipedia.org/wiki/El_M'Ghair_Province
