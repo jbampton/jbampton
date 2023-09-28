@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25719__
+- Honor: __25734__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Jardin d'essai is a transfer station serving the Line 1 of the Algiers Metro.
+Robert "Bert" L. Farmer was an American politician who served in the California State Assembly and in the Los Angeles City Council. He unsuccessfully challenged George E. Cryer in the 1923 Los Angeles mayoral election.
 
-https://en.m.wikipedia.org/wiki/Jardin_d'essai_Station
+https://en.m.wikipedia.org/wiki/Bert_L._Farmer
