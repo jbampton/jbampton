@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25746__
+- Honor: __25754__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Maryland Route 189 is a state highway in the U.S. state of Maryland. Known as Falls Road, the highway runs 5.05 miles (8.13 km) from MD 190 in Potomac to Great Falls Road and Maryland Avenue in Rockville. MD 189 connects Rockville with Potomac and the Great Falls of the Potomac River in southwestern Montgomery County. The highway was constructed from Rockville to Potomac by the early 1920s and extended toward Great Falls in the early 1930s. MD 189 was expanded to a divided highway around its newly-constructed interchange with Interstate 270 (I-270) in the late 1980s. The highway was truncated at both ends in the late 1990s.
+Postgraduate Work is a self-produced 7" record released by MC Paul Barman. He recorded it a year after graduating from Brown University.
 
-https://en.m.wikipedia.org/wiki/Maryland_Route_189
+https://en.m.wikipedia.org/wiki/Postgraduate_Work
