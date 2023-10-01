@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25754__
+- Honor: __25762__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Postgraduate Work is a self-produced 7" record released by MC Paul Barman. He recorded it a year after graduating from Brown University.
+Letterkenny University Hospital is a general hospital at Letterkenny, County Donegal, Ireland. One of Ireland's busiest, the campus is divided by a main road heading on towards the North/West of Donegal on the N56 road (Ireland). A teaching hospital, it maintains links with the University of Galway, ATU Letterkenny and the Royal College of Surgeons.
 
-https://en.m.wikipedia.org/wiki/Postgraduate_Work
+https://en.m.wikipedia.org/wiki/Letterkenny_University_Hospital
