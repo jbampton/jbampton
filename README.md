@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25762__
+- Honor: __25772__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Letterkenny University Hospital is a general hospital at Letterkenny, County Donegal, Ireland. One of Ireland's busiest, the campus is divided by a main road heading on towards the North/West of Donegal on the N56 road (Ireland). A teaching hospital, it maintains links with the University of Galway, ATU Letterkenny and the Royal College of Surgeons.
+Sir Berkeley Digby George Sheffield, 6th Baronet, DL was a British Member of Parliament for the Conservative Party.
 
-https://en.m.wikipedia.org/wiki/Letterkenny_University_Hospital
+https://en.m.wikipedia.org/wiki/Berkeley_Sheffield
