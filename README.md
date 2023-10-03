@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25772__
+- Honor: __25782__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Sir Berkeley Digby George Sheffield, 6th Baronet, DL was a British Member of Parliament for the Conservative Party.
+St Luke's Anglican Church is a heritage-listed Anglican church at Elizabeth Drive, Liverpool, Sydney, New South Wales, Australia. It was designed by Francis Greenway and built from 1818 to 1820. The property is owned by the Anglican Parish of Liverpool and is the oldest still existing Anglican church in Australia. It was added to the New South Wales State Heritage Register on 2 April 1999.
 
-https://en.m.wikipedia.org/wiki/Berkeley_Sheffield
+https://en.m.wikipedia.org/wiki/St_Luke's_Anglican_Church%2C_Liverpool
