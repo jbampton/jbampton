@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25782__
-- Leaderboard Position: __162__
+- Honor: __25791__
+- Leaderboard Position: __161__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
@@ -46,6 +46,7 @@
 
 ## Random Wikipedia
 
-St Luke's Anglican Church is a heritage-listed Anglican church at Elizabeth Drive, Liverpool, Sydney, New South Wales, Australia. It was designed by Francis Greenway and built from 1818 to 1820. The property is owned by the Anglican Parish of Liverpool and is the oldest still existing Anglican church in Australia. It was added to the New South Wales State Heritage Register on 2 April 1999.
+MT-RNR2-like 1 is a protein that in humans is encoded by the MTRNR2L1 gene.
 
-https://en.m.wikipedia.org/wiki/St_Luke's_Anglican_Church%2C_Liverpool
+
+https://en.m.wikipedia.org/wiki/Mt-rnr2-like_1
