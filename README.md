@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25791__
+- Honor: __25795__
 - Leaderboard Position: __161__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,7 +46,6 @@
 
 ## Random Wikipedia
 
-MT-RNR2-like 1 is a protein that in humans is encoded by the MTRNR2L1 gene.
+Edward Leo Peter McMahon Jr. was an American announcer, game show host, comedian, actor, singer, and combat aviator. McMahon and Johnny Carson began their association in their first TV series, the ABC game show Who Do You Trust?, running from 1957 to 1962. McMahon then made his famous thirty-year mark as Carson's sidekick, announcer and second banana on NBC's The Tonight Show Starring Johnny Carson from 1962 to 1992.
 
-
-https://en.m.wikipedia.org/wiki/Mt-rnr2-like_1
+https://en.m.wikipedia.org/wiki/Ed_McMahon
