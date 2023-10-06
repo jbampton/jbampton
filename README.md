@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25795__
+- Honor: __25807__
 - Leaderboard Position: __161__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Edward Leo Peter McMahon Jr. was an American announcer, game show host, comedian, actor, singer, and combat aviator. McMahon and Johnny Carson began their association in their first TV series, the ABC game show Who Do You Trust?, running from 1957 to 1962. McMahon then made his famous thirty-year mark as Carson's sidekick, announcer and second banana on NBC's The Tonight Show Starring Johnny Carson from 1962 to 1992.
+El Castillo, also known as the Temple of Kukulcan is a Mesoamerican step-pyramid that dominates the center of the Chichen Itza archaeological site in the Mexican state of Yucatán. The temple building is more formally designated by archaeologists as Chichen Itza Structure 5B18.
 
-https://en.m.wikipedia.org/wiki/Ed_McMahon
+https://en.m.wikipedia.org/wiki/El_Castillo%2C_Chichen_Itza
