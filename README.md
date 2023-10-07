@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25807__
+- Honor: __25818__
 - Leaderboard Position: __161__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,7 @@
 
 ## Random Wikipedia
 
-El Castillo, also known as the Temple of Kukulcan is a Mesoamerican step-pyramid that dominates the center of the Chichen Itza archaeological site in the Mexican state of Yucatán. The temple building is more formally designated by archaeologists as Chichen Itza Structure 5B18.
+Ret finger protein like 4B is a protein that in humans is encoded by the RFPL4B gene.
 
-https://en.m.wikipedia.org/wiki/El_Castillo%2C_Chichen_Itza
+
+https://en.m.wikipedia.org/wiki/RFPL4B
