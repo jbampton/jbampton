@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25818__
-- Leaderboard Position: __161__
+- Honor: __25830__
+- Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
@@ -46,7 +46,6 @@
 
 ## Random Wikipedia
 
-Ret finger protein like 4B is a protein that in humans is encoded by the RFPL4B gene.
+Admiral of the Fleet Andrew Browne Cunningham, 1st Viscount Cunningham of Hyndhope, was a British officer of the Royal Navy during the Second World War. He was widely known by his initials, "ABC".
 
-
-https://en.m.wikipedia.org/wiki/RFPL4B
+https://en.m.wikipedia.org/wiki/Andrew_Cunningham%2C_1st_Viscount_Cunningham_of_Hyndhope
