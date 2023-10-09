@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25830__
+- Honor: __25840__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Admiral of the Fleet Andrew Browne Cunningham, 1st Viscount Cunningham of Hyndhope, was a British officer of the Royal Navy during the Second World War. He was widely known by his initials, "ABC".
+Ludwig van Beethoven's Symphony No. 1 in C major, Op. 21, was dedicated to Baron Gottfried van Swieten, an early patron of the composer. The piece was published in 1801 by Hoffmeister & Kühnel of Leipzig. It is not known exactly when Beethoven finished writing this work, but sketches of the finale were found to be from 1795.
 
-https://en.m.wikipedia.org/wiki/Andrew_Cunningham%2C_1st_Viscount_Cunningham_of_Hyndhope
+https://en.m.wikipedia.org/wiki/Symphony_No._1_(Beethoven)
