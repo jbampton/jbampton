@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25840__
+- Honor: __25849__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Ludwig van Beethoven's Symphony No. 1 in C major, Op. 21, was dedicated to Baron Gottfried van Swieten, an early patron of the composer. The piece was published in 1801 by Hoffmeister & Kühnel of Leipzig. It is not known exactly when Beethoven finished writing this work, but sketches of the finale were found to be from 1795.
+Jan Harte van Tecklenburg  or Joannes Josephus Ignatius Harte was a Dutch politician.
 
-https://en.m.wikipedia.org/wiki/Symphony_No._1_(Beethoven)
+https://en.m.wikipedia.org/wiki/Jan_Harte_van_Tecklenburg
