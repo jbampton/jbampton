@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25849__
+- Honor: __25855__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Jan Harte van Tecklenburg  or Joannes Josephus Ignatius Harte was a Dutch politician.
+The Dodge Sidewinder is a concept car unveiled by Dodge in 1997 at the SEMA convention in Las Vegas. It was based on a design by Chrysler's Mark Allen, only two years after he graduated from design school. Officially called the Dodge Dakota Sidewinder, it uses the front-mounted, Viper GTS-R engine to power the rear wheels, sitting on a chassis built by Riley & Scott. It was envisioned as the futuristic version of a Dodge Dakota convertible.
 
-https://en.m.wikipedia.org/wiki/Jan_Harte_van_Tecklenburg
+https://en.m.wikipedia.org/wiki/Dodge_Sidewinder
