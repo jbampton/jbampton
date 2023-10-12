@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25855__
-- Leaderboard Position: __160__
+- Honor: __25863__
+- Leaderboard Position: __161__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Dodge Sidewinder is a concept car unveiled by Dodge in 1997 at the SEMA convention in Las Vegas. It was based on a design by Chrysler's Mark Allen, only two years after he graduated from design school. Officially called the Dodge Dakota Sidewinder, it uses the front-mounted, Viper GTS-R engine to power the rear wheels, sitting on a chassis built by Riley & Scott. It was envisioned as the futuristic version of a Dodge Dakota convertible.
+Turkey participated at the 2010 Winter Olympics in Vancouver, British Columbia, Canada.
 
-https://en.m.wikipedia.org/wiki/Dodge_Sidewinder
+https://en.m.wikipedia.org/wiki/Turkey_at_the_2010_Winter_Olympics
