@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25863__
-- Leaderboard Position: __161__
+- Honor: __25870__
+- Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Turkey participated at the 2010 Winter Olympics in Vancouver, British Columbia, Canada.
+Osteolaemus osborni, commonly known as Osborn's dwarf crocodile, is a species of crocodile endemic to the Congo Basin in Africa.
 
-https://en.m.wikipedia.org/wiki/Turkey_at_the_2010_Winter_Olympics
+https://en.m.wikipedia.org/wiki/Osteolaemus_osborni
