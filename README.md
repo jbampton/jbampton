@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25870__
+- Honor: __25880__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Osteolaemus osborni, commonly known as Osborn's dwarf crocodile, is a species of crocodile endemic to the Congo Basin in Africa.
+Live in London is the first live release by avant-garde metal band Zeal & Ardor. Released 22 March 2019, the performance captured was from a 2 December 2018 show at Electric Ballroom in London. The live album features three non-album tracks performed by the band as part of their setlist. Vocalist Manuel Gagneux stated of the album "Since we're really proud of our performance, we are releasing the entire show consisting of our entire catalogue of songs." Gagneux also stated the reason for the live album was to capture the live shows that were "more energetic and way more aggressive" than the recorded material.
 
-https://en.m.wikipedia.org/wiki/Osteolaemus_osborni
+https://en.m.wikipedia.org/wiki/Live_in_London_(Zeal_%26_Ardor_album)
