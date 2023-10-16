@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25883__
+- Honor: __25890__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Gesneria is a genus of approximately 50 species in the flowering plant family Gesneriaceae. Except for two or three odd South American species, all are native to islands of the Caribbean. The genus is classified in the tribe Gesnerieae along with the genera Bellonia, Pheidonocarpa, and Rhytidophyllum. Gesneria species are usually woody shrubs or subshrubs, and are unusual in the family in having alternately arranged leaves. A complete list of the accepted species and their synonyms can be found in the Smithsonian Institution's World Checklist of Gesneriaceae.
+The Lambton Worm is a legend from County Durham in North-East England in the United Kingdom. The story takes place around the River Wear, and is one of the area's most famous pieces of folklore, having been adapted from written and oral tradition into pantomime and song formats.
 
-https://en.m.wikipedia.org/wiki/Gesneria
+https://en.m.wikipedia.org/wiki/Lambton_Worm
