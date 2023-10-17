@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25890__
+- Honor: __25894__
 - Leaderboard Position: __160__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Lambton Worm is a legend from County Durham in North-East England in the United Kingdom. The story takes place around the River Wear, and is one of the area's most famous pieces of folklore, having been adapted from written and oral tradition into pantomime and song formats.
+Justin Suarez is a fictional character on the American comedy-drama series Ugly Betty (2006–2010). Portrayed by actor Mark Indelicato, Justin is raised by his single mother Hilda, both of whom live with his aunt Betty and grandfather Ignacio. A musical theatre and fashion enthusiast, Ugly Betty follows adolescent Justin as he matures and navigates school, while exploring his sexual orientation. Although the character exhibits stereotypically gay interests and flamboyant mannerisms, the show does not address his sexuality until its fourth season, despite constant speculation and support from his family.
 
-https://en.m.wikipedia.org/wiki/Lambton_Worm
+https://en.m.wikipedia.org/wiki/Justin_Suarez
