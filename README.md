@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25900__
+- Honor: __25905__
 - Leaderboard Position: __161__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Scathophaga furcata  is a species of fly in the family Scathophagidae. It is found in the Palearctic.
+Team Iron is a professional swimming team co-owned by Katinka Hosszú, and a founding member of the International Swimming League. The team is based in Budapest, Hungary, led by general manager Dorina Szekeres and head coach Jozsef Nagy.
 
-https://en.m.wikipedia.org/wiki/Scathophaga_furcata
+https://en.m.wikipedia.org/wiki/Team_Iron
