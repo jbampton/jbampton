@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25905__
+- Honor: __25916__
 - Leaderboard Position: __161__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Team Iron is a professional swimming team co-owned by Katinka Hosszú, and a founding member of the International Swimming League. The team is based in Budapest, Hungary, led by general manager Dorina Szekeres and head coach Jozsef Nagy.
+The San Jose Oaks are a semi-professional soccer club from San Jose, California with affiliations to the California Soccer Association and the USSF.
 
-https://en.m.wikipedia.org/wiki/Team_Iron
+https://en.m.wikipedia.org/wiki/San_Jose_Oaks
