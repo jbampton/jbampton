@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25916__
-- Leaderboard Position: __161__
+- Honor: __25934__
+- Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The San Jose Oaks are a semi-professional soccer club from San Jose, California with affiliations to the California Soccer Association and the USSF.
+Nie Fengzhi was a general of the People's Liberation Army Air Force (PLAAF) of the People's Republic of China.
 
-https://en.m.wikipedia.org/wiki/San_Jose_Oaks
+https://en.m.wikipedia.org/wiki/Nie_Fengzhi
