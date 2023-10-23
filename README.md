@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25934__
+- Honor: __25943__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Nie Fengzhi was a general of the People's Liberation Army Air Force (PLAAF) of the People's Republic of China.
+An electronic gear-shifting system is a method of changing gears on a bicycle, which enables riders to shift with electronic switches instead of using conventional control levers and mechanical cables. The switches are connected by wire or wirelessly to a battery pack and to a small electric motor that drives the derailleur, switching the chain from cog to cog. An electronic system can switch gears faster and, because the system does not use Bowden cables and can calibrate itself, it may require less maintenance.
 
-https://en.m.wikipedia.org/wiki/Nie_Fengzhi
+https://en.m.wikipedia.org/wiki/Electronic_gear-shifting_system
