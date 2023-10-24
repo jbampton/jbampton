@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25943__
+- Honor: __25956__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-An electronic gear-shifting system is a method of changing gears on a bicycle, which enables riders to shift with electronic switches instead of using conventional control levers and mechanical cables. The switches are connected by wire or wirelessly to a battery pack and to a small electric motor that drives the derailleur, switching the chain from cog to cog. An electronic system can switch gears faster and, because the system does not use Bowden cables and can calibrate itself, it may require less maintenance.
+Old California Oregon Road is a historical site in Anderson, California, in Shasta County. Old California Oregon Road site is California Historical Landmark No. 58 listed on December 6, 1932. The Old California Oregon Road was the main road used by pioneer travelers between the Trinity River and the northern gold mines of California and Oregon. The main part of the Old California Oregon Road ran from Portland to Sacramento.
 
-https://en.m.wikipedia.org/wiki/Electronic_gear-shifting_system
+https://en.m.wikipedia.org/wiki/Old_California-Oregon_Road
