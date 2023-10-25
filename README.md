@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25956__
+- Honor: __25970__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Old California Oregon Road is a historical site in Anderson, California, in Shasta County. Old California Oregon Road site is California Historical Landmark No. 58 listed on December 6, 1932. The Old California Oregon Road was the main road used by pioneer travelers between the Trinity River and the northern gold mines of California and Oregon. The main part of the Old California Oregon Road ran from Portland to Sacramento.
+Yol Aularong was a Cambodian garage rock musician, and a leading figure in that country's rock scene of the 1960s and 70s. He is presumed to have been killed during the Cambodian genocide that took place under the Khmer Rouge between 1975 and 1979.
 
-https://en.m.wikipedia.org/wiki/Old_California-Oregon_Road
+https://en.m.wikipedia.org/wiki/Yol_Aularong
