@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25970__
+- Honor: __25982__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Yol Aularong was a Cambodian garage rock musician, and a leading figure in that country's rock scene of the 1960s and 70s. He is presumed to have been killed during the Cambodian genocide that took place under the Khmer Rouge between 1975 and 1979.
+The Civic District is a district located near the Singapore River in the Central Area of Singapore.
 
-https://en.m.wikipedia.org/wiki/Yol_Aularong
+https://en.m.wikipedia.org/wiki/Civic_District
