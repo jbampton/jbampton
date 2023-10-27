@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25982__
+- Honor: __25992__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Civic District is a district located near the Singapore River in the Central Area of Singapore.
+Glaphyra was an Anatolian princess from Cappadocia, and a Queen of Mauretania by her second marriage to King Juba II of Mauretania. She was related to the Herodian Dynasty by her first and third marriage, to Alexander, son of Herod and Herod Archelaus respectively.
 
-https://en.m.wikipedia.org/wiki/Civic_District
+https://en.m.wikipedia.org/wiki/Glaphyra
