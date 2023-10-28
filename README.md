@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __25992__
+- Honor: __26006__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Glaphyra was an Anatolian princess from Cappadocia, and a Queen of Mauretania by her second marriage to King Juba II of Mauretania. She was related to the Herodian Dynasty by her first and third marriage, to Alexander, son of Herod and Herod Archelaus respectively.
+Triggermen is a 2002 crime comedy film written by Tony Johnston and Mark Thomas and directed by John Bradshaw for First Look International. Starring Pete Postlethwaite, Neil Morrissey, Adrian Dunbar, and Donnie Wahlberg, the film had festival and video screenings in 2002 and 2003 before its DVD premiere in 2004 and television releases in 2007 and 2008. Set in Chicago, the film was shot in Toronto.
 
-https://en.m.wikipedia.org/wiki/Glaphyra
+https://en.m.wikipedia.org/wiki/Triggermen
