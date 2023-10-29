@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26006__
+- Honor: __26013__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Triggermen is a 2002 crime comedy film written by Tony Johnston and Mark Thomas and directed by John Bradshaw for First Look International. Starring Pete Postlethwaite, Neil Morrissey, Adrian Dunbar, and Donnie Wahlberg, the film had festival and video screenings in 2002 and 2003 before its DVD premiere in 2004 and television releases in 2007 and 2008. Set in Chicago, the film was shot in Toronto.
+The Bevatron was a particle accelerator — specifically, a weak-focusing proton synchrotron — at Lawrence Berkeley National Laboratory, U.S., which began operating in 1954. The antiproton was discovered there in 1955, resulting in the 1959 Nobel Prize in physics for Emilio Segrè and Owen Chamberlain. It accelerated protons into a fixed target, and was named for its ability to impart energies of billions of eV.
 
-https://en.m.wikipedia.org/wiki/Triggermen
+https://en.m.wikipedia.org/wiki/Bevatron
