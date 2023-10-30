@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26013__
+- Honor: __26017__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Bevatron was a particle accelerator — specifically, a weak-focusing proton synchrotron — at Lawrence Berkeley National Laboratory, U.S., which began operating in 1954. The antiproton was discovered there in 1955, resulting in the 1959 Nobel Prize in physics for Emilio Segrè and Owen Chamberlain. It accelerated protons into a fixed target, and was named for its ability to impart energies of billions of eV.
+Suluan is an island barangay in the Philippines, in the municipality of Guiuan, Eastern Samar. It lies east of Leyte Gulf and west of Emden Deep. The inhabitants of the island were the first Filipinos to trade and interact with Ferdinand Magellan's expedition which anchored on the nearby island of Homonhon on March 16, 1521.
 
-https://en.m.wikipedia.org/wiki/Bevatron
+https://en.m.wikipedia.org/wiki/Suluan
