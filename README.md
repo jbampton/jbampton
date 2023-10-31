@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26017__
+- Honor: __26029__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Suluan is an island barangay in the Philippines, in the municipality of Guiuan, Eastern Samar. It lies east of Leyte Gulf and west of Emden Deep. The inhabitants of the island were the first Filipinos to trade and interact with Ferdinand Magellan's expedition which anchored on the nearby island of Homonhon on March 16, 1521.
+Sábado en la Noche Tiki-Tiki is the sixth album by Mexican singer Verónica Castro, It was released in 1982 "Ven" is theme song to "El derecho de nacer " Also in the telenovela Verónica Castro's son Cristian Castro plays her Lost son.
 
-https://en.m.wikipedia.org/wiki/Suluan
+https://en.m.wikipedia.org/wiki/S%C3%A1bado_en_la_Noche_Tiki-Tiki
