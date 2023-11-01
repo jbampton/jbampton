@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26029__
+- Honor: __26038__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Sábado en la Noche Tiki-Tiki is the sixth album by Mexican singer Verónica Castro, It was released in 1982 "Ven" is theme song to "El derecho de nacer " Also in the telenovela Verónica Castro's son Cristian Castro plays her Lost son.
+Cedar Key is a city in Levy County, Florida, United States. As of the 2020 census, its population was 687. The Cedar Keys are a cluster of islands near the mainland. Most of the developed area of the city has been on Way Key since the end of the 19th century. The Cedar Keys are named for the eastern red cedar Juniperus virginiana, once abundant in the area.
 
-https://en.m.wikipedia.org/wiki/S%C3%A1bado_en_la_Noche_Tiki-Tiki
+https://en.m.wikipedia.org/wiki/Cedar_Key%2C_Florida
