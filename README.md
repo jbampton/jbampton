@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26038__
+- Honor: __26054__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Cedar Key is a city in Levy County, Florida, United States. As of the 2020 census, its population was 687. The Cedar Keys are a cluster of islands near the mainland. Most of the developed area of the city has been on Way Key since the end of the 19th century. The Cedar Keys are named for the eastern red cedar Juniperus virginiana, once abundant in the area.
+Tailspin Tommy is a 12-episode 1934 Universal film serial based on the Tailspin Tommy comic strip by Hal Forrest. Directed by Lew Landers and produced by Milton Gatzert, the serial was the 97th serial of the 137 released by that studio. The plot of Tailspin Tommy concerns a conflict over a government airmail contract.
 
-https://en.m.wikipedia.org/wiki/Cedar_Key%2C_Florida
+https://en.m.wikipedia.org/wiki/Tailspin_Tommy_(serial)
