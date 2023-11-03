@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26054__
+- Honor: __26061__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Tailspin Tommy is a 12-episode 1934 Universal film serial based on the Tailspin Tommy comic strip by Hal Forrest. Directed by Lew Landers and produced by Milton Gatzert, the serial was the 97th serial of the 137 released by that studio. The plot of Tailspin Tommy concerns a conflict over a government airmail contract.
+A shadow family was an unacknowledged child or children created by a white male slave owner with an enslaved black woman. Often they lived in physical proximity to their father, and a "married maverick reared a white family in the front of the house even as he reared a mulatto family in the back."
 
-https://en.m.wikipedia.org/wiki/Tailspin_Tommy_(serial)
+https://en.m.wikipedia.org/wiki/Shadow_family
