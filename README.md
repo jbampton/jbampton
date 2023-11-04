@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26061__
+- Honor: __26070__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-A shadow family was an unacknowledged child or children created by a white male slave owner with an enslaved black woman. Often they lived in physical proximity to their father, and a "married maverick reared a white family in the front of the house even as he reared a mulatto family in the back."
+Acer sempervirens, the Cretan maple, is a species of maple native to southern Greece and southern Turkey.
 
-https://en.m.wikipedia.org/wiki/Shadow_family
+https://en.m.wikipedia.org/wiki/Acer_sempervirens
