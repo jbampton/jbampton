@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26070__
+- Honor: __26075__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Acer sempervirens, the Cretan maple, is a species of maple native to southern Greece and southern Turkey.
+The Natal multimammate mouse is a species of rodent in the family Muridae. It is also known as the Natal multimammate rat, the common African rat, or the African soft-furred mouse. The Natal multimammate rat is the natural host of the Lassa fever virus.
 
-https://en.m.wikipedia.org/wiki/Acer_sempervirens
+https://en.m.wikipedia.org/wiki/Natal_multimammate_mouse
