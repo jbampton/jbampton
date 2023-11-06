@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26075__
+- Honor: __26090__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Natal multimammate mouse is a species of rodent in the family Muridae. It is also known as the Natal multimammate rat, the common African rat, or the African soft-furred mouse. The Natal multimammate rat is the natural host of the Lassa fever virus.
+Hasan Nusret Fişek was a Turkish physician and Minister of Health.
 
-https://en.m.wikipedia.org/wiki/Natal_multimammate_mouse
+https://en.m.wikipedia.org/wiki/Nusret_Fi%C5%9Fek
