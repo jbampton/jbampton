@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26090__
+- Honor: __26099__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Hasan Nusret Fişek was a Turkish physician and Minister of Health.
+H'raoua is a municipality in Algiers province, Algeria. It is located in Rouïba district, and is an outer suburb of Algiers. It has a small coastline on the Mediterranean Sea. The town proper of H'raoua is located 2 kilometers (1.2 mi) from the beaches of Terfaya and Kadous. It was created out of parts of Aïn Taya in 1984. Currently, it is the site of the construction of 1853 homes.
 
-https://en.m.wikipedia.org/wiki/Nusret_Fi%C5%9Fek
+https://en.m.wikipedia.org/wiki/H'raoua
