@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26115__
+- Honor: __26122__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Jeremy Michael Boorda was a United States Navy admiral who served as the 25th Chief of Naval Operations. Boorda is notable as the first person to have risen from the enlisted ranks to become Chief of Naval Operations, the highest-ranking billet in the United States Navy.
+Demon Sacred  is a manga written and illustrated by Natsumi Itsuki.
 
-https://en.m.wikipedia.org/wiki/Michael_Boorda
+https://en.m.wikipedia.org/wiki/Demon_Sacred
