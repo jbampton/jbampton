@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26122__
+- Honor: __26135__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Demon Sacred  is a manga written and illustrated by Natsumi Itsuki.
+Prekmurska gibanica is a type of Slovenian gibanica or layered pastry. It contains poppy seeds, walnuts, apples, raisins and quark fillings. Although native to Prekmurje, it has achieved the status of a national specialty of Slovenia. The unique sweetmeat shows the variety of agriculture in this region. The name gibanica comes from the dialect expression güba and in this case refers to a fold.
 
-https://en.m.wikipedia.org/wiki/Demon_Sacred
+https://en.m.wikipedia.org/wiki/Prekmurska_gibanica
