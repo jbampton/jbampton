@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26135__
+- Honor: __26147__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Prekmurska gibanica is a type of Slovenian gibanica or layered pastry. It contains poppy seeds, walnuts, apples, raisins and quark fillings. Although native to Prekmurje, it has achieved the status of a national specialty of Slovenia. The unique sweetmeat shows the variety of agriculture in this region. The name gibanica comes from the dialect expression güba and in this case refers to a fold.
+Leishmania is a parasitic protozoan, a single-celled organism of the genus Leishmania that is responsible for the disease leishmaniasis. They are spread by sandflies of the genus Phlebotomus in the Old World, and of the genus Lutzomyia in the New World. At least 93 sandfly species are proven or probable vectors worldwide. Their primary hosts are vertebrates; Leishmania commonly infects hyraxes, canids, rodents, and humans.
 
-https://en.m.wikipedia.org/wiki/Prekmurska_gibanica
+https://en.m.wikipedia.org/wiki/Leishmania
