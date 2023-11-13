@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26147__
+- Honor: __26152__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Leishmania is a parasitic protozoan, a single-celled organism of the genus Leishmania that is responsible for the disease leishmaniasis. They are spread by sandflies of the genus Phlebotomus in the Old World, and of the genus Lutzomyia in the New World. At least 93 sandfly species are proven or probable vectors worldwide. Their primary hosts are vertebrates; Leishmania commonly infects hyraxes, canids, rodents, and humans.
+Conus anningae is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.
 
-https://en.m.wikipedia.org/wiki/Leishmania
+https://en.m.wikipedia.org/wiki/Conus_anningae
