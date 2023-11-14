@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26152__
+- Honor: __26162__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Conus anningae is an extinct species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails, cone shells or cones.
+Tonkawa Lodge No. 157 A.F. & A.M., at 112 N. 7th St. in Tonkawa, Oklahoma, was listed on the National Register of Historic Places in 2007.
 
-https://en.m.wikipedia.org/wiki/Conus_anningae
+https://en.m.wikipedia.org/wiki/Tonkawa_Lodge_No._157_A.F._%26_A.M.
