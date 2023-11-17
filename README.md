@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26180__
+- Honor: __26192__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Last Goodbye is the fourth studio album by the American electronic music duo Odesza, released on July 22, 2022 through Ninja Tune and Foreign Family Collective. It is the duo's first studio album in five years, after A Moment Apart.
+Heleodromia is a genus of flies in the family Empididae.
 
-https://en.m.wikipedia.org/wiki/The_Last_Goodbye_(album)
+https://en.m.wikipedia.org/wiki/Heleodromia
