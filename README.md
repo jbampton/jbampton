@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26192__
+- Honor: __26199__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Heleodromia is a genus of flies in the family Empididae.
+Sweden Valley is a census-designated place located in Sweden Township in central Potter County in the state of Pennsylvania, United States. It is located along the famous U.S. Route 6, a few miles east of Coudersport. As of the 2010 census the population was 223 residents.
 
-https://en.m.wikipedia.org/wiki/Heleodromia
+https://en.m.wikipedia.org/wiki/Sweden_Valley%2C_Pennsylvania
