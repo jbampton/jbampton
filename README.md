@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26199__
+- Honor: __26212__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Sweden Valley is a census-designated place located in Sweden Township in central Potter County in the state of Pennsylvania, United States. It is located along the famous U.S. Route 6, a few miles east of Coudersport. As of the 2010 census the population was 223 residents.
+James Walter Brewster Jr., commonly known as Wally Brewster, served as the United States Ambassador to the Dominican Republic. He was unanimously confirmed by the Senate of the United States on November 14, 2013. Brewster was the first person in a same-sex marriage to represent the United States at the ambassadorial level in the Americas. He left office on January 20, 2017. Ambassador Brewster currently serves as a Principal for Insignias Global, an international political and brand advisory firm. He also serves on the Advisory Board for the Atlantic Council, Parliamentarians for Global Action and the National Democratic institute.
 
-https://en.m.wikipedia.org/wiki/Sweden_Valley%2C_Pennsylvania
+https://en.m.wikipedia.org/wiki/Wally_Brewster
