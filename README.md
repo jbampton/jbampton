@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26212__
+- Honor: __26216__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-James Walter Brewster Jr., commonly known as Wally Brewster, served as the United States Ambassador to the Dominican Republic. He was unanimously confirmed by the Senate of the United States on November 14, 2013. Brewster was the first person in a same-sex marriage to represent the United States at the ambassadorial level in the Americas. He left office on January 20, 2017. Ambassador Brewster currently serves as a Principal for Insignias Global, an international political and brand advisory firm. He also serves on the Advisory Board for the Atlantic Council, Parliamentarians for Global Action and the National Democratic institute.
+The Typist Gets Married is a 1934 French-German comedy film directed by Joe May and René Pujol and starring Marie Glory, Jean Murat and Armand Bernard. It was a sequel to the 1931 film The Typist which also starred Glory.
 
-https://en.m.wikipedia.org/wiki/Wally_Brewster
+https://en.m.wikipedia.org/wiki/The_Typist_Gets_Married
