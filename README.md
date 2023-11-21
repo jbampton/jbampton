@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26216__
+- Honor: __26226__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Typist Gets Married is a 1934 French-German comedy film directed by Joe May and René Pujol and starring Marie Glory, Jean Murat and Armand Bernard. It was a sequel to the 1931 film The Typist which also starred Glory.
+Joel Jessup Farm is a historic home and farm located in Guilford Township, Hendricks County, Indiana. The farmhouse was built about 1864, and is a two-story, Italianate style brick I-house with a rear kitchen ell. It has a slate gable roof, round arched windows, and multiple brick chimneys. Also on the property are the contributing traverse frame barn and privy.
 
-https://en.m.wikipedia.org/wiki/The_Typist_Gets_Married
+https://en.m.wikipedia.org/wiki/Joel_Jessup_Farm
