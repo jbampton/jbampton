@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26234__
-- Leaderboard Position: __162__
+- Honor: __26242__
+- Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Trédrez-Locquémeau is a commune in the Côtes-d'Armor department of Brittany in northwestern France.
+The Egyptian is a historical novel by Mika Waltari. It was first published in Finnish in 1945, and in an abridged English translation by Naomi Walford in 1949, from Swedish rather than Finnish. Regarded as "one of the greatest books in Finnish literary history", it is, so far, the only Finnish novel to be adapted into a Hollywood film, which happened in 1954.
 
-https://en.m.wikipedia.org/wiki/Tr%C3%A9drez-Locqu%C3%A9meau
+https://en.m.wikipedia.org/wiki/The_Egyptian
