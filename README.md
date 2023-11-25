@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26246__
+- Honor: __26253__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Mackenzie Boyd-Clowes is a Canadian ski jumper.
+Racławice Wielkie is a village in the administrative district of Gmina Kobierzyce, within Wrocław County, Lower Silesian Voivodeship, in south-western Poland.
 
-https://en.m.wikipedia.org/wiki/Mackenzie_Boyd-Clowes
+https://en.m.wikipedia.org/wiki/Rac%C5%82awice_Wielkie
