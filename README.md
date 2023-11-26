@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26253__
+- Honor: __26260__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1618__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Racławice Wielkie is a village in the administrative district of Gmina Kobierzyce, within Wrocław County, Lower Silesian Voivodeship, in south-western Poland.
+MovieScore Media is a Swedish record label devoted to original film scores, founded in 2005 by former journalist Mikael Carlsson. The label has produced over 600 soundtrack albums, focusing primarily on music composed by up and coming composers and from smaller, independent feature films. Among prolific Hollywood composers who had their first albums released by MovieScore Media are Benjamin Wallfisch, Daniel Pemberton and Pinar Toprak. However, the label has also released soundtracks by more established composers, including Academy Award-winning composers Dario Marianelli and Gabriel Yared, Academy Award-nominated composers George Fenton, Marco Beltrami, Patrick Doyle and Michael Kamen, Emmy Award-winning composers Basil Poledouris and John Lunn, as well as Emmy-nominated composers Angelo Badalamenti and Rob Lane. The label has licensed distribution rights for music owned by bigger studios and companies, such as Warner Bros., BBC and Constantin Film.
 
-https://en.m.wikipedia.org/wiki/Rac%C5%82awice_Wielkie
+https://en.m.wikipedia.org/wiki/MovieScore_Media
