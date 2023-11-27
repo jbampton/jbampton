@@ -7,10 +7,10 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26260__
+- Honor: __26269__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
-- Total Completed Kata: __1618__
+- Total Completed Kata: __1620__
 
 ## lichess
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-MovieScore Media is a Swedish record label devoted to original film scores, founded in 2005 by former journalist Mikael Carlsson. The label has produced over 600 soundtrack albums, focusing primarily on music composed by up and coming composers and from smaller, independent feature films. Among prolific Hollywood composers who had their first albums released by MovieScore Media are Benjamin Wallfisch, Daniel Pemberton and Pinar Toprak. However, the label has also released soundtracks by more established composers, including Academy Award-winning composers Dario Marianelli and Gabriel Yared, Academy Award-nominated composers George Fenton, Marco Beltrami, Patrick Doyle and Michael Kamen, Emmy Award-winning composers Basil Poledouris and John Lunn, as well as Emmy-nominated composers Angelo Badalamenti and Rob Lane. The label has licensed distribution rights for music owned by bigger studios and companies, such as Warner Bros., BBC and Constantin Film.
+Dippach is a commune and small town in south-western Luxembourg. It is part of the canton of Capellen, which is part of the district of Luxembourg. The commune's administrative centre is Schouweiler. The River Mess, a tributary of the Alzette, rises here.
 
-https://en.m.wikipedia.org/wiki/MovieScore_Media
+https://en.m.wikipedia.org/wiki/Dippach
