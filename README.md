@@ -7,10 +7,10 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26269__
-- Leaderboard Position: __163__
+- Honor: __26289__
+- Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
-- Total Completed Kata: __1620__
+- Total Completed Kata: __1625__
 
 ## lichess
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Dippach is a commune and small town in south-western Luxembourg. It is part of the canton of Capellen, which is part of the district of Luxembourg. The commune's administrative centre is Schouweiler. The River Mess, a tributary of the Alzette, rises here.
+Young Sherlock Holmes: Snake Bite is the fifth novel in the Young Sherlock Holmes series that depicts Arthur Conan Doyle's detective Sherlock Holmes as a teenager in the 1860s. It was written by author Andy Lane and released in 2013.
 
-https://en.m.wikipedia.org/wiki/Dippach
+https://en.m.wikipedia.org/wiki/Young_Sherlock_Holmes%3A_Snake_Bite
