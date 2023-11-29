@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26289__
-- Leaderboard Position: __162__
+- Honor: __26297__
+- Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1625__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Young Sherlock Holmes: Snake Bite is the fifth novel in the Young Sherlock Holmes series that depicts Arthur Conan Doyle's detective Sherlock Holmes as a teenager in the 1860s. It was written by author Andy Lane and released in 2013.
+Éloie is a commune in the Territoire de Belfort department in Bourgogne-Franche-Comté in northeastern France.
 
-https://en.m.wikipedia.org/wiki/Young_Sherlock_Holmes%3A_Snake_Bite
+https://en.m.wikipedia.org/wiki/%C3%89loie
