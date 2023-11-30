@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26297__
+- Honor: __26305__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1625__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Éloie is a commune in the Territoire de Belfort department in Bourgogne-Franche-Comté in northeastern France.
+The No Mandatory Vaccination Party is a political party registered in the Australian state of Western Australia.
 
-https://en.m.wikipedia.org/wiki/%C3%89loie
+https://en.m.wikipedia.org/wiki/No_Mandatory_Vaccination_Party
