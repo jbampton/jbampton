@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26305__
+- Honor: __26313__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1625__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The No Mandatory Vaccination Party is a political party registered in the Australian state of Western Australia.
+Mantgum is a village in Leeuwarden municipality in the province Friesland of the Netherlands and had around 1,172 citizens in January 2017.
 
-https://en.m.wikipedia.org/wiki/No_Mandatory_Vaccination_Party
+https://en.m.wikipedia.org/wiki/Mantgum
