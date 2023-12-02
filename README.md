@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26313__
+- Honor: __26324__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1625__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Mantgum is a village in Leeuwarden municipality in the province Friesland of the Netherlands and had around 1,172 citizens in January 2017.
+Medicine Hat Regional Hospital is a medical facility located in Medicine Hat, Alberta serving a catchment area of 117,000. It has 213 beds.
 
-https://en.m.wikipedia.org/wiki/Mantgum
+https://en.m.wikipedia.org/wiki/Medicine_Hat_Regional_Hospital
