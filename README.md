@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26327__
+- Honor: __26332__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1625__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Silas Ayari Donrai Papare was a Papuan–Indonesian politician and guerilla leader who is a National Hero of Indonesia.
+The Zenneck wave, Zenneck surface wave or Sommerfeld-Zenneck surface wave is a longitudinal, inhomogeneous or non-uniform electromagnetic plane wave incident at the complex Brewster's angle onto a planar or spherical boundary interface between two homogeneous media having different dielectric constants.
 
-https://en.m.wikipedia.org/wiki/Silas_Papare
+https://en.m.wikipedia.org/wiki/Zenneck_wave
