@@ -7,10 +7,10 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26332__
+- Honor: __26349__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
-- Total Completed Kata: __1625__
+- Total Completed Kata: __1628__
 
 ## lichess
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Zenneck wave, Zenneck surface wave or Sommerfeld-Zenneck surface wave is a longitudinal, inhomogeneous or non-uniform electromagnetic plane wave incident at the complex Brewster's angle onto a planar or spherical boundary interface between two homogeneous media having different dielectric constants.
+Burn Your Town is the only album by the Chapman Family. It was released digitally on 4 March 2011 followed by a physical release on 7 March 2011.
 
-https://en.m.wikipedia.org/wiki/Zenneck_wave
+https://en.m.wikipedia.org/wiki/Burn_Your_Town
