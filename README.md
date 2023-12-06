@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26349__
+- Honor: __26359__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1628__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Burn Your Town is the only album by the Chapman Family. It was released digitally on 4 March 2011 followed by a physical release on 7 March 2011.
+Laura Elizabeth Ingalls Wilder was an American writer. The Little House on the Prairie series of children's books, published between 1932 and 1943, were based on her childhood in a settler and pioneer family.
 
-https://en.m.wikipedia.org/wiki/Burn_Your_Town
+https://en.m.wikipedia.org/wiki/Laura_Ingalls_Wilder
