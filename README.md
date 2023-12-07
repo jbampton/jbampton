@@ -7,10 +7,10 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26359__
+- Honor: __26368__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
-- Total Completed Kata: __1628__
+- Total Completed Kata: __1629__
 
 ## lichess
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Laura Elizabeth Ingalls Wilder was an American writer. The Little House on the Prairie series of children's books, published between 1932 and 1943, were based on her childhood in a settler and pioneer family.
+The Huahum River is a river in southern Chile and Argentina. It drains the waters of Lácar Lake in Argentina to Pirihueico Lake in Chile. The river gives name to Huahum Pass, an international mountain pass on the border between Chile and Argentina.
 
-https://en.m.wikipedia.org/wiki/Laura_Ingalls_Wilder
+https://en.m.wikipedia.org/wiki/Huahum_River
