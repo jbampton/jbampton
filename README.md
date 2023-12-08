@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26368__
+- Honor: __26376__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1629__
@@ -46,6 +46,7 @@
 
 ## Random Wikipedia
 
-The Huahum River is a river in southern Chile and Argentina. It drains the waters of Lácar Lake in Argentina to Pirihueico Lake in Chile. The river gives name to Huahum Pass, an international mountain pass on the border between Chile and Argentina.
+Wangpulen is the god of water, rain, flood, disease and sickness in Meitei mythology and religion of Ancient Kangleipak .
+He is the ruler of the underwater world. He is the Lord of the rivers. The guardianship of the south eastern direction is alluded to Wangbren and the other directions to Koupalu, Marjing and Thangjing. He is one of the Umang Lais.
 
-https://en.m.wikipedia.org/wiki/Huahum_River
+https://en.m.wikipedia.org/wiki/Wangpulen
