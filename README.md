@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26384__
+- Honor: __26390__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1629__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Marcus Claudius Marcellus, five times elected as consul of the Roman Republic, was an important Roman military leader during the Gallic War of 225 BC and the Second Punic War. Marcellus gained the most prestigious award a Roman general could earn, the spolia opima, for killing the Gallic military leader and king Viridomarus in single combat in 222 BC at the Battle of Clastidium. Furthermore, he is noted for having conquered the fortified city of Syracuse in a protracted siege during which Archimedes, the famous mathematician, scientist, and inventor, was killed, despite Marcellus ordering the soldiers under his command not to harm him. Marcus Claudius Marcellus died in battle in 208 BC, leaving behind a legacy of military conquests and a reinvigorated Roman legend of the spolia opima.
+The vice president of Bolivia, officially known as the vice president of the Plurinational State of Bolivia, is the second highest political position in Bolivia. The vice president replaces the president in his definitive absence or others impediment and is the ex officio President of the Legislative Assembly.
 
-https://en.m.wikipedia.org/wiki/Marcus_Claudius_Marcellus
+https://en.m.wikipedia.org/wiki/Vice_President_of_Bolivia
