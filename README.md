@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26390__
+- Honor: __26403__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1629__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The vice president of Bolivia, officially known as the vice president of the Plurinational State of Bolivia, is the second highest political position in Bolivia. The vice president replaces the president in his definitive absence or others impediment and is the ex officio President of the Legislative Assembly.
+Ciarán or Ciaran is a traditionally male given name of Irish origin. It means "little dark one" or "little dark-haired one", produced by appending a diminutive suffix to ciar. It is the masculine version of the name Ciara.
 
-https://en.m.wikipedia.org/wiki/Vice_President_of_Bolivia
+https://en.m.wikipedia.org/wiki/Ciar%C3%A1n
