@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26403__
+- Honor: __26414__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1629__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Ciarán or Ciaran is a traditionally male given name of Irish origin. It means "little dark one" or "little dark-haired one", produced by appending a diminutive suffix to ciar. It is the masculine version of the name Ciara.
+The Min River or Min Jiang is a 735-kilometer-long river (457 mi) in central Sichuan province, China. It is a tributary of the upper Yangtze River which it joins at Yibin. Within China, it was traditionally taken as the main course of the upper Yangtze prior to extensive exploration of its sources.
 
-https://en.m.wikipedia.org/wiki/Ciar%C3%A1n
+https://en.m.wikipedia.org/wiki/Min_River_(Sichuan)
