@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26414__
+- Honor: __26422__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1629__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Min River or Min Jiang is a 735-kilometer-long river (457 mi) in central Sichuan province, China. It is a tributary of the upper Yangtze River which it joins at Yibin. Within China, it was traditionally taken as the main course of the upper Yangtze prior to extensive exploration of its sources.
+Cansano is a comune in the province of L'Aquila in the Abruzzo region, Southern Italy. It is part of the Maiella National Park. Cansano is known for the archaeological discovery of the Italic and Roman town of Ocriticum, which has become an archaeological park.
 
-https://en.m.wikipedia.org/wiki/Min_River_(Sichuan)
+https://en.m.wikipedia.org/wiki/Cansano
