@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26422__
-- Leaderboard Position: __163__
+- Honor: __26432__
+- Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1629__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Cansano is a comune in the province of L'Aquila in the Abruzzo region, Southern Italy. It is part of the Maiella National Park. Cansano is known for the archaeological discovery of the Italic and Roman town of Ocriticum, which has become an archaeological park.
+Jamaica competed at the 2015 World Championships in Athletics in Beijing, China, from 22–30 August 2015.
 
-https://en.m.wikipedia.org/wiki/Cansano
+https://en.m.wikipedia.org/wiki/Jamaica_at_the_2015_World_Championships_in_Athletics
