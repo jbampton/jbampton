@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26432__
+- Honor: __26440__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1629__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Jamaica competed at the 2015 World Championships in Athletics in Beijing, China, from 22–30 August 2015.
+Joseph Alexandre Camille Madore was a Canadian politician.
 
-https://en.m.wikipedia.org/wiki/Jamaica_at_the_2015_World_Championships_in_Athletics
+https://en.m.wikipedia.org/wiki/Joseph_Alexandre_Camille_Madore
