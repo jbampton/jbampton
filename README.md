@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26440__
+- Honor: __26449__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1629__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Joseph Alexandre Camille Madore was a Canadian politician.
+Sienhachenbach is an Ortsgemeinde – a municipality belonging to a Verbandsgemeinde, a kind of collective municipality – in the Birkenfeld district in Rhineland-Palatinate, Germany. It belongs to the Verbandsgemeinde Herrstein-Rhaunen, whose seat is in Herrstein.
 
-https://en.m.wikipedia.org/wiki/Joseph_Alexandre_Camille_Madore
+https://en.m.wikipedia.org/wiki/Sienhachenbach
