@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26449__
+- Honor: __26455__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1629__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Sienhachenbach is an Ortsgemeinde – a municipality belonging to a Verbandsgemeinde, a kind of collective municipality – in the Birkenfeld district in Rhineland-Palatinate, Germany. It belongs to the Verbandsgemeinde Herrstein-Rhaunen, whose seat is in Herrstein.
+Ukhozi FM is a South African national radio station & owned by SABC, based in Durban, KwaZulu-Natal that caters to the needs of the Zulu-speaking community. Founded in 1960, it is the largest radio station in South Africa and Africa. The station has a broadcasting licence from ICASA.
 
-https://en.m.wikipedia.org/wiki/Sienhachenbach
+https://en.m.wikipedia.org/wiki/Ukhozi_FM
