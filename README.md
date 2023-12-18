@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26455__
+- Honor: __26462__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1629__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Ukhozi FM is a South African national radio station & owned by SABC, based in Durban, KwaZulu-Natal that caters to the needs of the Zulu-speaking community. Founded in 1960, it is the largest radio station in South Africa and Africa. The station has a broadcasting licence from ICASA.
+Pat Fraley is an American voice actor and voice-over teacher, known as the voice of Krang, Casey Jones, Baxter Stockman and numerous other characters in the 1987 Teenage Mutant Ninja Turtles animated television series and voiced Falcon in the 2003 Stuart Little animated television series. Fraley is also a member of Voice and Speech Trainers of America.
 
-https://en.m.wikipedia.org/wiki/Ukhozi_FM
+https://en.m.wikipedia.org/wiki/Pat_Fraley
