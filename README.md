@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26462__
+- Honor: __26471__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1629__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Pat Fraley is an American voice actor and voice-over teacher, known as the voice of Krang, Casey Jones, Baxter Stockman and numerous other characters in the 1987 Teenage Mutant Ninja Turtles animated television series and voiced Falcon in the 2003 Stuart Little animated television series. Fraley is also a member of Voice and Speech Trainers of America.
+Gaius Minicius Fundanus was a Roman senator who held several offices in the Emperor's service, and was an acquaintance of Pliny the Younger. He was suffect consul in the nundinium of May to August 107 AD with Titus Vettennius Severus as his colleague. Fundanus is best known as being the recipient of an edict from the emperor Hadrian about conducting trials of Christians in his province.
 
-https://en.m.wikipedia.org/wiki/Pat_Fraley
+https://en.m.wikipedia.org/wiki/Gaius_Minicius_Fundanus
