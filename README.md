@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26471__
+- Honor: __26480__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1629__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Gaius Minicius Fundanus was a Roman senator who held several offices in the Emperor's service, and was an acquaintance of Pliny the Younger. He was suffect consul in the nundinium of May to August 107 AD with Titus Vettennius Severus as his colleague. Fundanus is best known as being the recipient of an edict from the emperor Hadrian about conducting trials of Christians in his province.
+Viswanathan "Vishy" Anand is an Indian chess grandmaster and a former five-time World Chess Champion. He became the first grandmaster from India in 1988, and has the eighth highest peak FIDE rating of all-time. In 2022, he was elected the deputy president of FIDE.
 
-https://en.m.wikipedia.org/wiki/Gaius_Minicius_Fundanus
+https://en.m.wikipedia.org/wiki/Viswanathan_Anand
