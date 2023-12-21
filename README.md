@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26480__
+- Honor: __26488__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1629__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Viswanathan "Vishy" Anand is an Indian chess grandmaster and a former five-time World Chess Champion. He became the first grandmaster from India in 1988, and has the eighth highest peak FIDE rating of all-time. In 2022, he was elected the deputy president of FIDE.
+Lev Biryuk is a Ukrainian politician, People's Deputy of Ukraine of the 4th, 5th and 6th convocations of Verkhovna Rada of Ukraine. In 2011 he was awarded with Order of Merit, III class.
 
-https://en.m.wikipedia.org/wiki/Viswanathan_Anand
+https://en.m.wikipedia.org/wiki/Lev_Biryuk
