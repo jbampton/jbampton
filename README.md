@@ -7,10 +7,10 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26488__
+- Honor: __26497__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
-- Total Completed Kata: __1629__
+- Total Completed Kata: __1630__
 
 ## lichess
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Lev Biryuk is a Ukrainian politician, People's Deputy of Ukraine of the 4th, 5th and 6th convocations of Verkhovna Rada of Ukraine. In 2011 he was awarded with Order of Merit, III class.
+Yizhuang Culture Park station is a Subway station on the Yizhuang Line of the Beijing Subway. It opened on December 30, 2010, together with the other stations on the line.
 
-https://en.m.wikipedia.org/wiki/Lev_Biryuk
+https://en.m.wikipedia.org/wiki/Yizhuang_Culture_Park_station
