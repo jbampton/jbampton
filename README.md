@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26497__
+- Honor: __26502__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Yizhuang Culture Park station is a Subway station on the Yizhuang Line of the Beijing Subway. It opened on December 30, 2010, together with the other stations on the line.
+J-Village Station (Jヴィレッジ駅) is a railway station in the town of Naraha, Futaba District, Fukushima Prefecture, Japan, operated by the East Japan Railway Company. It was opened on 20 April 2019.
 
-https://en.m.wikipedia.org/wiki/Yizhuang_Culture_Park_station
+https://en.m.wikipedia.org/wiki/J-Village_Station
