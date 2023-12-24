@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26502__
+- Honor: __26506__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-J-Village Station (Jヴィレッジ駅) is a railway station in the town of Naraha, Futaba District, Fukushima Prefecture, Japan, operated by the East Japan Railway Company. It was opened on 20 April 2019.
+The Erg Iguidi, is a large erg in the area of Tindouf in southwestern Algeria, extending into northern Mali and Mauritania.
 
-https://en.m.wikipedia.org/wiki/J-Village_Station
+https://en.m.wikipedia.org/wiki/Erg_Iguidi
