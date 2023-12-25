@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26506__
+- Honor: __26510__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Erg Iguidi, is a large erg in the area of Tindouf in southwestern Algeria, extending into northern Mali and Mauritania.
+Fukuoka-Kitakyushu Greater Metropolitan Region  is the most common name given to the region comprising the metropolitan areas of the cities of Fukuoka and Kitakyushu in Fukuoka Prefecture, Japan and in between. Alternate names are many, including Kitakyushu-Fukuoka Greater Metropolitan Region (北九州・福岡大都市圏), Northern Part of Kyushu Greater Metropolitan Region (北部九州大都市圏)
 
-https://en.m.wikipedia.org/wiki/Erg_Iguidi
+https://en.m.wikipedia.org/wiki/Fukuoka%E2%80%93Kitakyushu
