@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26510__
+- Honor: __26517__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Fukuoka-Kitakyushu Greater Metropolitan Region  is the most common name given to the region comprising the metropolitan areas of the cities of Fukuoka and Kitakyushu in Fukuoka Prefecture, Japan and in between. Alternate names are many, including Kitakyushu-Fukuoka Greater Metropolitan Region (北九州・福岡大都市圏), Northern Part of Kyushu Greater Metropolitan Region (北部九州大都市圏)
+Keeping Up with the Joneses was an American gag-a-day comic strip by Pop Momand that ran from March 31, 1913, to April 16, 1938. It depicts the McGinis family, Aloysius, Clarice, their daughter Julie, and their housekeeper Bella Donna, who struggle to "keep up" with the lifestyle of their neighbors, the unseen Joneses. The comic coined the well-known catchphrase "keeping up with the Joneses", referring to people's tendency to judge their own social standing according to that of their neighbors.
 
-https://en.m.wikipedia.org/wiki/Fukuoka%E2%80%93Kitakyushu
+https://en.m.wikipedia.org/wiki/Keeping_Up_with_the_Joneses_(comics)
