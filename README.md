@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26517__
+- Honor: __26523__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Keeping Up with the Joneses was an American gag-a-day comic strip by Pop Momand that ran from March 31, 1913, to April 16, 1938. It depicts the McGinis family, Aloysius, Clarice, their daughter Julie, and their housekeeper Bella Donna, who struggle to "keep up" with the lifestyle of their neighbors, the unseen Joneses. The comic coined the well-known catchphrase "keeping up with the Joneses", referring to people's tendency to judge their own social standing according to that of their neighbors.
+Lachnophorus is a genus in the beetle family Carabidae. There are more than 20 described species in Lachnophorus.
 
-https://en.m.wikipedia.org/wiki/Keeping_Up_with_the_Joneses_(comics)
+https://en.m.wikipedia.org/wiki/Lachnophorus
