@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26523__
+- Honor: __26532__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Lachnophorus is a genus in the beetle family Carabidae. There are more than 20 described species in Lachnophorus.
+The Bone Collector is a 1999 American crime thriller film directed by Phillip Noyce and starring Denzel Washington and Angelina Jolie. The film is based on the 1997 crime novel of the same name written by Jeffery Deaver, concerning the tetraplegic detective Lincoln Rhyme.
 
-https://en.m.wikipedia.org/wiki/Lachnophorus
+https://en.m.wikipedia.org/wiki/The_Bone_Collector
