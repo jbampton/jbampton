@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26536__
+- Honor: __26540__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-In mathematics, the Loch Ness monster is a surface with infinite genus but only one end. It appeared named this way already in a 1981 article by Sullivan & Phillips (1981). The surface can be constructed by starting with a plane and adding an infinite number of handles.
+Fredrikke Egeberge was a Norwegian pianist and composer.
 
-https://en.m.wikipedia.org/wiki/Loch_Ness_monster_surface
+https://en.m.wikipedia.org/wiki/Fredrikke_Egeberg
