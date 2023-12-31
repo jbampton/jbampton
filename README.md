@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26540__
+- Honor: __26545__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Fredrikke Egeberge was a Norwegian pianist and composer.
+The Long-Term Stock Exchange (LTSE) is an SEC-registered national securities exchange built to serve companies and investors who share a long-term vision.
 
-https://en.m.wikipedia.org/wiki/Fredrikke_Egeberg
+https://en.m.wikipedia.org/wiki/Long-Term_Stock_Exchange
