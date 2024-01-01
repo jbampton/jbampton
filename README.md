@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26545__
+- Honor: __26549__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Long-Term Stock Exchange (LTSE) is an SEC-registered national securities exchange built to serve companies and investors who share a long-term vision.
+Savannah/Hilton Head International Airport is a commercial and military-use airport in Savannah, Georgia, United States. Savannah/Hilton Head International provides travelers with access to Savannah, Georgia, and Hilton Head Island, South Carolina, as well as neighboring areas including Bluffton and Beaufort, South Carolina and the Golden Isles region of Coastal Georgia.
 
-https://en.m.wikipedia.org/wiki/Long-Term_Stock_Exchange
+https://en.m.wikipedia.org/wiki/Savannah%2FHilton_Head_International_Airport
