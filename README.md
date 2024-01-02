@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26549__
+- Honor: __26554__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Savannah/Hilton Head International Airport is a commercial and military-use airport in Savannah, Georgia, United States. Savannah/Hilton Head International provides travelers with access to Savannah, Georgia, and Hilton Head Island, South Carolina, as well as neighboring areas including Bluffton and Beaufort, South Carolina and the Golden Isles region of Coastal Georgia.
+Glen Hansard is an Irish singer-songwriter and musician. Since 1990, he has been the frontman of the Irish rock band The Frames, with whom he has released six studio albums, four of which have charted in the top ten of the Irish Album Charts. In the 2000s, he was one half of folk rock duo The Swell Season before releasing his debut solo album, Rhythm and Repose, in 2012. His 2015 second album Didn't He Ramble was nominated for the Grammy Award for Best Folk Album.
 
-https://en.m.wikipedia.org/wiki/Savannah%2FHilton_Head_International_Airport
+https://en.m.wikipedia.org/wiki/Glen_Hansard
