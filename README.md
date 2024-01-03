@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26554__
+- Honor: __26557__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Glen Hansard is an Irish singer-songwriter and musician. Since 1990, he has been the frontman of the Irish rock band The Frames, with whom he has released six studio albums, four of which have charted in the top ten of the Irish Album Charts. In the 2000s, he was one half of folk rock duo The Swell Season before releasing his debut solo album, Rhythm and Repose, in 2012. His 2015 second album Didn't He Ramble was nominated for the Grammy Award for Best Folk Album.
+Nathalie is a 1957 French-Italian comedy crime film directed by Christian-Jaque and starring Martine Carol, Mischa Auer and Michel Piccoli. It was shot at the Joinville Studios of Franstudio and the Photosonor Studios, both in Paris. Location shooting also took place around the city including the Printemps department store and Paris Airport. The film's sets were designed by the art director Robert Gys. It was followed by a sequel Nathalie, Secret Agent in 1959, also starring Carol.
 
-https://en.m.wikipedia.org/wiki/Glen_Hansard
+https://en.m.wikipedia.org/wiki/Nathalie_(film)
