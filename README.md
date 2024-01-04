@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26557__
+- Honor: __26563__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Nathalie is a 1957 French-Italian comedy crime film directed by Christian-Jaque and starring Martine Carol, Mischa Auer and Michel Piccoli. It was shot at the Joinville Studios of Franstudio and the Photosonor Studios, both in Paris. Location shooting also took place around the city including the Printemps department store and Paris Airport. The film's sets were designed by the art director Robert Gys. It was followed by a sequel Nathalie, Secret Agent in 1959, also starring Carol.
+Australia competed at the 1978 Commonwealth Games in Edmonton Canada from 3 to 12 August 1978. It was Australia's eleventh appearance at the Commonwealth Games, having competed at every Games since their inception in 1930.
 
-https://en.m.wikipedia.org/wiki/Nathalie_(film)
+https://en.m.wikipedia.org/wiki/Australia_at_the_1978_Commonwealth_Games
