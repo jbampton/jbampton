@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26563__
+- Honor: __26573__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Australia competed at the 1978 Commonwealth Games in Edmonton Canada from 3 to 12 August 1978. It was Australia's eleventh appearance at the Commonwealth Games, having competed at every Games since their inception in 1930.
+Even Better Than the Disco Thing is an Irish charity album released by the commercial FM radio station, Today FM, for the Christmas market on 21 November 2008. The album features covers of well-known disco songs by a selection of Irish musicians. Disc one features sixteen tracks, whilst disc two is labelled "Mix CD" and contains twelve of the same sixteen tracks all over again. All the songs were performed and recorded live on The Ray D'Arcy Show. The title is a pun on the Even Better Than the Real Thing series of charity CDs recorded in previous years on D'Arcy's show, but temporarily discontinued after the third edition in 2005. They themselves are a reference to the U2 song "Even Better Than the Real Thing". Funds raised were donated to the National Children's Hospital and Barretstown.
 
-https://en.m.wikipedia.org/wiki/Australia_at_the_1978_Commonwealth_Games
+https://en.m.wikipedia.org/wiki/Even_Better_Than_the_Disco_Thing
