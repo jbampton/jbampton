@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26573__
+- Honor: __26586__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Even Better Than the Disco Thing is an Irish charity album released by the commercial FM radio station, Today FM, for the Christmas market on 21 November 2008. The album features covers of well-known disco songs by a selection of Irish musicians. Disc one features sixteen tracks, whilst disc two is labelled "Mix CD" and contains twelve of the same sixteen tracks all over again. All the songs were performed and recorded live on The Ray D'Arcy Show. The title is a pun on the Even Better Than the Real Thing series of charity CDs recorded in previous years on D'Arcy's show, but temporarily discontinued after the third edition in 2005. They themselves are a reference to the U2 song "Even Better Than the Real Thing". Funds raised were donated to the National Children's Hospital and Barretstown.
+The Great Influenza: The Story of the Deadliest Plague in History is a 2004 nonfiction book by John M. Barry that examines the Spanish flu, a 1918-1920 flu pandemic and one of the worst pandemics in history. Barry focuses on what was occurring in the United States at the time and attempts to place it against the background of American history and within the context of the history of medicine. The book describes how the flu started in Haskell County, Kansas, USA, and spread to the U.S. Army training camp Camp Funston, Kansas, USA, and around the world through troop movements during World War I.
 
-https://en.m.wikipedia.org/wiki/Even_Better_Than_the_Disco_Thing
+https://en.m.wikipedia.org/wiki/The_Great_Influenza
