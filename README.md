@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26586__
+- Honor: __26595__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,7 @@
 
 ## Random Wikipedia
 
-The Great Influenza: The Story of the Deadliest Plague in History is a 2004 nonfiction book by John M. Barry that examines the Spanish flu, a 1918-1920 flu pandemic and one of the worst pandemics in history. Barry focuses on what was occurring in the United States at the time and attempts to place it against the background of American history and within the context of the history of medicine. The book describes how the flu started in Haskell County, Kansas, USA, and spread to the U.S. Army training camp Camp Funston, Kansas, USA, and around the world through troop movements during World War I.
 
-https://en.m.wikipedia.org/wiki/The_Great_Influenza
+The Ross Isles are two small islands in Loch Lomond, in west central Scotland.
+
+https://en.m.wikipedia.org/wiki/Ross_Isles
