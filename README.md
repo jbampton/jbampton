@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26598__
+- Honor: __26607__
 - Leaderboard Position: __162__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Linden Grove is a historic home located at Frederick, Frederick County, Maryland, United States. It is a 2+1⁄2-story, second-quarter-19th-century transitional Federal-Greek Revival Flemish bond brick house. A porch was added to the house in about 1900. Outbuildings include a one-story stuccoed hip-roofed smokehouse and a mid-late 19th century two-story tenant house, with an addition from about 1930.
+Hangikjöt is a traditional festive food in Iceland, served at Christmas.
 
-https://en.m.wikipedia.org/wiki/Linden_Grove_(Frederick%2C_Maryland)
+https://en.m.wikipedia.org/wiki/Hangikj%C3%B6t
