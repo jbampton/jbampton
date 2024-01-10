@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26607__
-- Leaderboard Position: __162__
+- Honor: __26615__
+- Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Hangikjöt is a traditional festive food in Iceland, served at Christmas.
+Nes is the second largest village on the island of Ameland, one of the West Frisian Islands in the northern Netherlands.
 
-https://en.m.wikipedia.org/wiki/Hangikj%C3%B6t
+https://en.m.wikipedia.org/wiki/Nes%2C_Ameland
