@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26615__
+- Honor: __26623__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Nes is the second largest village on the island of Ameland, one of the West Frisian Islands in the northern Netherlands.
+Jagari or Jagori is a Bengali novel written by Satinath Bhaduri. The novel is considered to be a master-piece of Indian literature and it was first published in 1945. It is a semi-autobiographical novel and it is set in the 1940s's during the Quit India Movement.
 
-https://en.m.wikipedia.org/wiki/Nes%2C_Ameland
+https://en.m.wikipedia.org/wiki/Jagari
