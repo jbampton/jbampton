@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26623__
+- Honor: __26636__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Jagari or Jagori is a Bengali novel written by Satinath Bhaduri. The novel is considered to be a master-piece of Indian literature and it was first published in 1945. It is a semi-autobiographical novel and it is set in the 1940s's during the Quit India Movement.
+The International Civil Aviation Organization (ICAO) defines fatigue as "A physiological state of reduced mental or physical performance capability resulting from sleep loss or extended wakefulness, circadian phase, or workload." The phenomenon places great risk on the crew and passengers of an airplane because it significantly increases the chance of pilot error. Fatigue is particularly prevalent among pilots because of "unpredictable work hours, long duty periods, circadian disruption, and insufficient sleep". These factors can occur together to produce a combination of sleep deprivation, circadian rhythm effects, and 'time-on task' fatigue. Regulators attempt to mitigate fatigue by limiting the number of hours pilots are allowed to fly over varying periods of time.
 
-https://en.m.wikipedia.org/wiki/Jagari
+https://en.m.wikipedia.org/wiki/Pilot_fatigue
