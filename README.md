@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26646__
+- Honor: __26652__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Anthopsis is a genus of fungi in the family Dermateaceae containing 3 species. Colonies (PDA) grow slowly, are velvety to lanose, coloured olivaceous-grey to mouse grey with the reverse black.
+"Let the World Be Ours Tonight" is a song recorded by Canadian singer-songwriter Deborah Cox. The song was written by Cox, Jenna Mary Donnelly, Jurgen Kordulestch, and Warren David Meyers, and produced by Soulshaker. It was released as a single on June 30, 2017 by Radikal Records. The track became her 13th number one hit on Billboard's Dance Club Songs chart in its September 16, 2017 issue.
 
-https://en.m.wikipedia.org/wiki/Anthopsis
+https://en.m.wikipedia.org/wiki/Let_the_World_Be_Ours_Tonight
