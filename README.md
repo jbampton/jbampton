@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26661__
+- Honor: __26670__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Shooting Star Tommy Gun is a pneumatic machine gun manufactured by Shooting Star Inc. It was invented by Charles A. Feltman, the grandson of Charles Feltman, often credited as the inventor of the hot dog in Coney Island, New York with young Feltman previously inventing a hot dog roll toaster.
+Burgruine Nussberg is a castle in Frauenstein in Carinthia, Austria.
 
-https://en.m.wikipedia.org/wiki/Shooting_Star_Tommy_Gun
+https://en.m.wikipedia.org/wiki/Burgruine_Nussberg
