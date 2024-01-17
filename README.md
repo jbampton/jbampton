@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26670__
+- Honor: __26674__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Burgruine Nussberg is a castle in Frauenstein in Carinthia, Austria.
+Russell Island is an island, a town and a locality in the City of Redland, Queensland, Australia. The island is also known by its traditional Aboriginal name of Canaipa. In the 2021 census, Russell Island had a population of 3,698 people.
 
-https://en.m.wikipedia.org/wiki/Burgruine_Nussberg
+https://en.m.wikipedia.org/wiki/Russell_Island_(Moreton_Bay)
