@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26674__
+- Honor: __26682__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Russell Island is an island, a town and a locality in the City of Redland, Queensland, Australia. The island is also known by its traditional Aboriginal name of Canaipa. In the 2021 census, Russell Island had a population of 3,698 people.
+Sinners in Silk is a 1924 silent romantic drama film directed by Hobart Henley. The film stars Eleanor Boardman, Adolphe Menjou, Hedda Hopper, Conrad Nagel, and Jean Hersholt. It was written by Benjamin Glazer and Carey Wilson.
 
-https://en.m.wikipedia.org/wiki/Russell_Island_(Moreton_Bay)
+https://en.m.wikipedia.org/wiki/Sinners_in_Silk
