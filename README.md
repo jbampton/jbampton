@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26682__
+- Honor: __26690__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Sinners in Silk is a 1924 silent romantic drama film directed by Hobart Henley. The film stars Eleanor Boardman, Adolphe Menjou, Hedda Hopper, Conrad Nagel, and Jean Hersholt. It was written by Benjamin Glazer and Carey Wilson.
+PHD finger protein 1 is a protein that in humans is encoded by the PHF1 gene.
 
-https://en.m.wikipedia.org/wiki/Sinners_in_Silk
+https://en.m.wikipedia.org/wiki/PHF1
