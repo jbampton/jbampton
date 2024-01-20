@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26690__
+- Honor: __26693__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-PHD finger protein 1 is a protein that in humans is encoded by the PHF1 gene.
+The University of Valladolid is a public university located in the city of Valladolid, Valladolid province, autonomous region of Castile and Leon, Spain. Established in the 13th century, it is one of the oldest universities in the world. The university has 26,000 undergraduate students and more than 2,300 professors.
 
-https://en.m.wikipedia.org/wiki/PHF1
+https://en.m.wikipedia.org/wiki/University_of_Valladolid
