@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26693__
+- Honor: __26699__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The University of Valladolid is a public university located in the city of Valladolid, Valladolid province, autonomous region of Castile and Leon, Spain. Established in the 13th century, it is one of the oldest universities in the world. The university has 26,000 undergraduate students and more than 2,300 professors.
+Gufram is an Italian furniture manufacturer known for avant-garde, conceptual, witty, and Pop-art influenced designs; the unconventional use of industrial materials; collaborations with well known architects and designers; and the contribution its products made to the aesthetics of the 1960s Radical period of Italian design.
 
-https://en.m.wikipedia.org/wiki/University_of_Valladolid
+https://en.m.wikipedia.org/wiki/Gufram
