@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26699__
+- Honor: __26714__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Gufram is an Italian furniture manufacturer known for avant-garde, conceptual, witty, and Pop-art influenced designs; the unconventional use of industrial materials; collaborations with well known architects and designers; and the contribution its products made to the aesthetics of the 1960s Radical period of Italian design.
+The Duchy of Lithuania was a state-territorial formation of ethnic Lithuanians that existed from the 13th century to 1413. For most of its existence, it was a constituent part and a nucleus of the Grand Duchy of Lithuania. Other alternative names of the territorial formation, used in different periods, were Aukštaitija or Land of Lithuania, Duchy of Vilnius, Lithuania proper, or simply Lithuania.
 
-https://en.m.wikipedia.org/wiki/Gufram
+https://en.m.wikipedia.org/wiki/Duchy_of_Lithuania
