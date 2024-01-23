@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26714__
+- Honor: __26728__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Duchy of Lithuania was a state-territorial formation of ethnic Lithuanians that existed from the 13th century to 1413. For most of its existence, it was a constituent part and a nucleus of the Grand Duchy of Lithuania. Other alternative names of the territorial formation, used in different periods, were Aukštaitija or Land of Lithuania, Duchy of Vilnius, Lithuania proper, or simply Lithuania.
+Miomir Vukobratović was a Serbian mechanical engineer and pioneer in humanoid robots. His major interest laid in the development of efficient modeling and control of robot dynamics. He was born in Botoš, near Zrenjanin, Kingdom of Yugoslavia.
 
-https://en.m.wikipedia.org/wiki/Duchy_of_Lithuania
+https://en.m.wikipedia.org/wiki/Miomir_Vukobratovi%C4%87
