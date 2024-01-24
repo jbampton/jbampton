@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26728__
+- Honor: __26735__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Miomir Vukobratović was a Serbian mechanical engineer and pioneer in humanoid robots. His major interest laid in the development of efficient modeling and control of robot dynamics. He was born in Botoš, near Zrenjanin, Kingdom of Yugoslavia.
+Czesław Olech was a Polish mathematician. He was a representative of the Kraków school of mathematics, especially the differential equations school of Tadeusz Ważewski.
 
-https://en.m.wikipedia.org/wiki/Miomir_Vukobratovi%C4%87
+https://en.m.wikipedia.org/wiki/Czes%C5%82aw_Olech
