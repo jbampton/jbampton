@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26735__
+- Honor: __26747__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Czesław Olech was a Polish mathematician. He was a representative of the Kraków school of mathematics, especially the differential equations school of Tadeusz Ważewski.
+The "Schnitzelbank" is a simple song, popular primarily with German Americans.
 
-https://en.m.wikipedia.org/wiki/Czes%C5%82aw_Olech
+https://en.m.wikipedia.org/wiki/Schnitzelbank
