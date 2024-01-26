@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26747__
+- Honor: __26756__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The "Schnitzelbank" is a simple song, popular primarily with German Americans.
+The Uruguay national rugby union team, nicknamed Los Teros, represents the Uruguayan Rugby Union in men's international rugby union. One of the older test sides in the world, Uruguay has qualified five times for the Rugby World Cup, in 1999, 2003, 2015, 2019 and most recently 2023. As of 10 July 2023 they are ranked 17th in the world, and are ranked 2nd in the Americas region, behind rivals Argentina.
 
-https://en.m.wikipedia.org/wiki/Schnitzelbank
+https://en.m.wikipedia.org/wiki/Uruguay_national_rugby_union_team
