@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26763__
+- Honor: __26767__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-María Noel Barrionuevo is an Argentine field hockey player.
+Édouard Brézin is a French theoretical physicist. He is professor at Université Paris 6, working at the laboratory for theoretical physics (LPT) of the École Normale Supérieure since 1986.
 
-https://en.m.wikipedia.org/wiki/Noel_Barrionuevo
+https://en.m.wikipedia.org/wiki/%C3%89douard_Br%C3%A9zin
