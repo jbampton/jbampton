@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26767__
+- Honor: __26777__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Édouard Brézin is a French theoretical physicist. He is professor at Université Paris 6, working at the laboratory for theoretical physics (LPT) of the École Normale Supérieure since 1986.
+The Montana Arctic grayling is a North American freshwater fish in the salmon family Salmonidae. The Montana Arctic grayling, native to the upper Missouri River basin in Montana and Wyoming, is a disjunct population or subspecies of the more widespread Arctic grayling. It occurs in fluvial and adfluvial, lacustrine forms. The Montana grayling is a species of special concern in Montana and had candidate status for listing under the national Endangered Species Act. It underwent a comprehensive status review by the U.S. Fish and Wildlife Service, which in 2014 decided not to list it as threatened or endangered. Current surviving native populations in the Big Hole River and Red Rock River drainages represent approximately four percent of the subspecies' historical range.
 
-https://en.m.wikipedia.org/wiki/%C3%89douard_Br%C3%A9zin
+https://en.m.wikipedia.org/wiki/Montana_Arctic_grayling
