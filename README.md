@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26777__
+- Honor: __26783__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1630__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Montana Arctic grayling is a North American freshwater fish in the salmon family Salmonidae. The Montana Arctic grayling, native to the upper Missouri River basin in Montana and Wyoming, is a disjunct population or subspecies of the more widespread Arctic grayling. It occurs in fluvial and adfluvial, lacustrine forms. The Montana grayling is a species of special concern in Montana and had candidate status for listing under the national Endangered Species Act. It underwent a comprehensive status review by the U.S. Fish and Wildlife Service, which in 2014 decided not to list it as threatened or endangered. Current surviving native populations in the Big Hole River and Red Rock River drainages represent approximately four percent of the subspecies' historical range.
+Malaysia–Sri Lanka relations refers to the bilateral foreign relations between Malaysia and Sri Lanka. Malaysia has a high commission in Colombo, and Sri Lanka has a high commission in Kuala Lumpur. Both countries are members of the Commonwealth of Nations and the Group of 77.
 
-https://en.m.wikipedia.org/wiki/Montana_Arctic_grayling
+https://en.m.wikipedia.org/wiki/Malaysia%E2%80%93Sri_Lanka_relations
