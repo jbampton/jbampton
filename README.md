@@ -7,10 +7,10 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26783__
+- Honor: __26798__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
-- Total Completed Kata: __1630__
+- Total Completed Kata: __1633__
 
 ## lichess
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Malaysia–Sri Lanka relations refers to the bilateral foreign relations between Malaysia and Sri Lanka. Malaysia has a high commission in Colombo, and Sri Lanka has a high commission in Kuala Lumpur. Both countries are members of the Commonwealth of Nations and the Group of 77.
+Nynäshamn is a station on Stockholm's commuter train network, located in Nynäshamn within Nynäshamn Municipality and is the terminus for the Nynäs Line. On a normal winter weekday, the station has about 900 boarders (2015). The station has three tracks, which end with stop buffers. Entrance to the platform is geographically from the north. The station no longer has an entrance building or ticket hall, but has weather protection on the platform. Nynäshamn is used as a transfer to the Destination Gotland ferries to the island of Gotland.
 
-https://en.m.wikipedia.org/wiki/Malaysia%E2%80%93Sri_Lanka_relations
+https://en.m.wikipedia.org/wiki/Nyn%C3%A4shamn_Station
