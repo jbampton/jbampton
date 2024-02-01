@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26798__
+- Honor: __26811__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Nynäshamn is a station on Stockholm's commuter train network, located in Nynäshamn within Nynäshamn Municipality and is the terminus for the Nynäs Line. On a normal winter weekday, the station has about 900 boarders (2015). The station has three tracks, which end with stop buffers. Entrance to the platform is geographically from the north. The station no longer has an entrance building or ticket hall, but has weather protection on the platform. Nynäshamn is used as a transfer to the Destination Gotland ferries to the island of Gotland.
+Return of the Living Dead: Necropolis is a 2005 made-for-television action horror film directed by Ellory Elkayem, starring Aimee Lynn Chadwick, Cory Hardrict, John Keefe, Jana Kramer, and Peter Coyote. It is the fourth film in the Return of the Living Dead film series.
 
-https://en.m.wikipedia.org/wiki/Nyn%C3%A4shamn_Station
+https://en.m.wikipedia.org/wiki/Return_of_the_Living_Dead%3A_Necropolis
