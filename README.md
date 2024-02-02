@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26811__
+- Honor: __26820__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Return of the Living Dead: Necropolis is a 2005 made-for-television action horror film directed by Ellory Elkayem, starring Aimee Lynn Chadwick, Cory Hardrict, John Keefe, Jana Kramer, and Peter Coyote. It is the fourth film in the Return of the Living Dead film series.
+The Texas A&M Aggies women's soccer team represents Texas A&M University in NCAA Division I college soccer. The team belongs to the Southeastern Conference (SEC) and plays its home games at Ellis Field.
 
-https://en.m.wikipedia.org/wiki/Return_of_the_Living_Dead%3A_Necropolis
+https://en.m.wikipedia.org/wiki/Texas_A%26M_Aggies_women's_soccer
