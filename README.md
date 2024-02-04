@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26832__
+- Honor: __26838__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Orland Fenwick was Mayor of Melbourne from 1871–1872, after having joined the council in 1865. Born in Gravesend, Kent in England, Fenwick immigrated to Victoria in November 1852, where he ran a retail and wholesale drapery business. Following his term as mayor, he remained on the city council until his death.
+Robert Michael Makeham was an Australian rules footballer who played with Collingwood in the Victorian Football League (VFL).
 
-https://en.m.wikipedia.org/wiki/Orlando_Fenwick
+https://en.m.wikipedia.org/wiki/Bob_Makeham
