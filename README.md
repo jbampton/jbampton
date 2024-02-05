@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26838__
+- Honor: __26847__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Robert Michael Makeham was an Australian rules footballer who played with Collingwood in the Victorian Football League (VFL).
+The 2020–21 Hsinchu JKO Lioneers season was the first season of the franchise in the P. LEAGUE+ (PLG), its 1st in the Hsinchu County and playing home games at Hsinchu County Stadium. The Lioneers are coached by Lin Kuan-Lun in his first year as head coach
 
-https://en.m.wikipedia.org/wiki/Bob_Makeham
+https://en.m.wikipedia.org/wiki/2020%E2%80%9321_Hsinchu_JKO_Lioneers_season
