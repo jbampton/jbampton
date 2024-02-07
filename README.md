@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26855__
+- Honor: __26866__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Leucanopsis pseudoconiata is a moth of the family Erebidae first described by Walter Rothschild in 1909. It is found in Peru.
+USA-232, also known as GPS IIF-2, and GPS SVN-63, is an American navigation satellite which forms part of the Global Positioning System. It was the second of twelve Block IIF satellites to be launched.
 
-https://en.m.wikipedia.org/wiki/Leucanopsis_pseudoconiata
+https://en.m.wikipedia.org/wiki/USA-232
