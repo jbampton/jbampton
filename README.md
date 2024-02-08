@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26866__
+- Honor: __26872__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-USA-232, also known as GPS IIF-2, and GPS SVN-63, is an American navigation satellite which forms part of the Global Positioning System. It was the second of twelve Block IIF satellites to be launched.
+Bailey is an unincorporated community and U.S. Post Office in northeastern Park County, Colorado, United States. Bailey's Post Office ZIP Code is 80421.
 
-https://en.m.wikipedia.org/wiki/USA-232
+https://en.m.wikipedia.org/wiki/Bailey%2C_Colorado
