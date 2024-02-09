@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26872__
+- Honor: __26876__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Bailey is an unincorporated community and U.S. Post Office in northeastern Park County, Colorado, United States. Bailey's Post Office ZIP Code is 80421.
+The Million Dollar Theatre at 307 S. Broadway in Downtown Los Angeles is one of the first movie palaces built in the United States. It opened in 1917 with the premiere of William S. Hart's The Silent Man. It's the northernmost of the collection of historical movie palaces in the Broadway Theater District and stands directly across from the landmark Bradbury Building. The theater is listed in the National Register of Historic Places.
 
-https://en.m.wikipedia.org/wiki/Bailey%2C_Colorado
+https://en.m.wikipedia.org/wiki/Million_Dollar_Theater
