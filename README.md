@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26876__
+- Honor: __26882__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Million Dollar Theatre at 307 S. Broadway in Downtown Los Angeles is one of the first movie palaces built in the United States. It opened in 1917 with the premiere of William S. Hart's The Silent Man. It's the northernmost of the collection of historical movie palaces in the Broadway Theater District and stands directly across from the landmark Bradbury Building. The theater is listed in the National Register of Historic Places.
+State Highway 140 (SH 140) is a 23.435 mi (37.715 km) long state highway in the southwestern corner of Colorado. SH 140's southern terminus is at New Mexico State Road 170 (NM 170) at the New Mexico state line, and the northern terminus is at U.S. Route 160 (US 160) west of Durango.
 
-https://en.m.wikipedia.org/wiki/Million_Dollar_Theater
+https://en.m.wikipedia.org/wiki/Colorado_State_Highway_140
