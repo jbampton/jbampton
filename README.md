@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26882__
+- Honor: __26886__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-State Highway 140 (SH 140) is a 23.435 mi (37.715 km) long state highway in the southwestern corner of Colorado. SH 140's southern terminus is at New Mexico State Road 170 (NM 170) at the New Mexico state line, and the northern terminus is at U.S. Route 160 (US 160) west of Durango.
+The Akanyaru River is the main tributary of the Nyabarongo River. It rises in the western highlands of Rwanda and Burundi, flows east and then north along the border between those countries before joining the Nyabarongo River. The lower stretches contain important but unprotected wetlands, which are under threat from human activity.
 
-https://en.m.wikipedia.org/wiki/Colorado_State_Highway_140
+https://en.m.wikipedia.org/wiki/Akanyaru_River
