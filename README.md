@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26890__
+- Honor: __26896__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Tushetian is a breed of small saddle horses native to Tusheti, Georgia. It is probably the result of ancient selection, marked by harsh environmental conditions, under the influence of Arabian and Turkoman horses. Small in size, the Tushetian is known for its resistance, its adaptation to its mountainous region, and its ability to move at the amble gait. Historically, they were mainly ridden for farm work with sheep, and covered for off-road mountain transport. A rare breed, it is very local and could be threatened with extinction. Protection measures have been recommended in order to preserve it, notably because of its genetic heritage.
+The  Hotel Intourist Palace  is a luxury hotel in Batumi, Georgia.
 
-https://en.m.wikipedia.org/wiki/Tushetian_horse
+https://en.m.wikipedia.org/wiki/Hotel_Intourist_Palace
