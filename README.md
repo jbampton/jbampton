@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26909__
+- Honor: __26916__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Presqu'île is the central part of the City of Lyon, France. Extending from the foot of the Croix-Rousse hill in the north to the confluence of the Rhône and the Saône rivers in the south, it has a preponderance of cafés, restaurants, luxury shops, department stores, banks, government buildings and cultural institutions.
+Matilda of Brabant was the eldest daughter of Henry II, Duke of Brabant and his first wife Marie of Hohenstaufen.
 
-https://en.m.wikipedia.org/wiki/Presqu'%C3%AEle
+https://en.m.wikipedia.org/wiki/Matilda_of_Brabant%2C_Countess_of_Artois
