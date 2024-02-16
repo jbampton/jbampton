@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26916__
+- Honor: __26924__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Matilda of Brabant was the eldest daughter of Henry II, Duke of Brabant and his first wife Marie of Hohenstaufen.
+The Martello Gallery-Key West Art and Historical Museum, is a historic site located at 3501 South Roosevelt Boulevard, Key West, Florida, United States. On June 19, 1972, it was added to the U.S. National Register of Historic Places. It is the best-preserved example of the Martello style of military architecture in the country.
 
-https://en.m.wikipedia.org/wiki/Matilda_of_Brabant%2C_Countess_of_Artois
+https://en.m.wikipedia.org/wiki/Martello_Gallery-Key_West_Art_and_Historical_Museum
