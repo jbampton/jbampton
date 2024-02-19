@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26934__
+- Honor: __26942__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Ashley is a village in Delaware County, Ohio, United States. The population was 1,198 at the 2020 census.
+Daniel Račić is an Austrian footballer of Serbian descent who plays for WSC Hertha Wels.
 
-https://en.m.wikipedia.org/wiki/Ashley%2C_Ohio
+https://en.m.wikipedia.org/wiki/Daniel_Ra%C4%8Di%C4%87
