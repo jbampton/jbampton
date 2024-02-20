@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26942__
+- Honor: __26952__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,7 @@
 
 ## Random Wikipedia
 
-Daniel Račić is an Austrian footballer of Serbian descent who plays for WSC Hertha Wels.
+"Don't Go Breaking My Heart" is a song by Swedish recording artist Agnes, released on September 21, 2011 as a promotional single. The song was first heard and revealed as a single during the Stockholm Pride festival on August 5, 2011 The song is written by Agnes, Vincent Pontare, Magnus Lidehäll, The Nervo Twins and produced by Vincent Pontare and Magnus Lidehäll.
+ A music video for the single release was shot on September 12, 2011 and directed by Mikeadelica.
 
-https://en.m.wikipedia.org/wiki/Daniel_Ra%C4%8Di%C4%87
+https://en.m.wikipedia.org/wiki/Don't_Go_Breaking_My_Heart_(Agnes_song)
