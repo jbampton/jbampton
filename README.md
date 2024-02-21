@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26952__
+- Honor: __26961__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,7 +46,6 @@
 
 ## Random Wikipedia
 
-"Don't Go Breaking My Heart" is a song by Swedish recording artist Agnes, released on September 21, 2011 as a promotional single. The song was first heard and revealed as a single during the Stockholm Pride festival on August 5, 2011 The song is written by Agnes, Vincent Pontare, Magnus Lidehäll, The Nervo Twins and produced by Vincent Pontare and Magnus Lidehäll.
- A music video for the single release was shot on September 12, 2011 and directed by Mikeadelica.
+Guru is a British 2006 short documentary film about the guru of yoga as exercise K. Pattabhi Jois, directed by the BBC film producer Robert Wilkins. The film shows Jois and his grandson Sharath Rangaswamy teaching in the yogashala at the Ashtanga Yoga Research Institute in Mysore, India. It combined footage of beginner and advanced students practising the various Ashtanga Vinyasa Yoga series of asanas, from Primary to Advanced, with interviews with Jois and senior staff at the Institute, and street scenes in Mysore. The film also shows Jois's children Saraswati and Manju talk about their father. Wilkins took up Ashtanga Yoga two years before making the film. Wilkins spent several months in Mysore studying for the film.
 
-https://en.m.wikipedia.org/wiki/Don't_Go_Breaking_My_Heart_(Agnes_song)
+https://en.m.wikipedia.org/wiki/Guru_(2006_film)
