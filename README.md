@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26961__
+- Honor: __26965__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Guru is a British 2006 short documentary film about the guru of yoga as exercise K. Pattabhi Jois, directed by the BBC film producer Robert Wilkins. The film shows Jois and his grandson Sharath Rangaswamy teaching in the yogashala at the Ashtanga Yoga Research Institute in Mysore, India. It combined footage of beginner and advanced students practising the various Ashtanga Vinyasa Yoga series of asanas, from Primary to Advanced, with interviews with Jois and senior staff at the Institute, and street scenes in Mysore. The film also shows Jois's children Saraswati and Manju talk about their father. Wilkins took up Ashtanga Yoga two years before making the film. Wilkins spent several months in Mysore studying for the film.
+Cross-Cultural Dance Resources (CCDR) is a non-profit dance research organization in the United States, formed in 1981 and based in Tempe, Arizona. It maintains a non-lending library devoted to the study of dance, with over 15,000 shelved items plus the archives of Eleanor King, Gertrude Prokosch Kurath and Joann Kealiinohomoku. The organization also produces the CCDR Newsletter, which is issued twice per year and provides information on dance research, news, and upcoming events. In 2000, the organization was recognized for a special preservation award by the Dance Heritage Coalition, as well as being recognized by the White House Millennium Council, as part of "Save America's Treasures".
 
-https://en.m.wikipedia.org/wiki/Guru_(2006_film)
+https://en.m.wikipedia.org/wiki/Cross-Cultural_Dance_Resources
