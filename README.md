@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26965__
+- Honor: __26968__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Cross-Cultural Dance Resources (CCDR) is a non-profit dance research organization in the United States, formed in 1981 and based in Tempe, Arizona. It maintains a non-lending library devoted to the study of dance, with over 15,000 shelved items plus the archives of Eleanor King, Gertrude Prokosch Kurath and Joann Kealiinohomoku. The organization also produces the CCDR Newsletter, which is issued twice per year and provides information on dance research, news, and upcoming events. In 2000, the organization was recognized for a special preservation award by the Dance Heritage Coalition, as well as being recognized by the White House Millennium Council, as part of "Save America's Treasures".
+The March of the Guards to Finchley, also known as The March to Finchley or The March of the Guards, is a 1750 oil-on-canvas painting by English artist William Hogarth, owned by and on display at the Foundling Museum. Hogarth was well known for his satirical works, and The March of the Guards to Finchley has been said to have given full scope to this sense of satire; it was described by Hogarth himself as "steeped in humour".
 
-https://en.m.wikipedia.org/wiki/Cross-Cultural_Dance_Resources
+https://en.m.wikipedia.org/wiki/The_March_of_the_Guards_to_Finchley
