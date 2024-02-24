@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26968__
+- Honor: __26977__
 - Leaderboard Position: __163__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The March of the Guards to Finchley, also known as The March to Finchley or The March of the Guards, is a 1750 oil-on-canvas painting by English artist William Hogarth, owned by and on display at the Foundling Museum. Hogarth was well known for his satirical works, and The March of the Guards to Finchley has been said to have given full scope to this sense of satire; it was described by Hogarth himself as "steeped in humour".
+The Heights is an American musical drama series that aired Thursday at 9:00 pm on Fox from August 27 to November 26, 1992.
 
-https://en.m.wikipedia.org/wiki/The_March_of_the_Guards_to_Finchley
+https://en.m.wikipedia.org/wiki/The_Heights_(American_TV_series)
