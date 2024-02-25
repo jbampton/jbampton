@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26977__
-- Leaderboard Position: __163__
+- Honor: __26979__
+- Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Heights is an American musical drama series that aired Thursday at 9:00 pm on Fox from August 27 to November 26, 1992.
+Delta University for Science and Technology, was founded in 2007 by the higher education system of Egypt, is an Egyptian private university, located in Mansoura.
 
-https://en.m.wikipedia.org/wiki/The_Heights_(American_TV_series)
+https://en.m.wikipedia.org/wiki/Delta_University_for_Science_and_Technology
