@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26979__
+- Honor: __26988__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Delta University for Science and Technology, was founded in 2007 by the higher education system of Egypt, is an Egyptian private university, located in Mansoura.
+Marmesin (nodakenetin) is a chemical compound precursor in psoralen and linear furanocoumarins biosynthesis.
 
-https://en.m.wikipedia.org/wiki/Delta_University_for_Science_and_Technology
+https://en.m.wikipedia.org/wiki/Marmesin
