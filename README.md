@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26988__
+- Honor: __26995__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Marmesin (nodakenetin) is a chemical compound precursor in psoralen and linear furanocoumarins biosynthesis.
+The 44th Bombardment Squadron is an inactive United States Air Force unit. Its last assignment was with the 40th Bombardment Wing, based at Forbes Air Force Base, Kansas. It was inactivated on 1 September 1964.
 
-https://en.m.wikipedia.org/wiki/Marmesin
+https://en.m.wikipedia.org/wiki/44th_Bombardment_Squadron
