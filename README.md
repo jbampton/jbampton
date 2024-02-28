@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __26995__
+- Honor: __27008__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The 44th Bombardment Squadron is an inactive United States Air Force unit. Its last assignment was with the 40th Bombardment Wing, based at Forbes Air Force Base, Kansas. It was inactivated on 1 September 1964.
+The hooktooth dogfish, Aculeola nigra, is a small, little-known dogfish, the only member of the genus Aculeola.
 
-https://en.m.wikipedia.org/wiki/44th_Bombardment_Squadron
+https://en.m.wikipedia.org/wiki/Hooktooth_dogfish
