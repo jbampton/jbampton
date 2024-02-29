@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27008__
+- Honor: __27014__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The hooktooth dogfish, Aculeola nigra, is a small, little-known dogfish, the only member of the genus Aculeola.
+The siege of Valenciennes took place between 13 June and 28 July 1793, during the Flanders Campaign of the War of the First Coalition. The French garrison under Jean Henri Becays Ferrand was blockaded by part of the army of Prince Josias of Saxe-Coburg-Saalfeld, commanded by the Prince Frederick, Duke of York and Albany. Valenciennes fell on 28 July, resulting in an Allied victory.
 
-https://en.m.wikipedia.org/wiki/Hooktooth_dogfish
+https://en.m.wikipedia.org/wiki/Siege_of_Valenciennes_(1793)
