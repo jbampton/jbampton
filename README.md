@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27028__
+- Honor: __27034__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Cereus ( "serious") is a genus of cacti including around 33 species of large columnar cacti from South America. The name is derived from Greek (κηρός) and Latin words meaning "wax", "torch" or "candle". Cereus was one of the first cactus genera to be described; the circumscription varies depending on the authority. The term "cereus" is also sometimes used for a ceroid cactus, any cactus with a very elongated body, including columnar growth cacti and epiphytic cacti.
+Basie Jam 3 is a 1976 studio album by Count Basie, produced at the same sessions as Basie Jam 2.
 
-https://en.m.wikipedia.org/wiki/Cereus_(plant)
+https://en.m.wikipedia.org/wiki/Basie_Jam_3
