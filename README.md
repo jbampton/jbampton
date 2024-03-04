@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27034__
+- Honor: __27040__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Basie Jam 3 is a 1976 studio album by Count Basie, produced at the same sessions as Basie Jam 2.
+Parvin Ahmadinejad is an Iranian politician. She is the sister of former President, Mahmoud Ahmadinejad.
 
-https://en.m.wikipedia.org/wiki/Basie_Jam_3
+https://en.m.wikipedia.org/wiki/Parvin_Ahmadinejad
