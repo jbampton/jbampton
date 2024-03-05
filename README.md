@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27040__
+- Honor: __27052__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Parvin Ahmadinejad is an Iranian politician. She is the sister of former President, Mahmoud Ahmadinejad.
+Just Married is a 2007 Indian Hindi-language comedy film directed by Meghna Gulzar, starring Fardeen Khan, Esha Deol in lead roles along with Satish Shah, Kirron Kher and Mukul Dev in supporting roles.
 
-https://en.m.wikipedia.org/wiki/Parvin_Ahmadinejad
+https://en.m.wikipedia.org/wiki/Just_Married_(2007_film)
