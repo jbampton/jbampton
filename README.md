@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27052__
+- Honor: __27058__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Just Married is a 2007 Indian Hindi-language comedy film directed by Meghna Gulzar, starring Fardeen Khan, Esha Deol in lead roles along with Satish Shah, Kirron Kher and Mukul Dev in supporting roles.
+WPA Stone Structures in Memorial Park and Calvary Cemetery, in Grand Forks, North Dakota, was listed on the National Register of Historic Places in 2010. It includes work by Ray F. Wyrick, "'a noted cemetery landscape engineer' from Des Moines, IA, who consulted as a WPA design advisor all over the country." The listing includes "two sets of stone entrance gateways, one relocated set of stone entry cairns, and a stone chapel building." It is believed that Wyrick made provided overall design of general cemetery layout and designed a reflecting pool for the cemetery, too.
 
-https://en.m.wikipedia.org/wiki/Just_Married_(2007_film)
+https://en.m.wikipedia.org/wiki/WPA_Stone_Structures_in_Memorial_Park_and_Calvary_Cemetery
