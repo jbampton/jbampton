@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27058__
+- Honor: __27063__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-WPA Stone Structures in Memorial Park and Calvary Cemetery, in Grand Forks, North Dakota, was listed on the National Register of Historic Places in 2010. It includes work by Ray F. Wyrick, "'a noted cemetery landscape engineer' from Des Moines, IA, who consulted as a WPA design advisor all over the country." The listing includes "two sets of stone entrance gateways, one relocated set of stone entry cairns, and a stone chapel building." It is believed that Wyrick made provided overall design of general cemetery layout and designed a reflecting pool for the cemetery, too.
+Adam Bohorič was a Slovene Protestant preacher, teacher and author of the first grammar of Slovene.
 
-https://en.m.wikipedia.org/wiki/WPA_Stone_Structures_in_Memorial_Park_and_Calvary_Cemetery
+https://en.m.wikipedia.org/wiki/Adam_Bohori%C4%8D
