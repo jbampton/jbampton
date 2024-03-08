@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27063__
+- Honor: __27070__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,7 @@
 
 ## Random Wikipedia
 
-Adam Bohorič was a Slovene Protestant preacher, teacher and author of the first grammar of Slovene.
+The Maltese Corso, also known as the Corto Maltese, was a long-standing naval operation from 1530 to 1798 conducted by the Knights Hospitaller based on the Island of Malta, waged against the Ottoman Empire's navy and merchant shipping 
+on the coast of North Africa, and against the semi-independent Ottoman vassals, the Deylik of Algiers, the Eyalet of Tripoli, the Eyalet of Tunis, and the Barbary pirates. The Corso reached its peak intensity in the years from 1660 to 1675, and slowly waned during the following decades, eventually reduced to only seven ships in 1724, before finally coming to an end with Malta's capitulation to Napoleon in June 1798.
 
-https://en.m.wikipedia.org/wiki/Adam_Bohori%C4%8D
+https://en.m.wikipedia.org/wiki/Maltese_Corso
