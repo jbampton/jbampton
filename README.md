@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27070__
+- Honor: __27079__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,7 +46,6 @@
 
 ## Random Wikipedia
 
-The Maltese Corso, also known as the Corto Maltese, was a long-standing naval operation from 1530 to 1798 conducted by the Knights Hospitaller based on the Island of Malta, waged against the Ottoman Empire's navy and merchant shipping 
-on the coast of North Africa, and against the semi-independent Ottoman vassals, the Deylik of Algiers, the Eyalet of Tripoli, the Eyalet of Tunis, and the Barbary pirates. The Corso reached its peak intensity in the years from 1660 to 1675, and slowly waned during the following decades, eventually reduced to only seven ships in 1724, before finally coming to an end with Malta's capitulation to Napoleon in June 1798.
+Sceaux is a commune in the Hauts-de-Seine department in the southern suburbs of Paris, France. It is located 9.7 km (6.0 mi) from the centre of Paris. In 2019, Sceaux had a population of 20,004. Sceaux is one of the most affluent areas of France and is known for its very high housing costs.
 
-https://en.m.wikipedia.org/wiki/Maltese_Corso
+https://en.m.wikipedia.org/wiki/Sceaux%2C_Hauts-de-Seine
