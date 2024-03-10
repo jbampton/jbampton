@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27079__
+- Honor: __27084__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Sceaux is a commune in the Hauts-de-Seine department in the southern suburbs of Paris, France. It is located 9.7 km (6.0 mi) from the centre of Paris. In 2019, Sceaux had a population of 20,004. Sceaux is one of the most affluent areas of France and is known for its very high housing costs.
+Too Much, Too Little, Too Late was a 1998 EP and single by the British power pop band Silver Sun. The title track was a cover of the John Vallins song that was US #1 hit for Johnny Mathis and Deniece Williams. It was the biggest commercial success to date for the band reaching #20 in the UK Singles Chart.
 
-https://en.m.wikipedia.org/wiki/Sceaux%2C_Hauts-de-Seine
+https://en.m.wikipedia.org/wiki/Too_Much%2C_Too_Little%2C_Too_Late_(EP)
