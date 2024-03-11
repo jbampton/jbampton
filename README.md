@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27084__
+- Honor: __27089__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Too Much, Too Little, Too Late was a 1998 EP and single by the British power pop band Silver Sun. The title track was a cover of the John Vallins song that was US #1 hit for Johnny Mathis and Deniece Williams. It was the biggest commercial success to date for the band reaching #20 in the UK Singles Chart.
+Yax Nuun Ahiin II also known as Ruler C and Chitam,, was an ajaw of the Maya city of Tikal. He took the throne on December 25, 768 and reigning probably until his death. He was son of Yik'in Chan K'awiil and brother of 28th Ruler. The monuments associated with Yax Nuun Ahiin II are: Stelae 19, 21 and Altars 6 and 10.
 
-https://en.m.wikipedia.org/wiki/Too_Much%2C_Too_Little%2C_Too_Late_(EP)
+https://en.m.wikipedia.org/wiki/Yax_Nuun_Ahiin_II
