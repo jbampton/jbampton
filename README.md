@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27089__
+- Honor: __27098__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Yax Nuun Ahiin II also known as Ruler C and Chitam,, was an ajaw of the Maya city of Tikal. He took the throne on December 25, 768 and reigning probably until his death. He was son of Yik'in Chan K'awiil and brother of 28th Ruler. The monuments associated with Yax Nuun Ahiin II are: Stelae 19, 21 and Altars 6 and 10.
+Kathleen Sebelius is an American politician who served as the 21st United States Secretary of Health and Human Services from 2009 until 2014. As Secretary of Health and Human Services, Sebelius was instrumental in overseeing the implementation of the Affordable Care Act. Before becoming secretary, she served as the 44th governor of Kansas from 2003 to 2009, the second woman to hold that office. She is a member of the Democratic Party. Sebelius was the Democratic respondent to the 2008 State of the Union address and is chair-emerita of the Democratic Governors Association. She is CEO of Sebelius Resources LLC.
 
-https://en.m.wikipedia.org/wiki/Yax_Nuun_Ahiin_II
+https://en.m.wikipedia.org/wiki/Kathleen_Sebelius
