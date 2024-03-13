@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27098__
+- Honor: __27107__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Kathleen Sebelius is an American politician who served as the 21st United States Secretary of Health and Human Services from 2009 until 2014. As Secretary of Health and Human Services, Sebelius was instrumental in overseeing the implementation of the Affordable Care Act. Before becoming secretary, she served as the 44th governor of Kansas from 2003 to 2009, the second woman to hold that office. She is a member of the Democratic Party. Sebelius was the Democratic respondent to the 2008 State of the Union address and is chair-emerita of the Democratic Governors Association. She is CEO of Sebelius Resources LLC.
+Trinity College, officially The College of the Holy and Undivided Trinity of Queen Elizabeth near Dublin, is the sole constituent college of the University of Dublin, a research university in Dublin, Ireland. Queen Elizabeth I issued a royal charter for the college in 1592 as "the mother of a university" that was modelled after the collegiate universities of both Oxford and Cambridge, but unlike these affiliated institutions, only one college was ever established; as such, the designations "Trinity College" and "University of Dublin" are usually synonymous for administrative purposes.
 
-https://en.m.wikipedia.org/wiki/Kathleen_Sebelius
+https://en.m.wikipedia.org/wiki/Trinity_College_Dublin
