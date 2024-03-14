@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27107__
+- Honor: __27115__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Trinity College, officially The College of the Holy and Undivided Trinity of Queen Elizabeth near Dublin, is the sole constituent college of the University of Dublin, a research university in Dublin, Ireland. Queen Elizabeth I issued a royal charter for the college in 1592 as "the mother of a university" that was modelled after the collegiate universities of both Oxford and Cambridge, but unlike these affiliated institutions, only one college was ever established; as such, the designations "Trinity College" and "University of Dublin" are usually synonymous for administrative purposes.
+Na'aran, formerly known as Niran is an Israeli settlement organized as a kibbutz in the West Bank. Located in Area C of the Jordan Valley near Jericho, it falls under the jurisdiction of Bik'at HaYarden Regional Council. In 2021 it had a population of 104.
 
-https://en.m.wikipedia.org/wiki/Trinity_College_Dublin
+https://en.m.wikipedia.org/wiki/Na'aran
