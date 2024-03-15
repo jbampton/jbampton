@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27115__
+- Honor: __27124__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Na'aran, formerly known as Niran is an Israeli settlement organized as a kibbutz in the West Bank. Located in Area C of the Jordan Valley near Jericho, it falls under the jurisdiction of Bik'at HaYarden Regional Council. In 2021 it had a population of 104.
+Manolita Piña Torres-Garcia was a Spanish-Uruguayan painter and supercentenarian. She was known as "Doña Manolita" in Uruguay. She was the wife of Uruguayan painter Joaquín Torres García. She was considered to be an "inseparable companion" to Torres García, accompanied him to conferences, exhibitions and supported all of his artistic endeavors. In many ways, she was "like his shadow." She was the founder of Museo Torres Garcia in Montevideo.
 
-https://en.m.wikipedia.org/wiki/Na'aran
+https://en.m.wikipedia.org/wiki/Manolita_Pi%C3%B1a
