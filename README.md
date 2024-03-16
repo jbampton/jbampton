@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27124__
+- Honor: __27133__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Manolita Piña Torres-Garcia was a Spanish-Uruguayan painter and supercentenarian. She was known as "Doña Manolita" in Uruguay. She was the wife of Uruguayan painter Joaquín Torres García. She was considered to be an "inseparable companion" to Torres García, accompanied him to conferences, exhibitions and supported all of his artistic endeavors. In many ways, she was "like his shadow." She was the founder of Museo Torres Garcia in Montevideo.
+Hotel Rwanda is a 2004 docudrama film co-written and directed by Terry George. It was adapted from a screenplay by George and Keir Pearson, and stars Don Cheadle and Sophie Okonedo as hotelier Paul Rusesabagina and his wife Tatiana. Based on the Rwandan genocide, which occurred during the spring of 1994, the film documents Rusesabagina's efforts to save the lives of his family and more than 1,000 other refugees by providing them with shelter in the besieged Hôtel des Mille Collines. Hotel Rwanda explores genocide, political corruption, and the repercussions of violence.
 
-https://en.m.wikipedia.org/wiki/Manolita_Pi%C3%B1a
+https://en.m.wikipedia.org/wiki/Hotel_Rwanda
