@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27139__
+- Honor: __27142__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Schelto Patijn [ˈsxɛɫtoː pɑˈtɛin] was a Dutch politician of the Labour Party (PvdA) and jurist. After serving as an elected member of the Dutch and subsequently European Parliament, he served as Queen's Commissioner in the Province of South Holland from 16 June 1984 until 1 June 1994 when he stepped down to become Mayor of Amsterdam, he served from 1 June 1994 until 1 January 2001.
+Hatchford is a hamlet in the English county of Surrey outside the town of Cobham ; it traditionally includes the contiguous hamlet of Pointers Green.
 
-https://en.m.wikipedia.org/wiki/Schelto_Patijn
+https://en.m.wikipedia.org/wiki/Hatchford
