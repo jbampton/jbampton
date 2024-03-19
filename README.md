@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27142__
+- Honor: __27148__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Hatchford is a hamlet in the English county of Surrey outside the town of Cobham ; it traditionally includes the contiguous hamlet of Pointers Green.
+The Captain of the Honourable Corps of Gentlemen-at-Arms is a post in the Government of the United Kingdom that has been held by the Government Chief Whip in the House of Lords since 1945. Prior to 17 March 1834, the Gentlemen-at-Arms were known as the Honourable Band of Gentlemen Pensioners.
 
-https://en.m.wikipedia.org/wiki/Hatchford
+https://en.m.wikipedia.org/wiki/Captain_of_the_Honourable_Corps_of_Gentlemen-at-Arms
