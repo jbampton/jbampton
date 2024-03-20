@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27148__
+- Honor: __27154__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Captain of the Honourable Corps of Gentlemen-at-Arms is a post in the Government of the United Kingdom that has been held by the Government Chief Whip in the House of Lords since 1945. Prior to 17 March 1834, the Gentlemen-at-Arms were known as the Honourable Band of Gentlemen Pensioners.
+Marion Nestle is an American molecular biologist, nutritionist, and public health advocate. She is the Paulette Goddard Professor of Nutrition, Food Studies, and Public Health Emerita at New York University. Her research examines scientific and socioeconomic influences on food choice, obesity, and food safety, emphasizing the role of food marketing.
 
-https://en.m.wikipedia.org/wiki/Captain_of_the_Honourable_Corps_of_Gentlemen-at-Arms
+https://en.m.wikipedia.org/wiki/Marion_Nestle
