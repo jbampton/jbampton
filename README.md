@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27154__
+- Honor: __27157__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Marion Nestle is an American molecular biologist, nutritionist, and public health advocate. She is the Paulette Goddard Professor of Nutrition, Food Studies, and Public Health Emerita at New York University. Her research examines scientific and socioeconomic influences on food choice, obesity, and food safety, emphasizing the role of food marketing.
+The Adil Shahi or Adilshahi, was a Shia, and later Sunni Muslim, dynasty founded by Yusuf Adil Shah, that ruled the Sultanate of Bijapur, centred on present-day Bijapur district, Karnataka in India, in the Western area of the Deccan region of Southern India from 1489 to 1686. Bijapur had been a province of the Bahmani Sultanate (1347–1518), and member of the Deccan Sultanates, before its political decline in the last quarter of the 15th century and eventual break-up in 1518. The Bijapur Sultanate was fully absorbed into the Mughal Empire on 12 September 1686, after its conquest by the Emperor Aurangzeb.
 
-https://en.m.wikipedia.org/wiki/Marion_Nestle
+https://en.m.wikipedia.org/wiki/Adil_Shahi_dynasty
