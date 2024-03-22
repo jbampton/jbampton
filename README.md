@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27157__
+- Honor: __27167__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Adil Shahi or Adilshahi, was a Shia, and later Sunni Muslim, dynasty founded by Yusuf Adil Shah, that ruled the Sultanate of Bijapur, centred on present-day Bijapur district, Karnataka in India, in the Western area of the Deccan region of Southern India from 1489 to 1686. Bijapur had been a province of the Bahmani Sultanate (1347–1518), and member of the Deccan Sultanates, before its political decline in the last quarter of the 15th century and eventual break-up in 1518. The Bijapur Sultanate was fully absorbed into the Mughal Empire on 12 September 1686, after its conquest by the Emperor Aurangzeb.
+Enkhbatyn Badar-Uugan is a retired boxer from Mongolia who became the first Olympic boxing champion from his country when he won the gold medal in the Bantamweight division at the 2008 Summer Olympics. He was the second Mongolian to win an Olympic gold in any sport, with judoka Naidangiin Tüvshinbayar winning the first only a few days earlier.
 
-https://en.m.wikipedia.org/wiki/Adil_Shahi_dynasty
+https://en.m.wikipedia.org/wiki/Enkhbatyn_Badar-Uugan
