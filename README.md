@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27167__
+- Honor: __27182__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Enkhbatyn Badar-Uugan is a retired boxer from Mongolia who became the first Olympic boxing champion from his country when he won the gold medal in the Bantamweight division at the 2008 Summer Olympics. He was the second Mongolian to win an Olympic gold in any sport, with judoka Naidangiin Tüvshinbayar winning the first only a few days earlier.
+The Count Basie Orchestra is a 16- to 18-piece big band, one of the most prominent jazz performing groups of the swing era, founded by Count Basie in 1935 and recording regularly from 1936. Despite a brief disbandment at the beginning of the 1950s, the band survived long past the big band era itself and the death of Basie in 1984. It continues under the direction of trumpeter Scotty Barnhart.
 
-https://en.m.wikipedia.org/wiki/Enkhbatyn_Badar-Uugan
+https://en.m.wikipedia.org/wiki/Count_Basie_Orchestra
