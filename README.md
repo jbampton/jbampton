@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27182__
+- Honor: __27190__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Count Basie Orchestra is a 16- to 18-piece big band, one of the most prominent jazz performing groups of the swing era, founded by Count Basie in 1935 and recording regularly from 1936. Despite a brief disbandment at the beginning of the 1950s, the band survived long past the big band era itself and the death of Basie in 1984. It continues under the direction of trumpeter Scotty Barnhart.
+Buddy Boy is a 1999 psychological thriller film written and directed by Mark Hanlon and starring Aidan Gillen, Emmanuelle Seigner and Susan Tyrrell. The film premiered at the 56th Venice International Film Festival.
 
-https://en.m.wikipedia.org/wiki/Count_Basie_Orchestra
+https://en.m.wikipedia.org/wiki/Buddy_Boy
