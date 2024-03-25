@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27190__
+- Honor: __27196__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Buddy Boy is a 1999 psychological thriller film written and directed by Mark Hanlon and starring Aidan Gillen, Emmanuelle Seigner and Susan Tyrrell. The film premiered at the 56th Venice International Film Festival.
+Sara Hershey-Eddy was an American musician, pianist, contralto vocalist, vocal instructor, and musical educator. She founded the Hershey School of Musical Art in Chicago.
 
-https://en.m.wikipedia.org/wiki/Buddy_Boy
+https://en.m.wikipedia.org/wiki/Sara_Hershey-Eddy
