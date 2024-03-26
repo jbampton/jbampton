@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27196__
+- Honor: __27204__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,8 @@
 
 ## Random Wikipedia
 
-Sara Hershey-Eddy was an American musician, pianist, contralto vocalist, vocal instructor, and musical educator. She founded the Hershey School of Musical Art in Chicago.
+Geoffrey Bartlett is an Australian sculptor working in Melbourne. Bartlett's career in sculpture has spanned over almost 50 years since 1973. He is known for both his studio-based works and major public commissions in sculpture. 
+Bartlett's work has been noted for its contribution to modern Australia sculpture.
+In 2007, the National Gallery of Victoria held a major retrospective on Bartlett's work since 1987.
 
-https://en.m.wikipedia.org/wiki/Sara_Hershey-Eddy
+https://en.m.wikipedia.org/wiki/Geoffrey_Bartlett
