@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27205__
+- Honor: __27207__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Order of Polonia Restituta is a Polish state order established 4 February 1921. It is conferred on both military and civilians as well as on foreigners for outstanding achievements in the fields of education, science, sport, culture, art, economics, national defense, social work, civil service, or for furthering good relations between countries. It is Poland's second-highest civilian state award in the order of precedence, behind the Order of the White Eagle.
+Dante Wyndham Arthurs is an Australian murderer, convicted of the murder of eight-year-old Sofia Rodriguez-Urrutia Shu.
 
-https://en.m.wikipedia.org/wiki/Order_of_Polonia_Restituta
+https://en.m.wikipedia.org/wiki/Dante_Arthurs
