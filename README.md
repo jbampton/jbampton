@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27207__
+- Honor: __27212__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Dante Wyndham Arthurs is an Australian murderer, convicted of the murder of eight-year-old Sofia Rodriguez-Urrutia Shu.
+The Red Lily Wind Farm is a Red Lily Wind Energy Partnership facility situated north-west of Moosomin, Saskatchewan, in the RM of Moosomin No. 121. The facility is owned by Concorde Pacific and developed and constructed by Algonquin Power. The wind farm will consist of sixteen V82-1.65 MW wind turbines, for a total of 25 MW. At a cost of $60 million, work on the project started in 2010, with the facility coming online in February 2011. The facility is being constructed under a long-term, 25-year, power purchase agreement with SaskPower.
 
-https://en.m.wikipedia.org/wiki/Dante_Arthurs
+https://en.m.wikipedia.org/wiki/Red_Lily_Wind_Farm
