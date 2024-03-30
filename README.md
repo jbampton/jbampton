@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27212__
+- Honor: __27216__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Red Lily Wind Farm is a Red Lily Wind Energy Partnership facility situated north-west of Moosomin, Saskatchewan, in the RM of Moosomin No. 121. The facility is owned by Concorde Pacific and developed and constructed by Algonquin Power. The wind farm will consist of sixteen V82-1.65 MW wind turbines, for a total of 25 MW. At a cost of $60 million, work on the project started in 2010, with the facility coming online in February 2011. The facility is being constructed under a long-term, 25-year, power purchase agreement with SaskPower.
+Jean-Paul-Égide Martini, also known as Jean-Paul-Gilles Martini was a French composer of German birth during the classical period. He is best known today for the vocal romance "Plaisir d'amour," on which the 1961 Elvis Presley pop standard "Can't Help Falling in Love" is based. He is often confused with the Italian composer Giovanni Battista Martini, so is sometimes known as Martini Il Tedesco.
 
-https://en.m.wikipedia.org/wiki/Red_Lily_Wind_Farm
+https://en.m.wikipedia.org/wiki/Jean-Paul-%C3%89gide_Martini
