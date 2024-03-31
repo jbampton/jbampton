@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27216__
+- Honor: __27221__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Jean-Paul-Égide Martini, also known as Jean-Paul-Gilles Martini was a French composer of German birth during the classical period. He is best known today for the vocal romance "Plaisir d'amour," on which the 1961 Elvis Presley pop standard "Can't Help Falling in Love" is based. He is often confused with the Italian composer Giovanni Battista Martini, so is sometimes known as Martini Il Tedesco.
+Nguyễn Quốc Định was a Vietnamese professor and politician. He was the Minister of Foreign Affairs of Vietnam under the premierships of Prince Bửu Lộc and Ngô Đình Diệm.
 
-https://en.m.wikipedia.org/wiki/Jean-Paul-%C3%89gide_Martini
+https://en.m.wikipedia.org/wiki/Nguy%E1%BB%85n_Qu%E1%BB%91c_%C4%90%E1%BB%8Bnh
