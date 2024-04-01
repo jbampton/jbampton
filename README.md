@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27221__
+- Honor: __27229__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Nguyễn Quốc Định was a Vietnamese professor and politician. He was the Minister of Foreign Affairs of Vietnam under the premierships of Prince Bửu Lộc and Ngô Đình Diệm.
+Hot Tub Time Machine 2 is a 2015 American science-fiction comedy film directed by Steve Pink and written by Josh Heald. The film stars Rob Corddry, Craig Robinson, Clark Duke, Adam Scott, Chevy Chase, and Gillian Jacobs. It is the sequel to the 2010 film Hot Tub Time Machine. The film was released on February 20, 2015. John Cusack, who played Adam Yates and produced the first film, does not return in the theatrical cut, but has a brief cameo in the unrated version. The film grossed $13 million against a budget of $14–18 million, and reviews were generally unfavorable, deeming it "unfunny" and "unoriginal".
 
-https://en.m.wikipedia.org/wiki/Nguy%E1%BB%85n_Qu%E1%BB%91c_%C4%90%E1%BB%8Bnh
+https://en.m.wikipedia.org/wiki/Hot_Tub_Time_Machine_2
