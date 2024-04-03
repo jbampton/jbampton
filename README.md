@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27241__
+- Honor: __27246__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Barle Bridge is a five span stone arch bridge over the River Barle in Dulverton within the English county of Somerset, which is medieval in origin. It has been scheduled as an ancient monument and is a Grade II listed building.
+Wayne Township is a township in Edwards County, Kansas, USA. As of the 2000 census, its population was 606.
 
-https://en.m.wikipedia.org/wiki/Barle_Bridge
+https://en.m.wikipedia.org/wiki/Wayne_Township%2C_Edwards_County%2C_Kansas
