@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27253__
+- Honor: __27263__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Reader, I Married Him: A Study of the Women Characters of Jane Austen, Charlotte Brontë, Elizabeth Gaskell and George Eliot is a 1974 literary criticism by Patricia Beer that examines Victorian literature authors, their characters, and their works. It was reviewed in several publications.
+Listening Woman is a crime novel by American writer Tony Hillerman, the third in the Joe Leaphorn/Jim Chee Navajo Tribal Police series, first published in 1978. The novel features Joe Leaphorn.
 
-https://en.m.wikipedia.org/wiki/Reader%2C_I_Married_Him_(Patricia_Beer_book)
+https://en.m.wikipedia.org/wiki/Listening_Woman
