@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27270__
+- Honor: __27276__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Neferure or Neferura was an Egyptian princess of the Eighteenth Dynasty of Egypt. She was the daughter of two pharaohs, Hatshepsut and Thutmose II. She served in high offices in the government and the religious administration of Ancient Egypt.
+Albert Grisar was a Belgian composer, mainly active in Paris.
 
-https://en.m.wikipedia.org/wiki/Neferure
+https://en.m.wikipedia.org/wiki/Albert_Grisar
