@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27283__
+- Honor: __27291__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Swiss Super League is a Swiss professional league in the top tier of the Swiss football league system and has been played in its current format since the 2003–04 season. As of March 2024, the Swiss Super League is ranked 12th in Europe according to UEFA's ranking of league coefficients, which is based upon Swiss team performances in European competitions. The 2023–24 season will be the 127th season of the Swiss top-flight, making it the longest continuously running top-flight national league.
+Aadorf railway station is a railway station in the municipality of Aadorf, in the Swiss canton of Thurgau. It is an intermediate stop on the standard gauge St. Gallen–Winterthur line of Swiss Federal Railways.
 
-https://en.m.wikipedia.org/wiki/Swiss_Super_League
+https://en.m.wikipedia.org/wiki/Aadorf_railway_station
