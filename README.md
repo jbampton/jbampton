@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27293__
+- Honor: __27305__
 - Leaderboard Position: __164__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The Voice of Nepal is a Nepalese reality show and the Nepalese format of the international TV singing reality series called The Voice. The show usually has four different coaches (judges), who eventually form four different teams after the selection event called the Blind Audition. Each team has to go through the battle round where contestants are paired with one another within the same team and only half of the total selected contestants from the blind audition are selected for the knockout round. During the knockout round, based on The Voice format, only the best and strongest contestants who their respective coach consider the best overall are selected by their coaches. They also have the sole right to do this on his or her own and take them to the live round. During the live round event, through a series of voting episodes, only one contestant with the most popular vote will advance to the grand finale. The first season of the voice of Nepal was won by CD Vijaya Adhikari from Team Deep, season 2 was won by Ram Limbu from Team Pramod and season 3 was won by Kiran Gajmer from Team Pramod. The Grand Finale of season 1 was held on 14 December 2018 in Quatar stadium, the second season's Grand finale was held at Taragaon Open Field Chuchchepati Kathmandu on 7 December 2019 and the third season's Grand Finale was held in The Voice Studio, Dhumbarahi. The voice of Nepal was bought by Himalaya Television.
+The First Council of Constantinople was a council of Christian bishops convened in Constantinople in AD 381 by the Roman Emperor Theodosius I. This second ecumenical council, an effort to attain consensus in the church through an assembly representing all of Christendom, except for the Western Church, confirmed the Nicene Creed, expanding the doctrine thereof to produce the Niceno-Constantinopolitan Creed, and dealt with sundry other matters. It met from May to July 381 in the Church of Hagia Irene and was affirmed as ecumenical in 451 at the Council of Chalcedon.
 
-https://en.m.wikipedia.org/wiki/The_Voice_of_Nepal
+https://en.m.wikipedia.org/wiki/First_Council_of_Constantinople
