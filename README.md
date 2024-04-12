@@ -7,8 +7,8 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27305__
-- Leaderboard Position: __164__
+- Honor: __27318__
+- Leaderboard Position: __165__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
 
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-The First Council of Constantinople was a council of Christian bishops convened in Constantinople in AD 381 by the Roman Emperor Theodosius I. This second ecumenical council, an effort to attain consensus in the church through an assembly representing all of Christendom, except for the Western Church, confirmed the Nicene Creed, expanding the doctrine thereof to produce the Niceno-Constantinopolitan Creed, and dealt with sundry other matters. It met from May to July 381 in the Church of Hagia Irene and was affirmed as ecumenical in 451 at the Council of Chalcedon.
+Le Pla is a commune in the Ariège department in southwestern France.
 
-https://en.m.wikipedia.org/wiki/First_Council_of_Constantinople
+https://en.m.wikipedia.org/wiki/Le_Pla
