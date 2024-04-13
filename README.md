@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27318__
+- Honor: __27323__
 - Leaderboard Position: __165__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Le Pla is a commune in the Ariège department in southwestern France.
+Charles Scadding was a Canadian-born American Episcopal Church cleric who served as the third bishop of the Episcopal Diocese of Oregon from 1906 to 1914.
 
-https://en.m.wikipedia.org/wiki/Le_Pla
+https://en.m.wikipedia.org/wiki/Charles_Scadding
