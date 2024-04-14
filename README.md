@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27323__
+- Honor: __27325__
 - Leaderboard Position: __165__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Charles Scadding was a Canadian-born American Episcopal Church cleric who served as the third bishop of the Episcopal Diocese of Oregon from 1906 to 1914.
+Mohammad Bokharaei, was a member of the executive branch of the "Islamic Coalition Party" who was born in 1944 in Tehran. He assassinated Hassan Ali Mansur and was executed in June 1965 along with three of his colleagues.
 
-https://en.m.wikipedia.org/wiki/Charles_Scadding
+https://en.m.wikipedia.org/wiki/Mohammad_Bokharaei
