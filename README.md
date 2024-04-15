@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27325__
+- Honor: __27330__
 - Leaderboard Position: __165__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Mohammad Bokharaei, was a member of the executive branch of the "Islamic Coalition Party" who was born in 1944 in Tehran. He assassinated Hassan Ali Mansur and was executed in June 1965 along with three of his colleagues.
+In the mathematical field of graph theory, the Clebsch graph is either of two complementary graphs on 16 vertices, a 5-regular graph with 40 edges and a 10-regular graph with 80 edges. The 80-edge graph is the dimension-5 halved cube graph; it was called the Clebsch graph name by Seidel (1968) because of its relation to the configuration of 16 lines on the quartic surface discovered in 1868 by the German mathematician Alfred Clebsch. The 40-edge variant is the dimension-5 folded cube graph; it is also known as the Greenwood–Gleason graph after the work of Robert E. Greenwood and Andrew M. Gleason, who used it to evaluate the Ramsey number R(3,3,3) = 17.
 
-https://en.m.wikipedia.org/wiki/Mohammad_Bokharaei
+https://en.m.wikipedia.org/wiki/Clebsch_graph
