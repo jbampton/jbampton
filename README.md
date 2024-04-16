@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27330__
+- Honor: __27333__
 - Leaderboard Position: __165__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-In the mathematical field of graph theory, the Clebsch graph is either of two complementary graphs on 16 vertices, a 5-regular graph with 40 edges and a 10-regular graph with 80 edges. The 80-edge graph is the dimension-5 halved cube graph; it was called the Clebsch graph name by Seidel (1968) because of its relation to the configuration of 16 lines on the quartic surface discovered in 1868 by the German mathematician Alfred Clebsch. The 40-edge variant is the dimension-5 folded cube graph; it is also known as the Greenwood–Gleason graph after the work of Robert E. Greenwood and Andrew M. Gleason, who used it to evaluate the Ramsey number R(3,3,3) = 17.
+Lake Waynoka is a census-designated place (CDP) and gated community in Brown County, Ohio, United States, located around a similarly named reservoir between Sardinia and Russellville. The population was 1,381 at the 2020 census.
 
-https://en.m.wikipedia.org/wiki/Clebsch_graph
+https://en.m.wikipedia.org/wiki/Lake_Waynoka%2C_Ohio
