@@ -7,7 +7,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __27333__
+- Honor: __27342__
 - Leaderboard Position: __165__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -46,6 +46,6 @@
 
 ## Random Wikipedia
 
-Lake Waynoka is a census-designated place (CDP) and gated community in Brown County, Ohio, United States, located around a similarly named reservoir between Sardinia and Russellville. The population was 1,381 at the 2020 census.
+Flisa is the administrative centre of Åsnes Municipality in Innlandet county, Norway. The village lies at the confluence of the rivers Flisa and Glomma. The Norwegian National Road 2 and the Solørbanen railway line both pass through the village. The village of Kjellmyra is located about 3 kilometres (1.9 mi) to the north of this village. Åsnes Church is located on the west side of Flisa.
 
-https://en.m.wikipedia.org/wiki/Lake_Waynoka%2C_Ohio
+https://en.m.wikipedia.org/wiki/Flisa
