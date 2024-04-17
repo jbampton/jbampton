@@ -66,11 +66,11 @@
 
 ![Ties](images/six-ties.jpeg)
 
-![Books](images/new/books-1.jpg)
+![Books](images/new/books1.jpg)
 
-![Books](images/new/books-2.jpg)
+![Books](images/new/books2.jpg)
 
-![Books](images/new/books-3.jpg)
+![Books](images/new/books3.jpg)
 
 ![Video Cards](images/video-cards.jpeg)
 
@@ -98,6 +98,6 @@
 
 ![Garry Chess Set](images/new/garry-chess-set.jpg)
 
-![Chess Boards](images/new/garry-chess-set.jpg)
+![Chess Boards](images/new/chess-boards.jpg)
 
 ![Start with Ruby](images/new/start-with-ruby.jpg)
