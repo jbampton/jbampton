@@ -24,6 +24,8 @@
 
 ![Heath Ledger](images/heath-ledger.jpg)
 
+![Bookshelf side stickers](images/new/side-stickers.jpg)
+
 ![Hacktoberfest tshirts](images/hacktoberfest-tshirts.jpg)
 
 ![Hacktoberfest 2021](images/hacktoberfest-2021-2.jpg)
@@ -35,6 +37,8 @@
 ![Hacktoberfest 2021](images/hacktoberfest-2021-4.jpg)
 
 ![Webiny Swag](images/webiny-tshirt.jpg)
+
+![Tooljet tshirt](images/new/tooljet.jpg)
 
 ![Infracloud Swag](images/infracloud-tshirt.jpg)
 
@@ -62,11 +66,11 @@
 
 ![Ties](images/six-ties.jpeg)
 
-![Books](images/books-1.jpg)
+![Books](images/new/books-1.jpg)
 
-![Books](images/books-2.jpg)
+![Books](images/new/books-2.jpg)
 
-![Books](images/books-3.jpg)
+![Books](images/new/books-3.jpg)
 
 ![Video Cards](images/video-cards.jpeg)
 
@@ -85,3 +89,15 @@
 ![LongBranch and hot chips](images/longbranch.jpg)
 
 ![Old Ripy](images/old-ripy.jpg)
+
+![Shogi](images/new/shogi.jpg)
+
+![Chess Persia](images/new/chess-persia.jpg)
+
+![Chess Cards](images/new/chess-cards.jpg)
+
+![Garry Chess Set](images/new/garry-chess-set.jpg)
+
+![Chess Boards](images/new/garry-chess-set.jpg)
+
+![Start with Ruby](images/new/start-with-ruby.jpg)
