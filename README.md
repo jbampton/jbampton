@@ -10,6 +10,7 @@
 I'm currently trialing some new pens and pencils.
 
 - [BIC Round Stick M ?? Basic entry version?](https://us.bic.com/en_us/catalogsearch/result/index/?q=round+stic+m)
+- [Brilliant Basics Ballpoint Pens 10 Pack](https://www.bigw.com.au/product/brilliant-basics-ballpoint-pens-10-pack/p/767045)
 - [PaperClick FineLiner Assorted 12 pack 0.5mm](https://www.woolworths.com.au/shop/productdetails/228038)
 - [PaperMate InkJoy BALLPOINT 100ST 1.0M](https://www.papermate.com/pens/ballpoint-pens/paper-mate-inkjoy-100st-ballpoint-pens-medium-point-1.0mm/SAP_1987341.html)
 
