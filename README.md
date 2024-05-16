@@ -4,6 +4,7 @@
 - [Rails Contributors - All time](https://contributors.rubyonrails.org/)
 - [Ruby Warrior ??!!!? 👺](https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d)
 - [Thanks for Your Contribution to the curl Project!](https://curl.se/docs/thanks.html)
+- [Upwork John Bampton - 15+ years; 350+ jobs](https://www.upwork.com/freelancers/~015e56316c3aa9a286)
 - [Happy Days at the ASF](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
 
 ## Some nice pens and pencils 🖊️ ✏️
@@ -14,6 +15,10 @@ I'm currently trialing some new pens and pencils.
 - [Brilliant Basics Ballpoint Pens 10 Pack](https://www.bigw.com.au/product/brilliant-basics-ballpoint-pens-10-pack/p/767045)
 - [PaperClick FineLiner Assorted 12 pack 0.5mm](https://www.woolworths.com.au/shop/productdetails/228038)
 - [PaperMate InkJoy BALLPOINT 100ST 1.0M](https://www.papermate.com/pens/ballpoint-pens/paper-mate-inkjoy-100st-ballpoint-pens-medium-point-1.0mm/SAP_1987341.html)
+
+## Hey, Hey it's me in your Ubuntu Desktop !!?!
+
+![Ubuntu App Center](images/in-your-ubuntu.png)
 
 ### Jorge Araica was a husband and father of two young men.
 
