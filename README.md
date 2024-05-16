@@ -1,12 +1,27 @@
-# Jorge Araica was a husband and father of two young men.
+# Hello, Konnichiwa, Hallo, Ciao, Namaste !! 🐉 🐦‍🔥
 
-## Jorge died in Venezuela of COVID-19 in April 2021.
+- [Apache CloudStack Project Members](https://cloudstack.apache.org/who)
+- [Rails Contributors - All time](https://contributors.rubyonrails.org/)
+- [Ruby Warrior ??!!!? 👺](https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d)
+- [Thanks for Your Contribution to the curl Project!](https://curl.se/docs/thanks.html)
 
-### Jorge was classically trained as a mechanical engineer but later in life he pursued his love of graphic design.
+## Some nice pens and pencils 🖊️ ✏️
 
-### Jorge was extremely talented, a real ideas man and no one will ever replace him.
+I'm currently trialing some new pens and pencils.
 
-### Jorge was my best friend.
+- [BIC Round Stick M ?? Basic entry version?](https://us.bic.com/en_us/catalogsearch/result/index/?q=round+stic+m)
+- [PaperClick FineLiner Assorted 12 pack 0.5mm](https://www.woolworths.com.au/shop/productdetails/228038)
+- [PaperMate InkJoy BALLPOINT 100ST 1.0M](https://www.papermate.com/pens/ballpoint-pens/paper-mate-inkjoy-100st-ballpoint-pens-medium-point-1.0mm/SAP_1987341.html)
+
+### Jorge Araica was a husband and father of two young men.
+
+### Jorge died in Venezuela of COVID-19 in April 2021.
+
+#### Jorge was classically trained as a mechanical engineer but later in life he pursued his love of graphic design.
+
+#### Jorge was extremely talented, a real ideas man and no one will ever replace him.
+
+#### Jorge was my best friend.
 
 ![Victor Araica](images/victor-araica.png)
 
