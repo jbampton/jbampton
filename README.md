@@ -22,6 +22,11 @@ I'm currently trialing some new pens and pencils.
 - [One-Language - 🏛️ Join the Team 🏛️](https://github.com/One-Language/One/issues/new/choose)
 - [Welcome to The Official 64 Shades World Chess Team 🚀🚀](https://github.com/64-shades)
 
+## lichess best rated timed wins
+
+- [3+0 • Rated • Blitz: SexyMate (1339) vs muuhab (1905) - Bird's Opening](https://lichess.org/gncm0haG)
+  - [Bird's Opening](https://en.wikipedia.org/wiki/Bird%27s_Opening) `1. f4`
+
 ## OSSRank
 
 [![](https://ossrank.com/widget/4190)](https://ossrank.com/c/4190)
