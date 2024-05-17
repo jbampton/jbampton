@@ -1,4 +1,4 @@
-# Hello, Konnichiwa, Hallo, Ciao, Hola, Namaste !! 🐉 🐦‍🔥
+# Hello, Konnichiwa, Hallo, Ciao, Hola, Namaste !! 🐉 🦘 🖥️
 
 - [Apache CloudStack Project Members](https://cloudstack.apache.org/who)
 - [Rails Contributors - All time](https://contributors.rubyonrails.org/)
@@ -15,6 +15,10 @@ I'm currently trialing some new pens and pencils.
 - [Brilliant Basics Ballpoint Pens 10 Pack](https://www.bigw.com.au/product/brilliant-basics-ballpoint-pens-10-pack/p/767045)
 - [PaperClick FineLiner Assorted 12 pack 0.5mm](https://www.woolworths.com.au/shop/productdetails/228038)
 - [PaperMate InkJoy BALLPOINT 100ST 1.0M](https://www.papermate.com/pens/ballpoint-pens/paper-mate-inkjoy-100st-ballpoint-pens-medium-point-1.0mm/SAP_1987341.html)
+
+## OSSRank
+
+[![](https://ossrank.com/widget/4190)](https://ossrank.com/c/4190)
 
 ## Hey, Hey it's me in your Ubuntu Desktop !!?!
 
