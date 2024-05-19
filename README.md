@@ -28,6 +28,13 @@ I'm currently trialing some new pens and pencils.
 - [One-Language - 🏛️ Join the Team 🏛️](https://github.com/One-Language/One/issues/new/choose)
 - [Welcome to The Official 64 Shades World Chess Team 🚀🚀](https://github.com/64-shades)
 
+## Book List
+
+### Crosswords
+
+- Daily Mail: The Big Book of Quick Crosswords 1: Over 400 quick crosswords
+  - Great value with 408 quick crosswords
+
 ## lichess best rated timed wins
 
 - [3+0 • Rated • Blitz: SexyMate (1339) vs muuhab (1905) - Bird's Opening](https://lichess.org/gncm0haG)
