@@ -43,6 +43,13 @@ I'm currently trialing some new pens and pencils.
 
 ## Book List
 
+### Chess
+
+- Peter J. Tamburro Jr. - Learn Chess From The Greats
+  - 156+ page inspirational chess guide featuring newspaper articles that were nationally distributed throughout the United States from
+    1994 to 1998 by The USA Chess Federation. This book has one page per article, was originally published in 2000 and reissued in 2016.
+    From Dover Publications
+
 ### Crosswords
 
 - Daily Mail: The Big Book of Quick Crosswords 1: Over 400 quick crosswords
