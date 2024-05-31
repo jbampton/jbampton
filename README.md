@@ -15,6 +15,8 @@ I'm currently trialing some new pens and pencils.
 
 - [Round Stick M ??](https://us.bic.com/en_us/catalogsearch/result/index/?q=round+stic+m)
   - A very basic entry level no frills pen. More info needed ??
+- [Atlantis Retractable Ballpoint Pens Blue 4 Pack](https://www.officeworks.com.au/shop/officeworks/p/bic-atlantis-retractable-ballpoint-pens-blue-4-pack-bi1393be)
+  - Comfortable grip, retractable with a clip, this blue pen is smoother than the Round Stick M. 4 pack for $4.99
 
 ### Brilliant Basics
 
