@@ -11,15 +11,26 @@
 
 I'm currently trialing some new pens and pencils.
 
-- [BIC Round Stick M ??](https://us.bic.com/en_us/catalogsearch/result/index/?q=round+stic+m)
+### BIC
+
+- [Round Stick M ??](https://us.bic.com/en_us/catalogsearch/result/index/?q=round+stic+m)
   - A very basic entry level no frills pen. More info needed ??
-- [Brilliant Basics Ballpoint Pens 10 Pack](https://www.bigw.com.au/product/brilliant-basics-ballpoint-pens-10-pack/p/767045)
+
+### Brilliant Basics
+
+- [Ballpoint Pens 10 Pack](https://www.bigw.com.au/product/brilliant-basics-ballpoint-pens-10-pack/p/767045)
   - One of the cheapest most basic pens out there at $2 for 10 made in China.
-- [PaperClick FineLiner Assorted 12 pack 0.5mm](https://www.woolworths.com.au/shop/productdetails/228038)
+
+### PaperClick
+
+- [FineLiner Assorted 12 pack 0.5mm](https://www.woolworths.com.au/shop/productdetails/228038)
   - Nice pack of entry level fine liners 12 pens for $5 made in China.
-- [PaperMate InkJoy BALLPOINT 100ST 1.0mm M 10 pack colored](https://www.papermate.com/pens/ballpoint-pens/paper-mate-inkjoy-100st-ballpoint-pens-medium-point-1.0mm/SAP_1987341.html)
+
+### PaperMate
+
+- [InkJoy BALLPOINT 100ST 1.0mm M 10 pack colored](https://www.papermate.com/pens/ballpoint-pens/paper-mate-inkjoy-100st-ballpoint-pens-medium-point-1.0mm/SAP_1987341.html)
   - 10 pens with 5 different colors with 2 pens per color. Packaged in a small cardboard box and made in India.
-- [PaperMate InkJoy BALLPOINT 300RT 1.0mm M 4 pack colored](#)
+- [InkJoy BALLPOINT 300RT 1.0mm M 4 pack colored](#)
   - 4 pens in 3 colors: 1 black, 2 blue and 1 red. Smooth, retractable and comfortable to hold. Better quality than the 100ST and made in India.
 
 ## Join the Community 🤖 🗄️
