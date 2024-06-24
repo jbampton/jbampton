@@ -45,6 +45,9 @@ I'm currently trialing some new pens and pencils.
 
 ### Chess
 
+- Patrick Wolff - Learn To Play Chess Like A Boss
+  - 390 pages of chess wisdom from this GM a two time U.S. chess champion. This book is now the fourth version having previously
+    been published three times as "The Complete Idiot's Guide to Chess". Published in 2019 by DK Publishing marked as a Penguin Random House book.
 - Peter J. Tamburro Jr. - Learn Chess From The Greats
   - 156+ page inspirational chess guide featuring newspaper articles that were nationally distributed throughout the United States from
     1994 to 1998 by The USA Chess Federation. This book has one page per article, was originally published in 2000 and reissued in 2016.
