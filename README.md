@@ -58,6 +58,12 @@ I'm currently trialing some new pens and pencils.
 - Daily Mail: The Big Book of Quick Crosswords 1: Over 400 quick crosswords
   - Great value with 408 quick crosswords
 
+### Japan
+
+- Lonely Planet: Japanese - Phrasebook & Dictionary
+  - This small book includes a pull-out fast-phrases card to help you get more from your trip. The book was first published in December 1989 and this copy
+    is now the 10th edition published in August 2023. The book is divided into sections including "basics", "practical", "social", "safe travel" and "food".
+
 ## lichess best rated timed wins
 
 - [3+0 • Rated • Blitz: SexyMate (1339) vs muuhab (1905) - Bird's Opening](https://lichess.org/gncm0haG)
