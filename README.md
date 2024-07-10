@@ -4,7 +4,7 @@
 - [Rails Contributors - All time](https://contributors.rubyonrails.org/)
 - [Ruby Warrior ??!!!? 👺](https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d)
 - [Thanks for Your Contribution to the curl Project!](https://curl.se/docs/thanks.html)
-- [Happy Days at the ASF](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
+- [Happy Days at The ASF](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
 
 ## Some nice pens and pencils 🖊️ ✏️
 
