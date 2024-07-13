@@ -6,6 +6,12 @@
 - [Thanks for Your Contribution to the curl Project!](https://curl.se/docs/thanks.html)
 - [Happy Days at The ASF](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
 
+## Join the Community 🤖 🗄️
+
+- [Next Community - Join FREE: Community of open-source programmers and software engineers](https://github.com/NextCommunity)
+- [One-Language - 🏛️ Join the Team 🏛️](https://github.com/One-Language/One/issues/new/choose)
+- [Welcome to The Official 64 Shades World Chess Team 🚀🚀](https://github.com/64-shades)
+
 ## Mathematicians
 
 ### Francis Galton 1822 – 1911
@@ -48,12 +54,6 @@ I'm currently trialing some new pens and pencils.
   - 10 pens with 5 different colors with 2 pens per color. Packaged in a small cardboard box and made in India.
 - [InkJoy BALLPOINT 300RT 1.0mm M 4 pack colored](#)
   - 4 pens in 3 colors: 1 black, 2 blue and 1 red. Smooth, retractable and comfortable to hold. Better quality than the 100ST and made in India.
-
-## Join the Community 🤖 🗄️
-
-- [Next Community - Join FREE: Community of open-source programmers and software engineers](https://github.com/NextCommunity)
-- [One-Language - 🏛️ Join the Team 🏛️](https://github.com/One-Language/One/issues/new/choose)
-- [Welcome to The Official 64 Shades World Chess Team 🚀🚀](https://github.com/64-shades)
 
 ## Book List
 
