@@ -14,6 +14,13 @@
 
 https://en.wikipedia.org/wiki/Francis_Galton
 
+### John Pollard 1941
+
+John M. Pollard is a British mathematician who has invented algorithms for the factorization of large numbers and for the calculation of discrete logarithms.
+His factorization algorithms include the [rho](https://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm), [p − 1](https://en.wikipedia.org/wiki/Pollard%27s_p_%E2%88%92_1_algorithm), and the first version of the [special number field sieve](https://en.wikipedia.org/wiki/Special_number_field_sieve), which has since been improved by others.
+
+[https://en.wikipedia.org/wiki/John_Pollard_(mathematician)](https://en.wikipedia.org/wiki/John_Pollard_(mathematician))
+
 ## Some nice pens and pencils 🖊️ ✏️
 
 I'm currently trialing some new pens and pencils.
