@@ -80,6 +80,13 @@ I'm currently trialing some new pens and pencils.
   - This small book includes a pull-out fast-phrases card to help you get more from your trip. The book was first published in December 1989 and this copy
     is now the 10th edition published in August 2023. The book is divided into sections including "basics", "practical", "social", "safe travel" and "food".
 
+### Fiction
+
+- George Orwell - Nineteen Eighty-Four
+  - It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime.
+    It centres on repressive regime and mass surveillance of people and behaviours within society.
+    George Orwell is the pen name of Eric Arthur Blair.
+
 ## lichess best rated timed wins
 
 - [3+0 • Rated • Blitz: SexyMate (1339) vs muuhab (1905) - Bird's Opening](https://lichess.org/gncm0haG)
