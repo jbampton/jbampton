@@ -74,6 +74,9 @@ I'm currently trialing some new pens and pencils.
 - Daily Mail: The Big Book of Quick Crosswords 1: Over 400 quick crosswords
   - Great value with 408 quick crosswords
 
+- The Complete Crossword Dictionary: Over 450,000 multiple clues and answers
+  - The crossword companion
+
 - The Bantam Crossword Dictionary: Over 50,000 clues and over 160,000 solutions
   - The Easy-to-Use, Easy-to-Read Classic Handbook for Today's Puzzle Solvers
 
