@@ -74,6 +74,9 @@ I'm currently trialing some new pens and pencils.
 - Daily Mail: The Big Book of Quick Crosswords 1: Over 400 quick crosswords
   - Great value with 408 quick crosswords
 
+- Collins Million Word Crossword Dictionary
+  - All the words you need for completing crosswords
+
 ### Japan
 
 - Lonely Planet: Japanese - Phrasebook & Dictionary
