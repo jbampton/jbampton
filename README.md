@@ -11,7 +11,7 @@
 
 - [Build the Archipelago, Create an Island and Swim at Roques Beach](https://github.com/RoquesBeach) 🐚 🌊 🐬 🏄 🌴 🥥 🩴 🏖️ 👙
 - [Mind if I have some of your tasty beverage to wash this down?](https://github.com/slurpcode) 🧮 🥇
-- [Next Community - Join FREE: Community of open-source programmers and software engineers](https://github.com/NextCommunity)
+- [Next Community - Join FREE: Community of open-source programmers and software engineers](https://github.com/NextCommunity) ⏭️
 - [One-Language - 🏛️ Join the Team 🏛️](https://github.com/One-Language/One/issues/new/choose) 1️⃣ 🕐 🩱
 - [Welcome to Brisbane's premier social chess community! We are a registered community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement](https://github.com/brisbanesocialchess) ♟️ ♕ ♞
 - [Welcome to The Official 64 Shades World Chess Team 🚀🚀](https://github.com/64-shades)
@@ -21,6 +21,7 @@
 - [PENGGALI KUBUR](https://github.com/streghstreek)
 - [Mohammad Lotfi Akbarabadi](https://github.com/MohammadLotfiA)
 - [Max Base](https://github.com/BaseMax)
+- [Asrez](https://github.com/Asrez) 🏢
 
 ## Mathematicians
 
