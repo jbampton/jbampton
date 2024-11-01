@@ -10,11 +10,13 @@
 ## Join the Community 🤖 🗄️
 
 - [Build the Archipelago, Create an Island and Swim at Roques Beach](https://github.com/RoquesBeach) 🐚 🌊 🐬 🏄 🌴 🥥 🩴 🏖️ 👙
+- [Google Golang Gophers](https://github.com/golang-gophers) create your [Gopher](https://go.dev/blog/gopher) and join now - [Gopherize.me - A Gopher pic that's as unique as you](https://gopherize.me/) 🆒
+- [Lisp is a family of programming languages originally specified in 1958. The best-known general-purpose Lisp dialects are Racket, Common Lisp, Scheme and Clojure](https://github.com/lispXXX) 👪🏼 🌐
 - [Mind if I have some of your tasty beverage to wash this down?](https://github.com/slurpcode) 🧮 🥇
 - [Next Community - Join FREE: Community of open-source programmers and software engineers](https://github.com/NextCommunity) ⏭️
 - [One-Language - 🏛️ Join the Team 🏛️](https://github.com/One-Language/One/issues/new/choose) 1️⃣ 🕐 🩱
 - [Welcome to Brisbane's premier social chess community! We are a registered community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement](https://github.com/brisbanesocialchess) ♟️ ♕ ♞
-- [Welcome to The Official 64 Shades World Chess Team 🚀🚀](https://github.com/64-shades)
+- [Welcome to The Official 64 Shades World Chess Team](https://github.com/64-shades) 🚀🚀
 
 ## GitHub Sponsors 🪙 💵 💰 💳 🏧 
 
