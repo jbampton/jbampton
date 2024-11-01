@@ -25,6 +25,10 @@
 - [Max Base](https://github.com/BaseMax)
 - [Asrez](https://github.com/Asrez) 🏢
 
+## GitHubbers That I Sponsor: Past Or Present
+
+- [Hiroshi SHIBATA](https://github.com/hsbt)
+
 ## Mathematicians
 
 ### Francis Galton 1822 – 1911
