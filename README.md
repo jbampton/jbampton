@@ -24,6 +24,7 @@
 - [Mohammad Lotfi Akbarabadi](https://github.com/MohammadLotfiA)
 - [Max Base](https://github.com/BaseMax)
 - [Asrez](https://github.com/Asrez) 🏢
+- [Ayush Rana](https://github.com/ayushrana182)
 
 ## GitHubbers That I Sponsor: Past Or Present
 
