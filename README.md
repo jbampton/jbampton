@@ -18,7 +18,7 @@
 - [Welcome to Brisbane's premier social chess community! We are a registered community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement](https://github.com/brisbanesocialchess) ♟️ ♕ ♞
 - [Welcome to The Official 64 Shades World Chess Team](https://github.com/64-shades) 🚀🚀
 
-## GitHub Sponsors 🪙 💵 💰 💳 🏧 
+## GitHub Sponsors: Past Or Present 🥰 🎁 🤟 🪙 💵 💰 💳 🏧 
 
 - [PENGGALI KUBUR](https://github.com/streghstreek)
 - [Mohammad Lotfi Akbarabadi](https://github.com/MohammadLotfiA)
@@ -27,7 +27,7 @@
 - [Ayush Rana](https://github.com/ayushrana182)
 - [Salam Programming Language](https://github.com/SalamLang) 🏢
 
-## GitHubbers That I Sponsor: Past Or Present
+## GitHubbers and Organizations that I Sponsor: Past Or Present 😎 💲 💸 💴 💷 💶 💱 💹 💎
 
 - [Hiroshi SHIBATA](https://github.com/hsbt)
 - [Emeka](https://github.com/janus)
