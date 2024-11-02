@@ -39,6 +39,7 @@
 - [Rahuλ Dé](https://github.com/lispyclouds)
 - [Michiel Borkent](https://github.com/borkdude)
 - [Jarek Potiuk](https://github.com/potiuk)
+- [Yuki Kurihara](https://github.com/ksss)
 
 ## Mathematicians
 
