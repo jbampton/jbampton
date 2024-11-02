@@ -40,6 +40,7 @@
 - [Michiel Borkent](https://github.com/borkdude)
 - [Jarek Potiuk](https://github.com/potiuk)
 - [Yuki Kurihara](https://github.com/ksss)
+- [Ryosuke Matsumoto](https://github.com/matsumotory)
 
 ## Mathematicians
 
