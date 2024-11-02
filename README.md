@@ -34,7 +34,7 @@
 - [Anthony Sottile](https://github.com/asottile)
 - [Bozhidar Batsov](https://github.com/bbatsov)
 - [Kenta Murata](https://github.com/mrkn)
-- [Django](https://github.com/django)
+- [Django](https://github.com/django) 🏢
 - [Avelino](https://github.com/avelino)
 - [Rahuλ Dé](https://github.com/lispyclouds)
 - [Michiel Borkent](https://github.com/borkdude)
