@@ -27,7 +27,6 @@
 - [Ayush Rana](https://github.com/ayushrana182)
 - [Salam Programming Language](https://github.com/SalamLang)
 
-
 ## GitHubbers That I Sponsor: Past Or Present
 
 - [Hiroshi SHIBATA](https://github.com/hsbt)
