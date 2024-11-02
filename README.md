@@ -31,6 +31,7 @@
 - [Hiroshi SHIBATA](https://github.com/hsbt)
 - [Emeka](https://github.com/janus)
 - [Anthony Sottile](https://github.com/asottile)
+- [Bozhidar Batsov](https://github.com/bbatsov)
 
 ## Mathematicians
 
