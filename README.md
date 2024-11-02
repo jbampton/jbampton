@@ -25,6 +25,8 @@
 - [Max Base](https://github.com/BaseMax)
 - [Asrez](https://github.com/Asrez) 🏢
 - [Ayush Rana](https://github.com/ayushrana182)
+- [Salam Programming Language](https://github.com/SalamLang)
+
 
 ## GitHubbers That I Sponsor: Past Or Present
 
