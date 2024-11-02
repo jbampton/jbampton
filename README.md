@@ -36,6 +36,7 @@
 - [Kenta Murata](https://github.com/mrkn)
 - [Django](https://github.com/django)
 - [Avelino](https://github.com/avelino)
+- [Rahuλ Dé](https://github.com/lispyclouds)
 
 ## Mathematicians
 
