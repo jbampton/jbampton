@@ -33,6 +33,7 @@
 - [Anthony Sottile](https://github.com/asottile)
 - [Bozhidar Batsov](https://github.com/bbatsov)
 - [Kenta Murata](https://github.com/mrkn)
+- [Django](https://github.com/django)
 
 ## Mathematicians
 
