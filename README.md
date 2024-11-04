@@ -26,6 +26,7 @@
 - [Asrez](https://github.com/Asrez) 🏢
 - [Ayush Rana](https://github.com/ayushrana182)
 - [Salam Programming Language](https://github.com/SalamLang) 🏢
+- [Soheil Khaledabadi](https://github.com/soheilkhaledabdi)
 
 ## GitHubbers and Organizations that I Sponsor: Past Or Present 😎 💲 💸 💴 💷 💶 💱 💹 💎
 
