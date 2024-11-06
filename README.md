@@ -130,9 +130,61 @@ I'm currently trialing some new pens and pencils.
 - [3+0 • Rated • Blitz: SexyMate (1339) vs muuhab (1905) - Bird's Opening](https://lichess.org/gncm0haG)
   - [Bird's Opening](https://en.wikipedia.org/wiki/Bird%27s_Opening) `1. f4`
 
-## One page of mathematics lecture notes from about 20+ years ago
+## One page of Mathematics lecture notes from 2003
 
 ![Golden Mean](images/golden-mean.jpg)
+
+## Final Mathematics subject studied in 2006 with grade of 6: Math3201 Scientific Computing 3
+
+### Some old notes I found. Lots of missing pages :)
+
+![](images/math3201/1000000178.jpg)
+
+![](images/math3201/1000000179.jpg)
+
+![](images/math3201/1000000180.jpg)
+
+![](images/math3201/1000000181.jpg)
+
+![](images/math3201/1000000182.jpg)
+
+![](images/math3201/1000000183.jpg)
+
+![](images/math3201/1000000184.jpg)
+
+![](images/math3201/1000000185.jpg)
+
+![](images/math3201/1000000186.jpg)
+
+![](images/math3201/1000000187.jpg)
+
+![](images/math3201/1000000188.jpg)
+
+![](images/math3201/1000000189.jpg)
+
+![](images/math3201/1000000190.jpg)
+
+![](images/math3201/1000000191.jpg)
+
+![](images/math3201/1000000192.jpg)
+
+![](images/math3201/1000000193.jpg)
+
+![](images/math3201/1000000194.jpg)
+
+![](images/math3201/1000000195.jpg)
+
+![](images/math3201/1000000196.jpg)
+
+![](images/math3201/1000000197.jpg)
+
+![](images/math3201/1000000198.jpg)
+
+![](images/math3201/1000000199.jpg)
+
+![](images/math3201/1000000200.jpg)
+
+![](images/math3201/1000000201.jpg)
 
 ## Hey, Hey it's me in your Ubuntu Desktop !!?!
 
