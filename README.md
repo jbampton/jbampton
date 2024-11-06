@@ -178,8 +178,6 @@ I'm currently trialing some new pens and pencils.
 
 ![](images/math3201/1000000197.jpg)
 
-![](images/math3201/1000000198.jpg)
-
 ![](images/math3201/1000000199.jpg)
 
 ![](images/math3201/1000000200.jpg)
