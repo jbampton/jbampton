@@ -130,6 +130,10 @@ I'm currently trialing some new pens and pencils.
 - [3+0 • Rated • Blitz: SexyMate (1339) vs muuhab (1905) - Bird's Opening](https://lichess.org/gncm0haG)
   - [Bird's Opening](https://en.wikipedia.org/wiki/Bird%27s_Opening) `1. f4`
 
+## One page of mathematics lecture notes from about 20+ years ago
+
+![Golden Mean](images/golden-mean.jpg)
+
 ## Hey, Hey it's me in your Ubuntu Desktop !!?!
 
 ![Ubuntu App Center](images/in-your-ubuntu.png)
