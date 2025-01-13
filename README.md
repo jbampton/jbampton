@@ -44,21 +44,6 @@
 - [Ryosuke Matsumoto](https://github.com/matsumotory)
 - [Max Base](https://github.com/BaseMax)
 
-## Mathematicians
-
-### Francis Galton 1822 – 1911
-
-"Some people hate the very name of statistics, but I find them full of beauty and interest. Whenever they are not brutalized, but delicately handled by the higher methods, and are warily interpreted, their power of dealing with complicated phenomena is extraordinary. They are the only tools by which an opening can be cut through the formidable thicket of difficulties that bars the path of those who pursue the Science of Man."
-
-https://en.wikipedia.org/wiki/Francis_Galton
-
-### John Pollard 1941
-
-John M. Pollard is a British mathematician who has invented algorithms for the factorization of large numbers and for the calculation of discrete logarithms.
-His factorization algorithms include the [rho](https://en.wikipedia.org/wiki/Pollard%27s_rho_algorithm), [p − 1](https://en.wikipedia.org/wiki/Pollard%27s_p_%E2%88%92_1_algorithm), and the first version of the [special number field sieve](https://en.wikipedia.org/wiki/Special_number_field_sieve), which has since been improved by others.
-
-[https://en.wikipedia.org/wiki/John_Pollard_(mathematician)](https://en.wikipedia.org/wiki/John_Pollard_(mathematician))
-
 ## Some nice pens and pencils 🖊️ ✏️
 
 I'm currently trialing some new pens and pencils.
