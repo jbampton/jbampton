@@ -18,32 +18,6 @@
 - [Welcome to Brisbane's premier social chess community! We are a registered community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement](https://github.com/brisbanesocialchess) ♟️ ♕ ♞
 - [Welcome to The Official 64 Shades World Chess Team](https://github.com/64-shades) 🚀🚀
 
-## GitHub Sponsors: Past Or Present 🥰 🎁 🤟 🪙 💵 💰 💳 🏧 
-
-- [PENGGALI KUBUR](https://github.com/streghstreek)
-- [Mohammad Lotfi Akbarabadi](https://github.com/MohammadLotfiA)
-- [Max Base](https://github.com/BaseMax)
-- [Asrez](https://github.com/Asrez) 🏢
-- [Ayush Rana](https://github.com/ayushrana182)
-- [Salam Programming Language](https://github.com/SalamLang) 🏢
-- [Soheil Khaledabadi](https://github.com/soheilkhaledabdi)
-
-## GitHubbers and Organizations that I Sponsor: Past Or Present 😎 💲 💸 💴 💷 💶 💱 💹 💎
-
-- [Hiroshi SHIBATA](https://github.com/hsbt)
-- [Emeka](https://github.com/janus)
-- [Anthony Sottile](https://github.com/asottile)
-- [Bozhidar Batsov](https://github.com/bbatsov)
-- [Kenta Murata](https://github.com/mrkn)
-- [Django](https://github.com/django) 🏢
-- [Avelino](https://github.com/avelino)
-- [Rahuλ Dé](https://github.com/lispyclouds)
-- [Michiel Borkent](https://github.com/borkdude)
-- [Jarek Potiuk](https://github.com/potiuk)
-- [Yuki Kurihara](https://github.com/ksss)
-- [Ryosuke Matsumoto](https://github.com/matsumotory)
-- [Max Base](https://github.com/BaseMax)
-
 ## Some nice pens and pencils 🖊️ ✏️
 
 I'm currently trialing some new pens and pencils.
