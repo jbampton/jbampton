@@ -18,6 +18,24 @@
 - [Welcome to Brisbane's premier social chess community! We are a registered community organization in Queensland dedicated to promoting the love of chess through regular meetups and social engagement](https://github.com/brisbanesocialchess) ♟️ ♕ ♞
 - [Welcome to The Official 64 Shades World Chess Team](https://github.com/64-shades) 🚀🚀
 
+## Careers and Jobs
+
+- https://blog.readthedocs.com/jobs/
+- https://jobs.ashbyhq.com/cognition
+- https://jobs.ashbyhq.com/wherobots
+- https://jobs.sap.com/
+- https://canonical.com/careers
+- https://careers.confluent.io/
+- https://httpie.io/jobs
+- https://manas.tech/join
+- https://www.python.org/jobs/
+- https://www.databend.com/join-us/
+- https://www.databricks.com/company/careers/open-positions
+- https://www.datacamp.com/learn/create
+- https://www.elastic.co/careers
+- https://www.hackerone.com/
+- https://www.tokyodev.com/jobs
+
 ## Some nice pens and pencils 🖊️ ✏️
 
 I'm currently trialing some new pens and pencils.
