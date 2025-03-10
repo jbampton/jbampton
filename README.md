@@ -21,19 +21,20 @@
 ## Careers and Jobs
 
 - https://blog.readthedocs.com/jobs/
-- https://jobs.ashbyhq.com/cognition
-- https://jobs.ashbyhq.com/wherobots
-- https://jobs.sap.com/
 - https://canonical.com/careers
 - https://careers.confluent.io/
 - https://httpie.io/jobs
+- https://jobs.ashbyhq.com/cognition
+- https://jobs.ashbyhq.com/wherobots
+- https://jobs.sap.com/
 - https://manas.tech/join
-- https://www.python.org/jobs/
 - https://www.databend.com/join-us/
 - https://www.databricks.com/company/careers/open-positions
 - https://www.datacamp.com/learn/create
+- https://www.eclipse.org/careers/
 - https://www.elastic.co/careers
 - https://www.hackerone.com/
+- https://www.python.org/jobs/
 - https://www.tokyodev.com/jobs
 
 ## Some nice pens and pencils 🖊️ ✏️
