@@ -8,10 +8,6 @@ The relationship between sine and cosine is famously shown with the Pythagorean 
 \sin^2\theta + \cos^2\theta = 1
 ```
 
-Absolute value or modulus of a complex number $a + bi$ is 
-
-```math
-\\abs(a + bi)
-```
+Absolute value or modulus of a complex number $a + bi$ is $$|a + bi| = \sqrt{a^2 + b^2}$$ 
 
 ![Golden Mean](images/golden-mean.jpg)
