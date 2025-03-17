@@ -26,9 +26,6 @@
 - The tangent function is defined as: $\tan\theta = \frac{\sin\theta}{\cos\theta}$.
 - The absolute value or modulus of a complex number $a + bi$ is given by: $|a + bi| = \sqrt{a^2 + b^2}$.
 - In Boyle's law, the product of pressure (P) and volume (V) is a constant number (k): $P \cdot V = k$, which means that pressure is inversely proportional to the volume.
-
-### Additional Computer-Related Math Formulas
-
 - The formula for the time complexity of an algorithm can be expressed as: $T(n) = O(n^k)$, where $k$ is a constant.
 - The formula for calculating the area of a rectangle is: $A = l \cdot w$, where $l$ is the length and $w$ is the width.
 - The formula for the Euclidean distance between two points $(x_1, y_1)$ and $(x_2, y_2)$ is: $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$.
