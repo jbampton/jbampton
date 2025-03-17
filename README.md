@@ -1,6 +1,12 @@
 # Salam, Konnichiwa, Hallo, Ciao, Hola, Namaste !! 🐉 🦘 🖥️ 👨‍🎨
 
-## Random Maths with [MathJax](https://www.mathjax.org/)
+## Random Maths
+
+<a href="https://www.mathjax.org">
+    <img title="Powered by MathJax"
+    src="https://www.mathjax.org/badge/badge.gif"
+    border="0" alt="Powered by MathJax" />
+</a>
 
 ### Exponents
 
