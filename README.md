@@ -2,12 +2,6 @@
 
 ## Random Maths
 
-<a href="https://www.mathjax.org">
-    <img title="Powered by MathJax"
-    src="https://www.mathjax.org/badge/badge.gif"
-    border="0" alt="Powered by MathJax" />
-</a>
-
 ### Exponents
 
 - Two examples of expanding the exponent are: $3^4 = 3 \cdot 3 \cdot 3 \cdot 3 = 81$ and $2^{-3} = \left(\frac{1}{2}\right)^3 = \frac{1}{2^3} = \frac{1}{2 \cdot 2 \cdot 2} = \frac{1}{8}$
@@ -33,3 +27,9 @@
 - The formula for the sum of a geometric series is: $S_n = a \frac{1 - r^n}{1 - r}$ for $r \neq 1$, where $a$ is the first term and $r$ is the common ratio.
 
 ![Golden Mean](images/golden-mean.jpg)
+
+<a href="https://www.mathjax.org">
+    <img title="Powered by MathJax"
+    src="https://www.mathjax.org/badge/badge.gif"
+    border="0" alt="Powered by MathJax" />
+</a>
