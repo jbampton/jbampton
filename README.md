@@ -1,6 +1,6 @@
 # Salam, Konnichiwa, Hallo, Ciao, Hola, Namaste !! 🐉 🦘 🖥️ 👨‍🎨
 
-## Random Maths
+## Random Maths with [MathJax](https://www.mathjax.org/)
 
 - two examples of expanding the exponent are: $3^4 = 3 \cdot 3 \cdot 3 \cdot 3 = 81$ and $2^{-3} = \frac{1}{2 \cdot 2 \cdot 2} = \frac{1}{8}$
 - when multiplying powers of the same base add exponents togethor: $x^a \cdot x^b = x^{a+b}$
