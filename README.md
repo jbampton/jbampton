@@ -18,6 +18,7 @@
 
 ### Misc
 
+- the equation to convert celsius to fahrenheit is: $F = C \cdot \frac{9}{5} + 32$ 
 - the equation of a unit circle is: $x^2 + y^2 = 1$
 - the relationship between sine and cosine is famously shown with the Pythagorean identity: $\sin^2\theta + \cos^2\theta = 1$
 - $\tan\theta = \frac{\sin\theta}{\cos\theta}$
