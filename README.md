@@ -23,6 +23,6 @@
 - the relationship between sine and cosine is famously shown with the Pythagorean identity: $\sin^2\theta + \cos^2\theta = 1$
 - $\tan\theta = \frac{\sin\theta}{\cos\theta}$
 - absolute value or modulus of a complex number $a + bi$ is $$|a + bi| = \sqrt{a^2 + b^2}$$ 
-- in Boyle's law the product of pressure (P) and volume (V) is a constant number (k): $P \cdot V = k$
+- in Boyle's law the product of pressure (P) and volume (V) is a constant number (k): $P \cdot V = k$ which means that pressure is inversely proportional to the volume
 
 ![Golden Mean](images/golden-mean.jpg)
