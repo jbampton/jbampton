@@ -15,6 +15,7 @@
 - when dividing powers of the same base you subtract the exponents: $\frac{x^a}{x^b} = x^a \div x^b = x^{a-b}$
 - any number except zero when raised to the power of zero equals one: $n^3 \div n^3 = n^{3-3} = n^0 = 1$ as long as $n \neq 0$
 - the power of power is: $(a^m)^p = a^{m \cdot p}$ for example $(2^3)^4 = 2^{3 \cdot 4} = 2^{12}$
+- when raising two numbers to the same power their products and quotients obey simple rules: $(x^n)(y^n) = (xy)^n$ and $\frac{x^n}{y^n} = (\frac{x}{y})^n$
 
 ### Misc
 
