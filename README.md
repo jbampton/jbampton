@@ -82,6 +82,8 @@
 
 ## Random Wikipedia
 
-Speaking in Tongues: A Letter to 3rd World Women Writers is a letter written by Gloria E. Anzaldúa. The letter was drafted in 1979 and was published in Anzaldúa’s feminist anthology This Bridge Called My Back: Writings by Radical Women of Color (1981). Writing this essay in the format of a letter, Anzaldua urges the reader to “write from the body” and she connects her body to other bodies, creating a community of embodied people. This essay is addressed to women of color as she shows sympathy, encouragement, and words of wisdom towards them. The essay addresses women of color and encourages these women to make their personal, embodied experiences visible in the text. The reader must also allow the text to enter herself, if the reader chooses to enter the text.
+Agaeocera is a genus of beetles in the family Buprestidae, containing the following species:Agaeocera gentilis (Horn, 1885)
+Agaeocera gigas (Gory & Laporte, 1839)
+Agaeocera scintillans Waterhouse, 1882
 
-https://en.m.wikipedia.org/wiki/Speaking_in_Tongues_(speech)
+https://en.m.wikipedia.org/wiki/Agaeocera
