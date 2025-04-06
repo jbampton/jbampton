@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29212__
+- Honor: __29213__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,8 +82,6 @@
 
 ## Random Wikipedia
 
-Agaeocera is a genus of beetles in the family Buprestidae, containing the following species:Agaeocera gentilis (Horn, 1885)
-Agaeocera gigas (Gory & Laporte, 1839)
-Agaeocera scintillans Waterhouse, 1882
+Matinée idol is a term used mainly to describe film or theatre stars who are adored to the point of adulation by their fans. The term almost exclusively refers to adult male actors.
 
-https://en.m.wikipedia.org/wiki/Agaeocera
+https://en.m.wikipedia.org/wiki/Matin%C3%A9e_idol
