@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29213__
+- Honor: __29215__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Matinée idol is a term used mainly to describe film or theatre stars who are adored to the point of adulation by their fans. The term almost exclusively refers to adult male actors.
+The Collinsville Masonic Temple is a historic Masonic building located in Collinsville, Illinois. It houses Collinsville Lodge No. 712, A.F. & A.M, which was established in 1872 as the city's chapter of the Freemasons. The building was constructed in 1912; prior to then, the Masons had met in rented buildings. The Classical Revival building's front facade features a brick entablature and pediment supported by four two-story Doric columns. The Masonic Temple is the oldest fraternal meeting house in Collinsville which is still used by the organization which built it.
 
-https://en.m.wikipedia.org/wiki/Matin%C3%A9e_idol
+https://en.m.wikipedia.org/wiki/Collinsville_Masonic_Temple
