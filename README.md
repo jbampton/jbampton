@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29215__
+- Honor: __29224__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Mirza Fakhrul Islam Alamgir is a Bangladeshi politician. He has been the secretary general of the Bangladesh Nationalist Party (BNP) since 2016. He was a member of the parliament for Thakurgaon-1 constituency from 2001 to 2006. In that term, he was also appointed the Minister of State in charge of the Ministry of Agriculture and later Ministry of Civil Aviation and Tourism.
+Portrait of Countess Howe is a 1764 portrait painting by the British artist Thomas Gainsborough depicting the English aristocrat Mary, Countess Howe wife of the Royal Navy officer Richard Howe. Her husband is today best known for his later success as an admiral during the relief of the Great Siege of Gibraltar and at the Glorious First of June.
 
-https://en.m.wikipedia.org/wiki/Mirza_Fakhrul_Islam_Alamgir
+https://en.m.wikipedia.org/wiki/Portrait_of_Countess_Howe_(Gainsborough)
