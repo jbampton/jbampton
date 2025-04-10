@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29224__
+- Honor: __29227__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Portrait of Countess Howe is a 1764 portrait painting by the British artist Thomas Gainsborough depicting the English aristocrat Mary, Countess Howe wife of the Royal Navy officer Richard Howe. Her husband is today best known for his later success as an admiral during the relief of the Great Siege of Gibraltar and at the Glorious First of June.
+The Tanfoglio Force, also known as Force 99, Force 2002, EAA Witness Polymer or EAA Witness P-Carry, is a modified clone of the Czech CZ-75/CZ-85 semi-automatic pistol. It is made in Gardone Val Trompia near Brescia, Italy by Fratelli Tanfoglio S.N.C.
 
-https://en.m.wikipedia.org/wiki/Portrait_of_Countess_Howe_(Gainsborough)
+https://en.m.wikipedia.org/wiki/Tanfoglio_Force
