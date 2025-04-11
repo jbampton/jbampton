@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29227__
+- Honor: __29232__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-The Tanfoglio Force, also known as Force 99, Force 2002, EAA Witness Polymer or EAA Witness P-Carry, is a modified clone of the Czech CZ-75/CZ-85 semi-automatic pistol. It is made in Gardone Val Trompia near Brescia, Italy by Fratelli Tanfoglio S.N.C.
+Nicolò Turco is an Italian professional footballer who plays as a striker for Serie C club Milan Futuro, on loan from Austrian Bundesliga club Red Bull Salzburg.
 
-https://en.m.wikipedia.org/wiki/Tanfoglio_Force
+https://en.m.wikipedia.org/wiki/Nicol%C3%B2_Turco
