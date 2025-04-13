@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29236__
+- Honor: __29239__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Meta Quest 3 is a standalone virtual reality (VR) headset developed by Reality Labs, a division of Meta Platforms. It was unveiled on June 1, 2023, and released on October 10, succeeding the Quest 2 as the third generation of the Meta Quest line.
+The Campbellton Tigers are a Junior "A" ice hockey team based in Campbellton, New Brunswick. They play in the Maritime Junior Hockey League. The team plays their home games at the Memorial Civic Center.
 
-https://en.m.wikipedia.org/wiki/Meta_Quest_3
+https://en.m.wikipedia.org/wiki/Campbellton_Tigers
