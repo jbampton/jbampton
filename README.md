@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29239__
+- Honor: __29245__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-The Campbellton Tigers are a Junior "A" ice hockey team based in Campbellton, New Brunswick. They play in the Maritime Junior Hockey League. The team plays their home games at the Memorial Civic Center.
+Ethel Reed Maynard was an American politician, activist, and registered nurse who served in the Arizona House of Representatives as a member of the Democratic Party. She was the first black woman to serve in the Arizona Legislature.
 
-https://en.m.wikipedia.org/wiki/Campbellton_Tigers
+https://en.m.wikipedia.org/wiki/Ethel_Maynard
