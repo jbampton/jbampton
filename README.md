@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29245__
+- Honor: __29251__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Ethel Reed Maynard was an American politician, activist, and registered nurse who served in the Arizona House of Representatives as a member of the Democratic Party. She was the first black woman to serve in the Arizona Legislature.
+Lesli Linka Glatter is an American film and television director. She is best known for her work on the AMC drama series Mad Men and the Showtime series Homeland. For her work in these two shows, she has received eight Primetime Emmy Award nominations and seven Directors Guild of America Awards nominations, winning the latter three times. She has also received a nomination for the Academy Award for Best Live Action Short Film for short film Tales of Meeting and Parting (1985).
 
-https://en.m.wikipedia.org/wiki/Ethel_Maynard
+https://en.m.wikipedia.org/wiki/Lesli_Linka_Glatter
