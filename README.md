@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29255__
+- Honor: __29257__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Gossypium thurberi, also known as Arizona wild cotton, Thurber's cotton, or desert cotton, is a wild species of cotton.
+Georg Christian Carl Boos, also Karl Boos, was a German architect and court architect.
 
-https://en.m.wikipedia.org/wiki/Gossypium_thurberi
+https://en.m.wikipedia.org/wiki/Carl_Boos
