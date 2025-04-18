@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29257__
+- Honor: __29261__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Georg Christian Carl Boos, also Karl Boos, was a German architect and court architect.
+Richea is a genus of 11 species of flowering plants in the family Ericaceae. Nine of the species are endemic to Tasmania and the other two are endemic to the south-east of the Australian mainland.
 
-https://en.m.wikipedia.org/wiki/Carl_Boos
+https://en.m.wikipedia.org/wiki/Richea
