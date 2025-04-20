@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29265__
+- Honor: __29268__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Rashtrapati Road previously known as Kingsway also known as RP Road is a major road in Secunderabad connecting Sardar Patel Road to Tank Bund Road. The road was built in 1930s to decongest James Street. The road was named after Albert Frederick Arthur George, the then king of the United Kingdom, who had passed through this road in 1940s. It was subsequently renamed as Rashtrapati Road after India attained independence. Locals claim that initially the width of road was 100 feet (30 m) with 15 feet (4.6 m) wide pavement on both the sides. Presently due to encroachment, this has drastically reduced.<
+Kupunkamint Mountain is located in the Lewis Range, Glacier National Park in the U.S. state of Montana. Kupunkamint Mountain is in the southeastern section of Glacier National Park. The mountain's name was officially adopted in 1940 by the United States Board on Geographic Names to commemorate a Kootenai Indian.
 
-https://en.m.wikipedia.org/wiki/Rashtrapati_Road
+https://en.m.wikipedia.org/wiki/Kupunkamint_Mountain
