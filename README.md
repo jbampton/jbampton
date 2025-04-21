@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29268__
+- Honor: __29272__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Kupunkamint Mountain is located in the Lewis Range, Glacier National Park in the U.S. state of Montana. Kupunkamint Mountain is in the southeastern section of Glacier National Park. The mountain's name was officially adopted in 1940 by the United States Board on Geographic Names to commemorate a Kootenai Indian.
+Holy Ghost Preparatory School is a Catholic college-preparatory high school for young men in Bensalem, Pennsylvania, United States. Congregation of the Holy Spirit missionaries founded the school in 1897.
 
-https://en.m.wikipedia.org/wiki/Kupunkamint_Mountain
+https://en.m.wikipedia.org/wiki/Holy_Ghost_Preparatory_School
