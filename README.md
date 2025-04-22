@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29272__
+- Honor: __29277__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Holy Ghost Preparatory School is a Catholic college-preparatory high school for young men in Bensalem, Pennsylvania, United States. Congregation of the Holy Spirit missionaries founded the school in 1897.
+Montigny-en-Arrouaise is a commune in the Aisne department in Hauts-de-France in northern France.
 
-https://en.m.wikipedia.org/wiki/Holy_Ghost_Preparatory_School
+https://en.m.wikipedia.org/wiki/Montigny-en-Arrouaise
