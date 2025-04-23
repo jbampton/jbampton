@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29277__
+- Honor: __29279__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Montigny-en-Arrouaise is a commune in the Aisne department in Hauts-de-France in northern France.
+Božidar Jović is a retired Croatian handball player and current general manager of Zagreb Handball Club.
 
-https://en.m.wikipedia.org/wiki/Montigny-en-Arrouaise
+https://en.m.wikipedia.org/wiki/Bo%C5%BEidar_Jovi%C4%87
