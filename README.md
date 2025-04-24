@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29279__
+- Honor: __29283__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Božidar Jović is a retired Croatian handball player and current general manager of Zagreb Handball Club.
+Bermuda sent a delegation to compete at the 2014 Winter Olympics in Sochi, Russia, from 7–23 February 2014. This was Bermuda's seventh appearance at a Winter Olympic Games, and cross-country skier Tucker Murphy's second consecutive Games as the only athlete. In the 15 kilometre race, he finished in 84th place.
 
-https://en.m.wikipedia.org/wiki/Bo%C5%BEidar_Jovi%C4%87
+https://en.m.wikipedia.org/wiki/Bermuda_at_the_2014_Winter_Olympics
