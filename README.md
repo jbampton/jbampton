@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29286__
+- Honor: __29287__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-The ICAR Universal was a 1930s Romanian two seat monoplane trainer, touring and aerobatics aircraft.
+Alexandre Vidal Porto is a Brazilian writer and diplomat.
 
-https://en.m.wikipedia.org/wiki/ICAR_Universal
+https://en.m.wikipedia.org/wiki/Alexandre_Vidal_Porto
