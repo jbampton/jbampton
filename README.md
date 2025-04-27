@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29287__
+- Honor: __29292__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Alexandre Vidal Porto is a Brazilian writer and diplomat.
+Gelidiella is a genus of red algae. Worldwide there are 22 species of Gelidiella, mostly tropical and subtropical. Gelidiella and Gelidium are now both united into one order Gelidiales.
 
-https://en.m.wikipedia.org/wiki/Alexandre_Vidal_Porto
+https://en.m.wikipedia.org/wiki/Gelidiella
