@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29292__
+- Honor: __29301__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Gelidiella is a genus of red algae. Worldwide there are 22 species of Gelidiella, mostly tropical and subtropical. Gelidiella and Gelidium are now both united into one order Gelidiales.
+Griffintown is a historic neighbourhood of Montreal, Quebec, southwest of downtown. The area existed as a functional neighbourhood from the 1820s until the 1960s and was mainly populated by Irish immigrants and their descendants. Mostly depopulated since then, the neighbourhood has been undergoing redevelopment since the early 2010s.
 
-https://en.m.wikipedia.org/wiki/Gelidiella
+https://en.m.wikipedia.org/wiki/Griffintown
