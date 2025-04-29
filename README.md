@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29301__
+- Honor: __29307__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Griffintown is a historic neighbourhood of Montreal, Quebec, southwest of downtown. The area existed as a functional neighbourhood from the 1820s until the 1960s and was mainly populated by Irish immigrants and their descendants. Mostly depopulated since then, the neighbourhood has been undergoing redevelopment since the early 2010s.
+Agent Orange is a chemical herbicide and defoliant, one of the tactical uses of Rainbow Herbicides. It was used by the U.S. military as part of its herbicidal warfare program, Operation Ranch Hand, during the Vietnam War from 1961 to 1971. The U.S. was strongly influenced by the British who used Agent Orange during the Malayan Emergency. It is a mixture of equal parts of two herbicides, 2,4,5-T and 2,4-D.
 
-https://en.m.wikipedia.org/wiki/Griffintown
+https://en.m.wikipedia.org/wiki/Agent_Orange
