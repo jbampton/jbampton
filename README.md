@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29307__
+- Honor: __29313__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Agent Orange is a chemical herbicide and defoliant, one of the tactical uses of Rainbow Herbicides. It was used by the U.S. military as part of its herbicidal warfare program, Operation Ranch Hand, during the Vietnam War from 1961 to 1971. The U.S. was strongly influenced by the British who used Agent Orange during the Malayan Emergency. It is a mixture of equal parts of two herbicides, 2,4,5-T and 2,4-D.
+The 2005-06 Michigan Wolverines men's basketball team represented the University of Michigan in intercollegiate college basketball during the 2005-06 season. The team played its home games in the Crisler Arena in Ann Arbor, Michigan, and was a member of the Big Ten Conference. Under the direction of head coach Tommy Amaker, the team finished tied for sixth in the Big Ten Conference. The team earned a seventh seed and lost in the first round of the 2006 Big Ten Conference men's basketball tournament. The team earned an invitation to the 2006 National Invitation Tournament. The team was ranked as the 21st best team in the January 31, 2006 Associated Press Top Twenty-Five Poll but fell out of the poll two weeks later, and also ended the season unranked in the final USA Today/CNN Poll. The team had a 3–7 record against ranked opponents, with its victories coming against #25 Michigan State 72–67 on January 25, 2006 at Crisler Arena, #23 Wisconsin 85–76 on January 28, 2006 at Crisler Arena and #8 Illinois 72–64 on February 21, 2006 at Crisler Arena.
 
-https://en.m.wikipedia.org/wiki/Agent_Orange
+https://en.m.wikipedia.org/wiki/2005%E2%80%9306_Michigan_Wolverines_men's_basketball_team
