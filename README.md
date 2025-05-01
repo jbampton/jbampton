@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29313__
+- Honor: __29316__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-The 2005-06 Michigan Wolverines men's basketball team represented the University of Michigan in intercollegiate college basketball during the 2005-06 season. The team played its home games in the Crisler Arena in Ann Arbor, Michigan, and was a member of the Big Ten Conference. Under the direction of head coach Tommy Amaker, the team finished tied for sixth in the Big Ten Conference. The team earned a seventh seed and lost in the first round of the 2006 Big Ten Conference men's basketball tournament. The team earned an invitation to the 2006 National Invitation Tournament. The team was ranked as the 21st best team in the January 31, 2006 Associated Press Top Twenty-Five Poll but fell out of the poll two weeks later, and also ended the season unranked in the final USA Today/CNN Poll. The team had a 3–7 record against ranked opponents, with its victories coming against #25 Michigan State 72–67 on January 25, 2006 at Crisler Arena, #23 Wisconsin 85–76 on January 28, 2006 at Crisler Arena and #8 Illinois 72–64 on February 21, 2006 at Crisler Arena.
+Musanga cecropioides, the African corkwood tree or umbrella tree, is found in tropical Africa from Sierra Leone south to Angola and east to Uganda. It is typical in secondary forests.
 
-https://en.m.wikipedia.org/wiki/2005%E2%80%9306_Michigan_Wolverines_men's_basketball_team
+https://en.m.wikipedia.org/wiki/Musanga_cecropioides
