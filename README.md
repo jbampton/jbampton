@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29316__
+- Honor: __29321__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Musanga cecropioides, the African corkwood tree or umbrella tree, is found in tropical Africa from Sierra Leone south to Angola and east to Uganda. It is typical in secondary forests.
+Eduard Francevič Naprávnik was a Czech conductor and composer. Nápravník settled in Russian Empire and is best known for his leading role in Russian musical life as the principal conductor of the Imperial Mariinsky Theatre in Saint Petersburg for many decades. In that capacity, he conducted the premieres of many operas by Russian composers, including those by Mussorgsky, Tchaikovsky and Rimsky-Korsakov.
 
-https://en.m.wikipedia.org/wiki/Musanga_cecropioides
+https://en.m.wikipedia.org/wiki/Eduard_N%C3%A1pravn%C3%ADk
