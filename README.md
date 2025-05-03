@@ -1,5 +1,5 @@
 <!-- start-data -->
-# What's new?
+# Nice to meet you
 
 - [Apache CloudStack Project Members](https://cloudstack.apache.org/who)
 - [Apache Sedona Project Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
@@ -10,11 +10,11 @@
 
 - [Mukyu 無級](https://github.com/robygems)
 - [Kukyu 九級](https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d)
-- [Hachikyu 八級](https://github.com/rails/rails-contributors/graphs/contributors)
-- [Nanakyu 七級](https://github.com/natalie-lang/natalie/graphs/contributors)
-- [Rokkyu 六級](https://github.com/whitesmith/rubycritic/graphs/contributors)
-- [Gokyu 五級](https://github.com/mruby/mruby.github.io/graphs/contributors)
-- [Yonkyu 四級](https://contributors.rubyonrails.org/)
+- [Hachikyu 八級](https://github.com/natalie-lang/natalie/graphs/contributors)
+- [Nanakyu 七級](https://github.com/whitesmith/rubycritic/graphs/contributors)
+- [Rokkyu 六級](https://github.com/mruby/mruby.github.io/graphs/contributors)
+- [Gokyu 五級](https://contributors.rubyonrails.org/)
+- [Yonkyu 四級](https://github.com/mruby/mgem-list/graphs/contributors)
 - [Sankyu 三級](https://github.com/mruby/mruby/graphs/contributors)
 - [Nikyu 二級](https://www.codewars.com/users/Beast)
 
@@ -94,9 +94,11 @@
 
 ## Random Wikipedia
 
-Nell Theobald was an American model, actress and dancer from Atlanta, Georgia.
 
-https://en.m.wikipedia.org/wiki/Nell_Theobald
+
+Sabual is a village in the northeastern part of Tripura state in Northeast India. Nestled in the picturesque Jampui Hills range under Kanchanpur Sub-Division of Tripura, Sabual is a small yet historically significant village. Known for its serene environment, rich cultural heritage, and breathtaking landscapes, Sabual is home to a predominantly Mizo population. The village is a lesser-known but fascinating destination that offers a glimpse into the traditions and lifestyles of the people in Northeast India. The District headquarter, Dharmanagar, is approximately 85 kilometers from Sabual. It sits at about 1000 meters above sea level making it one of the highest settlements in the state. Due to its elevation, the village experiences pleasant summers and cool winters, attracting visitors who wish to escape the heat of the plains.
+
+https://en.m.wikipedia.org/wiki/Sabual
 
 ## Chess is Art
 
