@@ -1,5 +1,5 @@
 <!-- start-data -->
-# Nice to meet you
+# What's the story?
 
 - [Apache CloudStack Project Members](https://cloudstack.apache.org/who)
 - [Apache Sedona Project Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
@@ -94,11 +94,9 @@
 
 ## Random Wikipedia
 
+Arthur Tutin was an English footballer who played in the Football League for Aldershot and Stoke City.
 
-
-Sabual is a village in the northeastern part of Tripura state in Northeast India. Nestled in the picturesque Jampui Hills range under Kanchanpur Sub-Division of Tripura, Sabual is a small yet historically significant village. Known for its serene environment, rich cultural heritage, and breathtaking landscapes, Sabual is home to a predominantly Mizo population. The village is a lesser-known but fascinating destination that offers a glimpse into the traditions and lifestyles of the people in Northeast India. The District headquarter, Dharmanagar, is approximately 85 kilometers from Sabual. It sits at about 1000 meters above sea level making it one of the highest settlements in the state. Due to its elevation, the village experiences pleasant summers and cool winters, attracting visitors who wish to escape the heat of the plains.
-
-https://en.m.wikipedia.org/wiki/Sabual
+https://en.m.wikipedia.org/wiki/Arthur_Tutin
 
 ## Chess is Art
 
