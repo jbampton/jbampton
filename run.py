@@ -64,7 +64,7 @@ def build_readme():
 
 - [Mukyu 無級](https://github.com/robygems)
 - [Kukyu 九級](https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d)
-- [Hachikyu 八級](https://github.com/natalie-lang/natalie/graphs/contributors)
+- [Hachikyu 八級](https://github.com/sponsors/hsbt#sponsors)
 - [Nanakyu 七級](https://github.com/whitesmith/rubycritic/graphs/contributors)
 - [Rokkyu 六級](https://github.com/mruby/mruby.github.io/graphs/contributors)
 - [Gokyu 五級](https://contributors.rubyonrails.org/)
