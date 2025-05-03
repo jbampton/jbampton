@@ -14,7 +14,7 @@
 - Name: __John Bampton__
 - Clan: __Summerhill__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29321__
+- Honor: __29325__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,6 @@
 
 ## Random Wikipedia
 
-Eduard Francevič Naprávnik was a Czech conductor and composer. Nápravník settled in Russian Empire and is best known for his leading role in Russian musical life as the principal conductor of the Imperial Mariinsky Theatre in Saint Petersburg for many decades. In that capacity, he conducted the premieres of many operas by Russian composers, including those by Mussorgsky, Tchaikovsky and Rimsky-Korsakov.
+Live Aid was a two-venue benefit concert and music-based fundraising initiative held on Saturday, 13 July 1985. The event was organised by Bob Geldof and Midge Ure to raise further funds for relief of the 1983–1985 famine in Ethiopia, a movement that started with the release of the successful charity single "Do They Know It's Christmas?" in December 1984. Billed as the "global jukebox", Live Aid was held simultaneously at Wembley Stadium in London and John F. Kennedy Stadium in Philadelphia.
 
-https://en.m.wikipedia.org/wiki/Eduard_N%C3%A1pravn%C3%ADk
+https://en.m.wikipedia.org/wiki/Live_Aid
