@@ -57,10 +57,22 @@ def build_readme():
 
     links = '''- [Apache CloudStack Project Members](https://cloudstack.apache.org/who)
 - [Apache Sedona Project Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
-- [Rails Contributors - All time](https://contributors.rubyonrails.org/)
-- [Ruby Warrior ??!!!? 👺](https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d)
+- [Happy Days at The ASF](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
 - [Thanks for Your Contribution to the curl Project!](https://curl.se/docs/thanks.html)
-- [Happy Days at The ASF](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)\n
+
+## Ruby Warrior
+
+- [Mukyu 無級](https://github.com/robygems)
+- [Kukyu 九級](https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d)
+- [Hachikyu 八級](https://github.com/natalie-lang/natalie/graphs/contributors)
+- [Nanakyu 七級](https://github.com/whitesmith/rubycritic/graphs/contributors)
+- [Rokkyu 六級](https://github.com/mruby/mruby.github.io/graphs/contributors)
+- [Gokyu 五級](https://contributors.rubyonrails.org/)
+- [Yonkyu 四級](https://github.com/mruby/mgem-list/graphs/contributors)
+- [Sankyu 三級](https://github.com/mruby/mruby/graphs/contributors)
+- [Nikyu 二級](https://www.codewars.com/users/Beast)
+
+![I'm Ruby !??!!! 👺](images/ImRuby.gif)\n
 '''
 
     perf_types = ['bullet', 'blitz', 'rapid'] # 'classical', 'correspondence', 'chess960', 'crazyhouse'

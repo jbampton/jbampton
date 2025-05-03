@@ -1,12 +1,24 @@
 <!-- start-data -->
-# Salutations
+# Nice to meet you
 
 - [Apache CloudStack Project Members](https://cloudstack.apache.org/who)
 - [Apache Sedona Project Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
-- [Rails Contributors - All time](https://contributors.rubyonrails.org/)
-- [Ruby Warrior ??!!!? 👺](https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d)
-- [Thanks for Your Contribution to the curl Project!](https://curl.se/docs/thanks.html)
 - [Happy Days at The ASF](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
+- [Thanks for Your Contribution to the curl Project!](https://curl.se/docs/thanks.html)
+
+## Ruby Warrior
+
+- [Mukyu 無級](https://github.com/robygems)
+- [Kukyu 九級](https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d)
+- [Hachikyu 八級](https://github.com/natalie-lang/natalie/graphs/contributors)
+- [Nanakyu 七級](https://github.com/whitesmith/rubycritic/graphs/contributors)
+- [Rokkyu 六級](https://github.com/mruby/mruby.github.io/graphs/contributors)
+- [Gokyu 五級](https://contributors.rubyonrails.org/)
+- [Yonkyu 四級](https://github.com/mruby/mgem-list/graphs/contributors)
+- [Sankyu 三級](https://github.com/mruby/mruby/graphs/contributors)
+- [Nikyu 二級](https://www.codewars.com/users/Beast)
+
+![I'm Ruby !??!!! 👺](images/ImRuby.gif)
 
 ## Codewars
 
@@ -14,7 +26,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29326__
+- Honor: __29327__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,9 +94,11 @@
 
 ## Random Wikipedia
 
-Zafrona samadiae is a species of sea snail, a marine gastropod mollusk in the family Columbellidae, the dove snails.
 
-https://en.m.wikipedia.org/wiki/Zafrona_samadiae
+
+Sabual is a village in the northeastern part of Tripura state in Northeast India. Nestled in the picturesque Jampui Hills range under Kanchanpur Sub-Division of Tripura, Sabual is a small yet historically significant village. Known for its serene environment, rich cultural heritage, and breathtaking landscapes, Sabual is home to a predominantly Mizo population. The village is a lesser-known but fascinating destination that offers a glimpse into the traditions and lifestyles of the people in Northeast India. The District headquarter, Dharmanagar, is approximately 85 kilometers from Sabual. It sits at about 1000 meters above sea level making it one of the highest settlements in the state. Due to its elevation, the village experiences pleasant summers and cool winters, attracting visitors who wish to escape the heat of the plains.
+
+https://en.m.wikipedia.org/wiki/Sabual
 
 ## Chess is Art
 
