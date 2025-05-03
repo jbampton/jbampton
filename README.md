@@ -1,5 +1,6 @@
-# Salam, Konnichiwa, Hallo, Ciao, Hola, Namaste !! 🐉 🦘 🖥️ 👨‍🎨
- 
+<!-- start-data -->
+# How's everything been?
+
 - [Apache CloudStack Project Members](https://cloudstack.apache.org/who)
 - [Apache Sedona Project Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
 - [Rails Contributors - All time](https://contributors.rubyonrails.org/)
@@ -7,14 +8,13 @@
 - [Thanks for Your Contribution to the curl Project!](https://curl.se/docs/thanks.html)
 - [Happy Days at The ASF](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
 
-<!-- start-data -->
 ## Codewars
 
 - Username: __Beast__
 - Name: __John Bampton__
-- Clan: __Summerhill__
+- Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29325__
+- Honor: __29326__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -82,6 +82,10 @@
 
 ## Random Wikipedia
 
-Live Aid was a two-venue benefit concert and music-based fundraising initiative held on Saturday, 13 July 1985. The event was organised by Bob Geldof and Midge Ure to raise further funds for relief of the 1983–1985 famine in Ethiopia, a movement that started with the release of the successful charity single "Do They Know It's Christmas?" in December 1984. Billed as the "global jukebox", Live Aid was held simultaneously at Wembley Stadium in London and John F. Kennedy Stadium in Philadelphia.
+Alexis was a lieutenant general, statesman, and the Prince of Bentheim and Steinfurt from 28 September 1890 to 21 January 1919.
 
-https://en.m.wikipedia.org/wiki/Live_Aid
+https://en.m.wikipedia.org/wiki/Alexis%2C_Prince_of_Bentheim_and_Steinfurt
+
+## Chess is Art
+
+![Chess Art 1](images/multi-color-chess-set.jpg)
