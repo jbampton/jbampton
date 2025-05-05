@@ -1,5 +1,5 @@
 <!-- start-data -->
-# How's things going?
+# How's it been?
 
 - [Apache CloudStack Project Members](https://cloudstack.apache.org/who)
 - [Apache Sedona Project Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
@@ -26,7 +26,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29327__
+- Honor: __29329__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -94,9 +94,9 @@
 
 ## Random Wikipedia
 
-Court Square is the central plaza and historic district in Springfield, Massachusetts. It is located in the heart of Springfield's urban Metro Center neighborhood. Court Square is the City of Springfield's only topographical constant since its founding in 1636.
+Söderportgymnasiet, an upper secondary school, was opened in 1875 in order to accommodate the increasing number of students in Kristianstad. The school was built on a site previously occupied by the southern gate of the city walls, hence the current name Söderportgymnasiet. In 1878 the school was named Högre allmänna läroverket, and in 1968 renamed Söderportskolan in connection with a nationwide reform. In 2002 the school received its current name to better illustrate the level of education conducted there.
 
-https://en.m.wikipedia.org/wiki/Court_Square
+https://en.m.wikipedia.org/wiki/S%C3%B6derportgymnasiet
 
 ## Chess is Art
 
