@@ -1,8 +1,8 @@
 <!-- start-data -->
-# How are you?
+# How's it been?
 
-- [Apache CloudStack Project Members](https://cloudstack.apache.org/who)
-- [Apache Sedona Project Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
+- [Apache CloudStack Team Members](https://cloudstack.apache.org/who)
+- [Apache Sedona Team Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
 - [Happy Days at The ASF](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
 - [Thanks for Your Contribution to the curl Project!](https://curl.se/docs/thanks.html)
 
@@ -26,7 +26,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29340__
+- Honor: __29343__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -94,9 +94,9 @@
 
 ## Random Wikipedia
 
-The 2021 Johan Cruyff Shield was the 25th edition of the Johan Cruyff Shield, an annual Dutch football match played between the winners of the previous season's Eredivisie and KNVB Cup. The match was contested by the winners of the 2020–21 Eredivisie and the 2020–21 KNVB Cup on 7 August 2021.
+Triathlon competitions at the 2021 Junior Pan American Games in Cali, Colombia, were held at the Calima Lake located in the municipality of Calima, Valle del Cauca.
 
-https://en.m.wikipedia.org/wiki/2021_Johan_Cruyff_Shield
+https://en.m.wikipedia.org/wiki/Triathlon_at_the_2021_Junior_Pan_American_Games
 
 ## Chess is Art
 
