@@ -55,8 +55,8 @@ def build_readme():
      "How's it all been going?"]
     greetings = f'# {hello[randrange(45)]}\n\n'
 
-    links = '''- [Apache CloudStack Project Members](https://cloudstack.apache.org/who)
-- [Apache Sedona Project Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
+    links = '''- [Apache CloudStack Team Members](https://cloudstack.apache.org/who)
+- [Apache Sedona Team Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
 - [Happy Days at The ASF](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
 - [Thanks for Your Contribution to the curl Project!](https://curl.se/docs/thanks.html)
 
