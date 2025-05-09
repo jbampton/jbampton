@@ -1,6 +1,5 @@
 <!-- start-data -->
 <div align="center"><h1>✨ How's your day? 👋</h1>
-
   <p>
     <a href="https://github.com/john-bampton">
       <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4"
@@ -113,9 +112,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-The Gregório River is a river of Amazonas and Acre states in western Brazil. It is a tributary of Juruá River.
+Strathtyrum is a 400-acre (160 ha) country estate in the north-western outskirts of St Andrews, Fife, Scotland. It is accessed via the A91.
 
-https://en.m.wikipedia.org/wiki/Greg%C3%B3rio_River_(Amazonas)
+https://en.m.wikipedia.org/wiki/Strathtyrum
 
 ## 🎨 Chess is Art ♟️
 
