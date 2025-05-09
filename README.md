@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>How are things?</h1>
+<div align="center"><h1>What's the story?</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -103,10 +103,9 @@
 
 ## Random Wikipedia
 
+Mlomp is a rural community and village in the Ziguinchor Region of Senegal in the Casamance, situated approximately 40 km (25 mi) south-west of Ziguinchor.
 
-Akita International University , or AIU, is a public university located in Akita City, Akita Prefecture, Japan. Established in 2004 and modeled on American liberal arts colleges, AIU is one of the few universities in Japan offering all of its courses in English. It has currently 206 international partner institutions in 52 different countries and regions.
-
-https://en.m.wikipedia.org/wiki/Akita_International_University
+https://en.m.wikipedia.org/wiki/Mlomp
 
 ## Chess is Art
 
