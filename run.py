@@ -69,7 +69,7 @@ def build_readme():
   <a href="https://cloudstack.apache.org/who">
     <img src="./projects/apache-cloudstack.png" alt="Apache CloudStack Team Members">
   </a>
-  <a href="https://www.openoffice.org/">
+  <a href="https://people.apache.org/phonebook.html?unix=openoffice">
     <img src="./projects/apache-openoffice.png" alt="Apache OpenOffice">
   </a>
   <a href="https://sedona.apache.org/latest-snapshot/community/contributor/">
