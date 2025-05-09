@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything? 👋</h1>
+<div align="center"><h1>✨ How's everything been going? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -116,9 +116,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Evangeline Rachel Hall was an American educator. She was head of teacher training at Cheyney State Teachers College, where she taught for 42 years, from 1905 to 1947.
+Luca Rizzoli is an Italian professional rugby union player who primarily plays prop for Zebre Parma of the United Rugby Championship.
 
-https://en.m.wikipedia.org/wiki/Evangeline_Rachel_Hall
+https://en.m.wikipedia.org/wiki/Luca_Rizzoli
 
 ## 🎨 Chess is Art ♟️
 
