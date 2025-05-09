@@ -1,6 +1,5 @@
 <!-- start-data -->
 <div align="center"><h1>✨ What's been up? 👋</h1>
-
   <p>
     <a href="https://github.com/john-bampton">
       <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4"
