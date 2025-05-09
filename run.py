@@ -66,20 +66,24 @@ def build_readme():
 </div>
 
 <div align="center">
-  <a href="https://cloudstack.apache.org/who">
-    <img src="./projects/apache-cloudstack.png" alt="Apache CloudStack Team Members">
+  <a href="https://cloudstack.apache.org/who" target="_blank" rel="noopener noreferrer">
+    <img src="./projects/apache-cloudstack.png" alt="Apache CloudStack Team Members" title="Apache CloudStack Team Members">
   </a>
-  <a href="https://people.apache.org/phonebook.html?unix=openoffice">
-    <img src="./projects/apache-openoffice.png" alt="Apache OpenOffice">
+
+  <a href="https://people.apache.org/phonebook.html?unix=openoffice" target="_blank" rel="noopener noreferrer">
+    <img src="./projects/apache-openoffice.png" alt="Apache OpenOffice" title="Apache OpenOffice">
   </a>
-  <a href="https://sedona.apache.org/latest-snapshot/community/contributor/">
-    <img src="./projects/apache-sedona.png" alt="Apache Sedona Team Members">
+
+  <a href="https://sedona.apache.org/latest-snapshot/community/contributor/" target="_blank" rel="noopener noreferrer">
+    <img src="./projects/apache-sedona.png" alt="Apache Sedona Team Members" title="Apache Sedona Team Members">
   </a>
-  <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html">
-    <img src="./projects/apache.png" alt="Happy Days at The ASF">
+
+  <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html" target="_blank" rel="noopener noreferrer">
+    <img src="./projects/apache.png" alt="Happy Days at The ASF" title="Happy Days at The ASF">
   </a>
-  <a href="https://curl.se/docs/thanks.html">
-    <img src="./projects/curl.png" alt="Thanks for Your Contribution to the curl Project!">
+
+  <a href="https://curl.se/docs/thanks.html" target="_blank" rel="noopener noreferrer">
+    <img src="./projects/curl.png" alt="Thanks for Your Contribution to the curl Project!" title="Thanks for Your Contribution to the curl Project!">
   </a>
 </div>
 
