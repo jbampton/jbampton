@@ -65,10 +65,10 @@ def build_readme():
   <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
 </div>
 
-- [Apache CloudStack Team Members](https://cloudstack.apache.org/who)
-- [Apache Sedona Team Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
-- [Happy Days at The ASF](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
-- [Thanks for Your Contribution to the curl Project!](https://curl.se/docs/thanks.html)
+[![Apache CloudStack Team Members](https://raw.githubusercontent.com/MaxFork/jbampton-1/refs/heads/main/projects/apache-cloudstack.png)](https://cloudstack.apache.org/who)
+[![Apache Sedona Team Members](https://raw.githubusercontent.com/MaxFork/jbampton-1/refs/heads/main/projects/apache-sedona.png)](https://sedona.apache.org/latest-snapshot/community/contributor/)
+[![Happy Days at The ASF](https://raw.githubusercontent.com/MaxFork/jbampton-1/refs/heads/main/projects/apache.png)](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
+[![Thanks for Your Contribution to the curl Project!](https://raw.githubusercontent.com/MaxFork/jbampton-1/refs/heads/main/projects/curl.png)](https://curl.se/docs/thanks.html)
 
 ## Ruby Warrior
 
