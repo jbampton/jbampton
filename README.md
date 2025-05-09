@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything been going? 👋</h1>
+<div align="center"><h1>✨ Hey 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -12,19 +12,23 @@
 
 <div align="center">
   <a href="https://cloudstack.apache.org/who">
-    <img src="./projects/apache-cloudstack.png" alt="Apache CloudStack Team Members">
+    <img src="./projects/apache-cloudstack.png" alt="Apache CloudStack Team Members" title="Apache CloudStack Team Members">
   </a>
+
   <a href="https://people.apache.org/phonebook.html?unix=openoffice">
-    <img src="./projects/apache-openoffice.png" alt="Apache OpenOffice">
+    <img src="./projects/apache-openoffice.png" alt="Apache OpenOffice Team Members" title="Apache OpenOffice Team Members">
   </a>
+
   <a href="https://sedona.apache.org/latest-snapshot/community/contributor/">
-    <img src="./projects/apache-sedona.png" alt="Apache Sedona Team Members">
+    <img src="./projects/apache-sedona.png" alt="Apache Sedona Team Members" title="Apache Sedona Team Members">
   </a>
+
   <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html">
-    <img src="./projects/apache.png" alt="Happy Days at The ASF">
+    <img src="./projects/apache.png" alt="Happy Days at The ASF" title="Happy Days at The ASF">
   </a>
+
   <a href="https://curl.se/docs/thanks.html">
-    <img src="./projects/curl.png" alt="Thanks for Your Contribution to the curl Project!">
+    <img src="./projects/curl.png" alt="Thanks for Your Contribution to the curl Project!" title="Thanks for Your Contribution to the curl Project!">
   </a>
 </div>
 
@@ -116,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Luca Rizzoli is an Italian professional rugby union player who primarily plays prop for Zebre Parma of the United Rugby Championship.
+Stylianos Farantakis is a Greek former cyclist, who rode competitively between 2012 and 2020 for amateur teams in the Netherlands and France.
 
-https://en.m.wikipedia.org/wiki/Luca_Rizzoli
+https://en.m.wikipedia.org/wiki/Stylianos_Farantakis
 
 ## 🎨 Chess is Art ♟️
 
