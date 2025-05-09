@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Hey 👋</h1>
+<div align="center"><h1>✨ What's going on? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -120,9 +120,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Stylianos Farantakis is a Greek former cyclist, who rode competitively between 2012 and 2020 for amateur teams in the Netherlands and France.
+Brownsville station is a Metrorail station in Brownsville, Florida. It is located at the intersection of Northwest 27th Avenue and 52nd Street, opening to service May 19, 1985.
 
-https://en.m.wikipedia.org/wiki/Stylianos_Farantakis
+https://en.m.wikipedia.org/wiki/Brownsville_station
 
 ## 🎨 Chess is Art ♟️
 
