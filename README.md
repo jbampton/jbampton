@@ -10,10 +10,20 @@
   <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
 </div>
 
-[![Apache CloudStack Team Members](https://raw.githubusercontent.com/MaxFork/jbampton-1/refs/heads/main/projects/apache-cloudstack.png)](https://cloudstack.apache.org/who)
-[![Apache Sedona Team Members](https://raw.githubusercontent.com/MaxFork/jbampton-1/refs/heads/main/projects/apache-sedona.png)](https://sedona.apache.org/latest-snapshot/community/contributor/)
-[![Happy Days at The ASF](https://raw.githubusercontent.com/MaxFork/jbampton-1/refs/heads/main/projects/apache.png)](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
-[![Thanks for Your Contribution to the curl Project!](https://raw.githubusercontent.com/MaxFork/jbampton-1/refs/heads/main/projects/curl.png)](https://curl.se/docs/thanks.html)
+<div align="center">
+  <a href="https://cloudstack.apache.org/who">
+    <img src="./assets/apache-cloudstack.png" alt="Apache CloudStack Team Members">
+  </a>
+  <a href="https://sedona.apache.org/latest-snapshot/community/contributor/">
+    <img src="./assets/apache-sedona.png" alt="Apache Sedona Team Members">
+  </a>
+  <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html">
+    <img src="./assets/apache.png" alt="Happy Days at The ASF">
+  </a>
+  <a href="https://curl.se/docs/thanks.html">
+    <img src="./assets/curl.png" alt="Thanks for Your Contribution to the curl Project!">
+  </a>
+</div>
 
 ## Ruby Warrior
 
