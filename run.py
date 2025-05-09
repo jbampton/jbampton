@@ -71,7 +71,7 @@ def build_readme():
   </a>
 
   <a href="https://people.apache.org/phonebook.html?unix=openoffice" target="_blank" rel="noopener noreferrer">
-    <img src="./projects/apache-openoffice.png" alt="Apache OpenOffice" title="Apache OpenOffice">
+    <img src="./projects/apache-openoffice.png" alt="Apache OpenOffice Team Members" title="Apache OpenOffice Team Members">
   </a>
 
   <a href="https://sedona.apache.org/latest-snapshot/community/contributor/" target="_blank" rel="noopener noreferrer">
