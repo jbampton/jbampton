@@ -140,7 +140,7 @@ def build_readme():
 ![Chess Art 1](images/multi-color-chess-set.jpg)'''
 
     sections = f'\n{greetings}{links}{codewars}{lichess}{wikipedia}{chessart}\n'
-    with open("README.md", 'r+') as my_file:
+    with open("README.md", 'r+', encoding='utf-8') as my_file:
         readme = my_file.read()
         readme = re.sub(pattern, r"\1"+sections, readme)
         my_file.truncate(0)
