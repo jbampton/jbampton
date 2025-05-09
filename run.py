@@ -53,7 +53,7 @@ def build_readme():
      "How's everything going?",
      "How's it all been?",
      "How's it all been going?"]
-    greetings = f'<div align="center"><h1>{hello[randrange(45)]}</h1>\n'
+    greetings = f'<div align="center"><h1>✨ {hello[randrange(45)]} 👋</h1>\n'
 
     links = '''
   <p>
@@ -80,7 +80,7 @@ def build_readme():
   </a>
 </div>
 
-## Ruby Warrior
+## 🥋 Ruby Warrior
 
 - [Mukyu 無級](https://github.com/robygems)
 - [Kukyu 九級](https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d)
@@ -96,7 +96,7 @@ def build_readme():
 '''
 
     perf_types = ['bullet', 'blitz', 'rapid'] # 'classical', 'correspondence', 'chess960', 'crazyhouse'
-    lichess = '## lichess\n\n'
+    lichess = '## ♟️ lichess\n\n'
     users = ['RubyFu', 'SexyMate']
     for user in users:
         lichess += f'### Username: {user}\n\n'
@@ -118,7 +118,7 @@ def build_readme():
                 results += '\n'
             lichess += results
     
-    codewars = '## Codewars\n\n'
+    codewars = '## 🧠 Codewars ⚔️\n\n'
     with urllib.request.urlopen(f'https://www.codewars.com/api/v1/users/Beast') as url:
         data = json.load(url)
         username = data['username']
@@ -139,14 +139,14 @@ def build_readme():
 - Overall Rank: __{overall}__
 - Total Completed Kata: __{total_completed}__\n\n'''
     
-    wikipedia = '## Random Wikipedia\n\n'
+    wikipedia = '## 🌐 Random Wikipedia 📘\n\n'
     with urllib.request.urlopen(f'https://en.wikipedia.org/api/rest_v1/page/random/summary') as url:
         data = json.load(url)
         extract = data['extract']
         page = data['content_urls']['mobile']['page']
         wikipedia += f'{extract}\n\n{page}\n\n'
 
-    chessart = '''## Chess is Art\n
+    chessart = '''## 🎨 Chess is Art ♟️\n
 ![Chess Art 1](images/multi-color-chess-set.jpg)'''
 
     sections = f'\n{greetings}{links}{codewars}{lichess}{wikipedia}{chessart}\n'
