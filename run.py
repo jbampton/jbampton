@@ -53,9 +53,19 @@ def build_readme():
      "How's everything going?",
      "How's it all been?",
      "How's it all been going?"]
-    greetings = f'# {hello[randrange(45)]}\n\n'
+    greetings = f'<div align="center"><h1>{hello[randrange(45)]}</h1>\n'
 
-    links = '''- [Apache CloudStack Team Members](https://cloudstack.apache.org/who)
+    links = '''
+  <p>
+    <a href="https://github.com/john-bampton">
+      <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4"
+        alt="Dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities" title="John Bampton">
+    </a>
+  </p>
+  <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
+</div>
+
+- [Apache CloudStack Team Members](https://cloudstack.apache.org/who)
 - [Apache Sedona Team Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
 - [Happy Days at The ASF](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
 - [Thanks for Your Contribution to the curl Project!](https://curl.se/docs/thanks.html)
