@@ -103,7 +103,7 @@ def build_readme():
                     name = row['opId']['name']
                     rating = row['opRating']
                     d = datetime.strptime(row['at'], '%Y-%m-%dT%H:%M:%S.%fZ')
-                    date = d.strftime('%Y-%m-%d %A %-I:%M:%S %p')
+                    date = d.strftime('%Y-%m-%d %A %#I:%M:%S %p')
                     results += f'| [{title}{name}](https://lichess.org/@/{name}) | __({rating})__ | {date} |\n'
                 results += '\n'
             lichess += results
