@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Hey 👋</h1>
+<div align="center"><h1>✨ What's been up? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -14,7 +14,7 @@
   <a href="https://cloudstack.apache.org/who">
     <img src="./projects/apache-cloudstack.png" alt="Apache CloudStack Team Members">
   </a>
-  <a href="https://www.openoffice.org/">
+  <a href="https://people.apache.org/phonebook.html?unix=openoffice">
     <img src="./projects/apache-openoffice.png" alt="Apache OpenOffice">
   </a>
   <a href="https://sedona.apache.org/latest-snapshot/community/contributor/">
@@ -116,10 +116,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Katalin Berek, also known as Kati, was a Hungarian actress. She appeared in more than 40 films and television shows between 1950 and 2001. She starred in the 1975 film Adoption, which won the Golden Bear at the 25th Berlin International Film Festival.
-She was married to actor Pál Zolnay from 1959 to 1974, and their son János Zolnay was born in 1959.
+Dennis Gates is an American college basketball coach and former player who is the head coach of the Missouri Tigers men's basketball team.
 
-https://en.m.wikipedia.org/wiki/Katalin_Berek
+https://en.m.wikipedia.org/wiki/Dennis_Gates
 
 ## 🎨 Chess is Art ♟️
 
