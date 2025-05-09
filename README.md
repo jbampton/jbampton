@@ -1,5 +1,14 @@
 <!-- start-data -->
-# How's life?
+<div align="center"><h1>How are things?</h1>
+
+  <p>
+    <a href="https://github.com/john-bampton">
+      <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4"
+        alt="Dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities" title="John Bampton">
+    </a>
+  </p>
+  <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
+</div>
 
 - [Apache CloudStack Team Members](https://cloudstack.apache.org/who)
 - [Apache Sedona Team Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
@@ -26,7 +35,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29345__
+- Honor: __29348__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -94,9 +103,10 @@
 
 ## Random Wikipedia
 
-1726 (MDCCXXVI) was a common year starting on Tuesday of the Gregorian calendar and a common year starting on Saturday of the Julian calendar, the 1726th year of the Common Era (CE) and Anno Domini (AD) designations, the 726th year of the 2nd millennium, the 26th year of the 18th century, and the 7th year of the 1720s decade. As of the start of 1726, the Gregorian calendar was 11 days ahead of the Julian calendar, which remained in localized use until 1923. 
 
-https://en.m.wikipedia.org/wiki/1726
+Akita International University , or AIU, is a public university located in Akita City, Akita Prefecture, Japan. Established in 2004 and modeled on American liberal arts colleges, AIU is one of the few universities in Japan offering all of its courses in English. It has currently 206 international partner institutions in 52 different countries and regions.
+
+https://en.m.wikipedia.org/wiki/Akita_International_University
 
 ## Chess is Art
 
