@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's been up? 👋</h1>
+<div align="center"><h1>✨ What's happening? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -66,21 +66,21 @@
 
 | Name | Rating | Date |
 | - | - | - |
-| [parsa6831](https://lichess.org/@/parsa6831) | __(1311)__ | 2024-04-11 Thursday 4:18:31 PM |
-| [Minesfaner](https://lichess.org/@/Minesfaner) | __(1304)__ | 2024-04-11 Thursday 5:02:29 PM |
+| [parsa6831](https://lichess.org/@/parsa6831) | __(1311)__ | 2024-04-11 Thursday 04:18:31 PM |
+| [Minesfaner](https://lichess.org/@/Minesfaner) | __(1304)__ | 2024-04-11 Thursday 05:02:29 PM |
 | [Guelai1986](https://lichess.org/@/Guelai1986) | __(1232)__ | 2024-03-24 Sunday 10:07:31 PM |
-| [chareless](https://lichess.org/@/chareless) | __(1175)__ | 2024-03-24 Sunday 8:01:46 PM |
-| [Immortal_chess42](https://lichess.org/@/Immortal_chess42) | __(1108)__ | 2023-11-25 Saturday 1:42:11 PM |
+| [chareless](https://lichess.org/@/chareless) | __(1175)__ | 2024-03-24 Sunday 08:01:46 PM |
+| [Immortal_chess42](https://lichess.org/@/Immortal_chess42) | __(1108)__ | 2023-11-25 Saturday 01:42:11 PM |
 
 #### Best *rapid* wins
 
 | Name | Rating | Date |
 | - | - | - |
-| [THRACEMAN](https://lichess.org/@/THRACEMAN) | __(1688)__ | 2024-01-16 Tuesday 9:54:38 AM |
-| [shaker800](https://lichess.org/@/shaker800) | __(1673)__ | 2024-01-02 Tuesday 1:45:08 PM |
-| [ilcheetah](https://lichess.org/@/ilcheetah) | __(1647)__ | 2024-01-16 Tuesday 1:56:36 PM |
-| [emper0rrrrr](https://lichess.org/@/emper0rrrrr) | __(1627)__ | 2024-01-16 Tuesday 2:14:25 PM |
-| [Laszloo](https://lichess.org/@/Laszloo) | __(1610)__ | 2023-12-09 Saturday 8:50:09 PM |
+| [THRACEMAN](https://lichess.org/@/THRACEMAN) | __(1688)__ | 2024-01-16 Tuesday 09:54:38 AM |
+| [shaker800](https://lichess.org/@/shaker800) | __(1673)__ | 2024-01-02 Tuesday 01:45:08 PM |
+| [ilcheetah](https://lichess.org/@/ilcheetah) | __(1647)__ | 2024-01-16 Tuesday 01:56:36 PM |
+| [emper0rrrrr](https://lichess.org/@/emper0rrrrr) | __(1627)__ | 2024-01-16 Tuesday 02:14:25 PM |
+| [Laszloo](https://lichess.org/@/Laszloo) | __(1610)__ | 2023-12-09 Saturday 08:50:09 PM |
 
 ### Username: SexyMate
 
@@ -88,17 +88,17 @@
 
 | Name | Rating | Date |
 | - | - | - |
-| [Shriram07](https://lichess.org/@/Shriram07) | __(1604)__ | 2022-10-24 Monday 8:07:41 AM |
+| [Shriram07](https://lichess.org/@/Shriram07) | __(1604)__ | 2022-10-24 Monday 08:07:41 AM |
 | [SAPANK](https://lichess.org/@/SAPANK) | __(1567)__ | 2022-10-24 Monday 12:13:48 PM |
-| [Acountname](https://lichess.org/@/Acountname) | __(1510)__ | 2022-10-24 Monday 8:26:59 AM |
-| [Acountname](https://lichess.org/@/Acountname) | __(1509)__ | 2022-10-24 Monday 8:18:53 AM |
-| [Danila_Samodelov](https://lichess.org/@/Danila_Samodelov) | __(1485)__ | 2022-10-24 Monday 6:53:03 PM |
+| [Acountname](https://lichess.org/@/Acountname) | __(1510)__ | 2022-10-24 Monday 08:26:59 AM |
+| [Acountname](https://lichess.org/@/Acountname) | __(1509)__ | 2022-10-24 Monday 08:18:53 AM |
+| [Danila_Samodelov](https://lichess.org/@/Danila_Samodelov) | __(1485)__ | 2022-10-24 Monday 06:53:03 PM |
 
 #### Best *blitz* wins
 
 | Name | Rating | Date |
 | - | - | - |
-| [__FM__ steva23](https://lichess.org/@/steva23) | __(2414)__ | 2023-03-26 Sunday 9:01:44 PM |
+| [__FM__ steva23](https://lichess.org/@/steva23) | __(2414)__ | 2023-03-26 Sunday 09:01:44 PM |
 | [__FM__ steva23](https://lichess.org/@/steva23) | __(2412)__ | 2022-10-31 Monday 11:25:30 AM |
 | [muuhab](https://lichess.org/@/muuhab) | __(1905)__ | 2022-10-25 Tuesday 12:31:43 AM |
 | [Theknigh](https://lichess.org/@/Theknigh) | __(1584)__ | 2022-07-09 Saturday 11:34:46 AM |
@@ -108,17 +108,17 @@
 
 | Name | Rating | Date |
 | - | - | - |
-| [PavelLion2015](https://lichess.org/@/PavelLion2015) | __(1611)__ | 2022-12-28 Wednesday 2:17:57 PM |
-| [MARCHEUR](https://lichess.org/@/MARCHEUR) | __(1605)__ | 2021-10-03 Sunday 9:32:03 AM |
+| [PavelLion2015](https://lichess.org/@/PavelLion2015) | __(1611)__ | 2022-12-28 Wednesday 02:17:57 PM |
+| [MARCHEUR](https://lichess.org/@/MARCHEUR) | __(1605)__ | 2021-10-03 Sunday 09:32:03 AM |
 | [Ahmedabdelkader44](https://lichess.org/@/Ahmedabdelkader44) | __(1601)__ | 2023-04-13 Thursday 12:55:27 AM |
-| [uclaprep](https://lichess.org/@/uclaprep) | __(1586)__ | 2022-12-28 Wednesday 8:00:26 PM |
-| [LEON2135791240](https://lichess.org/@/LEON2135791240) | __(1579)__ | 2022-12-28 Wednesday 2:43:54 PM |
+| [uclaprep](https://lichess.org/@/uclaprep) | __(1586)__ | 2022-12-28 Wednesday 08:00:26 PM |
+| [LEON2135791240](https://lichess.org/@/LEON2135791240) | __(1579)__ | 2022-12-28 Wednesday 02:43:54 PM |
 
 ## 🌐 Random Wikipedia 📘
 
-Dennis Gates is an American college basketball coach and former player who is the head coach of the Missouri Tigers men's basketball team.
+The 2019 Stanley Cup playoffs was the playoff tournament of the National Hockey League (NHL) for the 2018–19 season. The playoffs began on April 10, 2019, after the regular season, and they concluded on June 12, 2019, with the St. Louis Blues winning their first Stanley Cup in franchise history defeating the Boston Bruins four games to three in the Stanley Cup Finals.
 
-https://en.m.wikipedia.org/wiki/Dennis_Gates
+https://en.m.wikipedia.org/wiki/2019_Stanley_Cup_playoffs
 
 ## 🎨 Chess is Art ♟️
 
