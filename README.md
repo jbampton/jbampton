@@ -1,5 +1,6 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's your day? 👋</h1>
+<div align="center"><h1>✨ Hey 👋</h1>
+
   <p>
     <a href="https://github.com/john-bampton">
       <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4"
@@ -12,6 +13,9 @@
 <div align="center">
   <a href="https://cloudstack.apache.org/who">
     <img src="./projects/apache-cloudstack.png" alt="Apache CloudStack Team Members">
+  </a>
+  <a href="https://www.openoffice.org/">
+    <img src="./projects/apache-openoffice.png" alt="Apache OpenOffice">
   </a>
   <a href="https://sedona.apache.org/latest-snapshot/community/contributor/">
     <img src="./projects/apache-sedona.png" alt="Apache Sedona Team Members">
@@ -112,9 +116,10 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Strathtyrum is a 400-acre (160 ha) country estate in the north-western outskirts of St Andrews, Fife, Scotland. It is accessed via the A91.
+Katalin Berek, also known as Kati, was a Hungarian actress. She appeared in more than 40 films and television shows between 1950 and 2001. She starred in the 1975 film Adoption, which won the Golden Bear at the 25th Berlin International Film Festival.
+She was married to actor Pál Zolnay from 1959 to 1974, and their son János Zolnay was born in 1959.
 
-https://en.m.wikipedia.org/wiki/Strathtyrum
+https://en.m.wikipedia.org/wiki/Katalin_Berek
 
 ## 🎨 Chess is Art ♟️
 
