@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>Hi</h1>
+<div align="center"><h1>✨ Greetings 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -25,7 +25,7 @@
   </a>
 </div>
 
-## Ruby Warrior
+## 🥋 Ruby Warrior
 
 - [Mukyu 無級](https://github.com/robygems)
 - [Kukyu 九級](https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d)
@@ -39,7 +39,7 @@
 
 ![I'm Ruby !??!!! 👺](images/ImRuby.gif)
 
-## Codewars
+## 🧠 Codewars ⚔️
 
 - Username: __Beast__
 - Name: __John Bampton__
@@ -50,7 +50,7 @@
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
 
-## lichess
+## ♟️ lichess
 
 ### Username: RubyFu
 
@@ -111,12 +111,12 @@
 | [uclaprep](https://lichess.org/@/uclaprep) | __(1586)__ | 2022-12-28 Wednesday 08:00:26 PM |
 | [LEON2135791240](https://lichess.org/@/LEON2135791240) | __(1579)__ | 2022-12-28 Wednesday 02:43:54 PM |
 
-## Random Wikipedia
+## 🌐 Random Wikipedia 📘
 
-The Kuwait Armed Forces are the military forces of the State of Kuwait. They consist of the Kuwait Air Force, the Kuwait Army, the Kuwait Navy & the Kuwait National Guard. The governing bodies are the Kuwait Ministry of Defense, the Kuwait Ministry of Interior, and the Kuwait Fire Service Directorate. The Emir of Kuwait is the commander-in-chief of all defense forces while the Crown Prince is the deputy commander.
+Strathtyrum is a 400-acre (160 ha) country estate in the north-western outskirts of St Andrews, Fife, Scotland. It is accessed via the A91.
 
-https://en.m.wikipedia.org/wiki/Kuwait_Armed_Forces
+https://en.m.wikipedia.org/wiki/Strathtyrum
 
-## Chess is Art
+## 🎨 Chess is Art ♟️
 
 ![Chess Art 1](images/multi-color-chess-set.jpg)
