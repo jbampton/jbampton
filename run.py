@@ -65,10 +65,20 @@ def build_readme():
   <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
 </div>
 
-- [Apache CloudStack Team Members](https://cloudstack.apache.org/who)
-- [Apache Sedona Team Members](https://sedona.apache.org/latest-snapshot/community/contributor/)
-- [Happy Days at The ASF](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
-- [Thanks for Your Contribution to the curl Project!](https://curl.se/docs/thanks.html)
+<div align="center">
+  <a href="https://cloudstack.apache.org/who">
+    <img src="./projects/apache-cloudstack.png" alt="Apache CloudStack Team Members">
+  </a>
+  <a href="https://sedona.apache.org/latest-snapshot/community/contributor/">
+    <img src="./projects/apache-sedona.png" alt="Apache Sedona Team Members">
+  </a>
+  <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html">
+    <img src="./projects/apache.png" alt="Happy Days at The ASF">
+  </a>
+  <a href="https://curl.se/docs/thanks.html">
+    <img src="./projects/curl.png" alt="Thanks for Your Contribution to the curl Project!">
+  </a>
+</div>
 
 ## Ruby Warrior
 
@@ -103,7 +113,7 @@ def build_readme():
                     name = row['opId']['name']
                     rating = row['opRating']
                     d = datetime.strptime(row['at'], '%Y-%m-%dT%H:%M:%S.%fZ')
-                    date = d.strftime('%Y-%m-%d %A %-I:%M:%S %p')
+                    date = d.strftime('%Y-%m-%d %A %#I:%M:%S %p')
                     results += f'| [{title}{name}](https://lichess.org/@/{name}) | __({rating})__ | {date} |\n'
                 results += '\n'
             lichess += results
@@ -140,7 +150,7 @@ def build_readme():
 ![Chess Art 1](images/multi-color-chess-set.jpg)'''
 
     sections = f'\n{greetings}{links}{codewars}{lichess}{wikipedia}{chessart}\n'
-    with open("README.md", 'r+') as my_file:
+    with open("README.md", 'r+', encoding='utf-8') as my_file:
         readme = my_file.read()
         readme = re.sub(pattern, r"\1"+sections, readme)
         my_file.truncate(0)
