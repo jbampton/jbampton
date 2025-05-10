@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything? 👋</h1>
+<div align="center"><h1>✨ How's life? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -149,9 +149,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Indians in Korea include the migrant diaspora from India to Korea and their locally-born descendants. A majority of them live in Seoul and Busan, and smaller populations live in other parts of South Korea. The Indian population in North Korea is negligible, consisting of embassy staff and NGO members.
+The Mightiest Machine is a science fiction novel by American writer John W. Campbell, Jr. The novel was originally serialized in 5 parts in Astounding Stories magazine from December 1934 to April 1935, and was published in book form in 1947 by The Hadley Publishing Co. in an edition of 1,200 copies. Campbell was a leading figure in the Golden Age of Science Fiction. Its sequel, The Incredible Planet, is a fix-up novel, also by Campbell, published in 1949. The book collects three interconnected novelettes: The Incredible Planet, The Interstellar Search, and The Infinite Atom.
 
-https://en.m.wikipedia.org/wiki/Indians_in_Korea
+https://en.m.wikipedia.org/wiki/The_Mightiest_Machine
 
 ## 🎨 Chess is Art ♟️
 
