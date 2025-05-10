@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's your day? 👋</h1>
+<div align="center"><h1>✨ What's the buzz? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -8,10 +8,11 @@
         title="John Bampton">
     </a>
   </p>
+
+  <h2>👨‍🔬 🏩 💾 🇦🇺</h2>
+
   <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
 </div>
-
-<div align="center">👨‍🔬 🏩 💾 🇦🇺</div>
 
 <div align="center">
   <a href="https://cloudstack.apache.org/who">
@@ -151,9 +152,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Cloudy Peak is a 2,403-metre-elevation (7,884-foot) mountain in the Canterbury Region of New Zealand.
+Anyuysk is a rural locality in Bilibinsky District in Chukotka Autonomous Okrug, Russia, located west of Bilibino on the border with the Sakha Republic and on the banks of the Maly Anyuy River. The village is 272 km to Bilibino and approximately 800 km to Anadyr. Population: 480 (2010 Census); Municipally, Anyuysk is subordinated to Bilibinsky Municipal District and is incorporated as Anyuysk Rural Settlement.
 
-https://en.m.wikipedia.org/wiki/Cloudy_Peak
+https://en.m.wikipedia.org/wiki/Anyuysk
 
 ## 🎨 Chess is Art ♟️
 
