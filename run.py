@@ -82,6 +82,10 @@ def build_readme():
     <img src="./projects/apache.png" alt="Happy Days at The ASF" title="Happy Days at The ASF">
   </a>
 
+  <a href="https://github.com/KashanUniversity">
+    <img src="https://avatars.githubusercontent.com/u/50067282?s=200&v=4" alt="Guest of honor at Kashan University" title="Guest of honor at Kashan University">
+  </a>
+
   <a href="https://curl.se/docs/thanks.html">
     <img src="./projects/curl.png" alt="Thanks for Your Contribution to the curl Project!" title="Thanks for Your Contribution to the curl Project!">
   </a>
