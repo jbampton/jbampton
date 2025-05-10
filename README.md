@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Long time no see 👋</h1>
+<div align="center"><h1>✨ How's it all going? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -75,6 +75,8 @@
     <a href="https://github.com/mruby/mruby/graphs/contributors">Sankyū 三級</a>
     <br>  
     <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
+    <br>
+    <a href="#">Jun'ikkyū 準一級<br><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
     <br>
   </p>
   <p>
@@ -158,9 +160,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-The Tybee Island Light is a lighthouse located on the north end of Tybee Island, Georgia. It overlooks the Savannah River at the point where the river meets the Atlantic Ocean. The Tybee Light is one of seven surviving colonial-era lighthouse towers in the United States, but it was heavily modified during the mid-nineteenth century.
+"Let's Go to the Mall" is a song written by Craig Thomas and Carter Bays for the CBS television series How I Met Your Mother. The song was performed by Canadian actress Cobie Smulders in the role of Robin Scherbatsky, who has a secret past of being a teenage Canadian pop star and adopted the stage name Robin Sparkles. Thomas and Bays originally came up with the idea and spent weeks developing the story with writer Kourtney Kang. The song was first featured in the form of a faux music video in the episode "Slap Bet" that aired on November 20, 2006, before the song was digitally released as a single on September 4, 2007. The track later appeared on the soundtrack album How I Met Your Music (2012).
 
-https://en.m.wikipedia.org/wiki/Tybee_Island_Light
+https://en.m.wikipedia.org/wiki/Let's_Go_to_the_Mall
 
 ## 🎨 Chess is Art ♟️
 
