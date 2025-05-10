@@ -110,7 +110,7 @@ def build_readme():
 </div>
 <div align="center">
   <h2>🥋 Ruby Warrior</h2>
-  <ul>
+  <ul style="list-style-type: none;">
     <li><a href="https://github.com/robygems">Mukyū 無級</a></li>
     <li><a href="https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d">Jukkyū 十級</a></li>
     <li><a href="https://github.com/sponsors/hsbt#sponsors">Kyūkyū 九級</a></li>
