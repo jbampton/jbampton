@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything been going? 👋</h1>
+<div align="center"><h1>✨ How's tricks? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -55,7 +55,7 @@
 </div>
 <div align="center">
   <h2>🥋 Ruby Warrior</h2>
-  <ul>
+  <ul style="list-style-type: none;">
     <li><a href="https://github.com/robygems">Mukyū 無級</a></li>
     <li><a href="https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d">Jukkyū 十級</a></li>
     <li><a href="https://github.com/sponsors/hsbt#sponsors">Kyūkyū 九級</a></li>
@@ -148,9 +148,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Slieve Croob is a mountain with a height of 534 metres (1,752 ft) in the middle of County Down, Northern Ireland. It is the heart of a mountainous area, the Dromara Hills, north of the Mourne Mountains. It is designated an Area of Outstanding Natural Beauty and is the source of the River Lagan. There is a small road to the summit, where there is an ancient burial cairn and several transmitter stations with radio masts. It has wide views over all of County Down and further afield. The Dromara Hills also includes Slievenisky, Cratlieve, Slievegarran and Slievenaboley.
+Geauga Lake was an amusement park in Bainbridge Township and Aurora, Ohio. It was established in 1887, in what had been a local recreation area adjacent to a lake of the same name. The first amusement ride was added in 1889, and the park's first roller coaster – the Big Dipper – was built in 1925. The park was sold to Funtime, Inc., in 1969 and was expanded over the years with additional rides and amenities. Funtime was acquired by Premier Parks in 1995, and for the 2000 season, they re-branded Geauga Lake as Six Flags Ohio, adding four new roller coasters. The following year, Six Flags bought the adjacent SeaWorld Ohio and combined the two parks under the name Six Flags Worlds of Adventure.
 
-https://en.m.wikipedia.org/wiki/Slieve_Croob
+https://en.m.wikipedia.org/wiki/Geauga_Lake
 
 ## 🎨 Chess is Art ♟️
 
