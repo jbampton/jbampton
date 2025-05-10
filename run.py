@@ -63,8 +63,10 @@ def build_readme():
         title="John Bampton">
     </a>
   </p>
-  <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities 👨‍🔬 🏩 💾 🇦🇺</h2>
+  <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
 </div>
+
+<div align="center">👨‍🔬 🏩 💾 🇦🇺</div>
 
 <div align="center">
   <a href="https://cloudstack.apache.org/who">
