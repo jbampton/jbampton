@@ -1,10 +1,11 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it going? 👋</h1>
+<div align="center"><h1>✨ How's everything? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
       <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4"
-        alt="Dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities" title="John Bampton">
+        alt="Dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities"
+        title="John Bampton">
     </a>
   </p>
   <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
@@ -12,27 +13,51 @@
 
 <div align="center">
   <a href="https://cloudstack.apache.org/who">
-    <img src="./projects/apache-cloudstack.png" alt="Apache CloudStack Team Members" title="Apache CloudStack Team Members">
+    <img src="./projects/apache-cloudstack.png"
+      alt="Apache CloudStack Team Members"
+      title="Apache CloudStack Team Members">
   </a>
 
   <a href="https://people.apache.org/phonebook.html?unix=openoffice">
-    <img src="./projects/apache-openoffice.png" alt="Apache OpenOffice Team Members" title="Apache OpenOffice Team Members">
+    <img src="./projects/apache-openoffice.png"
+      alt="Apache OpenOffice Team Members"
+      title="Apache OpenOffice Team Members">
   </a>
 
   <a href="https://sedona.apache.org/latest-snapshot/community/contributor/">
-    <img src="./projects/apache-sedona.png" alt="Apache Sedona Team Members" title="Apache Sedona Team Members">
+    <img src="./projects/apache-sedona.png"
+      alt="Apache Sedona Team Members"
+      title="Apache Sedona Team Members">
+  </a>
+
+  <a href="https://github.com/brisbanesocialchess">
+    <img src="https://avatars.githubusercontent.com/u/61562340?s=200&v=4"
+      alt="Management team member, event host and Meetup dot com co-organizer"
+      title="Management team member, event host and Meetup dot com co-organizer">
   </a>
 
   <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html">
-    <img src="./projects/apache.png" alt="Happy Days at The ASF" title="Happy Days at The ASF">
+    <img src="./projects/apache.png"
+      alt="Happy Days at The ASF"
+      title="Happy Days at The ASF">
   </a>
 
   <a href="https://github.com/KashanUniversity">
-    <img src="https://avatars.githubusercontent.com/u/50067282?s=200&v=4" alt="Guest of honor at Kashan University" title="Guest of honor at Kashan University">
+    <img src="https://avatars.githubusercontent.com/u/50067282?s=200&v=4"
+      alt="Guest of honor at Kashan University"
+      title="Guest of honor at Kashan University">
+  </a>
+
+  <a href="https://github.com/SalamLang">
+    <img src="https://avatars.githubusercontent.com/u/161657044?s=200&v=4" 
+      alt="Maker at Salam Programming Language"
+      title="Maker at Salam Programming Language">
   </a>
 
   <a href="https://curl.se/docs/thanks.html">
-    <img src="./projects/curl.png" alt="Thanks for Your Contribution to the curl Project!" title="Thanks for Your Contribution to the curl Project!">
+    <img src="./projects/curl.png"
+      alt="Thanks for Your Contribution to the curl Project!"
+      title="Thanks for Your Contribution to the curl Project!">
   </a>
 </div>
 
@@ -124,9 +149,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Fromental is a commune in the Haute-Vienne department in the Nouvelle-Aquitaine region in west-central France.
+Indians in Korea include the migrant diaspora from India to Korea and their locally-born descendants. A majority of them live in Seoul and Busan, and smaller populations live in other parts of South Korea. The Indian population in North Korea is negligible, consisting of embassy staff and NGO members.
 
-https://en.m.wikipedia.org/wiki/Fromental
+https://en.m.wikipedia.org/wiki/Indians_in_Korea
 
 ## 🎨 Chess is Art ♟️
 
