@@ -110,18 +110,28 @@ def build_readme():
 </div>
 <div align="center">
   <h2>🥋 Ruby Warrior</h2>
-  <ul style="list-style-type: none;">
-    <li><a href="https://github.com/robygems">Mukyū 無級</a></li>
-    <li><a href="https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d">Jukkyū 十級</a></li>
-    <li><a href="https://github.com/sponsors/hsbt#sponsors">Kyūkyū 九級</a></li>
-    <li><a href="https://github.com/natalie-lang/natalie/graphs/contributors">Hachikyu 八級</a></li>
-    <li><a href="https://github.com/whitesmith/rubycritic/graphs/contributors">Nanakyū 七級</a></li>
-    <li><a href="https://github.com/mruby/mruby.github.io/graphs/contributors">Rokkyū 六級</a></li>
-    <li><a href="https://contributors.rubyonrails.org/">Gokyū 五級</a></li>
-    <li><a href="https://github.com/mruby/mgem-list/graphs/contributors">Yonkyū 四級</a></li>
-    <li><a href="https://github.com/mruby/mruby/graphs/contributors">Sankyū 三級</a></li>
-    <li><a href="https://www.codewars.com/users/Beast">Nikyū 二級</a></li>
-  </ul>
+  <p>
+    <a href="https://github.com/robygems">Mukyū 無級</a>
+    <br>
+    <a href="https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d">Jukkyū 十級</a>
+    <br>
+    <a href="https://github.com/sponsors/hsbt#sponsors">Kyūkyū 九級</a>
+    <br>      
+    <a href="https://github.com/natalie-lang/natalie/graphs/contributors">Hachikyu 八級</a>
+    <br> 
+    <a href="https://github.com/whitesmith/rubycritic/graphs/contributors">Nanakyū 七級</a>
+    <br> 
+    <a href="https://github.com/mruby/mruby.github.io/graphs/contributors">Rokkyū 六級</a>
+    <br>  
+    <a href="https://contributors.rubyonrails.org/">Gokyū 五級</a>
+    <br> 
+    <a href="https://github.com/mruby/mgem-list/graphs/contributors">Yonkyū 四級</a>
+    <br>  
+    <a href="https://github.com/mruby/mruby/graphs/contributors">Sankyū 三級</a>
+    <br>  
+    <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
+    <br>
+  </p>
   <p>
     <img src="images/ImRuby.gif"
       alt="I'm Ruby !??!!! 👺"
