@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ It's good to see you 👋</h1>
+<div align="center"><h1>✨ How's your day? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -8,8 +8,10 @@
         title="John Bampton">
     </a>
   </p>
-  <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities 👨‍🔬 🏩 💾 🇦🇺</h2>
+  <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
 </div>
+
+<div align="center">👨‍🔬 🏩 💾 🇦🇺</div>
 
 <div align="center">
   <a href="https://cloudstack.apache.org/who">
@@ -149,9 +151,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Rhamphini is a weevil tribe in the subfamily Curculioninae.
+Cloudy Peak is a 2,403-metre-elevation (7,884-foot) mountain in the Canterbury Region of New Zealand.
 
-https://en.m.wikipedia.org/wiki/Rhamphini
+https://en.m.wikipedia.org/wiki/Cloudy_Peak
 
 ## 🎨 Chess is Art ♟️
 
