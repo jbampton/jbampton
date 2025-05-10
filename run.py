@@ -109,7 +109,7 @@ def build_readme():
   </a>
 </div>
 <div align="center">
-  <h2>🥋 Ruby Warrior</h2>
+  <h2><a href="https://en.wikipedia.org/wiki/Ky%C5%AB">🥋 Ruby Warrior</a></h2>
   <p>
     <a href="https://github.com/robygems">Mukyū 無級</a>
     <br>
