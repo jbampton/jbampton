@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it going? 👋</h1>
+<div align="center"><h1>✨ What's up? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -54,7 +54,7 @@
   </a>
 </div>
 <div align="center">
-  <h2>🥋 Ruby Warrior</h2>
+  <h2><a href="https://en.wikipedia.org/wiki/Ky%C5%AB">🥋 Ruby Warrior</a></h2>
   <p>
     <a href="https://github.com/robygems">Mukyū 無級</a>
     <br>
@@ -158,9 +158,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-"Dirty Mind" is a song by UK-based pop act Shakespears Sister, released as the fifth and final single from their debut studio album Sacred Heart by FFRR Records. The song, originally produced by Richard Feldman, was completely re-recorded and remixed by Duncan Bridgeman for its release as a single, and includes a rap by Marcella Detroit.
+Vrbice is a municipality and village in Břeclav District in the South Moravian Region of the Czech Republic. It has about 1,100 inhabitants.
 
-https://en.m.wikipedia.org/wiki/Dirty_Mind_(Shakespears_Sister_song)
+https://en.m.wikipedia.org/wiki/Vrbice_(B%C5%99eclav_District)
 
 ## 🎨 Chess is Art ♟️
 
