@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's up? 👋</h1>
+<div align="center"><h1>✨ Long time no see 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -90,7 +90,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29349__
+- Honor: __29350__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -158,9 +158,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Vrbice is a municipality and village in Břeclav District in the South Moravian Region of the Czech Republic. It has about 1,100 inhabitants.
+The Tybee Island Light is a lighthouse located on the north end of Tybee Island, Georgia. It overlooks the Savannah River at the point where the river meets the Atlantic Ocean. The Tybee Light is one of seven surviving colonial-era lighthouse towers in the United States, but it was heavily modified during the mid-nineteenth century.
 
-https://en.m.wikipedia.org/wiki/Vrbice_(B%C5%99eclav_District)
+https://en.m.wikipedia.org/wiki/Tybee_Island_Light
 
 ## 🎨 Chess is Art ♟️
 
