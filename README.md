@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's life? 👋</h1>
+<div align="center"><h1>✨ It's good to see you 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -8,7 +8,7 @@
         title="John Bampton">
     </a>
   </p>
-  <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
+  <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities 👨‍🔬 🏩 💾 🇦🇺</h2>
 </div>
 
 <div align="center">
@@ -149,9 +149,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-The Mightiest Machine is a science fiction novel by American writer John W. Campbell, Jr. The novel was originally serialized in 5 parts in Astounding Stories magazine from December 1934 to April 1935, and was published in book form in 1947 by The Hadley Publishing Co. in an edition of 1,200 copies. Campbell was a leading figure in the Golden Age of Science Fiction. Its sequel, The Incredible Planet, is a fix-up novel, also by Campbell, published in 1949. The book collects three interconnected novelettes: The Incredible Planet, The Interstellar Search, and The Infinite Atom.
+Rhamphini is a weevil tribe in the subfamily Curculioninae.
 
-https://en.m.wikipedia.org/wiki/The_Mightiest_Machine
+https://en.m.wikipedia.org/wiki/Rhamphini
 
 ## 🎨 Chess is Art ♟️
 
