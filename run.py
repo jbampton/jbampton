@@ -67,6 +67,10 @@ def build_readme():
   <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
 </div>
 <div align="center">
+  <h2>Invite on "Star" 🌠</h2>
+  <h3>Add a "Star" to this <a href="https://github.com/john-bampton/.github">repository</a> and you will be sent an email invitation to join the <a href="https://github.com/john-bampton">John Bampton</a> GitHub Organization ⏩ 🏦</h3>
+</div>
+<div align="center">
   <a href="https://cloudstack.apache.org/who">
     <img src="./projects/apache-cloudstack.png"
       alt="Apache CloudStack Team Members"
