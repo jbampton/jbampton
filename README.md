@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it all going? 👋</h1>
+<div align="center"><h1>✨ How's everything been going? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -92,7 +92,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29350__
+- Honor: __29352__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -160,9 +160,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-"Let's Go to the Mall" is a song written by Craig Thomas and Carter Bays for the CBS television series How I Met Your Mother. The song was performed by Canadian actress Cobie Smulders in the role of Robin Scherbatsky, who has a secret past of being a teenage Canadian pop star and adopted the stage name Robin Sparkles. Thomas and Bays originally came up with the idea and spent weeks developing the story with writer Kourtney Kang. The song was first featured in the form of a faux music video in the episode "Slap Bet" that aired on November 20, 2006, before the song was digitally released as a single on September 4, 2007. The track later appeared on the soundtrack album How I Met Your Music (2012).
+Gary Mason is a British motorcycle road racer, born 4 May 1979 in Tamworth, Staffordshire. He is a former British Superbike Championship privateers cup champion. Mason has previously raced in the British Supersport Championship and the AMA supersport and superstock classes. He currently races a BMW S1000RR in the British National Superstock 1000 Championship.
 
-https://en.m.wikipedia.org/wiki/Let's_Go_to_the_Mall
+https://en.m.wikipedia.org/wiki/Gary_Mason_(motorcyclist)
 
 ## 🎨 Chess is Art ♟️
 
