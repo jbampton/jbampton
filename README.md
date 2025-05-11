@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Cheers 👋</h1>
+<div align="center"><h1>✨ How are you? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -164,9 +164,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Hesse or Hessen, officially the State of Hesse, is a state in Germany. Its capital city is Wiesbaden, and the largest urban area is Frankfurt, which is also the country's principal financial centre. Two other major historic cities are Darmstadt and Kassel. With an area of 21,114.73 square kilometers and a population of over six million, it ranks seventh and fifth, respectively, among the sixteen German states. Frankfurt Rhine-Main, Germany's second-largest metropolitan area, is mainly located in Hesse.
+Two's Company: The Duets is a 2006 album by Cliff Richard. It is a part-compilation and part-studio album of duets. The guests include Elton John, Barry Gibb, Dionne Warwick, Olivia Newton-John, Lulu, Brian May and Hank Marvin.
 
-https://en.m.wikipedia.org/wiki/Hesse
+https://en.m.wikipedia.org/wiki/Two's_Company_(Cliff_Richard_album)
 
 ## 🎨 Chess is Art ♟️
 
