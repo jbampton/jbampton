@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything been going? 👋</h1>
+<div align="center"><h1>✨ Cheers 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -10,6 +10,10 @@
   </p>
   <h2>👨‍🔬 🏩 💾 🇦🇺</h2>
   <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
+</div>
+<div align="center">
+  <h2>Invite on "Star" 🌠</h2>
+  <h3>Add a "Star" to this <a href="https://github.com/john-bampton/.github">repository</a> and you will be sent an email invitation to join the <a href="https://github.com/john-bampton">John Bampton</a> GitHub Organization ⏩ 🏦</h3>
 </div>
 <div align="center">
   <a href="https://cloudstack.apache.org/who">
@@ -92,7 +96,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29352__
+- Honor: __29354__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -160,9 +164,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Gary Mason is a British motorcycle road racer, born 4 May 1979 in Tamworth, Staffordshire. He is a former British Superbike Championship privateers cup champion. Mason has previously raced in the British Supersport Championship and the AMA supersport and superstock classes. He currently races a BMW S1000RR in the British National Superstock 1000 Championship.
+Hesse or Hessen, officially the State of Hesse, is a state in Germany. Its capital city is Wiesbaden, and the largest urban area is Frankfurt, which is also the country's principal financial centre. Two other major historic cities are Darmstadt and Kassel. With an area of 21,114.73 square kilometers and a population of over six million, it ranks seventh and fifth, respectively, among the sixteen German states. Frankfurt Rhine-Main, Germany's second-largest metropolitan area, is mainly located in Hesse.
 
-https://en.m.wikipedia.org/wiki/Gary_Mason_(motorcyclist)
+https://en.m.wikipedia.org/wiki/Hesse
 
 ## 🎨 Chess is Art ♟️
 
