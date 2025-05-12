@@ -2,8 +2,9 @@ import json
 import re
 import urllib.request
 from datetime import datetime
-from random import randrange
+from random import choice
 
+# --- Constants ---
 HELLO_GREETINGS = [
     "Hi", "Hello", "Hey", "G'day", "Good morning", "Good afternoon", "Good evening",
     "Howdy", "What's up?", "How's it going?", "How are you?", "How's your day?",
@@ -17,14 +18,19 @@ HELLO_GREETINGS = [
     "How's everything going?", "How's it all been?", "How's it all been going?"
 ]
 
-PERF_TYPES = ['bullet', 'blitz', 'rapid']
+PERFORMANCE_TYPES = ['bullet', 'blitz', 'rapid']
 LICHESS_USERS = ['RubyFu', 'SexyMate']
 
-def get_greeting_html():
-    greeting = HELLO_GREETINGS[randrange(len(HELLO_GREETINGS))]
+
+# --- HTML Section Generators ---
+def get_greeting_html() -> str:
+    """Return a random greeting HTML snippet."""
+    greeting = choice(HELLO_GREETINGS)
     return f'<div align="center"><h1>✨ {greeting} 👋</h1></div>\n'
 
-def get_links_html():
+
+def get_links_html() -> str:
+    """Return the links and badge section as HTML."""
     return '''<div align="center">
     <table>
       <tr>
@@ -126,58 +132,81 @@ def get_links_html():
 </div>
 '''
 
-def fetch_lichess_stats():
-    lichess = '## ♟️ lichess\n\n'
-    for user in LICHESS_USERS:
-        lichess += f'### Username: {user}\n\n'
-        for perf in PERF_TYPES:
-            data = fetch_json(f'https://lichess.org/api/user/{user}/perf/{perf}')
-            results = f'#### Best *{perf}* wins\n\n| Name | Rating | Date |\n| - | - | - |\n'
-            for row in data['stat']['bestWins']['results']:
-                title = f"__{row['opId']['title']}__ " if row['opId']['title'] else ''
-                name = row['opId']['name']
-                rating = row['opRating']
-                date = datetime.strptime(row['at'], '%Y-%m-%dT%H:%M:%S.%fZ').strftime('%Y-%m-%d %A %#I:%M:%S %p')
-                results += f'| [{title}{name}](https://lichess.org/@/{name}) | __({rating})__ | {date} |\n'
-            lichess += results + '\n'
-    return lichess
+def get_chess_art_section() -> str:
+    """Return a static Chess Art HTML section."""
+    return (
+        "## 🎨 Chess is Art ♟️\n\n"
+        "![Chess Art 1](images/multi-color-chess-set.jpg)\n"
+    )
 
-def fetch_codewars_profile():
-    data = fetch_json('https://www.codewars.com/api/v1/users/Beast')
-    return f'''## 🧠 Codewars ⚔️
 
-- Username: __{data['username']}__
-- Name: __{data['name']}__
-- Clan: __[{data['clan']}](https://en.wikipedia.org/wiki/Summerhill_School)__
-- Skills: __{data['skills']}__
-- Honor: __{data['honor']}__
-- Leaderboard Position: __{data['leaderboardPosition']}__
-- Overall Rank: __{data['ranks']['overall']['name']}__
-- Total Completed Kata: __{data['codeChallenges']['totalCompleted']}__
-
-'''
-
-def fetch_random_wikipedia():
-    data = fetch_json('https://en.wikipedia.org/api/rest_v1/page/random/summary')
-    return f'''## 🌐 Random Wikipedia 📘
-
-{data['extract']}
-
-{data['content_urls']['mobile']['page']}
-
-'''
-
-def get_chess_art_section():
-    return '''## 🎨 Chess is Art ♟️\n
-![Chess Art 1](images/multi-color-chess-set.jpg)
-'''
-
-def fetch_json(url):
+# --- Data Fetchers ---
+def fetch_json(url: str) -> dict:
+    """Fetch JSON data from a given URL."""
     with urllib.request.urlopen(url) as response:
         return json.load(response)
 
+
+def fetch_lichess_stats() -> str:
+    """Fetch and format Lichess best win statistics for defined users."""
+    lichess_section = '## ♟️ Lichess Stats\n\n'
+
+    for username in LICHESS_USERS:
+        lichess_section += f'### Username: {username}\n\n'
+
+        for perf_type in PERFORMANCE_TYPES:
+            data = fetch_json(f'https://lichess.org/api/user/{username}/perf/{perf_type}')
+            best_wins = data.get('stat', {}).get('bestWins', {}).get('results', [])
+            stats_table = (
+                f'#### Best *{perf_type}* wins\n\n'
+                '| Name | Rating | Date |\n'
+                '|------|--------|------|\n'
+            )
+
+            for win in best_wins:
+                title = f"__{win['opId']['title']}__ " if win['opId'].get('title') else ''
+                name = win['opId']['name']
+                rating = win['opRating']
+                date_str = datetime.strptime(win['at'], '%Y-%m-%dT%H:%M:%S.%fZ')
+                formatted_date = date_str.strftime('%Y-%m-%d %A %I:%M:%S %p')
+                stats_table += f'| [{title}{name}](https://lichess.org/@/{name}) | __({rating})__ | {formatted_date} |\n'
+
+            lichess_section += stats_table + '\n'
+
+    return lichess_section
+
+
+def fetch_codewars_profile() -> str:
+    """Fetch and return Codewars user stats as Markdown."""
+    data = fetch_json('https://www.codewars.com/api/v1/users/Beast')
+
+    return (
+        "## 🧠 Codewars ⚔️\n\n"
+        f"- Username: __{data['username']}__\n"
+        f"- Name: __{data['name']}__\n"
+        f"- Clan: __[{data['clan']}](https://en.wikipedia.org/wiki/Summerhill_School)__\n"
+        f"- Skills: __{data['skills']}__\n"
+        f"- Honor: __{data['honor']}__\n"
+        f"- Leaderboard Position: __{data['leaderboardPosition']}__\n"
+        f"- Overall Rank: __{data['ranks']['overall']['name']}__\n"
+        f"- Total Completed Kata: __{data['codeChallenges']['totalCompleted']}__\n\n"
+    )
+
+
+def fetch_random_wikipedia() -> str:
+    """Fetch and return a random Wikipedia article summary."""
+    data = fetch_json('https://en.wikipedia.org/api/rest_v1/page/random/summary')
+    return (
+        "## 🌐 Random Wikipedia 📘\n\n"
+        f"{data['extract']}\n\n"
+        f"{data['content_urls']['mobile']['page']}\n\n"
+    )
+
+
+# --- README Builder ---
 def build_readme():
-    readme_sections = (
+    """Build the README.md file by injecting generated content between special markers."""
+    sections = (
         get_greeting_html() +
         get_links_html() +
         fetch_codewars_profile() +
@@ -187,12 +216,15 @@ def build_readme():
     )
 
     pattern = re.compile(r"(<!-- start-data -->)(.*)", re.MULTILINE | re.DOTALL)
-    with open("README.md", "r+", encoding="utf-8") as f:
-        content = f.read()
-        content = re.sub(pattern, r"\1\n\n" + readme_sections, content)
-        f.seek(0)
-        f.write(content)
-        f.truncate()
+    
+    with open("README.md", "r+", encoding="utf-8") as file:
+        content = file.read()
+        updated_content = re.sub(pattern, r"\1\n\n" + sections, content)
+        file.seek(0)
+        file.write(updated_content)
+        file.truncate()
 
+
+# --- Entry Point ---
 if __name__ == "__main__":
     build_readme()
