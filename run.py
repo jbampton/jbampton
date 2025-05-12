@@ -123,8 +123,10 @@ def get_links_html() -> str:
     <br>
     <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
     <br>
-    <a href="#">Jun'ikkyū 準一級<br><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
+    <a href="#">Jun'ikkyū 準一級</a>
     <br>
+    <br>
+    <a href="https://www.codewars.com/users/Beast"><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
     <br>
   </p>
   <p>

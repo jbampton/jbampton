@@ -1,6 +1,6 @@
 <!-- start-data -->
 
-<div align="center"><h1>✨ What's happening? 👋</h1></div>
+<div align="center"><h1>✨ How are things? 👋</h1></div>
 <div align="center">
     <table>
       <tr>
@@ -93,8 +93,10 @@
     <br>
     <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
     <br>
-    <a href="#">Jun'ikkyū 準一級<br><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
+    <a href="#">Jun'ikkyū 準一級</a>
     <br>
+    <br>
+    <a href="https://www.codewars.com/users/Beast"><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
     <br>
   </p>
   <p>
@@ -177,12 +179,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Gas venting, more specifically known as natural-gas venting or methane venting, is the intentional and controlled release of gases containing alkane hydrocarbons - predominately methane - into Earth's atmosphere. 
-It is a widely used method for disposal of unwanted gases which are produced during the extraction of coal and crude oil. 
-Such gases may lack value when they are not recyclable into the production process, have no export route to consumer markets, or are surplus to near-term demand.
-In cases where the gases have value to the producer, substantial amounts may also be vented from the equipment used for gas collection, transport, and distribution.
+"Jennie Let Me Love You" is the second single released by Swedish boy band E.M.D. Following the commercial success of their previous single, "Jennie Let Me Love You" debuted at number on the Swedish singles chart. The following week it climbed to the top spot, where it remained for six consecutive weeks, making it the longest running number one single in Sweden in 2008. It has since been certified Gold, in recognition of 10,000 copies of the single sold. The track was co-written and produced by Tobias Gustavsson who also co-wrote and produced Danny Saucedo's number one single "Radio", released in December 2008.
 
-https://en.m.wikipedia.org/wiki/Gas_venting
+https://en.m.wikipedia.org/wiki/Jennie_Let_Me_Love_You
 
 ## 🎨 Chess is Art ♟️
 
