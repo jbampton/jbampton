@@ -22,7 +22,7 @@ LICHESS_USERS = ['RubyFu', 'SexyMate']
 
 def get_greeting_html():
     greeting = HELLO_GREETINGS[randrange(len(HELLO_GREETINGS))]
-    return f'<div align="center"><h1>✨ {greeting} 👋</h1>\n'
+    return f'<div align="center"><h1>✨ {greeting} 👋</h1></div>\n'
 
 def get_links_html():
     return '''<div align="center">
