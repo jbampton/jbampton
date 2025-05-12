@@ -1,6 +1,6 @@
 <!-- start-data -->
 
-<div align="center"><h1>✨ What's been up? 👋</h1></div>
+<div align="center"><h1>✨ What's happening? 👋</h1></div>
 <div align="center">
     <table>
       <tr>
@@ -93,8 +93,8 @@
     <br>
     <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
     <br>
-    <br>
     <a href="#">Jun'ikkyū 準一級<br><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
+    <br>
     <br>
   </p>
   <p>
@@ -177,9 +177,12 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Nguyễn Ngọc Trường Sơn is a Vietnamese chess player. The second-best player in Vietnam, he is the youngest Vietnamese ever to become a Grandmaster, and one of the youngest grandmasters in the history of the game, having qualified for the title at the age of fourteen.
+Gas venting, more specifically known as natural-gas venting or methane venting, is the intentional and controlled release of gases containing alkane hydrocarbons - predominately methane - into Earth's atmosphere. 
+It is a widely used method for disposal of unwanted gases which are produced during the extraction of coal and crude oil. 
+Such gases may lack value when they are not recyclable into the production process, have no export route to consumer markets, or are surplus to near-term demand.
+In cases where the gases have value to the producer, substantial amounts may also be vented from the equipment used for gas collection, transport, and distribution.
 
-https://en.m.wikipedia.org/wiki/Nguy%E1%BB%85n_Ng%E1%BB%8Dc_Tr%C6%B0%E1%BB%9Dng_S%C6%A1n
+https://en.m.wikipedia.org/wiki/Gas_venting
 
 ## 🎨 Chess is Art ♟️
 
