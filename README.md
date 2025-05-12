@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How are you? 👋</h1>
+<div align="center"><h1>✨ What's new? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -96,7 +96,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29354__
+- Honor: __29357__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -164,9 +164,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Two's Company: The Duets is a 2006 album by Cliff Richard. It is a part-compilation and part-studio album of duets. The guests include Elton John, Barry Gibb, Dionne Warwick, Olivia Newton-John, Lulu, Brian May and Hank Marvin.
+Yannick Clemens Thomas Wetzell is a New Zealand professional basketball player for Alba Berlin of the German Basketball Bundesliga (BBL) and the EuroLeague. He played college basketball for the St. Mary's Rattlers, the Vanderbilt Commodores, and the San Diego State Aztecs.
 
-https://en.m.wikipedia.org/wiki/Two's_Company_(Cliff_Richard_album)
+https://en.m.wikipedia.org/wiki/Yanni_Wetzell
 
 ## 🎨 Chess is Art ♟️
 
