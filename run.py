@@ -56,13 +56,22 @@ def build_readme():
     greetings = f'<div align="center"><h1>✨ {hello[randrange(45)]} 👋</h1>\n'
 
     links = '''
-  <p>
-    <a href="https://github.com/john-bampton">
-      <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4"
-        alt="Dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities"
-        title="John Bampton">
-    </a>
-  </p>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/john-bampton">
+            <img src="https://github.com/john-bampton/.github/raw/main/profile/images/fuchsia-agency-logo-jorge.png?raw=true" width="100" alt="Fuchsia Agency" title="Fuchsia Agency">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/john-bampton">
+            <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="100" alt="John Bampton" title="John Bampton">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
   <h2>👨‍🔬 🏩 💾 🇦🇺</h2>
   <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
 </div>
