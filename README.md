@@ -1,13 +1,23 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's new? 👋</h1>
 
-  <p>
-    <a href="https://github.com/john-bampton">
-      <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4"
-        alt="Dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities"
-        title="John Bampton">
-    </a>
-  </p>
+<div align="center"><h1>✨ How's it going? 👋</h1>
+
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/john-bampton">
+            <img src="https://github.com/john-bampton/.github/raw/main/profile/images/fuchsia-agency-logo-jorge.png?raw=true" width="100" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/john-bampton">
+            <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="100" alt="Winter Is Coming" title="Winter Is Coming">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
   <h2>👨‍🔬 🏩 💾 🇦🇺</h2>
   <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
 </div>
@@ -16,87 +26,15 @@
   <h3>Add a "Star" to this <a href="https://github.com/john-bampton/.github">repository</a> and you will be sent an email invitation to join the <a href="https://github.com/john-bampton">John Bampton</a> GitHub Organization ⏩ 🏦</h3>
 </div>
 <div align="center">
-  <a href="https://cloudstack.apache.org/who">
-    <img src="./projects/apache-cloudstack.png"
-      alt="Apache CloudStack Team Members"
-      title="Apache CloudStack Team Members">
-  </a>
-  <a href="https://people.apache.org/phonebook.html?unix=openoffice">
-    <img src="./projects/apache-openoffice.png"
-      alt="Apache OpenOffice Team Members"
-      title="Apache OpenOffice Team Members">
-  </a>
-  <a href="https://sedona.apache.org/latest-snapshot/community/contributor/">
-    <img src="./projects/apache-sedona.png"
-      alt="Apache Sedona Team Members"
-      title="Apache Sedona Team Members">
-  </a>
-  <a href="https://github.com/brisbanesocialchess">
-    <img src="https://avatars.githubusercontent.com/u/61562340?s=200&v=4"
-      alt="Management team member, event host and Meetup dot com co-organizer"
-      title="Management team member, event host and Meetup dot com co-organizer">
-  </a>
-  <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html">
-    <img src="./projects/apache.png"
-      alt="Happy Days at The ASF"
-      title="Happy Days at The ASF">
-  </a>
-  <a href="https://github.com/KashanUniversity">
-    <img src="https://avatars.githubusercontent.com/u/50067282?s=200&v=4"
-      alt="Guest of honor at Kashan University"
-      title="Guest of honor at Kashan University">
-  </a>
-  <a href="https://github.com/SalamLang">
-    <img src="https://avatars.githubusercontent.com/u/161657044?s=200&v=4" 
-      alt="Maker at Salam Programming Language"
-      title="Maker at Salam Programming Language">
-  </a>
-  <a href="https://curl.se/docs/thanks.html">
-    <img src="./projects/curl.png"
-      alt="Thanks for Your Contribution to the curl Project!"
-      title="Thanks for Your Contribution to the curl Project!">
-  </a>
+  ...
 </div>
-<div align="center">
-  <h2><a href="https://en.wikipedia.org/wiki/Ky%C5%AB">🥋 Ruby Warrior</a></h2>
-  <p>
-    <a href="https://github.com/robygems">Mukyū 無級</a>
-    <br>
-    <a href="https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d">Jukkyū 十級</a>
-    <br>
-    <a href="https://github.com/sponsors/hsbt#sponsors">Kyūkyū 九級</a>
-    <br>      
-    <a href="https://github.com/natalie-lang/natalie/graphs/contributors">Hachikyu 八級</a>
-    <br> 
-    <a href="https://github.com/whitesmith/rubycritic/graphs/contributors">Nanakyū 七級</a>
-    <br> 
-    <a href="https://github.com/mruby/mruby.github.io/graphs/contributors">Rokkyū 六級</a>
-    <br>  
-    <a href="https://contributors.rubyonrails.org/">Gokyū 五級</a>
-    <br> 
-    <a href="https://github.com/mruby/mgem-list/graphs/contributors">Yonkyū 四級</a>
-    <br>  
-    <a href="https://github.com/mruby/mruby/graphs/contributors">Sankyū 三級</a>
-    <br>  
-    <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
-    <br>
-    <a href="#">Jun'ikkyū 準一級<br><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
-    <br>
-  </p>
-  <p>
-    <img src="images/ImRuby.gif"
-      alt="I'm Ruby !??!!! 👺"
-      title="I'm Ruby !??!!! 👺">
-  </p>
-</div>
-
 ## 🧠 Codewars ⚔️
 
 - Username: __Beast__
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29357__
+- Honor: __29360__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -164,9 +102,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Yannick Clemens Thomas Wetzell is a New Zealand professional basketball player for Alba Berlin of the German Basketball Bundesliga (BBL) and the EuroLeague. He played college basketball for the St. Mary's Rattlers, the Vanderbilt Commodores, and the San Diego State Aztecs.
+Oh boy, oh boy, oh boy! is a song written by Lasse Dahlquist, and released as a recorded song in 1946. The song has also been recorded by Alf Robertsson and Charlie Norman.
 
-https://en.m.wikipedia.org/wiki/Yanni_Wetzell
+https://en.m.wikipedia.org/wiki/Oh_boy%2C_oh_boy%2C_oh_boy!
 
 ## 🎨 Chess is Art ♟️
 
