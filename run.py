@@ -29,7 +29,7 @@ def get_links_html():
     <table>
       <tr>
         <td align="center">
-          <a href="http://github.com/fuchsia-agency">
+          <a href="https://github.com/fuchsia-agency">
             <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="150" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
           </a>
         </td>

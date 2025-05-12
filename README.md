@@ -1,11 +1,11 @@
 <!-- start-data -->
 
-<div align="center"><h1>✨ G'day 👋</h1>
+<div align="center"><h1>✨ Howdy 👋</h1>
 <div align="center">
     <table>
       <tr>
         <td align="center">
-          <a href="http://github.com/fuchsia-agency">
+          <a href="https://github.com/fuchsia-agency">
             <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="150" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
           </a>
         </td>
@@ -174,9 +174,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-The Almaguin Spartans were a Canadian junior ice hockey team based in South River, Ontario. They play in the Greater Metro Junior A Hockey League (GMHL). They were originally the Mattawa Voyageurs of Mattawa, Ontario.
+Oh Sang-uk is a South Korean right-handed sabre fencer.
 
-https://en.m.wikipedia.org/wiki/Almaguin_Spartans
+https://en.m.wikipedia.org/wiki/Oh_Sang-uk
 
 ## 🎨 Chess is Art ♟️
 
