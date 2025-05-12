@@ -1,6 +1,6 @@
 <!-- start-data -->
 
-<div align="center"><h1>✨ Long time no see 👋</h1></div>
+<div align="center"><h1>✨ What's the story? 👋</h1></div>
 <div align="center">
     <table>
       <tr>
@@ -17,6 +17,8 @@
       </tr>
     </table>
   </div>
+
+<div align="center">
   <h2>👨‍🔬 🏩 💾 🇦🇺</h2>
   <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
 </div>
@@ -174,9 +176,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Damogen Furies is the fourteenth studio album by British electronic musician Squarepusher. It was announced on 18 February 2015 and released on 20 April 2015. Along with the announcement of the album, the third track, "Rayc Fire 2", was released for free on Squarepusher's site, on which a series of live dates in support of the album were also announced.
+The Saginaw County Fairgrounds Main Gate is the entry gate to the former Saginaw County Fairgrounds, located at 2701 East Genesee Avenue in Saginaw, Michigan. It was listed on the National Register of Historic Places in 2014.
 
-https://en.m.wikipedia.org/wiki/Damogen_Furies
+https://en.m.wikipedia.org/wiki/Saginaw_County_Fairgrounds_Main_Gate
 
 ## 🎨 Chess is Art ♟️
 

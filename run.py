@@ -47,6 +47,8 @@ def get_links_html() -> str:
       </tr>
     </table>
   </div>
+
+<div align="center">
   <h2>👨‍🔬 🏩 💾 🇦🇺</h2>
   <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
 </div>
