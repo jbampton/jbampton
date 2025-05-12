@@ -1,6 +1,6 @@
 <!-- start-data -->
 
-<div align="center"><h1>✨ How are things? 👋</h1></div>
+<div align="center"><h1>✨ Pleased to meet you 👋</h1></div>
 <div align="center">
     <table>
       <tr>
@@ -93,7 +93,7 @@
     <br>
     <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
     <br>
-    <a href="#">Jun'ikkyū 準一級</a>
+    <a href="https://github.com/MaxFork/jbampton-1/raw/max-updates-python/images/pre-1st-kyu.png">Jun'ikkyū 準一級</a>
     <br>
     <br>
     <a href="https://www.codewars.com/users/Beast"><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
@@ -179,9 +179,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-"Jennie Let Me Love You" is the second single released by Swedish boy band E.M.D. Following the commercial success of their previous single, "Jennie Let Me Love You" debuted at number on the Swedish singles chart. The following week it climbed to the top spot, where it remained for six consecutive weeks, making it the longest running number one single in Sweden in 2008. It has since been certified Gold, in recognition of 10,000 copies of the single sold. The track was co-written and produced by Tobias Gustavsson who also co-wrote and produced Danny Saucedo's number one single "Radio", released in December 2008.
+Families like Ours is a 2024 drama television miniseries co-written and directed by Thomas Vinterberg. It premiered at the 81st Venice International Film Festival on 31 August 2024 and began airing on TV 2 on 20 October 2024.
 
-https://en.m.wikipedia.org/wiki/Jennie_Let_Me_Love_You
+https://en.m.wikipedia.org/wiki/Families_like_Ours
 
 ## 🎨 Chess is Art ♟️
 
