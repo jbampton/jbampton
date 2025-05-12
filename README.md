@@ -1,6 +1,6 @@
 <!-- start-data -->
 
-<div align="center"><h1>✨ What's the story? 👋</h1></div>
+<div align="center"><h1>✨ What's been up? 👋</h1></div>
 <div align="center">
     <table>
       <tr>
@@ -93,6 +93,7 @@
     <br>
     <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
     <br>
+    <br>
     <a href="#">Jun'ikkyū 準一級<br><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
     <br>
   </p>
@@ -176,9 +177,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-The Saginaw County Fairgrounds Main Gate is the entry gate to the former Saginaw County Fairgrounds, located at 2701 East Genesee Avenue in Saginaw, Michigan. It was listed on the National Register of Historic Places in 2014.
+Nguyễn Ngọc Trường Sơn is a Vietnamese chess player. The second-best player in Vietnam, he is the youngest Vietnamese ever to become a Grandmaster, and one of the youngest grandmasters in the history of the game, having qualified for the title at the age of fourteen.
 
-https://en.m.wikipedia.org/wiki/Saginaw_County_Fairgrounds_Main_Gate
+https://en.m.wikipedia.org/wiki/Nguy%E1%BB%85n_Ng%E1%BB%8Dc_Tr%C6%B0%E1%BB%9Dng_S%C6%A1n
 
 ## 🎨 Chess is Art ♟️
 
