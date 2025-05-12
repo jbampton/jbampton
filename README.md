@@ -1,13 +1,13 @@
 <!-- start-data -->
 
-<div align="center"><h1>✨ How's things? 👋</h1>
+<div align="center"><h1>✨ How's tricks? 👋</h1>
 
   <div align="center">
     <table>
       <tr>
         <td align="center">
           <a href="https://github.com/john-bampton">
-            <img src="https://github.com/john-bampton/.github/raw/main/profile/images/fuchsia-agency-logo-jorge.png?raw=true" width="100" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
+            <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="100" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
           </a>
         </td>
         <td align="center">
@@ -175,11 +175,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Celestial City, Imeko, is the Holy City of the Celestial Church of Christ (CCC). It is located in the Imeko Afon Local Government Area of Ogun State, Nigeria, very close to the border with Benin. 
-Celestial City is known as "Jerusalem" by the Celestians.
-The city has potential as a tourist location.
+Otalampi is a village in Vihti municipality at the intersection of the Finnish national road 25 and the Vihti Road (Vihdintie). The population is about one thousand. Next to the village is a small lake called Otalampi, where the village got its name.
 
-https://en.m.wikipedia.org/wiki/Celestial_City%2C_Imeko
+https://en.m.wikipedia.org/wiki/Otalampi
 
 ## 🎨 Chess is Art ♟️
 
