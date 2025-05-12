@@ -1,17 +1,17 @@
 <!-- start-data -->
 
-<div align="center"><h1>✨ How's things going? 👋</h1>
+<div align="center"><h1>✨ What's going on? 👋</h1>
 <div align="center">
     <table>
       <tr>
         <td align="center">
           <a href="https://github.com/john-bampton">
-            <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="100" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
+            <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="150" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
           </a>
         </td>
         <td align="center">
           <a href="https://github.com/john-bampton">
-            <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="100" alt="Winter Is Coming" title="Winter Is Coming">
+            <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="150" alt="Winter Is Coming" title="Winter Is Coming">
           </a>
         </td>
       </tr>
@@ -174,9 +174,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Daniel Reilly is an American politician and a Republican formerly a member of the Rhode Island House of Representatives who represented District 72.
+Goldfield's crevice-skink is a species of large skink, a lizard in the family Scincidae. The species is native to western Australia.
 
-https://en.m.wikipedia.org/wiki/Daniel_P._Reilly
+https://en.m.wikipedia.org/wiki/Goldfield's_crevice-skink
 
 ## 🎨 Chess is Art ♟️
 

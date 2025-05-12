@@ -30,12 +30,12 @@ def get_links_html():
       <tr>
         <td align="center">
           <a href="https://github.com/john-bampton">
-            <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="100" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
+            <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="150" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
           </a>
         </td>
         <td align="center">
           <a href="https://github.com/john-bampton">
-            <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="100" alt="Winter Is Coming" title="Winter Is Coming">
+            <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="150" alt="Winter Is Coming" title="Winter Is Coming">
           </a>
         </td>
       </tr>
