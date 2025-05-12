@@ -1,8 +1,7 @@
 <!-- start-data -->
 
-<div align="center"><h1>✨ How's tricks? 👋</h1>
-
-  <div align="center">
+<div align="center"><h1>✨ How's things going? 👋</h1>
+<div align="center">
     <table>
       <tr>
         <td align="center">
@@ -175,9 +174,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Otalampi is a village in Vihti municipality at the intersection of the Finnish national road 25 and the Vihti Road (Vihdintie). The population is about one thousand. Next to the village is a small lake called Otalampi, where the village got its name.
+Daniel Reilly is an American politician and a Republican formerly a member of the Rhode Island House of Representatives who represented District 72.
 
-https://en.m.wikipedia.org/wiki/Otalampi
+https://en.m.wikipedia.org/wiki/Daniel_P._Reilly
 
 ## 🎨 Chess is Art ♟️
 

@@ -25,8 +25,7 @@ def get_greeting_html():
     return f'<div align="center"><h1>✨ {greeting} 👋</h1>\n'
 
 def get_links_html():
-    return '''
-  <div align="center">
+    return '''<div align="center">
     <table>
       <tr>
         <td align="center">
