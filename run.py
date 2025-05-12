@@ -162,6 +162,11 @@ def fetch_lichess_stats() -> str:
         for perf_type in PERFORMANCE_TYPES:
             data = fetch_json(f'https://lichess.org/api/user/{username}/perf/{perf_type}')
             best_wins = data.get('stat', {}).get('bestWins', {}).get('results', [])
+
+            if not best_wins:
+                lichess_section += f'#### Best *{perf_type}* wins\n\n_No data available to display..._\n\n'
+                continue
+
             stats_table = (
                 f'#### Best *{perf_type}* wins\n\n'
                 '| Name | Rating | Date |\n'
@@ -169,10 +174,14 @@ def fetch_lichess_stats() -> str:
             )
 
             for win in best_wins:
-                title = f"__{win['opId']['title']}__ " if win['opId'].get('title') else ''
-                name = win['opId']['name']
-                rating = win['opRating']
-                date_str = datetime.strptime(win['at'], '%Y-%m-%dT%H:%M:%S.%fZ')
+                op_id = win.get('opId', {})
+                title = f"__{op_id.get('title')}__ " if op_id.get('title') else ''
+                name = op_id.get('name', 'Unknown')
+                rating = win.get('opRating', 'N/A')
+                try:
+                    date_str = datetime.strptime(win['at'], '%Y-%m-%dT%H:%M:%S.%fZ')
+                except ValueError:
+                    date_str = datetime.strptime(win['at'], '%Y-%m-%dT%H:%M:%SZ')
                 formatted_date = date_str.strftime('%Y-%m-%d %A %I:%M:%S %p')
                 stats_table += f'| [{title}{name}](https://lichess.org/@/{name}) | __({rating})__ | {formatted_date} |\n'
 

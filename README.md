@@ -1,6 +1,6 @@
 <!-- start-data -->
 
-<div align="center"><h1>✨ G'day 👋</h1></div>
+<div align="center"><h1>✨ Salutations 👋</h1></div>
 <div align="center">
     <table>
       <tr>
@@ -122,8 +122,7 @@
 
 #### Best *bullet* wins
 
-| Name | Rating | Date |
-|------|--------|------|
+_No data available to display..._
 
 #### Best *blitz* wins
 
@@ -179,9 +178,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Last Week Tonight with John Oliver is an American late-night talk show created and hosted by John Oliver for HBO. The show takes a satirical look at the week in news, politics and current events.
+Sarah and After: the matriarchs is a 1975 collection of short stories aimed at older juvenile readers, written by Lynne Reid Banks. Each of the stories in the collection focus on a different woman in the Bible, beginning with Sarah, wife to Abraham and mother to Isaac.
 
-https://en.m.wikipedia.org/wiki/List_of_Last_Week_Tonight_with_John_Oliver_episodes
+https://en.m.wikipedia.org/wiki/Sarah_and_After
 
 ## 🎨 Chess is Art ♟️
 
