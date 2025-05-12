@@ -1,6 +1,6 @@
 <!-- start-data -->
 
-<div align="center"><h1>✨ How's your day? 👋</h1></div>
+<div align="center"><h1>✨ Howdy 👋</h1></div>
 <div align="center">
     <table>
       <tr>
@@ -76,19 +76,19 @@
     <a href="https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d">Jukkyū 十級</a>
     <br>
     <a href="https://github.com/sponsors/hsbt#sponsors">Kyūkyū 九級</a>
-    <br>      
+    <br>
     <a href="https://github.com/natalie-lang/natalie/graphs/contributors">Hachikyu 八級</a>
     <br> 
     <a href="https://github.com/whitesmith/rubycritic/graphs/contributors">Nanakyū 七級</a>
     <br> 
     <a href="https://github.com/mruby/mruby.github.io/graphs/contributors">Rokkyū 六級</a>
-    <br>  
+    <br>
     <a href="https://contributors.rubyonrails.org/">Gokyū 五級</a>
     <br> 
     <a href="https://github.com/mruby/mgem-list/graphs/contributors">Yonkyū 四級</a>
-    <br>  
+    <br>
     <a href="https://github.com/mruby/mruby/graphs/contributors">Sankyū 三級</a>
-    <br>  
+    <br>
     <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
     <br>
     <a href="#">Jun'ikkyū 準一級<br><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
@@ -174,9 +174,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Yat yan fan sik leung gok is a 1995 EP recorded by Chinese Cantopop singer Faye Wong when she was based in Hong Kong.
+Williams Plains is a historic home located in the White Marsh Recreational Park at Bowie in Prince George's County, Maryland, United States.
 
-https://en.m.wikipedia.org/wiki/One_Person_Playing_Two_Roles
+https://en.m.wikipedia.org/wiki/Williams_Plains_(Bowie%2C_Maryland)
 
 ## 🎨 Chess is Art ♟️
 
