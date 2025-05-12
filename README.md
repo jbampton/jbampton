@@ -1,6 +1,6 @@
 <!-- start-data -->
 
-<div align="center"><h1>✨ Pleased to meet you 👋</h1></div>
+<div align="center"><h1>✨ G'day 👋</h1></div>
 <div align="center">
     <table>
       <tr>
@@ -93,7 +93,7 @@
     <br>
     <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
     <br>
-    <a href="https://github.com/MaxFork/jbampton-1/raw/max-updates-python/images/pre-1st-kyu.png">Jun'ikkyū 準一級</a>
+    <a href="./images/pre-1st-kyu.png">Jun'ikkyū 準一級</a>
     <br>
     <br>
     <a href="https://www.codewars.com/users/Beast"><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
@@ -179,9 +179,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Families like Ours is a 2024 drama television miniseries co-written and directed by Thomas Vinterberg. It premiered at the 81st Venice International Film Festival on 31 August 2024 and began airing on TV 2 on 20 October 2024.
+Last Week Tonight with John Oliver is an American late-night talk show created and hosted by John Oliver for HBO. The show takes a satirical look at the week in news, politics and current events.
 
-https://en.m.wikipedia.org/wiki/Families_like_Ours
+https://en.m.wikipedia.org/wiki/List_of_Last_Week_Tonight_with_John_Oliver_episodes
 
 ## 🎨 Chess is Art ♟️
 

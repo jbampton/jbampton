@@ -123,7 +123,7 @@ def get_links_html() -> str:
     <br>
     <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
     <br>
-    <a href="https://github.com/MaxFork/jbampton-1/raw/max-updates-python/images/pre-1st-kyu.png">Jun'ikkyū 準一級</a>
+    <a href="./images/pre-1st-kyu.png">Jun'ikkyū 準一級</a>
     <br>
     <br>
     <a href="https://www.codewars.com/users/Beast"><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
