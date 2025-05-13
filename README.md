@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's new? 👋</h1>
+<div align="center"><h1>✨ How's it going? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -96,7 +96,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29357__
+- Honor: __29360__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -164,9 +164,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Yannick Clemens Thomas Wetzell is a New Zealand professional basketball player for Alba Berlin of the German Basketball Bundesliga (BBL) and the EuroLeague. He played college basketball for the St. Mary's Rattlers, the Vanderbilt Commodores, and the San Diego State Aztecs.
+Arthémonay is a commune in the Drôme department in southeastern France.
 
-https://en.m.wikipedia.org/wiki/Yanni_Wetzell
+https://en.m.wikipedia.org/wiki/Arth%C3%A9monay
 
 ## 🎨 Chess is Art ♟️
 
