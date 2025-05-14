@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it going? 👋</h1>
+<div align="center"><h1>✨ What's going on? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -96,7 +96,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29360__
+- Honor: __29361__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -164,9 +164,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Arthémonay is a commune in the Drôme department in southeastern France.
+Uri Blau is an Israeli investigative journalist who writes for Haaretz and other publications. His work focuses on military affairs, corruption and "follow the money" investigations. Blau was convicted of possession of classified IDF documents and sentenced to community service for his role in the Kamm-Blau affair.
 
-https://en.m.wikipedia.org/wiki/Arth%C3%A9monay
+https://en.m.wikipedia.org/wiki/Uri_Blau
 
 ## 🎨 Chess is Art ♟️
 
