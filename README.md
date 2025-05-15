@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's going on? 👋</h1>
+<div align="center"><h1>✨ Salutations 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -96,7 +96,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29361__
+- Honor: __29365__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -164,9 +164,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Uri Blau is an Israeli investigative journalist who writes for Haaretz and other publications. His work focuses on military affairs, corruption and "follow the money" investigations. Blau was convicted of possession of classified IDF documents and sentenced to community service for his role in the Kamm-Blau affair.
+Gitwinksihlkw formerly Canyon City, is a Nisga'a Village in the Nass River valley of northwestern British Columbia, Canada, near that river's confluence with the Tseax River. An older spelling is Kitwilluchsilt. It is one of four Nisga'a villages. Road access is via the Nisga'a Highway.
 
-https://en.m.wikipedia.org/wiki/Uri_Blau
+https://en.m.wikipedia.org/wiki/Gitwinksihlkw
 
 ## 🎨 Chess is Art ♟️
 
