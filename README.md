@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Salutations 👋</h1>
+<div align="center"><h1>✨ What's all good? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -96,7 +96,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29365__
+- Honor: __29368__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -164,9 +164,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Gitwinksihlkw formerly Canyon City, is a Nisga'a Village in the Nass River valley of northwestern British Columbia, Canada, near that river's confluence with the Tseax River. An older spelling is Kitwilluchsilt. It is one of four Nisga'a villages. Road access is via the Nisga'a Highway.
+Charlotte Christian School is a private, college preparatory, non-denominational Christian school for grades JK–12 located in Charlotte, North Carolina.
 
-https://en.m.wikipedia.org/wiki/Gitwinksihlkw
+https://en.m.wikipedia.org/wiki/Charlotte_Christian_School
 
 ## 🎨 Chess is Art ♟️
 
