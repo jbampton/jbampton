@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's all good? 👋</h1>
+<div align="center"><h1>✨ How's it been? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -96,7 +96,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29368__
+- Honor: __29372__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -164,9 +164,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-Charlotte Christian School is a private, college preparatory, non-denominational Christian school for grades JK–12 located in Charlotte, North Carolina.
+William Henry Berry, always billed as W. H. Berry, was an English comic actor. After learning his craft in pierrot and concert entertainments, he was spotted by the actor-manager George Grossmith Jr., and appeared in a series of musical comedies in comic character roles. His greatest success was as Mr. Meebles, the hapless magistrate in The Boy in 1917.
 
-https://en.m.wikipedia.org/wiki/Charlotte_Christian_School
+https://en.m.wikipedia.org/wiki/W._H._Berry
 
 ## 🎨 Chess is Art ♟️
 
