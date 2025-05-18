@@ -1,7 +1,5 @@
 <!-- start-data -->
 <div align="center"><h1>✨ How are things? 👋</h1>
-
-<div align="center"><h1>✨ Salutations 👋</h1></div>
 <div align="center">
     <table>
       <tr>
