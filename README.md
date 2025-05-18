@@ -1,6 +1,6 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How are things? 👋</h1></div>
 
+<div align="center"><h1>✨ Good evening 👋</h1></div>
 <div align="center">
     <table>
       <tr>
@@ -70,7 +70,6 @@
       title="Thanks for Your Contribution to the curl Project!">
   </a>
 </div>
-
 <div align="center">
   <h2><a href="https://en.wikipedia.org/wiki/Ky%C5%AB">🥋 Ruby Warrior</a></h2>
   <p>
@@ -106,23 +105,16 @@
       title="I'm Ruby !??!!! 👺">
   </p>
 </div>
-
-<div align="center">
-
 ## 🧠 Codewars ⚔️
-
-</div>
 
 - Username: __Beast__
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29375__
+- Honor: __29378__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
-
-<div align="center">
 
 ## ♟️ Lichess Stats
 
@@ -186,13 +178,10 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Declan O'Sullivan is an Irish former sportsperson. He last played Gaelic football with his local club Dromid Pearses, his divisional side South Kerry and at senior level for the Kerry county team between 2003 and his retirement in 2014.
+J. Francis Kellogg House is a historic home located at Avon in Livingston County, New York. It is a Colonial Revival–style dwelling with Arts and Crafts influenced detailing constructed in 1908. It is a 2+1⁄2-story, square, frame residence with a flat topped hipped roof with dormers.
 
-https://en.m.wikipedia.org/wiki/Declan_O'Sullivan
+https://en.m.wikipedia.org/wiki/J._Francis_Kellogg_House
 
 ## 🎨 Chess is Art ♟️
 
 ![Chess Art 1](images/multi-color-chess-set.jpg)
-
-</div>
-
