@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it hanging? 👋</h1></div>
+<div align="center"><h1>✨ How's it all? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -186,9 +186,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-St Michael's Prep School is a coeducational preparatory school in Otford, located in a 100-acre (400,000 m2) site in the North Downs, Kent, England.
+David Allan Sonnenfeld is an American sociologist and Professor Emeritus of Sociology and environmental policy at the State University of New York College of Environmental Science and Forestry, known for his work in the field of ecological modernisation.
 
-https://en.m.wikipedia.org/wiki/St_Michael's_Prep_School%2C_Otford
+https://en.m.wikipedia.org/wiki/David_A._Sonnenfeld
 
 ## 🎨 Chess is Art ♟️
 
