@@ -1,5 +1,6 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How are things? 👋</h1>
+<div align="center"><h1>✨ How are things? 👋</h1></div>
+
 <div align="center">
     <table>
       <tr>
@@ -69,6 +70,7 @@
       title="Thanks for Your Contribution to the curl Project!">
   </a>
 </div>
+
 <div align="center">
   <h2><a href="https://en.wikipedia.org/wiki/Ky%C5%AB">🥋 Ruby Warrior</a></h2>
   <p>
