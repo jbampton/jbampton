@@ -2,74 +2,62 @@ import json
 import re
 import urllib.request
 from datetime import datetime
-from random import randrange
+from random import choice
 
-def build_readme():
-    pattern = re.compile(r"(<!-- start-data -->)(.*)", re.MULTILINE | re.DOTALL)
+# --- Constants ---
+HELLO_GREETINGS = [
+    "Hi", "Hello", "Hey", "G'day", "Good morning", "Good afternoon", "Good evening",
+    "Howdy", "What's up?", "How's it going?", "How are you?", "How's your day?",
+    "Long time no see", "Nice to meet you", "It's good to see you", "Pleased to meet you",
+    "Greetings", "Salutations", "Cheers", "Yo", "What's new?", "What's crackalackin?",
+    "How's tricks?", "How's things?", "How's everything?", "How's life?", "What's the story?",
+    "What's the buzz?", "What's happening?", "What's going on?", "How's it hanging?",
+    "How's it all going?", "How's things going?", "How are things?", "How's it all?",
+    "What's all good?", "What's been going on?", "What's been up?", "What's been happening?",
+    "How's it been?", "How's it been going?", "How's everything been?", "How's everything been going?",
+    "How's everything going?", "How's it all been?", "How's it all been going?"
+]
 
-    hello = ["Hi",
-     "Hello",
-     "Hey",
-     "G'day",
-     "Good morning",
-     "Good afternoon",
-     "Good evening",
-     "Howdy",
-     "What's up?",
-     "How's it going?",
-     "How are you?",
-     "How's your day?",
-     "Long time no see",
-     "Nice to meet you",
-     "It's good to see you",
-     "Pleased to meet you",
-     "Greetings",
-     "Salutations",
-     "Cheers",
-     "Yo",
-     "What's new?",
-     "What's crackalackin?",
-     "How's tricks?",
-     "How's things?",
-     "How's everything?",
-     "How's life?",
-     "What's the story?",
-     "What's the buzz?",
-     "What's happening?",
-     "What's going on?",
-     "How's it hanging?",
-     "How's it all going?",
-     "How's things going?",
-     "How are things?",
-     "How's it all?",
-     "What's all good?",
-     "What's been going on?",
-     "What's been up?",
-     "What's been happening?",
-     "How's it been?",
-     "How's it been going?",
-     "How's everything been?",
-     "How's everything been going?",
-     "How's everything going?",
-     "How's it all been?",
-     "How's it all been going?"]
-    greetings = f'<div align="center"><h1>✨ {hello[randrange(45)]} 👋</h1>\n'
+PERFORMANCE_TYPES = ['bullet', 'blitz', 'rapid']
+LICHESS_USERS = ['RubyFu', 'SexyMate']
 
-    links = '''
-  <p>
-    <a href="https://github.com/john-bampton">
-      <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4"
-        alt="Dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities"
-        title="John Bampton">
-    </a>
-  </p>
+
+# --- HTML Section Generators ---
+def get_greeting_html() -> str:
+    """Return a random greeting HTML snippet."""
+    greeting = choice(HELLO_GREETINGS)
+    return f'<div align="center"><h1>✨ {greeting} 👋</h1></div>\n'
+
+
+def get_links_html() -> str:
+    """Return the links and badge section as HTML."""
+    return '''<div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/fuchsia-agency">
+            <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="150" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/john-bampton">
+            <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="150" alt="Winter Is Coming" title="Winter Is Coming">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+<div align="center">
   <h2>👨‍🔬 🏩 💾 🇦🇺</h2>
   <h2><a href="https://github.com/john-bampton">John Bampton</a> is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
 </div>
+
 <div align="center">
   <h2>Invite on "Star" 🌠</h2>
   <h3>Add a "Star" to this <a href="https://github.com/john-bampton/.github">repository</a> and you will be sent an email invitation to join the <a href="https://github.com/john-bampton">John Bampton</a> GitHub Organization ⏩ 🏦</h3>
 </div>
+
 <div align="center">
   <a href="https://cloudstack.apache.org/who">
     <img src="./projects/apache-cloudstack.png"
@@ -120,22 +108,25 @@ def build_readme():
     <a href="https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d">Jukkyū 十級</a>
     <br>
     <a href="https://github.com/sponsors/hsbt#sponsors">Kyūkyū 九級</a>
-    <br>      
+    <br>
     <a href="https://github.com/natalie-lang/natalie/graphs/contributors">Hachikyu 八級</a>
     <br> 
     <a href="https://github.com/whitesmith/rubycritic/graphs/contributors">Nanakyū 七級</a>
     <br> 
     <a href="https://github.com/mruby/mruby.github.io/graphs/contributors">Rokkyū 六級</a>
-    <br>  
+    <br>
     <a href="https://contributors.rubyonrails.org/">Gokyū 五級</a>
     <br> 
     <a href="https://github.com/mruby/mgem-list/graphs/contributors">Yonkyū 四級</a>
-    <br>  
+    <br>
     <a href="https://github.com/mruby/mruby/graphs/contributors">Sankyū 三級</a>
-    <br>  
+    <br>
     <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
     <br>
-    <a href="#">Jun'ikkyū 準一級<br><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
+    <a href="./images/pre-1st-kyu.png">Jun'ikkyū 準一級</a>
+    <br>
+    <br>
+    <a href="https://www.codewars.com/users/Beast"><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
     <br>
   </p>
   <p>
@@ -143,70 +134,111 @@ def build_readme():
       alt="I'm Ruby !??!!! 👺"
       title="I'm Ruby !??!!! 👺">
   </p>
-</div>\n
+</div>
 '''
 
-    perf_types = ['bullet', 'blitz', 'rapid'] # 'classical', 'correspondence', 'chess960', 'crazyhouse'
-    lichess = '## ♟️ lichess\n\n'
-    users = ['RubyFu', 'SexyMate']
-    for user in users:
-        lichess += f'### Username: {user}\n\n'
-        for perf in perf_types:
-            with urllib.request.urlopen(f'https://lichess.org/api/user/{user}/perf/{perf}') as url:
-                data = json.load(url)
-                results = f'#### Best *{perf}* wins\n\n| Name | Rating | Date |\n| - | - | - |\n'
-                for row in data['stat']['bestWins']['results']:
-                    title = row['opId']['title']
-                    if title is None:
-                        title = ''
-                    else:
-                        title = f'__{title}__ '
-                    name = row['opId']['name']
-                    rating = row['opRating']
-                    d = datetime.strptime(row['at'], '%Y-%m-%dT%H:%M:%S.%fZ')
-                    date = d.strftime('%Y-%m-%d %A %#I:%M:%S %p')
-                    results += f'| [{title}{name}](https://lichess.org/@/{name}) | __({rating})__ | {date} |\n'
-                results += '\n'
-            lichess += results
+def get_chess_art_section() -> str:
+    """Return a static Chess Art HTML section."""
+    return (
+        "## 🎨 Chess is Art ♟️\n\n"
+        "![Chess Art 1](images/multi-color-chess-set.jpg)\n"
+    )
+
+
+# --- Data Fetchers ---
+def fetch_json(url: str) -> dict:
+    """Fetch JSON data from a given URL."""
+    with urllib.request.urlopen(url) as response:
+        return json.load(response)
+
+
+def fetch_lichess_stats() -> str:
+    """Fetch and format Lichess best win statistics for defined users."""
+    lichess_section = '## ♟️ Lichess Stats\n\n'
+
+    for username in LICHESS_USERS:
+        lichess_section += f'### Username: {username}\n\n'
+
+        for perf_type in PERFORMANCE_TYPES:
+            data = fetch_json(f'https://lichess.org/api/user/{username}/perf/{perf_type}')
+            best_wins = data.get('stat', {}).get('bestWins', {}).get('results', [])
+
+            if not best_wins:
+                lichess_section += f'#### Best *{perf_type}* wins\n\n_No data available to display..._\n\n'
+                continue
+
+            stats_table = (
+                f'#### Best *{perf_type}* wins\n\n'
+                '| Name | Rating | Date |\n'
+                '|------|--------|------|\n'
+            )
+
+            for win in best_wins:
+                op_id = win.get('opId', {})
+                title = f"__{op_id.get('title')}__ " if op_id.get('title') else ''
+                name = op_id.get('name', 'Unknown')
+                rating = win.get('opRating', 'N/A')
+                try:
+                    date_str = datetime.strptime(win['at'], '%Y-%m-%dT%H:%M:%S.%fZ')
+                except ValueError:
+                    date_str = datetime.strptime(win['at'], '%Y-%m-%dT%H:%M:%SZ')
+                formatted_date = date_str.strftime('%Y-%m-%d %A %I:%M:%S %p')
+                stats_table += f'| [{title}{name}](https://lichess.org/@/{name}) | __({rating})__ | {formatted_date} |\n'
+
+            lichess_section += stats_table + '\n'
+
+    return lichess_section
+
+
+def fetch_codewars_profile() -> str:
+    """Fetch and return Codewars user stats as Markdown."""
+    data = fetch_json('https://www.codewars.com/api/v1/users/Beast')
+
+    return (
+        "## 🧠 Codewars ⚔️\n\n"
+        f"- Username: __{data['username']}__\n"
+        f"- Name: __{data['name']}__\n"
+        f"- Clan: __[{data['clan']}](https://en.wikipedia.org/wiki/Summerhill_School)__\n"
+        f"- Skills: __{data['skills']}__\n"
+        f"- Honor: __{data['honor']}__\n"
+        f"- Leaderboard Position: __{data['leaderboardPosition']}__\n"
+        f"- Overall Rank: __{data['ranks']['overall']['name']}__\n"
+        f"- Total Completed Kata: __{data['codeChallenges']['totalCompleted']}__\n\n"
+    )
+
+
+def fetch_random_wikipedia() -> str:
+    """Fetch and return a random Wikipedia article summary."""
+    data = fetch_json('https://en.wikipedia.org/api/rest_v1/page/random/summary')
+    return (
+        "## 🌐 Random Wikipedia 📘\n\n"
+        f"{data['extract']}\n\n"
+        f"{data['content_urls']['mobile']['page']}\n\n"
+    )
+
+
+# --- README Builder ---
+def build_readme():
+    """Build the README.md file by injecting generated content between special markers."""
+    sections = (
+        get_greeting_html() +
+        get_links_html() +
+        fetch_codewars_profile() +
+        fetch_lichess_stats() +
+        fetch_random_wikipedia() +
+        get_chess_art_section()
+    )
+
+    pattern = re.compile(r"(<!-- start-data -->)(.*)", re.MULTILINE | re.DOTALL)
     
-    codewars = '## 🧠 Codewars ⚔️\n\n'
-    with urllib.request.urlopen(f'https://www.codewars.com/api/v1/users/Beast') as url:
-        data = json.load(url)
-        username = data['username']
-        name = data['name']
-        honor = data['honor']
-        clan = data['clan']
-        leaderboard_position = data['leaderboardPosition']
-        skills = data['skills']
-        ranks = data['ranks']
-        overall = ranks['overall']['name']
-        total_completed = data['codeChallenges']['totalCompleted']
-        codewars += f'''- Username: __{username}__
-- Name: __{name}__
-- Clan: __[{clan}](https://en.wikipedia.org/wiki/Summerhill_School)__
-- Skills: __{skills}__
-- Honor: __{honor}__
-- Leaderboard Position: __{leaderboard_position}__
-- Overall Rank: __{overall}__
-- Total Completed Kata: __{total_completed}__\n\n'''
-    
-    wikipedia = '## 🌐 Random Wikipedia 📘\n\n'
-    with urllib.request.urlopen(f'https://en.wikipedia.org/api/rest_v1/page/random/summary') as url:
-        data = json.load(url)
-        extract = data['extract']
-        page = data['content_urls']['mobile']['page']
-        wikipedia += f'{extract}\n\n{page}\n\n'
+    with open("README.md", "r+", encoding="utf-8") as file:
+        content = file.read()
+        updated_content = re.sub(pattern, r"\1\n\n" + sections, content)
+        file.seek(0)
+        file.write(updated_content)
+        file.truncate()
 
-    chessart = '''## 🎨 Chess is Art ♟️\n
-![Chess Art 1](images/multi-color-chess-set.jpg)'''
 
-    sections = f'\n{greetings}{links}{codewars}{lichess}{wikipedia}{chessart}\n'
-    with open("README.md", 'r+', encoding='utf-8') as my_file:
-        readme = my_file.read()
-        readme = re.sub(pattern, r"\1"+sections, readme)
-        my_file.truncate(0)
-        my_file.seek(0)
-        my_file.write(readme)
-
+# --- Entry Point ---
 if __name__ == "__main__":
     build_readme()
