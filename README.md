@@ -1,22 +1,22 @@
 <!-- start-data -->
+<div align="center"><h1>✨ How's it hanging? 👋</h1></div>
 
-<div align="center"><h1>✨ Good evening 👋</h1></div>
 <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/fuchsia-agency">
-            <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="150" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/john-bampton">
-            <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="150" alt="Winter Is Coming" title="Winter Is Coming">
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/fuchsia-agency">
+          <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="150" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/john-bampton">
+          <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="150" alt="Winter Is Coming" title="Winter Is Coming">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <h2>👨‍🔬 🏩 💾 🇦🇺</h2>
@@ -70,6 +70,7 @@
       title="Thanks for Your Contribution to the curl Project!">
   </a>
 </div>
+
 <div align="center">
   <h2><a href="https://en.wikipedia.org/wiki/Ky%C5%AB">🥋 Ruby Warrior</a></h2>
   <p>
@@ -105,7 +106,12 @@
       title="I'm Ruby !??!!! 👺">
   </p>
 </div>
+
+<div align="center">
+
 ## 🧠 Codewars ⚔️
+
+</div>
 
 - Username: __Beast__
 - Name: __John Bampton__
@@ -115,6 +121,8 @@
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
+
+<div align="center">
 
 ## ♟️ Lichess Stats
 
@@ -178,10 +186,12 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-J. Francis Kellogg House is a historic home located at Avon in Livingston County, New York. It is a Colonial Revival–style dwelling with Arts and Crafts influenced detailing constructed in 1908. It is a 2+1⁄2-story, square, frame residence with a flat topped hipped roof with dormers.
+St Michael's Prep School is a coeducational preparatory school in Otford, located in a 100-acre (400,000 m2) site in the North Downs, Kent, England.
 
-https://en.m.wikipedia.org/wiki/J._Francis_Kellogg_House
+https://en.m.wikipedia.org/wiki/St_Michael's_Prep_School%2C_Otford
 
 ## 🎨 Chess is Art ♟️
 
 ![Chess Art 1](images/multi-color-chess-set.jpg)
+
+</div>

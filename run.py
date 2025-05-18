@@ -26,27 +26,27 @@ LICHESS_USERS = ['RubyFu', 'SexyMate']
 def get_greeting_html() -> str:
     """Return a random greeting HTML snippet."""
     greeting = choice(HELLO_GREETINGS)
-    return f'<div align="center"><h1>✨ {greeting} 👋</h1></div>\n'
+    return f'<div align="center"><h1>✨ {greeting} 👋</h1></div>\n\n'
 
 
 def get_links_html() -> str:
     """Return the links and badge section as HTML."""
     return '''<div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/fuchsia-agency">
-            <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="150" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/john-bampton">
-            <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="150" alt="Winter Is Coming" title="Winter Is Coming">
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/fuchsia-agency">
+          <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="150" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/john-bampton">
+          <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="150" alt="Winter Is Coming" title="Winter Is Coming">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <h2>👨‍🔬 🏩 💾 🇦🇺</h2>
@@ -100,6 +100,7 @@ def get_links_html() -> str:
       title="Thanks for Your Contribution to the curl Project!">
   </a>
 </div>
+
 <div align="center">
   <h2><a href="https://en.wikipedia.org/wiki/Ky%C5%AB">🥋 Ruby Warrior</a></h2>
   <p>
@@ -135,6 +136,7 @@ def get_links_html() -> str:
       title="I'm Ruby !??!!! 👺">
   </p>
 </div>
+
 '''
 
 def get_chess_art_section() -> str:
@@ -142,6 +144,7 @@ def get_chess_art_section() -> str:
     return (
         "## 🎨 Chess is Art ♟️\n\n"
         "![Chess Art 1](images/multi-color-chess-set.jpg)\n"
+        """\n</div>"""
     )
 
 
@@ -154,7 +157,7 @@ def fetch_json(url: str) -> dict:
 
 def fetch_lichess_stats() -> str:
     """Fetch and format Lichess best win statistics for defined users."""
-    lichess_section = '## ♟️ Lichess Stats\n\n'
+    lichess_section = """<div align="center">\n\n## ♟️ Lichess Stats\n\n"""
 
     for username in LICHESS_USERS:
         lichess_section += f'### Username: {username}\n\n'
@@ -195,7 +198,7 @@ def fetch_codewars_profile() -> str:
     data = fetch_json('https://www.codewars.com/api/v1/users/Beast')
 
     return (
-        "## 🧠 Codewars ⚔️\n\n"
+        """<div align="center">\n\n## 🧠 Codewars ⚔️\n\n</div>\n\n"""
         f"- Username: __{data['username']}__\n"
         f"- Name: __{data['name']}__\n"
         f"- Clan: __[{data['clan']}](https://en.wikipedia.org/wiki/Summerhill_School)__\n"
@@ -233,7 +236,7 @@ def build_readme():
     
     with open("README.md", "r+", encoding="utf-8") as file:
         content = file.read()
-        updated_content = re.sub(pattern, r"\1\n\n" + sections, content)
+        updated_content = re.sub(pattern, r"\1\n" + sections, content)
         file.seek(0)
         file.write(updated_content)
         file.truncate()
