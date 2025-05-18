@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it been? 👋</h1>
+<div align="center"><h1>✨ How are things? 👋</h1>
 
   <p>
     <a href="https://github.com/john-bampton">
@@ -96,7 +96,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29372__
+- Honor: __29375__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -164,9 +164,9 @@
 
 ## 🌐 Random Wikipedia 📘
 
-William Henry Berry, always billed as W. H. Berry, was an English comic actor. After learning his craft in pierrot and concert entertainments, he was spotted by the actor-manager George Grossmith Jr., and appeared in a series of musical comedies in comic character roles. His greatest success was as Mr. Meebles, the hapless magistrate in The Boy in 1917.
+Declan O'Sullivan is an Irish former sportsperson. He last played Gaelic football with his local club Dromid Pearses, his divisional side South Kerry and at senior level for the Kerry county team between 2003 and his retirement in 2014.
 
-https://en.m.wikipedia.org/wiki/W._H._Berry
+https://en.m.wikipedia.org/wiki/Declan_O'Sullivan
 
 ## 🎨 Chess is Art ♟️
 
