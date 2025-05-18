@@ -1,4 +1,5 @@
 <!-- start-data -->
+<div align="center"><h1>✨ How are things? 👋</h1>
 
 <div align="center"><h1>✨ Salutations 👋</h1></div>
 <div align="center">
@@ -111,7 +112,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29360__
+- Honor: __29375__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -178,9 +179,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Sarah and After: the matriarchs is a 1975 collection of short stories aimed at older juvenile readers, written by Lynne Reid Banks. Each of the stories in the collection focus on a different woman in the Bible, beginning with Sarah, wife to Abraham and mother to Isaac.
+Declan O'Sullivan is an Irish former sportsperson. He last played Gaelic football with his local club Dromid Pearses, his divisional side South Kerry and at senior level for the Kerry county team between 2003 and his retirement in 2014.
 
-https://en.m.wikipedia.org/wiki/Sarah_and_After
+https://en.m.wikipedia.org/wiki/Declan_O'Sullivan
 
 ## 🎨 Chess is Art ♟️
 
