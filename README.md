@@ -107,7 +107,11 @@
   </p>
 </div>
 
+<div align="center">
+
 ## 🧠 Codewars ⚔️
+
+</div>
 
 - Username: __Beast__
 - Name: __John Bampton__
@@ -117,6 +121,8 @@
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
+
+<div align="center">
 
 ## ♟️ Lichess Stats
 
@@ -187,3 +193,6 @@ https://en.m.wikipedia.org/wiki/Declan_O'Sullivan
 ## 🎨 Chess is Art ♟️
 
 ![Chess Art 1](images/multi-color-chess-set.jpg)
+
+</div>
+
