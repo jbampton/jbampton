@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it all? 👋</h1></div>
+<div align="center"><h1>✨ What's been happening? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -12,6 +12,11 @@
       <td align="center">
         <a href="https://github.com/john-bampton">
           <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="150" alt="Winter Is Coming" title="Winter Is Coming">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/64-shades">
+          <img src="https://avatars.githubusercontent.com/u/85593293?s=200&v=4" width="150" alt="64 Shades" title="64 Shades">
         </a>
       </td>
     </tr>
@@ -94,10 +99,10 @@
     <br>
     <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
     <br>
-    <a href="./images/pre-1st-kyu.png">Jun'ikkyū 準一級</a>
+    <a href="#codewars-beast">Jun'ikkyū 準一級</a>
     <br>
     <br>
-    <a href="https://www.codewars.com/users/Beast"><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
+    <a id="codewars-beast" href="https://www.codewars.com/users/Beast"><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
     <br>
   </p>
   <p>
@@ -186,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-David Allan Sonnenfeld is an American sociologist and Professor Emeritus of Sociology and environmental policy at the State University of New York College of Environmental Science and Forestry, known for his work in the field of ecological modernisation.
+The Southern Hotel in Covington, Louisiana, is located in the Division of St. John Historic District also known as the Covington Historic District, a historic district which was listed on the National Register of Historic Places in 1982.
 
-https://en.m.wikipedia.org/wiki/David_A._Sonnenfeld
+https://en.m.wikipedia.org/wiki/Southern_Hotel_(Covington%2C_Louisiana)
 
 ## 🎨 Chess is Art ♟️
 
