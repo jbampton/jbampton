@@ -1,22 +1,22 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How are things? 👋</h1></div>
+<div align="center"><h1>✨ How's it hanging? 👋</h1></div>
 
 <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/fuchsia-agency">
-            <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="150" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/john-bampton">
-            <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="150" alt="Winter Is Coming" title="Winter Is Coming">
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/fuchsia-agency">
+          <img src="https://avatars.githubusercontent.com/u/32108161?s=200&v=4" width="150" alt="Bold ideas. Futuristic tech. Open source at heart." title="Bold ideas. Futuristic tech. Open source at heart.">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/john-bampton">
+          <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="150" alt="Winter Is Coming" title="Winter Is Coming">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <h2>👨‍🔬 🏩 💾 🇦🇺</h2>
@@ -117,7 +117,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29375__
+- Honor: __29378__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -186,13 +186,12 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Declan O'Sullivan is an Irish former sportsperson. He last played Gaelic football with his local club Dromid Pearses, his divisional side South Kerry and at senior level for the Kerry county team between 2003 and his retirement in 2014.
+St Michael's Prep School is a coeducational preparatory school in Otford, located in a 100-acre (400,000 m2) site in the North Downs, Kent, England.
 
-https://en.m.wikipedia.org/wiki/Declan_O'Sullivan
+https://en.m.wikipedia.org/wiki/St_Michael's_Prep_School%2C_Otford
 
 ## 🎨 Chess is Art ♟️
 
 ![Chess Art 1](images/multi-color-chess-set.jpg)
 
 </div>
-
