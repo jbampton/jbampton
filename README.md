@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's been happening? 👋</h1></div>
+<div align="center"><h1>✨ How are you? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-The Southern Hotel in Covington, Louisiana, is located in the Division of St. John Historic District also known as the Covington Historic District, a historic district which was listed on the National Register of Historic Places in 1982.
+Alvin James "Al" Baldus was an American Democratic politician who served as a member of the United States House of Representatives, representing Wisconsin's 3rd congressional district from 1975 to 1981. He also served 16 years in the Wisconsin State Assembly.
 
-https://en.m.wikipedia.org/wiki/Southern_Hotel_(Covington%2C_Louisiana)
+https://en.m.wikipedia.org/wiki/Alvin_Baldus
 
 ## 🎨 Chess is Art ♟️
 
