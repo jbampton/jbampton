@@ -44,6 +44,11 @@ def get_links_html() -> str:
           <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="150" alt="Winter Is Coming" title="Winter Is Coming">
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/64-shades">
+          <img src="https://avatars.githubusercontent.com/u/85593293?s=200&v=4" width="150" alt="64 Shades" title="64 Shades">
+        </a>
+      </td>
     </tr>
   </table>
 </div>
@@ -124,10 +129,10 @@ def get_links_html() -> str:
     <br>
     <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
     <br>
-    <a href="./images/pre-1st-kyu.png">Jun'ikkyū 準一級</a>
+    <a href="#codewars-beast">Jun'ikkyū 準一級</a>
     <br>
     <br>
-    <a href="https://www.codewars.com/users/Beast"><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
+    <a id="codewars-beast" href="https://www.codewars.com/users/Beast"><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
     <br>
   </p>
   <p>
