@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How are you? 👋</h1></div>
+<div align="center"><h1>✨ How's everything? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Alvin James "Al" Baldus was an American Democratic politician who served as a member of the United States House of Representatives, representing Wisconsin's 3rd congressional district from 1975 to 1981. He also served 16 years in the Wisconsin State Assembly.
+Destroyer's Rubies is the seventh studio album by Canadian indie rock band Destroyer, released on February 21, 2006 on Merge Records, Scratch Records, Acuarela Discos, Architecture, and Rough Trade Records.
 
-https://en.m.wikipedia.org/wiki/Alvin_Baldus
+https://en.m.wikipedia.org/wiki/Destroyer's_Rubies
 
 ## 🎨 Chess is Art ♟️
 
