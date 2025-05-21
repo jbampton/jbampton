@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's up? 👋</h1></div>
+<div align="center"><h1>✨ How's it all? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29382__
+- Honor: __29385__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-The Independent Police Complaints Council (IPCC) is a civilian body of the Government of Hong Kong, part of the two-tier system in which the Hong Kong Police Force investigates complaints made by the public against its members and the IPCC monitors those investigations.
+Ricky Scott Taylor is an American professional racing driver, most notably in the IMSA WeatherTech SportsCar Championship. His career highlights include an IMSA Series Championship in 2017, as well as marquee wins at the Daytona 24, 12 Hours of Sebring and Petit Le Mans.
 
-https://en.m.wikipedia.org/wiki/Independent_Police_Complaints_Council
+https://en.m.wikipedia.org/wiki/Ricky_Taylor
 
 ## 🎨 Chess is Art ♟️
 
