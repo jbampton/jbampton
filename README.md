@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it all? 👋</h1></div>
+<div align="center"><h1>✨ Hello 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29385__
+- Honor: __29390__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Ricky Scott Taylor is an American professional racing driver, most notably in the IMSA WeatherTech SportsCar Championship. His career highlights include an IMSA Series Championship in 2017, as well as marquee wins at the Daytona 24, 12 Hours of Sebring and Petit Le Mans.
+Kumi Town, commonly called Kumi, is a town in the Eastern Region of Uganda. It is the main municipal, administrative, and commercial center in Kumi District and the site of the district headquarters.
 
-https://en.m.wikipedia.org/wiki/Ricky_Taylor
+https://en.m.wikipedia.org/wiki/Kumi_Town
 
 ## 🎨 Chess is Art ♟️
 
