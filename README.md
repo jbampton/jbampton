@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's tricks? 👋</h1></div>
+<div align="center"><h1>✨ What's going on? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29393__
+- Honor: __29394__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Compact car is a vehicle size class—predominantly used in North America—that sits between subcompact cars and mid-size cars. "Small family car" is a British term and a part of the C-segment in the European car classification. However, before the downsizing of the United States car industry in the 1970s and 1980s, larger vehicles with wheelbases up to 110 in (2.79 m) were considered "compact cars" in the United States.
+Yevgeniy Vasilyevich Fedorov, or Fyodorov, is a Kazakh professional cyclist, who currently rides for UCI WorldTeam XDS Astana Team.
 
-https://en.m.wikipedia.org/wiki/Compact_car
+https://en.m.wikipedia.org/wiki/Yevgeniy_Fedorov
 
 ## 🎨 Chess is Art ♟️
 
