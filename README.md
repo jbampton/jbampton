@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Hello 👋</h1></div>
+<div align="center"><h1>✨ What's up? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29395__
+- Honor: __29398__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,10 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-John Green Crosse, FRCS, FRS was a well-known English surgeon of his day, at the Norfolk and Norwich Hospital.
-After completing his apprenticeship in Stowmarket, he studied at St. George's Hospital and at the Windmill Street School of Medicine in London. He then moved to Dublin and Paris, finally settling in Norwich in 1815. In 1823 he became assistant-surgeon to the Norfolk and Norwich Hospital, and in 1826 surgeon. His reputation as a lithotomist, and in 1836 he was elected a Fellow of the Royal Society.
+California's 52nd State Assembly district is one of 80 California State Assembly districts. It is currently represented by Democrat Jessica Caloza.
 
-https://en.m.wikipedia.org/wiki/John_Green_Crosse
+https://en.m.wikipedia.org/wiki/California's_52nd_State_Assembly_district
 
 ## 🎨 Chess is Art ♟️
 
