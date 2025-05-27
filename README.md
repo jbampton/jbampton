@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's up? 👋</h1></div>
+<div align="center"><h1>✨ What's new? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29398__
+- Honor: __29402__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-California's 52nd State Assembly district is one of 80 California State Assembly districts. It is currently represented by Democrat Jessica Caloza.
+Ostrožnik is a small village east of Mokronog in the Municipality of Mokronog-Trebelno in southeastern Slovenia. The municipality is part of the historical region of Lower Carniola and is now included in the Southeast Slovenia Statistical Region.
 
-https://en.m.wikipedia.org/wiki/California's_52nd_State_Assembly_district
+https://en.m.wikipedia.org/wiki/Ostro%C5%BEnik
 
 ## 🎨 Chess is Art ♟️
 
