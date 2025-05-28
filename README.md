@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's new? 👋</h1></div>
+<div align="center"><h1>✨ Pleased to meet you 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29402__
+- Honor: __29404__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Ostrožnik is a small village east of Mokronog in the Municipality of Mokronog-Trebelno in southeastern Slovenia. The municipality is part of the historical region of Lower Carniola and is now included in the Southeast Slovenia Statistical Region.
+Rick Lindy is an actor and country/rockabilly musician from Chicago, Illinois. He has performed with the Big Guitars from Memphis as well as leading his own band, Rick Lindy and the Wild Ones. An earlier band, the Cyclones, backed up Hayden Thompson for a show on Oct 2, 1992. Lindy's first solo single, "Working Man Blues" (1990), was produced by John Capps and featured DJ Fontana on drums.
 
-https://en.m.wikipedia.org/wiki/Ostro%C5%BEnik
+https://en.m.wikipedia.org/wiki/Rick_Lindy
 
 ## 🎨 Chess is Art ♟️
 
