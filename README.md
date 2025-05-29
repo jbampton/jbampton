@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Pleased to meet you 👋</h1></div>
+<div align="center"><h1>✨ Yo 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29404__
+- Honor: __29409__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Rick Lindy is an actor and country/rockabilly musician from Chicago, Illinois. He has performed with the Big Guitars from Memphis as well as leading his own band, Rick Lindy and the Wild Ones. An earlier band, the Cyclones, backed up Hayden Thompson for a show on Oct 2, 1992. Lindy's first solo single, "Working Man Blues" (1990), was produced by John Capps and featured DJ Fontana on drums.
+INS Kamorta is the first of four anti-submarine Kamorta-class stealth corvettes which has been built for the Indian Navy.
 
-https://en.m.wikipedia.org/wiki/Rick_Lindy
+https://en.m.wikipedia.org/wiki/INS_Kamorta_(P28)
 
 ## 🎨 Chess is Art ♟️
 
