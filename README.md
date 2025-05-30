@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Yo 👋</h1></div>
+<div align="center"><h1>✨ How's everything been going? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29409__
+- Honor: __29410__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-INS Kamorta is the first of four anti-submarine Kamorta-class stealth corvettes which has been built for the Indian Navy.
+Hsipaw Palace, also known as the Hsipaw Haw or East Haw, is the former residence of the ruler of Hsipaw State, a principality in Burma. Built in the style of an English country villa on a 5-acre compound, the palace is best known for being the residence of Sao Kya Seng and his consort Inge Sargent, and is the sole remaining palace in Hsipaw today.
 
-https://en.m.wikipedia.org/wiki/INS_Kamorta_(P28)
+https://en.m.wikipedia.org/wiki/Hsipaw_Palace
 
 ## 🎨 Chess is Art ♟️
 
