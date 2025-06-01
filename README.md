@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Yo 👋</h1></div>
+<div align="center"><h1>✨ What's the buzz? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29412__
+- Honor: __29415__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-The Shorewood Village Hall is a historic municipal building in Shorewood, Wisconsin. It was added to the National Register of Historic Places in 1984.
+Lawrence Joseph Jansen was an American right-handed pitcher and coach in Major League Baseball. A native of Oregon, he played minor league baseball in the early 1940s before starting his Major League career in 1947 with the New York Giants. Jansen played nine seasons in the big leagues, and was twice an All-Star, winning 122 games in all. He later coached in the Major Leagues and minor leagues. Jansen is a member of the Oregon Sports Hall of Fame and the Pacific Coast League Hall of Fame.
 
-https://en.m.wikipedia.org/wiki/Shorewood_Village_Hall
+https://en.m.wikipedia.org/wiki/Larry_Jansen
 
 ## 🎨 Chess is Art ♟️
 
