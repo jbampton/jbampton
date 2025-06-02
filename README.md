@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's the buzz? 👋</h1></div>
+<div align="center"><h1>✨ How's things? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29415__
+- Honor: __29420__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Lawrence Joseph Jansen was an American right-handed pitcher and coach in Major League Baseball. A native of Oregon, he played minor league baseball in the early 1940s before starting his Major League career in 1947 with the New York Giants. Jansen played nine seasons in the big leagues, and was twice an All-Star, winning 122 games in all. He later coached in the Major Leagues and minor leagues. Jansen is a member of the Oregon Sports Hall of Fame and the Pacific Coast League Hall of Fame.
+In molecular biology, Small nucleolar RNA R12 is a non-coding RNA (ncRNA) molecule which functions in the modification of other small nuclear RNAs (snRNAs). This type of modifying RNA is usually located in the nucleolus of the eukaryotic cell which is a major site of snRNA biogenesis. It is known as a small nucleolar RNA (snoRNA) and also often referred to as a guide RNA.
 
-https://en.m.wikipedia.org/wiki/Larry_Jansen
+https://en.m.wikipedia.org/wiki/Small_nucleolar_RNA_R12
 
 ## 🎨 Chess is Art ♟️
 
