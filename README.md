@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's tricks? 👋</h1></div>
+<div align="center"><h1>✨ What's been happening? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29423__
+- Honor: __29426__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Ahmad Massoud is an Afghan politician who is the founder and leader of the National Resistance Front of Afghanistan. He is the eldest son of prominent Afghan anti-Soviet military leader Ahmad Shah Massoud, and was appointed as the CEO of the Massoud Foundation in November 2016. On 5 September 2019, he was declared his father's successor at his mausoleum in the Panjshir Valley. After the Taliban seized control of Panjshir Valley on 6 September 2021, Massoud evacuated towards Tajikistan along with former Vice President Amrullah Saleh.
+Jervis McEntee was an American painter of the Hudson River School. He is a lesser-known figure of the 19th-century American art world, but was a close friend and traveling companion of several of the important Hudson River School artists. Aside from his paintings, McEntee's unpublished journals, written from 1872 to 1890, are an enduring legacy, documenting the life of a New York painter during and after the Gilded Age.
 
-https://en.m.wikipedia.org/wiki/Ahmad_Massoud
+https://en.m.wikipedia.org/wiki/Jervis_McEntee
 
 ## 🎨 Chess is Art ♟️
 
