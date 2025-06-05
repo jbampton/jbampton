@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's been happening? 👋</h1></div>
+<div align="center"><h1>✨ What's the buzz? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29426__
+- Honor: __29430__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Jervis McEntee was an American painter of the Hudson River School. He is a lesser-known figure of the 19th-century American art world, but was a close friend and traveling companion of several of the important Hudson River School artists. Aside from his paintings, McEntee's unpublished journals, written from 1872 to 1890, are an enduring legacy, documenting the life of a New York painter during and after the Gilded Age.
+Operation Pocket Money was the title of a U.S. Navy Task Force 77 aerial mining campaign conducted against the Democratic Republic of Vietnam from 9 May 1972, during the Vietnam War. Its purpose was to halt or slow the transportation of supplies and materials for the Nguyen Hue Offensive, an invasion of the Republic of Vietnam, by forces of the People's Army of Vietnam (PAVN), that had been launched on 30 March. Pocket Money was the first use of naval mines against North Vietnam.
 
-https://en.m.wikipedia.org/wiki/Jervis_McEntee
+https://en.m.wikipedia.org/wiki/Operation_Pocket_Money
 
 ## 🎨 Chess is Art ♟️
 
