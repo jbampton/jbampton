@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's been happening? 👋</h1></div>
+<div align="center"><h1>✨ How's life? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29431__
+- Honor: __29435__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Wiggensbach is a municipality in Bavaria. It is situated about 7 kilometres west of Kempten, the next greater town.
+La Huerta, or Huerta de Mataquito is a village (aldea) or small town near the north bank of the Mataquito River, in the Hualañé commune, in the Curicó Province, in the Maule Region, of Chile. It is 45 kilometers west of the city of Curicó.
 
-https://en.m.wikipedia.org/wiki/Wiggensbach
+https://en.m.wikipedia.org/wiki/La_Huerta%2C_Chile
 
 ## 🎨 Chess is Art ♟️
 
