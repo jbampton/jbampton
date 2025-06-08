@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's life? 👋</h1></div>
+<div align="center"><h1>✨ What's going on? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-La Huerta, or Huerta de Mataquito is a village (aldea) or small town near the north bank of the Mataquito River, in the Hualañé commune, in the Curicó Province, in the Maule Region, of Chile. It is 45 kilometers west of the city of Curicó.
+Ynnakh Mountain, also known as Arga Ynnakh Khaya, Gora Ulakhan Ynnakh and as Mother Mountain, is a mountain in Verkhoyansky District, Yakutia, Russian Federation.
 
-https://en.m.wikipedia.org/wiki/La_Huerta%2C_Chile
+https://en.m.wikipedia.org/wiki/Ynnakh_Mountain
 
 ## 🎨 Chess is Art ♟️
 
