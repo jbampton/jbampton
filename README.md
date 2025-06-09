@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's going on? 👋</h1></div>
+<div align="center"><h1>✨ What's all good? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29435__
+- Honor: __29438__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Ynnakh Mountain, also known as Arga Ynnakh Khaya, Gora Ulakhan Ynnakh and as Mother Mountain, is a mountain in Verkhoyansky District, Yakutia, Russian Federation.
+A Mariña Oriental is a comarca in the Galician Province of Lugo. The overall population of this local region is 28,955 (2019).
 
-https://en.m.wikipedia.org/wiki/Ynnakh_Mountain
+https://en.m.wikipedia.org/wiki/A_Mari%C3%B1a_Oriental
 
 ## 🎨 Chess is Art ♟️
 
