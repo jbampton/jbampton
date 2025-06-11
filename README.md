@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ G'day 👋</h1></div>
+<div align="center"><h1>✨ What's crackalackin? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29443__
+- Honor: __29448__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-The National Energy Board was an independent economic regulatory agency created in 1959 by the Government of Canada to oversee "international and inter-provincial aspects of the oil, gas and electric utility industries." Its head office was located in Calgary, Alberta.
+Zac Champion is a former American football quarterback.
 
-https://en.m.wikipedia.org/wiki/National_Energy_Board
+https://en.m.wikipedia.org/wiki/Zac_Champion
 
 ## 🎨 Chess is Art ♟️
 
