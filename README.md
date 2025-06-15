@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's been going on? 👋</h1></div>
+<div align="center"><h1>✨ How's it hanging? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29454__
+- Honor: __29460__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-"Monastery" is a song by Colombian singers Ryan Castro and Feid. It was released on November 11, 2021 under King and Universal Latino as the eighth single from the special edition of Feid's fourth studio album Inter Shibuya  (2021).
+Leendert "Leonard" Gansevoort was an American political leader from New York who served as a delegate to the Continental Congress in 1788.
 
-https://en.m.wikipedia.org/wiki/Monastery_(song)
+https://en.m.wikipedia.org/wiki/Leonard_Gansevoort
 
 ## 🎨 Chess is Art ♟️
 
