@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it hanging? 👋</h1></div>
+<div align="center"><h1>✨ What's been happening? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29460__
+- Honor: __29464__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Leendert "Leonard" Gansevoort was an American political leader from New York who served as a delegate to the Continental Congress in 1788.
+Agno, officially the Municipality of Agno, is a municipality in the province of Pangasinan, Philippines. According to the 2020 census, it has a population of 29,947 people.
 
-https://en.m.wikipedia.org/wiki/Leonard_Gansevoort
+https://en.m.wikipedia.org/wiki/Agno%2C_Pangasinan
 
 ## 🎨 Chess is Art ♟️
 
