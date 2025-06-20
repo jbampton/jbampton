@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Howdy 👋</h1></div>
+<div align="center"><h1>✨ How's it all been? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29478__
+- Honor: __29481__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Deron Roger Johnson was an American professional baseball infielder, outfielder, designated hitter, and coach, who played in Major League Baseball (MLB) for the New York Yankees, Kansas City/Oakland Athletics, Cincinnati Reds, Atlanta Braves, Philadelphia Phillies, Milwaukee Brewers, Boston Red Sox, and Chicago White Sox, over the course of his 16-year big league playing career. While an active player, Johnson stood 6 feet 2 inches (1.88 m) tall, weighing 200 pounds (91 kg). He batted and threw right-handed.
+Ostružnica Bridge is a six-lane girder bridge carrying the Belgrade bypass over the Sava at Ostružnica.
 
-https://en.m.wikipedia.org/wiki/Deron_Johnson
+https://en.m.wikipedia.org/wiki/Ostru%C5%BEnica_Bridge
 
 ## 🎨 Chess is Art ♟️
 
