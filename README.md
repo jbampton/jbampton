@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it all been? 👋</h1></div>
+<div align="center"><h1>✨ What's the story? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29481__
+- Honor: __29483__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Ostružnica Bridge is a six-lane girder bridge carrying the Belgrade bypass over the Sava at Ostružnica.
+Alfred Louis Smith and Arthur Ebden Johnson were architects who designed many public buildings of Melbourne in the classical style.
 
-https://en.m.wikipedia.org/wiki/Ostru%C5%BEnica_Bridge
+https://en.m.wikipedia.org/wiki/Smith_%26_Johnson
 
 ## 🎨 Chess is Art ♟️
 
