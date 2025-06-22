@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's the story? 👋</h1></div>
+<div align="center"><h1>✨ How's it all? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Alfred Louis Smith and Arthur Ebden Johnson were architects who designed many public buildings of Melbourne in the classical style.
+The Damrak is an avenue and partially filled in canal at the centre of Amsterdam, Netherlands, running between Amsterdam Centraal in the north and Dam Square in the south. It is the main street where people arriving at the station enter the centre of the city. Also, it is one of the two GVB tram routes from the station into the centre, with lines 4, 9, 16, and 25 running down it. It is also on the route of the North/South Line being constructed between the existing metro station at Centraal Station and the new Rokin station.
 
-https://en.m.wikipedia.org/wiki/Smith_%26_Johnson
+https://en.m.wikipedia.org/wiki/Damrak
 
 ## 🎨 Chess is Art ♟️
 
