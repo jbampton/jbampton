@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it all? 👋</h1></div>
+<div align="center"><h1>✨ It's good to see you 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29483__
+- Honor: __29488__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-The Damrak is an avenue and partially filled in canal at the centre of Amsterdam, Netherlands, running between Amsterdam Centraal in the north and Dam Square in the south. It is the main street where people arriving at the station enter the centre of the city. Also, it is one of the two GVB tram routes from the station into the centre, with lines 4, 9, 16, and 25 running down it. It is also on the route of the North/South Line being constructed between the existing metro station at Centraal Station and the new Rokin station.
+Mount Bertha is a 10,204-foot (3,110-meter) glaciated mountain summit located in the Fairweather Range of the Saint Elias Mountains, in southeast Alaska, United States.
 
-https://en.m.wikipedia.org/wiki/Damrak
+https://en.m.wikipedia.org/wiki/Mount_Bertha
 
 ## 🎨 Chess is Art ♟️
 
