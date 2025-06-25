@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything going? 👋</h1></div>
+<div align="center"><h1>✨ How's it all going? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29496__
+- Honor: __29499__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Rachid Boudjedra is an Algerian poet, novelist, playwright and critic. Boudjedra wrote in French from 1965 to 1981, at which point he switched to writing in Arabic, often translating his own works back and forth between the two languages. Boudjedra returned to writing in French in 1992 and has continued to write in that language ever since. Educated in Constantine and in Tunis, Boudjedra later fought for the FLN during the Algerian War of Independence. He received his degree in philosophy from the Sorbonne, where he wrote a thesis on Céline. Upon receiving his degree, he returned to Algeria to teach, but was sentenced to two years in prison for his criticisms of the government and was exiled to Blida. He lived in France from 1969 till 1972, and then in Rabat, Morocco until 1975.
+The National Institute for the Defence of Competition and the Protection of Intellectual Property is a specialised autonomous public body of the Peruvian State, currently attached to the Presidency of the Council of Ministers, with legal status under public law. It was created on November 24, 1992, by Decree Law No. 25868.
 
-https://en.m.wikipedia.org/wiki/Rachid_Boudjedra
+https://en.m.wikipedia.org/wiki/INDECOPI
 
 ## 🎨 Chess is Art ♟️
 
