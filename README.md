@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it all going? 👋</h1></div>
+<div align="center"><h1>✨ What's up? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29499__
+- Honor: __29500__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-The National Institute for the Defence of Competition and the Protection of Intellectual Property is a specialised autonomous public body of the Peruvian State, currently attached to the Presidency of the Council of Ministers, with legal status under public law. It was created on November 24, 1992, by Decree Law No. 25868.
+Aleksejs Saramotins is a Latvian professional road cyclist, who last rode for UCI Continental team Interpro Cycling Academy. He has won the Latvian National Road Race Championships on seven occasions and has represented his country at the Summer Olympic Games and the UCI Road World Championships.
 
-https://en.m.wikipedia.org/wiki/INDECOPI
+https://en.m.wikipedia.org/wiki/Aleksejs_Saramotins
 
 ## 🎨 Chess is Art ♟️
 
