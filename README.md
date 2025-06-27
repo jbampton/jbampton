@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's up? 👋</h1></div>
+<div align="center"><h1>✨ How's your day? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29500__
+- Honor: __29505__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Aleksejs Saramotins is a Latvian professional road cyclist, who last rode for UCI Continental team Interpro Cycling Academy. He has won the Latvian National Road Race Championships on seven occasions and has represented his country at the Summer Olympic Games and the UCI Road World Championships.
+Greig cephalopolysyndactyly syndrome is a disorder that affects development of the limbs, head, and face. The features of this syndrome are highly variable, ranging from very mild to severe. People with this condition typically have one or more extra fingers or toes (polydactyly) or an abnormally wide thumb or big toe (hallux).
 
-https://en.m.wikipedia.org/wiki/Aleksejs_Saramotins
+https://en.m.wikipedia.org/wiki/Greig_cephalopolysyndactyly_syndrome
 
 ## 🎨 Chess is Art ♟️
 
