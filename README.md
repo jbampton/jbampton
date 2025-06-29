@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's the buzz? 👋</h1></div>
+<div align="center"><h1>✨ What's all good? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29512__
+- Honor: __29516__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Medina is a town in Dane County, Wisconsin, United States. The population was 1,235 at the 2000 census. The unincorporated community of Deansville is located in the town.
+Thotapalli Barrage is located in Garugubilli Mandal, Parvathipuram Manyam district of Andhra Pradesh State. It was named after the freedom fighter and political leader Gouthu Latchanna. The bridge was built in between 2003 and 2015. It was inaugurated by Andhra Pradesh Chief Minister N. Chandrababu Naidu on 10 September 2015. The Project provides irrigation to 1,20,000 acres in Srikakulam and Parvathipuram Manyam districts.
 
-https://en.m.wikipedia.org/wiki/Medina%2C_Wisconsin
+https://en.m.wikipedia.org/wiki/Thotapalli_Barrage
 
 ## 🎨 Chess is Art ♟️
 
