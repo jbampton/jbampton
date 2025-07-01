@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's your day? 👋</h1></div>
+<div align="center"><h1>✨ Long time no see 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29517__
+- Honor: __29524__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Marjo Tuulevi Matikainen-Kallström is a Finnish former politician and cross-country skier.
+Yliopistonkatu is a 1,5-kilometer-long street located in the city center of Turku, Finland, running parallel to the Aura River, starting at Kutomonkatu and ending at Koulukatu. Since 2001, the part of Yliopistonkatu between Aurakatu and Humalistonkatu, which is about four hundred meters long, has been a pedestrian street. The area of the current pedestrian street has been Turku's Christmas street since 1948. The Turku Market Square is also located along Yliopistonkatu.
 
-https://en.m.wikipedia.org/wiki/Marjo_Matikainen-Kallstr%C3%B6m
+https://en.m.wikipedia.org/wiki/Yliopistonkatu_(Turku)
 
 ## 🎨 Chess is Art ♟️
 
