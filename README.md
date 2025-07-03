@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Good afternoon 👋</h1></div>
+<div align="center"><h1>✨ What's the buzz? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29526__
+- Honor: __29530__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Mbocayaty (Guaraní: Mbokajaty) is a town in the Guairá Department of Paraguay. Its located 7 km to the north of Villarrica and 166 km to the east of Asuncion.
+Kiffin Yates Rockwell was an early aviator and the first American pilot to shoot down an enemy aircraft in World War I. On May 18, 1916, Rockwell attacked and shot down a German plane over the Alsace battlefield. For this action he was awarded the Médaille militaire and the Croix de guerre.
 
-https://en.m.wikipedia.org/wiki/Mbocayaty
+https://en.m.wikipedia.org/wiki/Kiffin_Rockwell
 
 ## 🎨 Chess is Art ♟️
 
