@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's the buzz? 👋</h1></div>
+<div align="center"><h1>✨ It's good to see you 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29530__
+- Honor: __29534__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Kiffin Yates Rockwell was an early aviator and the first American pilot to shoot down an enemy aircraft in World War I. On May 18, 1916, Rockwell attacked and shot down a German plane over the Alsace battlefield. For this action he was awarded the Médaille militaire and the Croix de guerre.
+José María Ormaetxea Uribeetxebarría was a Basque businessman and cooperativist; one of the five founders in 1956 of Ulgor - later renamed Fagor Electrodomésticos - the first industrial cooperative enterprise of the Mondragon Corporation.
 
-https://en.m.wikipedia.org/wiki/Kiffin_Rockwell
+https://en.m.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Ormaetxea
 
 ## 🎨 Chess is Art ♟️
 
