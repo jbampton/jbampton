@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's been happening? 👋</h1></div>
+<div align="center"><h1>✨ How's it all going? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29536__
+- Honor: __29538__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Samuel is a figure who, in the narratives of the Hebrew Bible, plays a key role in the transition from the biblical judges to the United Kingdom of Israel under Saul, and again in the monarchy's transition from Saul to David. He is venerated as a prophet in Judaism, Christianity, and Islam. In addition to his role in the Bible, Samuel is mentioned in Jewish rabbinical literature, in the Christian New Testament, and in the second chapter of the Quran. He is also treated in the fifth through seventh books of Antiquities of the Jews, written by the Jewish scholar Josephus in the first century. He is first called "the Seer" in 1 Samuel 9:9.
+Kehal Urban is one of the 51 union councils of Abbottabad District in Khyber-Pakhtunkhwa province of Pakistan. It is located in the west of the district.
 
-https://en.m.wikipedia.org/wiki/Samuel
+https://en.m.wikipedia.org/wiki/Kehal_Urban
 
 ## 🎨 Chess is Art ♟️
 
