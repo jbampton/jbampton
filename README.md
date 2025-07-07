@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it all going? 👋</h1></div>
+<div align="center"><h1>✨ Good evening 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29538__
+- Honor: __29542__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Kehal Urban is one of the 51 union councils of Abbottabad District in Khyber-Pakhtunkhwa province of Pakistan. It is located in the west of the district.
+Muba Babel United Football Club was an Indonesian football club based in Musi Banyuasin Regency, South Sumatra. In June 2022, Muba Babel United were acquired by Liga 3 side Persipal Palu. As a result, Muba Babel United ceased to exist as Persipal's senior team took over their spot in the 2022-23 Liga 2 season.
 
-https://en.m.wikipedia.org/wiki/Kehal_Urban
+https://en.m.wikipedia.org/wiki/Muba_Babel_United_F.C.
 
 ## 🎨 Chess is Art ♟️
 
