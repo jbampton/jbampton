@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Good evening 👋</h1></div>
+<div align="center"><h1>✨ Pleased to meet you 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29542__
+- Honor: __29546__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Muba Babel United Football Club was an Indonesian football club based in Musi Banyuasin Regency, South Sumatra. In June 2022, Muba Babel United were acquired by Liga 3 side Persipal Palu. As a result, Muba Babel United ceased to exist as Persipal's senior team took over their spot in the 2022-23 Liga 2 season.
+Ferhat Pasha Mosque, also known as the Ferhadija Mosque, is a mosque in the city of Banja Luka and one of the greatest achievements of Bosnia and Herzegovina's 16th century Ottoman Islamic architecture. The mosque was demolished in 1993 at the order of the authorities of Republika Srpska as a part of an ethnic cleansing campaign, and was rebuilt and opened on 7 May 2016.
 
-https://en.m.wikipedia.org/wiki/Muba_Babel_United_F.C.
+https://en.m.wikipedia.org/wiki/Ferhat_Pasha_Mosque_(Banja_Luka)
 
 ## 🎨 Chess is Art ♟️
 
