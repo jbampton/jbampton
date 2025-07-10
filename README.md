@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Hey 👋</h1></div>
+<div align="center"><h1>✨ How's everything been? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29553__
+- Honor: __29554__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Oconee Township is one of eighteen townships in Platte County, Nebraska, United States. The population was 499 at the 2020 census. A 2021 estimate placed the township's population at 490.
+Russell Irving Tamblyn, also known as Rusty Tamblyn, is an American film and television actor and dancer.
 
-https://en.m.wikipedia.org/wiki/Oconee_Township%2C_Platte_County%2C_Nebraska
+https://en.m.wikipedia.org/wiki/Russ_Tamblyn
 
 ## 🎨 Chess is Art ♟️
 
