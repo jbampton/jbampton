@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything been? 👋</h1></div>
+<div align="center"><h1>✨ Pleased to meet you 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29554__
+- Honor: __29557__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Russell Irving Tamblyn, also known as Rusty Tamblyn, is an American film and television actor and dancer.
+"Act Your Age" is a song by Australian hip hop trio Bliss n Eso. It was released as the fourth single from their fifth studio album Circus in the Sky. The single was released through Illusive Sounds on 16 August 2013. The song peaked at number 31 on the ARIA Singles Chart and was certified gold, making it Bliss n Eso's fifth gold single. The song contains a sample of "Act Yr Age" by Bluejuice. The song's message is to not worry about acting your age, just have fun. 'Act Your Age' finished at #67 on the 2013 Triple J Hottest 100.
 
-https://en.m.wikipedia.org/wiki/Russ_Tamblyn
+https://en.m.wikipedia.org/wiki/Act_Your_Age_(song)
 
 ## 🎨 Chess is Art ♟️
 
