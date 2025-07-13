@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's been happening? 👋</h1></div>
+<div align="center"><h1>✨ How's things going? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29559__
+- Honor: __29565__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-A bulibuli or vunikau bulibuli is a Fijian war club.
+Weird! is the second studio album by English singer Yungblud, released on 4 December 2020 by Locomotion and Interscope Records. Originally scheduled for 13 November 2020, the album's release was delayed due to the COVID-19 pandemic. It is Yungblud's first album since 21st Century Liability (2018). The album was supported by six singles: "Weird!", "Strawberry Lipstick", "God Save Me, but Don't Drown Me Out", "Cotton Candy", "Mars" and "Acting Like That". The album also contains collaborations with Machine Gun Kelly and Travis Barker.
 
-https://en.m.wikipedia.org/wiki/Bulibuli
+https://en.m.wikipedia.org/wiki/Weird!
 
 ## 🎨 Chess is Art ♟️
 
