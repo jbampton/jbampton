@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's things going? 👋</h1></div>
+<div align="center"><h1>✨ Hey 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29565__
+- Honor: __29569__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Weird! is the second studio album by English singer Yungblud, released on 4 December 2020 by Locomotion and Interscope Records. Originally scheduled for 13 November 2020, the album's release was delayed due to the COVID-19 pandemic. It is Yungblud's first album since 21st Century Liability (2018). The album was supported by six singles: "Weird!", "Strawberry Lipstick", "God Save Me, but Don't Drown Me Out", "Cotton Candy", "Mars" and "Acting Like That". The album also contains collaborations with Machine Gun Kelly and Travis Barker.
+An album is a collection of audio recordings issued on a medium such as compact disc (CD), vinyl (record), audio tape, or digital. Albums of recorded sound were developed in the early 20th century as individual 78 rpm records (78s) collected in a bound book resembling a photo album; this format evolved after 1948 into single vinyl long-playing (LP) records played at 33+1⁄3 rpm.
 
-https://en.m.wikipedia.org/wiki/Weird!
+https://en.m.wikipedia.org/wiki/Album
 
 ## 🎨 Chess is Art ♟️
 
