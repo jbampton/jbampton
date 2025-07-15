@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Hey 👋</h1></div>
+<div align="center"><h1>✨ Salutations 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29569__
+- Honor: __29573__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-An album is a collection of audio recordings issued on a medium such as compact disc (CD), vinyl (record), audio tape, or digital. Albums of recorded sound were developed in the early 20th century as individual 78 rpm records (78s) collected in a bound book resembling a photo album; this format evolved after 1948 into single vinyl long-playing (LP) records played at 33+1⁄3 rpm.
+Sigma Star Saga is a 2005 hybrid science fiction role-playing-space-shooter developed by WayForward Technologies and published by Namco Hometek for the Game Boy Advance. The player explores a standard 2-D overworld, but is transported into space for side-scrolling shooter random battles. The story focus on a space pilot named Ian Recker who goes undercover against Earth's enemies, the Krill, in a battle to save the planet.
 
-https://en.m.wikipedia.org/wiki/Album
+https://en.m.wikipedia.org/wiki/Sigma_Star_Saga
 
 ## 🎨 Chess is Art ♟️
 
