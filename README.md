@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Salutations 👋</h1></div>
+<div align="center"><h1>✨ Hi 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29573__
+- Honor: __29580__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Sigma Star Saga is a 2005 hybrid science fiction role-playing-space-shooter developed by WayForward Technologies and published by Namco Hometek for the Game Boy Advance. The player explores a standard 2-D overworld, but is transported into space for side-scrolling shooter random battles. The story focus on a space pilot named Ian Recker who goes undercover against Earth's enemies, the Krill, in a battle to save the planet.
+Relentless is Simon Kernick's fifth thriller and crime novel originally published in June 2006. Its sales were helped by the book being one of Richard & Judy's Summer Book Club recommendations in 2007. It was the 8th best-selling paperback, and the best-selling thriller in the UK in the same year. It has sold over 300,000 copies and was the 4th most borrowed book from UK libraries in 2008. The Guardian summed up its review of the book with "pretty much unputdownable".
 
-https://en.m.wikipedia.org/wiki/Sigma_Star_Saga
+https://en.m.wikipedia.org/wiki/Relentless_(Kernick_novel)
 
 ## 🎨 Chess is Art ♟️
 
