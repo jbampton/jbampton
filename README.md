@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Greetings 👋</h1></div>
+<div align="center"><h1>✨ How's everything been? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-The johnny darter is a species of freshwater ray-finned fish, a darter from the subfamily Etheostomatinae, part of the family Percidae, which also contains the perches, ruffes and pikeperches. It is native to shallow waters throughout North America east of the Rocky Mountains.
+Adventfjorden is a 7 km long and 4 km wide bay running south-eastwards from the southern side of Isfjorden, on the west coast of Spitsbergen in Svalbard. The name represents a corruption of Adventure Bay - probably named after the Hull-built whaleship Adventure, which operated in Isfjorden in 1656. The fjord was originally known as Klass Billen Bay. At the head of Adventfjorden is Adventdalen.
 
-https://en.m.wikipedia.org/wiki/Johnny_darter
+https://en.m.wikipedia.org/wiki/Adventfjorden
 
 ## 🎨 Chess is Art ♟️
 
