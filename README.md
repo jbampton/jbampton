@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything been? 👋</h1></div>
+<div align="center"><h1>✨ Good afternoon 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29584__
+- Honor: __29588__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Adventfjorden is a 7 km long and 4 km wide bay running south-eastwards from the southern side of Isfjorden, on the west coast of Spitsbergen in Svalbard. The name represents a corruption of Adventure Bay - probably named after the Hull-built whaleship Adventure, which operated in Isfjorden in 1656. The fjord was originally known as Klass Billen Bay. At the head of Adventfjorden is Adventdalen.
+His Favourite Collection is a 50 track, 4xCD greatest hits album by Australian country music artist John Williamson. The album was released in August 2016 and peaked at number 9 on the ARIA charts. The album was supported by a national tour between August and November 2016. The lead and only single from the album "Aussie Girls" is a tribute to Australian sports women.
 
-https://en.m.wikipedia.org/wiki/Adventfjorden
+https://en.m.wikipedia.org/wiki/His_Favourite_Collection
 
 ## 🎨 Chess is Art ♟️
 
