@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Good afternoon 👋</h1></div>
+<div align="center"><h1>✨ What's been up? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29588__
+- Honor: __29592__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-His Favourite Collection is a 50 track, 4xCD greatest hits album by Australian country music artist John Williamson. The album was released in August 2016 and peaked at number 9 on the ARIA charts. The album was supported by a national tour between August and November 2016. The lead and only single from the album "Aussie Girls" is a tribute to Australian sports women.
+The Jordanbach is a river of Lower Saxony, Germany. It is a right-bank tributary of the Böhme.
 
-https://en.m.wikipedia.org/wiki/His_Favourite_Collection
+https://en.m.wikipedia.org/wiki/Jordanbach
 
 ## 🎨 Chess is Art ♟️
 
