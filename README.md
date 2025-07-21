@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's been up? 👋</h1></div>
+<div align="center"><h1>✨ How's your day? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29592__
+- Honor: __29593__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-The Jordanbach is a river of Lower Saxony, Germany. It is a right-bank tributary of the Böhme.
+Holyoke Public Schools (HPS) is a school district serving the city of Holyoke, Massachusetts, United States.
 
-https://en.m.wikipedia.org/wiki/Jordanbach
+https://en.m.wikipedia.org/wiki/Holyoke_Public_Schools
 
 ## 🎨 Chess is Art ♟️
 
