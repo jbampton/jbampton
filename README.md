@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's going on? 👋</h1></div>
+<div align="center"><h1>✨ How's it going? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29595__
+- Honor: __29597__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1633__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-An oil painting of Oprah Winfrey by Shawn Michael Warren was unveiled at the National Portrait Gallery in Washington, D.C. in 2023.
+The black-breasted buttonquail is a rare buttonquail endemic to eastern Australia. As with other buttonquails, it is unrelated to the true quails. The black-breasted buttonquail is a plump quail-shaped bird 17–19 cm (6.7–7.5 in) in length with predominantly marbled black, rufous, and pale brown plumage, marked prominently with white spots and stripes, and white eyes. Like other buttonquails, the female is larger and more boldly coloured than the male, with a distinctive black head and neck sprinkled with fine white markings. The usual sex roles are reversed, as the female mates with multiple male partners and leaves them to incubate the eggs.
 
-https://en.m.wikipedia.org/wiki/Oprah_Winfrey_(painting)
+https://en.m.wikipedia.org/wiki/Black-breasted_buttonquail
 
 ## 🎨 Chess is Art ♟️
 
