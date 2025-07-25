@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it been? 👋</h1></div>
+<div align="center"><h1>✨ How's it been going? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29604__
+- Honor: __29605__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1634__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-"Strong and Prosperous Nation" is a political slogan in North Korea which originally described the main policy objective of the country's second supreme leader, Kim Jong Il. Kim Jong Il argued that the military-first policy of Songun was necessary to turn North Korea into a "strong and prosperous nation". He further argued that such a monumentous goal could only be achieved by strengthening the country's commitment to the core principles of Juche in the areas of ideology, politics, economics, and defence.
+Marilena Marin is an Italian Venetist politician.
 
-https://en.m.wikipedia.org/wiki/Strong_and_Prosperous_Nation
+https://en.m.wikipedia.org/wiki/Marilena_Marin
 
 ## 🎨 Chess is Art ♟️
 
