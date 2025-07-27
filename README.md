@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's all good? 👋</h1></div>
+<div align="center"><h1>✨ How's it all been going? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,10 +122,10 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29609__
+- Honor: __29612__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
-- Total Completed Kata: __1634__
+- Total Completed Kata: __1635__
 
 <div align="center">
 
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Rodrigo Salago Bascuñán is a Chilean-Canadian author, television writer and producer. His non-fiction book,  Enter The Babylon System: Unpacking Gun Culture from Samuel Colt to 50 Cent, was nominated for numerous literary awards. He is more recently recognized for writing and producing the Peabody and International Emmy Award winning documentary series Hip-Hop Evolution.
+The Clawdd-du, also known in historical records as the Black Dyke, Black Ditch or Clawthy, is a mediaeval linear defensive earthwork or moat, constructed as protection for the faubourg of Overmonnow, on the opposite side of the River Monnow from the town and castle of Monmouth, Wales.
 
-https://en.m.wikipedia.org/wiki/Rodrigo_Bascu%C3%B1%C3%A1n
+https://en.m.wikipedia.org/wiki/Clawdd-du
 
 ## 🎨 Chess is Art ♟️
 
