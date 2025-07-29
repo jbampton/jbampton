@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Hello 👋</h1></div>
+<div align="center"><h1>✨ Good evening 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29614__
+- Honor: __29617__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-TuS Dassendorf is a German association football club from the municipality of Dassendorf, Schleswig-Holstein. The club's greatest success has been promotion to the tier five Oberliga Hamburg in 2013 and winning the league in each of its first five seasons there.
+Frederick Villiers Clarendon was an Irish architect noted for his design work on a number of large public buildings in Dublin, including the Natural History Museum and Arbour Hill Prison.
 
-https://en.m.wikipedia.org/wiki/TuS_Dassendorf
+https://en.m.wikipedia.org/wiki/Frederick_Clarendon
 
 ## 🎨 Chess is Art ♟️
 
