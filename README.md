@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Good evening 👋</h1></div>
+<div align="center"><h1>✨ How's life? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29617__
+- Honor: __29621__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Frederick Villiers Clarendon was an Irish architect noted for his design work on a number of large public buildings in Dublin, including the Natural History Museum and Arbour Hill Prison.
+Cherwell Valley services is a motorway service station on the M40 motorway at Stoke Lyne, near Bicester, in Oxfordshire, England. In addition to the normal facilities provided by a motorway service station, the site also includes a Travelodge hotel in a separate building, together with a riverside walk.
 
-https://en.m.wikipedia.org/wiki/Frederick_Clarendon
+https://en.m.wikipedia.org/wiki/Cherwell_Valley_services
 
 ## 🎨 Chess is Art ♟️
 
