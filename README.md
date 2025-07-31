@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's life? 👋</h1></div>
+<div align="center"><h1>✨ How's everything been? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29621__
+- Honor: __29623__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Cherwell Valley services is a motorway service station on the M40 motorway at Stoke Lyne, near Bicester, in Oxfordshire, England. In addition to the normal facilities provided by a motorway service station, the site also includes a Travelodge hotel in a separate building, together with a riverside walk.
+The memorial for the victims of war stands at the mass grave for the Jews who were shot in Novohrad-Volynskyi in the Second World War that began in September 1939. The monument was created by the artist Josef Tabachnyk who makes monuments and sculptures.
 
-https://en.m.wikipedia.org/wiki/Cherwell_Valley_services
+https://en.m.wikipedia.org/wiki/Memorial_for_the_Victims_of_War_from_Novohrad-Volynskyi
 
 ## 🎨 Chess is Art ♟️
 
