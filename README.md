@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything been? 👋</h1></div>
+<div align="center"><h1>✨ What's been going on? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29623__
+- Honor: __29628__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-The memorial for the victims of war stands at the mass grave for the Jews who were shot in Novohrad-Volynskyi in the Second World War that began in September 1939. The monument was created by the artist Josef Tabachnyk who makes monuments and sculptures.
+Ishinomaki Station  is a junction railway station located in the city of Ishinomaki, Miyagi, Japan, operated by East Japan Railway Company.
 
-https://en.m.wikipedia.org/wiki/Memorial_for_the_Victims_of_War_from_Novohrad-Volynskyi
+https://en.m.wikipedia.org/wiki/Ishinomaki_Station
 
 ## 🎨 Chess is Art ♟️
 
