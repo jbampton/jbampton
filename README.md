@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything? 👋</h1></div>
+<div align="center"><h1>✨ How's it been? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29629__
+- Honor: __29632__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-II liga, currently named Betclic II liga due to its sponsorship by Betclic, is a Polish football league that sits at the third tier of the Polish football league system. Until the end of the 2007–08 season, II Liga referred to a league at the 2nd tier, although this changed with the formation of the Ekstraklasa as the top level league in Poland. Currently, II liga is below I liga and above III liga.
+Alexander Marcus Hooks was an American professional baseball player. He had a 17-season career in minor league baseball, and appeared in 15 Major League games as a first baseman and pinch hitter for the Philadelphia Athletics during the 1935 season. A native of Edgewood, Texas, he threw and batted left-handed, stood 6 feet 1 inch (1.85 m) tall and weighed 183 pounds (83 kg). Hooks attended Southern Methodist University.
 
-https://en.m.wikipedia.org/wiki/II_liga
+https://en.m.wikipedia.org/wiki/Alex_Hooks
 
 ## 🎨 Chess is Art ♟️
 
