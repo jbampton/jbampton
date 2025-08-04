@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it been? 👋</h1></div>
+<div align="center"><h1>✨ How are you? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29632__
+- Honor: __29635__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -191,9 +191,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Alexander Marcus Hooks was an American professional baseball player. He had a 17-season career in minor league baseball, and appeared in 15 Major League games as a first baseman and pinch hitter for the Philadelphia Athletics during the 1935 season. A native of Edgewood, Texas, he threw and batted left-handed, stood 6 feet 1 inch (1.85 m) tall and weighed 183 pounds (83 kg). Hooks attended Southern Methodist University.
+The Capernwray Missionary Fellowship of Torchbearers (CMFOT) is an evangelical Christian educational organisation based at Capernwray Hall in north Lancashire, England. In 1998 the organisation was incorporated as a UK charitable company.
 
-https://en.m.wikipedia.org/wiki/Alex_Hooks
+https://en.m.wikipedia.org/wiki/Capernwray_Missionary_Fellowship_of_Torchbearers
 
 ## 🎨 Chess is Art ♟️
 
