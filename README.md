@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How are you? 👋</h1></div>
+<div align="center"><h1>✨ What's the buzz? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -79,30 +79,29 @@
 <div align="center">
   <h2><a href="https://en.wikipedia.org/wiki/Ky%C5%AB">🥋 Ruby Warrior</a></h2>
   <p>
-    <a href="https://github.com/robygems">Mukyū 無級</a>
-    <br>
-    <a href="https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d">Jukkyū 十級</a>
-    <br>
-    <a href="https://github.com/sponsors/hsbt#sponsors">Kyūkyū 九級</a>
-    <br>
-    <a href="https://github.com/natalie-lang/natalie/graphs/contributors">Hachikyu 八級</a>
-    <br> 
-    <a href="https://github.com/whitesmith/rubycritic/graphs/contributors">Nanakyū 七級</a>
-    <br> 
-    <a href="https://github.com/mruby/mruby.github.io/graphs/contributors">Rokkyū 六級</a>
-    <br>
-    <a href="https://contributors.rubyonrails.org/">Gokyū 五級</a>
-    <br> 
-    <a href="https://github.com/mruby/mgem-list/graphs/contributors">Yonkyū 四級</a>
-    <br>
-    <a href="https://github.com/mruby/mruby/graphs/contributors">Sankyū 三級</a>
-    <br>
-    <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
+    <a id="codewars-beast" href="https://www.codewars.com/users/Beast"><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
     <br>
     <a href="#codewars-beast">Jun'ikkyū 準一級</a>
     <br>
+    <a href="https://www.codewars.com/users/Beast">Nikyū 二級</a>
     <br>
-    <a id="codewars-beast" href="https://www.codewars.com/users/Beast"><img src="images/pre-1st-kyu.png" alt="Jun'ikkyū 準一級" title="Jun'ikkyū 準一級"></a>
+    <a href="https://github.com/mruby/mruby/graphs/contributors">Sankyū 三級</a>
+    <br>
+    <a href="https://github.com/mruby/mgem-list/graphs/contributors">Yonkyū 四級</a>
+    <br>
+    <a href="https://contributors.rubyonrails.org/">Gokyū 五級</a>
+    <br> 
+    <a href="https://github.com/mruby/mruby.github.io/graphs/contributors">Rokkyū 六級</a>
+    <br>
+    <a href="https://github.com/whitesmith/rubycritic/graphs/contributors">Nanakyū 七級</a>
+    <br> 
+    <a href="https://github.com/natalie-lang/natalie/graphs/contributors">Hachikyu 八級</a>
+    <br> 
+    <a href="https://github.com/sponsors/hsbt#sponsors">Kyūkyū 九級</a>
+    <br>
+    <a href="https://github.com/ruby/ruby/commit/97a114de44c71c688e8ba928da41bc396153ef5d">Jukkyū 十級</a>
+    <br>    
+    <a href="https://github.com/robygems">Mukyū 無級</a>
     <br>
   </p>
   <p>
@@ -122,7 +121,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29635__
+- Honor: __29639__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -191,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-The Capernwray Missionary Fellowship of Torchbearers (CMFOT) is an evangelical Christian educational organisation based at Capernwray Hall in north Lancashire, England. In 1998 the organisation was incorporated as a UK charitable company.
+Kettly Mars is a Haitian poet and novelist. She writes in French, and her books have been translated into Kreyòl, English, Italian, Dutch, Danish, and Japanese.
 
-https://en.m.wikipedia.org/wiki/Capernwray_Missionary_Fellowship_of_Torchbearers
+https://en.m.wikipedia.org/wiki/Kettly_Mars
 
 ## 🎨 Chess is Art ♟️
 
