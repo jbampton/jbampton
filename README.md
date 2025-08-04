@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's the buzz? 👋</h1></div>
+<div align="center"><h1>✨ Salutations 👋</h1></div>
 
 <div align="center">
   <table>
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Kettly Mars is a Haitian poet and novelist. She writes in French, and her books have been translated into Kreyòl, English, Italian, Dutch, Danish, and Japanese.
+Hege Skjeie was a Norwegian political scientist and feminist.
 
-https://en.m.wikipedia.org/wiki/Kettly_Mars
+https://en.m.wikipedia.org/wiki/Hege_Skjeie
 
 ## 🎨 Chess is Art ♟️
 
