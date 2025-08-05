@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Salutations 👋</h1></div>
+<div align="center"><h1>✨ Long time no see 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,7 +121,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29639__
+- Honor: __29640__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Hege Skjeie was a Norwegian political scientist and feminist.
+Mansourah District is a district of Tlemcen Province in north-western Algeria.
 
-https://en.m.wikipedia.org/wiki/Hege_Skjeie
+https://en.m.wikipedia.org/wiki/Mansourah_District_(Tlemcen_Province)
 
 ## 🎨 Chess is Art ♟️
 
