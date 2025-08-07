@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it all been? 👋</h1></div>
+<div align="center"><h1>✨ How's your day? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,7 +121,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29645__
+- Honor: __29646__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Pink Doll is the second Japanese full-length studio album by the South Korean girl group Apink, and was released by Universal Music Japan on December 21, 2016.
+Calapo or Kallapu is a mountain in the Huallanca mountain range in the Andes of Peru which reaches an altitude of approximately 4,800 m (15,700 ft). It is located in the Ancash Region, Bolognesi Province, Aquia District, east of the town of Pachapaqui.
 
-https://en.m.wikipedia.org/wiki/Pink_Doll
+https://en.m.wikipedia.org/wiki/Calapo
 
 ## 🎨 Chess is Art ♟️
 
