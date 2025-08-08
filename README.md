@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's your day? 👋</h1></div>
+<div align="center"><h1>✨ How's it been going? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,7 +121,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29646__
+- Honor: __29650__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Calapo or Kallapu is a mountain in the Huallanca mountain range in the Andes of Peru which reaches an altitude of approximately 4,800 m (15,700 ft). It is located in the Ancash Region, Bolognesi Province, Aquia District, east of the town of Pachapaqui.
+Ihadilanana is a town and commune in Madagascar. It belongs to the district of Ambositra, which is a part of Amoron'i Mania Region. The population of the commune was estimated to be approximately 9,000 in 2001 commune census.
 
-https://en.m.wikipedia.org/wiki/Calapo
+https://en.m.wikipedia.org/wiki/Ihadilanana
 
 ## 🎨 Chess is Art ♟️
 
