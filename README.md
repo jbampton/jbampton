@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it been going? 👋</h1></div>
+<div align="center"><h1>✨ How's it hanging? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,7 +121,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29650__
+- Honor: __29654__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Ihadilanana is a town and commune in Madagascar. It belongs to the district of Ambositra, which is a part of Amoron'i Mania Region. The population of the commune was estimated to be approximately 9,000 in 2001 commune census.
+The Inheritance Act 1975 is an act of the United Kingdom Parliament concerning inheritance in England and Wales. It has been amended, for example to take into account civil partnerships.
 
-https://en.m.wikipedia.org/wiki/Ihadilanana
+https://en.m.wikipedia.org/wiki/Inheritance_(Provision_for_Family_and_Dependants)_Act_1975
 
 ## 🎨 Chess is Art ♟️
 
