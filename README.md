@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How are things? 👋</h1></div>
+<div align="center"><h1>✨ How's everything going? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,7 +121,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29656__
+- Honor: __29661__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Solec nad Wisłą is a town in Lipsko County, Masovian Voivodeship, in east-central Poland. It is the seat of the gmina called Gmina Solec nad Wisłą. It lies approximately 8 km (5 mi) east of Lipsko and 132 km (82 mi) south-east of Warsaw. The town has a population of 1,650, and is located on the Vistula river, in historic Lesser Poland. Solec maintains the character of a small town, with a traditional market square, a feature of other ancient European towns.
+Allan Irénée Saint-Maximin is a French professional footballer who plays as a winger for Liga MX club Club América. He previously played for Saint-Étienne, Monaco, Nice and Newcastle United. He is mainly known for his flamboyant style of play.
 
-https://en.m.wikipedia.org/wiki/Solec_nad_Wis%C5%82%C4%85
+https://en.m.wikipedia.org/wiki/Allan_Saint-Maximin
 
 ## 🎨 Chess is Art ♟️
 
