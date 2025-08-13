@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's happening? 👋</h1></div>
+<div align="center"><h1>✨ How's everything going? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,7 +121,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29662__
+- Honor: __29663__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Oligoria maculata, the twin-spot skipper, is a species of butterfly in the family Hesperiidae. It is found in the United States along the coast of North Carolina south through Florida and west along the Gulf Coast to east Texas. Strays can be found as far north as Pennsylvania, Maryland and New Jersey.
+The Mabel Fincher School, at 2201 Morrie Ave. in Cheyenne, Wyoming, is an Art Deco-style building which was built in 1940. It has also served as the Triumph High School. It was listed on the National Register of Historic Places in 2005.
 
-https://en.m.wikipedia.org/wiki/Oligoria_maculata
+https://en.m.wikipedia.org/wiki/Mabel_Fincher_School
 
 ## 🎨 Chess is Art ♟️
 
