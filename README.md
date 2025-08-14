@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything going? 👋</h1></div>
+<div align="center"><h1>✨ What's the buzz? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,7 +121,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29663__
+- Honor: __29669__
 - Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-The Mabel Fincher School, at 2201 Morrie Ave. in Cheyenne, Wyoming, is an Art Deco-style building which was built in 1940. It has also served as the Triumph High School. It was listed on the National Register of Historic Places in 2005.
+Fareed Haque is an American jazz guitarist, based in Chicago, Illinois.
 
-https://en.m.wikipedia.org/wiki/Mabel_Fincher_School
+https://en.m.wikipedia.org/wiki/Fareed_Haque
 
 ## 🎨 Chess is Art ♟️
 
