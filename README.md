@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it all been? 👋</h1></div>
+<div align="center"><h1>✨ How's things? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,7 +121,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29671__
+- Honor: __29678__
 - Leaderboard Position: __171__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Alexey Konstantinovich Uzenyuk, known professionally as Eldzhey, is a Russian rapper, hip-hop and pop singer and songwriter best known for his hit singles "Rozovoye vino", "Рваные джинсы" and "360°".
+Ladislav Vízek is a Czech football player. He played 55 matches for Czechoslovakia and scored 13 goals.
 
-https://en.m.wikipedia.org/wiki/Eldzhey
+https://en.m.wikipedia.org/wiki/Ladislav_V%C3%ADzek
 
 ## 🎨 Chess is Art ♟️
 
