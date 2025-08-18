@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's going on? 👋</h1></div>
+<div align="center"><h1>✨ How's everything going? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,7 +121,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29681__
+- Honor: __29682__
 - Leaderboard Position: __171__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -190,9 +190,10 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Sophie Irene Hunter is an English theatre director, playwright and former actress and singer. She made her directorial debut in 2007 co-directing the experimental play The Terrific Electric at the Barbican Pit after her theatre company Boileroom was granted the Samuel Beckett Theatre Trust Award. In addition, she has directed an Off-Off-Broadway revival of Henrik Ibsen's Ghosts (2010) at Access Theatre, the performance art titled Lucretia (2011) based on Benjamin Britten's opera The Rape of Lucretia at Location One's Abramovic Studio in New York City, and the Phantom Limb Company's 69° South also known as Shackleton Project (2011) which premièred at the Brooklyn Academy of Music's Harvey Theatre and later toured North America.
+The Blauvelt House is located at 205 Woodside Avenue in the borough of Franklin Lakes in Bergen County, New Jersey, United States. 
+The historic stone house was added to the National Register of Historic Places on August 8, 1985, for its significance in architecture and exploration/settlement. It was listed as part of the Early Stone Houses of Bergen County Multiple Property Submission (MPS).
 
-https://en.m.wikipedia.org/wiki/Sophie_Hunter
+https://en.m.wikipedia.org/wiki/Blauvelt_House_(Franklin_Lakes%2C_New_Jersey)
 
 ## 🎨 Chess is Art ♟️
 
