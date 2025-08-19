@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything going? 👋</h1></div>
+<div align="center"><h1>✨ How's it been going? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,7 +121,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29682__
+- Honor: __29684__
 - Leaderboard Position: __171__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -190,10 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-The Blauvelt House is located at 205 Woodside Avenue in the borough of Franklin Lakes in Bergen County, New Jersey, United States. 
-The historic stone house was added to the National Register of Historic Places on August 8, 1985, for its significance in architecture and exploration/settlement. It was listed as part of the Early Stone Houses of Bergen County Multiple Property Submission (MPS).
+Sergei Krivonosov is a Russian political figure and deputy of the 6th, 7th, and 8th State Dumas.
 
-https://en.m.wikipedia.org/wiki/Blauvelt_House_(Franklin_Lakes%2C_New_Jersey)
+https://en.m.wikipedia.org/wiki/Sergey_Krivonosov
 
 ## 🎨 Chess is Art ♟️
 
