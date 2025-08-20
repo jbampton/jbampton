@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it been going? 👋</h1></div>
+<div align="center"><h1>✨ How's it been? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,7 +121,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29684__
+- Honor: __29688__
 - Leaderboard Position: __171__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Sergei Krivonosov is a Russian political figure and deputy of the 6th, 7th, and 8th State Dumas.
+Fuyang is a suburban district of Hangzhou, Zhejiang, China.
 
-https://en.m.wikipedia.org/wiki/Sergey_Krivonosov
+https://en.m.wikipedia.org/wiki/Fuyang%2C_Hangzhou
 
 ## 🎨 Chess is Art ♟️
 
