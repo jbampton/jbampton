@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's it been? 👋</h1></div>
+<div align="center"><h1>✨ Good afternoon 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,8 +121,8 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29688__
-- Leaderboard Position: __171__
+- Honor: __29695__
+- Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
 
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Fuyang is a suburban district of Hangzhou, Zhejiang, China.
+A civet is a small, lean, mostly nocturnal mammal native to tropical Asia and Africa, especially the tropical forests. The term civet applies to over a dozen different species, mostly from the family Viverridae. Most of the species's diversity is found in southeast Asia. Civets do not form a monophyletic group, as they consist only of certain members of the Viverridae and Eupleridae.
 
-https://en.m.wikipedia.org/wiki/Fuyang%2C_Hangzhou
+https://en.m.wikipedia.org/wiki/Civet
 
 ## 🎨 Chess is Art ♟️
 
