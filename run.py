@@ -81,8 +81,8 @@ def get_links_html() -> str:
   </a>
   <a href="https://github.com/brisbanesocialchess">
     <img src="https://avatars.githubusercontent.com/u/61562340?s=200&v=4"
-      alt="Management team member, event host and Meetup dot com co-organizer"
-      title="Management team member, event host and Meetup dot com co-organizer">
+      alt="Admin at Brisbane Social Chess"
+      title="Admin at Brisbane Social Chess">
   </a>
   <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html">
     <img src="./projects/apache.png"
