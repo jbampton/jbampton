@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Good afternoon 👋</h1></div>
+<div align="center"><h1>✨ What's up? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -51,8 +51,8 @@
   </a>
   <a href="https://github.com/brisbanesocialchess">
     <img src="https://avatars.githubusercontent.com/u/61562340?s=200&v=4"
-      alt="Management team member, event host and Meetup dot com co-organizer"
-      title="Management team member, event host and Meetup dot com co-organizer">
+      alt="Admin at Brisbane Social Chess"
+      title="Admin at Brisbane Social Chess">
   </a>
   <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html">
     <img src="./projects/apache.png"
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-A civet is a small, lean, mostly nocturnal mammal native to tropical Asia and Africa, especially the tropical forests. The term civet applies to over a dozen different species, mostly from the family Viverridae. Most of the species's diversity is found in southeast Asia. Civets do not form a monophyletic group, as they consist only of certain members of the Viverridae and Eupleridae.
+Atalay Demirci is a Turkish stand-up comedian and poet. He gained national recognition after winning the Turkish version of Got Talent in 2013.
 
-https://en.m.wikipedia.org/wiki/Civet
+https://en.m.wikipedia.org/wiki/Atalay_Demirci
 
 ## 🎨 Chess is Art ♟️
 
