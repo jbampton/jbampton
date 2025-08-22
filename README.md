@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's up? 👋</h1></div>
+<div align="center"><h1>✨ What's the buzz? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,8 +121,8 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29695__
-- Leaderboard Position: __169__
+- Honor: __29702__
+- Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
 
@@ -190,9 +190,10 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Atalay Demirci is a Turkish stand-up comedian and poet. He gained national recognition after winning the Turkish version of Got Talent in 2013.
+Khiva is a district-level city of approximately 93,000 people in Khorazm Region, Uzbekistan. According to archaeological data, the city was established around 2,500 years ago.
+In 1997, Khiva celebrated its 2500th anniversary. It is the former capital of Khwarezmia, the Khanate of Khiva, and the Khorezm People's Soviet Republic. Itchan Kala in Khiva was the first site in Uzbekistan to be inscribed on the World Heritage List (1991). The astronomer, historian and polymath, Al-Biruni was born in either Khiva or the nearby city of Kath.
 
-https://en.m.wikipedia.org/wiki/Atalay_Demirci
+https://en.m.wikipedia.org/wiki/Khiva
 
 ## 🎨 Chess is Art ♟️
 
