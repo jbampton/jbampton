@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ What's the buzz? 👋</h1></div>
+<div align="center"><h1>✨ How's everything going? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,8 +121,8 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29702__
-- Leaderboard Position: __170__
+- Honor: __29707__
+- Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
 
@@ -190,10 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Khiva is a district-level city of approximately 93,000 people in Khorazm Region, Uzbekistan. According to archaeological data, the city was established around 2,500 years ago.
-In 1997, Khiva celebrated its 2500th anniversary. It is the former capital of Khwarezmia, the Khanate of Khiva, and the Khorezm People's Soviet Republic. Itchan Kala in Khiva was the first site in Uzbekistan to be inscribed on the World Heritage List (1991). The astronomer, historian and polymath, Al-Biruni was born in either Khiva or the nearby city of Kath.
+The Rag Trade is a British television sitcom broadcast by the BBC between 1961 and 1963 and by ITV between 1977 and 1978. Although a comedy, it shed light on gender, politics and the "class war" on the factory floor.
 
-https://en.m.wikipedia.org/wiki/Khiva
+https://en.m.wikipedia.org/wiki/The_Rag_Trade
 
 ## 🎨 Chess is Art ♟️
 
