@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's everything going? 👋</h1></div>
+<div align="center"><h1>✨ Salutations 👋</h1></div>
 
 <div align="center">
   <table>
@@ -121,7 +121,7 @@
 - Name: __John Bampton__
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
-- Honor: __29707__
+- Honor: __29708__
 - Leaderboard Position: __169__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-The Rag Trade is a British television sitcom broadcast by the BBC between 1961 and 1963 and by ITV between 1977 and 1978. Although a comedy, it shed light on gender, politics and the "class war" on the factory floor.
+Albert J. ("Mickey") Stunkard was an American psychiatrist. He is known for his first descriptions of binge eating disorder and night eating syndrome in the 1950s.
 
-https://en.m.wikipedia.org/wiki/The_Rag_Trade
+https://en.m.wikipedia.org/wiki/Albert_Stunkard
 
 ## 🎨 Chess is Art ♟️
 
