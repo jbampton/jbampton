@@ -1,5 +1,5 @@
 <!-- start-data -->
-<div align="center"><h1>✨ Salutations 👋</h1></div>
+<div align="center"><h1>✨ How's tricks? 👋</h1></div>
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@
 - Clan: __[Summerhill](https://en.wikipedia.org/wiki/Summerhill_School)__
 - Skills: __['mutton chops a powerful magician for hire..?!?!! one beard to rule them all..!!?!?!! all up votes include black sunglasses']__
 - Honor: __29708__
-- Leaderboard Position: __169__
+- Leaderboard Position: __170__
 - Overall Rank: __2 kyu__
 - Total Completed Kata: __1635__
 
@@ -190,9 +190,9 @@ _No data available to display..._
 
 ## 🌐 Random Wikipedia 📘
 
-Albert J. ("Mickey") Stunkard was an American psychiatrist. He is known for his first descriptions of binge eating disorder and night eating syndrome in the 1950s.
+The G1512 Ningbo–Jinhua Expressway, commonly referred to as the Yongjin Expressway, is a 185.56-kilometre-long expressway (115.30 mi) that connects the cities of Ningbo and Jinhua in the Chinese province of Zhejiang. The expressway is an auxiliary route of G15 Shenyang–Haikou Expressway. This expressway was opened on December 28, 2005.
 
-https://en.m.wikipedia.org/wiki/Albert_Stunkard
+https://en.m.wikipedia.org/wiki/G1512_Ningbo%E2%80%93Jinhua_Expressway
 
 ## 🎨 Chess is Art ♟️
 
