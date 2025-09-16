@@ -55,7 +55,7 @@
       title="Admin at Brisbane Social Chess">
   </a>
   <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html">
-    <img src="./projects/apache.png"
+    <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4"
       alt="Happy Days at The ASF"
       title="Happy Days at The ASF">
   </a>
