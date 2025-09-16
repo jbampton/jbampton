@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <a href="https://cloudstack.apache.org/who">
+  <a href="https://projects.apache.org/committee.html?cloudstack">
     <img src="./projects/apache-cloudstack.png"
       alt="Apache CloudStack Team Members"
       title="Apache CloudStack Team Members">
@@ -44,7 +44,7 @@
       alt="Apache OpenOffice Team Members"
       title="Apache OpenOffice Team Members">
   </a>
-  <a href="https://sedona.apache.org/latest-snapshot/community/contributor/">
+  <a href="https://projects.apache.org/committee.html?sedona">
     <img src="./projects/apache-sedona.png"
       alt="Apache Sedona Team Members"
       title="Apache Sedona Team Members">
