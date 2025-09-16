@@ -39,7 +39,7 @@
       alt="Apache CloudStack Team Members"
       title="Apache CloudStack Team Members">
   </a>
-  <a href="https://people.apache.org/phonebook.html?unix=openoffice">
+  <a href="https://projects.apache.org/committee.html?openoffice">
     <img src="./projects/apache-openoffice.png"
       alt="Apache OpenOffice Team Members"
       title="Apache OpenOffice Team Members">
