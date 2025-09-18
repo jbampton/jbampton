@@ -34,6 +34,13 @@
 </div>
 
 <div align="center">
+  <a href="#">
+    <img src="images/autobots.jpg" alt="The Autobots" title="The fantastic Autobots !!">
+  </a>
+</div>
+
+<div align="center">
+  <h2>Career Achievements ✅</h2>
   <a href="https://projects.apache.org/committee.html?cloudstack">
     <img src="./projects/apache-cloudstack.png"
       alt="Apache CloudStack Team Members"
