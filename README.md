@@ -56,25 +56,10 @@
       alt="Apache Sedona Team Members"
       title="Apache Sedona Team Members">
   </a>
-  <a href="https://github.com/brisbanesocialchess">
-    <img src="https://avatars.githubusercontent.com/u/61562340?s=200&v=4"
-      alt="Admin at Brisbane Social Chess"
-      title="Admin at Brisbane Social Chess">
-  </a>
   <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html">
     <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4"
       alt="Happy Days at The ASF"
       title="Happy Days at The ASF">
-  </a>
-  <a href="https://github.com/KashanUniversity">
-    <img src="https://avatars.githubusercontent.com/u/50067282?s=200&v=4"
-      alt="Guest of honor at Kashan University"
-      title="Guest of honor at Kashan University">
-  </a>
-  <a href="https://github.com/SalamLang">
-    <img src="https://avatars.githubusercontent.com/u/161657044?s=200&v=4" 
-      alt="Maker at Salam Programming Language"
-      title="Maker at Salam Programming Language">
   </a>
   <a href="https://curl.se/docs/thanks.html">
     <img src="./projects/curl.png"
