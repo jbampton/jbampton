@@ -118,8 +118,8 @@
   </p>
 </div>
 
-## 🎨 Chess is Art ♟️
+<div align="center">
+  <h2>🎨 Chess is Art ♟️</h2>
+</div>
 
 ![Chess Art 1](images/multi-color-chess-set.jpg)
-
-</div>
