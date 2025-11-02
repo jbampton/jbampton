@@ -108,3 +108,12 @@
 </div>
 
 ![Chess Art 1](images/multi-color-chess-set.jpg)
+
+## Open Your Mind
+
+- Fuel exploded in tube. (4). Flue
+- Loves cracking answer. (5). Solve
+
+### Mind Blown
+
+- Sound asleep but not in when Dracula arrives? (3,3,3,5). Out for the count
