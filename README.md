@@ -115,7 +115,8 @@
 - Loves cracking answer. (5). Solve
 
 ### Level Up
-  
+
+- Opening book beside Central Park tavern. (3). Bar  
 - PC's speed makes music session a failure. (8). Gigaflop
 
 ### Mind Blown
