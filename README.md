@@ -114,6 +114,10 @@
 - Fuel exploded in tube. (4). Flue
 - Loves cracking answer. (5). Solve
 
+### Level Up
+  
+- PC's speed makes music session a failure. (8). Gigaflop
+
 ### Mind Blown
 
 - Sound asleep but not in when Dracula arrives? (3,3,3,5). Out for the count
