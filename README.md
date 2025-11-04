@@ -116,7 +116,8 @@
 
 ### Level Up
 
-- Opening book beside Central Park tavern. (3). Bar  
+- Opening book beside Central Park tavern. (3). Bar
+- Vegetable found in vehicle along with rubbish. (6). Carrot
 - PC's speed makes music session a failure. (8). Gigaflop
 
 ### Mind Blown
