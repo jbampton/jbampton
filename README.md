@@ -120,6 +120,7 @@
 - Leaves note with answer. (3). Tea
 - Vegetable found in vehicle along with rubbish. (6). Carrot
 - PC's speed makes music session a failure. (8). Gigaflop
+- Everything's ready: eg lass mostly prepared. (3,7,2). All systems go
 
 ### Mind Blown
 
