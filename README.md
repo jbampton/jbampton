@@ -113,6 +113,7 @@
 
 - Fuel exploded in tube. (4). Flue
 - Loves cracking answer. (5). Solve
+- Pay no attention to damaged region. (6). Ignore
 
 ### Level Up
 
