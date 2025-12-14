@@ -48,7 +48,7 @@
 
 ---
 
-## Explore the top GitHub users and their avatars. See the 400 most popular GitHub faces in one place.
+## Explore the top GitHub users and their avatars. See the [400 most popular](https://github.com/john-bampton/john-bampton.github.io) GitHub faces in one place.
 
 ### We welcome contributions! Feel free to:
 
@@ -56,6 +56,8 @@
 - Fork the repository and open pull requests.
 - Suggest new ways to improve the avatar grid or functionality.
 - Spread the word by adding a ⭐ to this repository.
+
+[![The 400 most popular GitHub faces in one place](images/preview.jpg)](https://github.com/john-bampton/john-bampton.github.io)
 
 ---
 
