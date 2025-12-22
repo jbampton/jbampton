@@ -67,13 +67,17 @@
 - Loves cracking answer. (5). Solve
 - Pay no attention to damaged region. (6). Ignore
 
-### Level Up
+### Level One
 
 - Opening book beside Central Park tavern. (3). Bar
 - Leaves note with answer. (3). Tea
 - Vegetable found in vehicle along with rubbish. (6). Carrot
 - PC's speed makes music session a failure. (8). Gigaflop
+
+### Level Two
+
 - Everything's ready: eg lass mostly prepared. (3,7,2). All systems go
+- Modern, before sixty seconds have passed. (2,2,3,6). Up to the minute
 
 ### Mind Blown
 
