@@ -2,13 +2,69 @@
 <div align="center"><h1>✨ How's tricks? 👋</h1></div>
 
 <div align="center">
+  <h2>2025 Getting Better With Age 👨‍🎨</h2>
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/john-bampton">
-          <img src="https://avatars.githubusercontent.com/u/23456618?s=200&v=4" width="150" alt="Winter Is Coming" title="Winter Is Coming">
+        <a href="#">
+          <img src="images/1.jpg" width="200" alt="" title="">
         </a>
       </td>
+      <td align="center">
+        <a href="#">
+          <img src="images/2.jpg" width="200" alt="" title="">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="images/3.jpg" width="200" alt="" title="">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="images/4.jpg" width="200" alt="" title="">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img src="images/5.jpg" width="200" alt="" title="">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="images/6.jpg" width="200" alt="" title="">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="images/7.jpg" width="200" alt="" title="">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="images/8.jpg" width="200" alt="" title="">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img src="images/9.jpg" width="200" alt="" title="">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="images/10.jpg" width="200" alt="" title="">
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="images/11.jpg" width="200" alt="" title="">
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
