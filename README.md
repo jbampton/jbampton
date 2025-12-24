@@ -39,6 +39,11 @@
       alt="Happy Days at The ASF"
       title="Happy Days at The ASF">
   </a>
+  <a href="https://contributors.rubyonrails.org">
+    <img src="images/rails.png"
+      alt="Rails Contributors All Time"
+      title="Rails Contributors All Time">
+  </a>
   <a href="https://curl.se/docs/thanks.html">
     <img src="./projects/curl.png"
       alt="Thanks for Your Contribution to the curl Project!"
