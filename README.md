@@ -2,7 +2,7 @@
 <div align="center"><h1>✨ How's tricks? 👋</h1></div>
 
 <div align="center">
-  <h2>2025 Getting Better With Age 👨‍🎨 Winter Is Coming 🥶</h2>
+  <h2>Random 2025 Shots 👨‍🎤 Getting Better With Age 👨‍🎨 Winter Is Coming 🥶</h2>
   <table>
     <tr>
       <td align="center">
