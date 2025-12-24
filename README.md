@@ -1,5 +1,10 @@
 <!-- start-data -->
-<div align="center"><h1>✨ How's tricks? 👋</h1></div>
+<div align="center">
+  <h1>✨ How's tricks? 🪄 🔮 🧝‍♂️ </h1>
+  <a href="#">
+    <img src="images/marvel-metal-figs-3.jpg" alt="Three Marvel Metalfigs">
+  </a>
+</div>
 
 <div align="center">
   <h2>Random 2025 Shots 👨‍🎤 Getting Better With Age 👨‍🎨 Winter Is Coming 🥶</h2>
@@ -207,16 +212,9 @@
     <tr>
       <td>
         <a href="#">
-          <img src="images/marvel-metal-figs-3.jpg" alt="Three Marvel Metalfigs">
-        </a>
-      </td>
-      <td>
-        <a href="#">
           <img src="images/marvel-metal-figs-4.jpg" alt="Three Marvel Metalfigs">
         </a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="#">
           <img src="images/marvel-metal-figs-5.jpg" alt="Three Marvel Metalfigs">
