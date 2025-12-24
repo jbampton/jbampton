@@ -203,11 +203,33 @@
 ---
 
 <div align="center">
-  <a href="#">
-    <img src="images/marvel-metal-figs-3.jpg" alt="Three Marvel Metalfigs">
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="#">
+          <img src="images/marvel-metal-figs-3.jpg" alt="Three Marvel Metalfigs">
+        </a>
+      </td>
+      <td>
+        <a href="#">
+          <img src="images/marvel-metal-figs-4.jpg" alt="Three Marvel Metalfigs">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#">
+          <img src="images/marvel-metal-figs-5.jpg" alt="Three Marvel Metalfigs">
+        </a>
+      </td>
+      <td>
+        <a href="#">
+        <img src="images/marvel-metal-figs-5-more.jpg" alt="Three Marvel Metalfigs">
+      </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 ---
 
@@ -287,6 +309,12 @@
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <a href="#">
+    <img src="images/disney-metal-figs-4.jpg" alt="Three Marvel Metalfigs">
+  </a>
 </div>
 
 ---
