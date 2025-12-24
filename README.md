@@ -48,6 +48,15 @@
 
 ---
 
+<div align="center">
+  <a href="#">
+    <img src="images/marvel-metal-figs-3.jpg" alt="Three Marvel Metalfigs">
+  </a>
+</div>
+
+
+---
+
 ## Explore the top GitHub users and their avatars. See the [400 most popular](https://github.com/john-bampton/john-bampton.github.io) GitHub faces in one place.
 
 ### We welcome contributions! Feel free to:
@@ -58,6 +67,14 @@
 - Spread the word by adding a ⭐ to the repository.
 
 [![The 400 most popular GitHub faces in one place](images/preview.jpg)](https://github.com/john-bampton/john-bampton.github.io)
+
+---
+
+<div align="center">
+  <a href="#">
+    <img src="images/autobots.jpg" alt="The Autobots !!">
+  </a>
+</div>
 
 ---
 
@@ -82,5 +99,40 @@
 ### Mind Blown
 
 - Sound asleep but not in when Dracula arrives? (3,3,3,5). Out for the count
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Reliance Basketball</h3>
+        <a href="https://www.bigw.com.au/product/reliance-basketball-size-7-assorted-/p/7389641">
+          <img src="images/reliance-basketball.jpg" alt="Reliance Basketball Size 7" width="400px">
+        </a>
+      </td>
+      <td align="center">
+        <h3>Wilson 2024-2025 NBA Team City Icon Basketball</h3>
+        <a href="https://www.wilson.com/en-us/product/2024-nba-team-city-edition-bskt-wz40339">
+          <img src="images/wilson-2024-2025-nba-team-city-icon-basketball.jpg" alt="Wilson 2024-2025 NBA Team City Icon Basketball" width="400px"> 
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>Wilson NBA All Team Retro Basketball</h3>
+        <a href="https://www.wilson.com/en-us/product/nba-all-team-retro-bskt-wz40285">
+          <img src="images/wilson-all-team-retro-basketball.jpg" alt="Wilson NBA All Team Retro Basketball" width="400px">
+        </a>
+      </td>
+      <td align="center">
+        <h3>Spalding React TF-250 All-Surface Basketball</h3>
+        <a href="https://www.spalding.com.au/react-tf-250-all-surface-basketball.html">
+          <img src="images/spalding-react-tf-250-all-surface-basketball.jpg" alt="Spalding React TF-250 All-Surface Basketball" width="400px"> 
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
