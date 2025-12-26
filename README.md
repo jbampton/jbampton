@@ -277,6 +277,7 @@
 ---
 
 <div align="center">
+  <h2>Basketball Inventory</h2>
   <table>
     <tr>
       <td align="center">
@@ -303,6 +304,14 @@
         <h3>Spalding React TF-250 All-Surface Basketball</h3>
         <a href="https://www.spalding.com.au/react-tf-250-all-surface-basketball.html">
           <img src="images/spalding-react-tf-250-all-surface-basketball.jpg" alt="Spalding React TF-250 All-Surface Basketball" width="400px"> 
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <h3>Molten BG3200 Series Indoor / Outdoor Basketball</h3>
+        <a href="https://molten.com.au/products/bg3200-series-basketball">
+          <img src="images/molten-bg3200-series-basketball.jpg" alt="Molten BG3200 Series Indoor / Outdoor Basketball" width="400px">
         </a>
       </td>
     </tr>
