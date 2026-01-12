@@ -9,38 +9,31 @@
   <a href="https://projects.apache.org/committee.html?cloudstack">
     <img src="./projects/apache-cloudstack.png"
       alt="Apache CloudStack Team Members"
-      title="Apache CloudStack Team Members">
-  </a>
+      title="Apache CloudStack Team Members"></a>
   <a href="https://projects.apache.org/committee.html?openoffice">
     <img src="./projects/apache-openoffice.png"
       alt="Apache OpenOffice Team Members"
-      title="Apache OpenOffice Team Members">
-  </a>
+      title="Apache OpenOffice Team Members"></a>
   <a href="https://projects.apache.org/committee.html?sedona">
     <img src="./projects/apache-sedona.png"
       alt="Apache Sedona Team Members"
-      title="Apache Sedona Team Members">
-  </a>
+      title="Apache Sedona Team Members"></a>
   <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html">
     <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4"
       alt="Happy Days at The ASF"
-      title="Happy Days at The ASF">
-  </a>
+      title="Happy Days at The ASF"></a>
   <a href="https://contributors.rubyonrails.org">
     <img src="images/rails.png"
       alt="Rails Contributors All Time"
-      title="Rails Contributors All Time">
-  </a>
+      title="Rails Contributors All Time"></a>
   <a href="https://curl.se/docs/thanks.html">
     <img src="projects/curl.png"
       alt="Thanks for Your Contribution to the curl Project!"
-      title="Thanks for Your Contribution to the curl Project!">
-  </a>
+      title="Thanks for Your Contribution to the curl Project!"></a>
   <a href="https://gitista.com/australia/">
     <img src="projects/gitista.png" width="200px"
       alt="Top 100 Open Source Contributors in Australia"
-      title="Discover the leading GitHub developers from Australia ranked by contributions.">
-  </a>
+      title="Discover the leading GitHub developers from Australia ranked by contributions."></a>
 </div>
 
 ---
