@@ -1,12 +1,6 @@
 <!-- start-data -->
 <div align="center">
   <h1>✨ How's tricks? 🪄 🔮 🧝‍♂️ </h1>
-  <a href="#">
-    <img src="images/marvel-metal-figs-3.jpg" alt="Three Marvel Metalfigs">
-  </a>
-</div>
-
-<div align="center">
   <h2>👨‍🔬 🏩 💾 🇦🇺</h2>
 </div>
 
@@ -80,49 +74,3 @@
 ### Mind Blown
 
 - Sound asleep but not in when Dracula arrives? (3,3,3,5). Out for the count
-
----
-
-<div align="center">
-  <h2>Basketball Inventory</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <h3>Reliance Basketball</h3>
-        <a href="https://www.bigw.com.au/product/reliance-basketball-size-7-assorted-/p/7389641">
-          <img src="images/reliance-basketball.jpg" alt="Reliance Basketball Size 7" width="400px">
-        </a>
-      </td>
-      <td align="center">
-        <h3>Wilson 2024-2025 NBA Team City Icon Basketball</h3>
-        <a href="https://www.wilson.com/en-us/product/2024-nba-team-city-edition-bskt-wz40339">
-          <img src="images/wilson-2024-2025-nba-team-city-icon-basketball.jpg" alt="Wilson 2024-2025 NBA Team City Icon Basketball" width="400px"> 
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>Wilson NBA All Team Retro Basketball</h3>
-        <a href="https://www.wilson.com/en-us/product/nba-all-team-retro-bskt-wz40285">
-          <img src="images/wilson-all-team-retro-basketball.jpg" alt="Wilson NBA All Team Retro Basketball" width="400px">
-        </a>
-      </td>
-      <td align="center">
-        <h3>Spalding React TF-250 All-Surface Basketball</h3>
-        <a href="https://www.spalding.com.au/react-tf-250-all-surface-basketball.html">
-          <img src="images/spalding-react-tf-250-all-surface-basketball.jpg" alt="Spalding React TF-250 All-Surface Basketball" width="400px"> 
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <h3>Molten BG3200 Series Indoor / Outdoor Basketball</h3>
-        <a href="https://molten.com.au/products/bg3200-series-basketball">
-          <img src="images/molten-bg3200-series-basketball.jpg" alt="Molten BG3200 Series Indoor / Outdoor Basketball" width="400px">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
