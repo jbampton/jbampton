@@ -59,38 +59,6 @@
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="#">
-          <img src="images/marvel-metal-figs-4.jpg" alt="Three Marvel Metalfigs">
-        </a>
-      </td>
-      <td>
-        <a href="#">
-          <img src="images/marvel-metal-figs-5.jpg" alt="Three Marvel Metalfigs">
-        </a>
-      </td>
-      <td>
-        <a href="#">
-        <img src="images/marvel-metal-figs-5-more.jpg" alt="Three Marvel Metalfigs">
-      </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <a href="#">
-    <img src="images/autobots.jpg" alt="The Autobots !!">
-  </a>
-</div>
-
----
-
 ## Open Your Mind
 
 - Fuel exploded in tube. (4). Flue
