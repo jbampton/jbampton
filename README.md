@@ -32,9 +32,14 @@
       title="Rails Contributors All Time">
   </a>
   <a href="https://curl.se/docs/thanks.html">
-    <img src="./projects/curl.png"
+    <img src="projects/curl.png"
       alt="Thanks for Your Contribution to the curl Project!"
       title="Thanks for Your Contribution to the curl Project!">
+  </a>
+  <a href="https://gitista.com/australia/">
+    <img src="projects/gitista.png" width="200px"
+      alt="Top 100 Open Source Contributors in Australia"
+      title="Discover the leading GitHub developers from Australia ranked by contributions.">
   </a>
 </div>
 
