@@ -7,168 +7,7 @@
 </div>
 
 <div align="center">
-  <h2>Random 2025 Shots 👨‍🎤 Getting Better With Age 👨‍🎨 Winter Is Coming 🥶</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="#">
-          <img src="images/1.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/2.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/3.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/4.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="#">
-          <img src="images/5.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/6.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/7.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/8.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="#">
-          <img src="images/9.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/10.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/11.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/12.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="#">
-          <img src="images/13.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/14.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/15.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/16.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="#">
-          <img src="images/17.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/18.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/19.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/20.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="#">
-          <img src="images/21.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/22.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/23.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/24.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="#">
-          <img src="images/25.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/26.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/27.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="images/28.jpg" width="200" alt="" title="">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
   <h2>👨‍🔬 🏩 💾 🇦🇺</h2>
-  <h2>John Bampton is a dedicated, skilled, and community-oriented individual within the technology and local Brisbane communities</h2>
 </div>
 
 <div align="center">
@@ -207,6 +46,19 @@
 
 ---
 
+## Explore the top GitHub users and their avatars. See the [400 most popular](https://github.com/john-bampton/john-bampton.github.io) GitHub faces in one place.
+
+### We welcome contributions! Feel free to:
+
+- Submit issues for bugs or feature requests.
+- Fork the repository and open pull requests.
+- Suggest new ways to improve the avatar grid or functionality.
+- Spread the word by adding a ⭐ to the repository.
+
+[![The 400 most popular GitHub faces in one place](images/preview.jpg)](https://github.com/john-bampton/john-bampton.github.io)
+
+---
+
 <div align="center">
   <table>
     <tr>
@@ -228,19 +80,6 @@
     </tr>
   </table>
 </div>
-
----
-
-## Explore the top GitHub users and their avatars. See the [400 most popular](https://github.com/john-bampton/john-bampton.github.io) GitHub faces in one place.
-
-### We welcome contributions! Feel free to:
-
-- Submit issues for bugs or feature requests.
-- Fork the repository and open pull requests.
-- Suggest new ways to improve the avatar grid or functionality.
-- Spread the word by adding a ⭐ to the repository.
-
-[![The 400 most popular GitHub faces in one place](images/preview.jpg)](https://github.com/john-bampton/john-bampton.github.io)
 
 ---
 
@@ -316,12 +155,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <a href="#">
-    <img src="images/disney-metal-figs-4.jpg" alt="Three Marvel Metalfigs">
-  </a>
 </div>
 
 ---
