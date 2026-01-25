@@ -48,7 +48,7 @@
 
 ### Join FREE: Community of open-source programmers and software engineers. 
 
-![Next Community: Community of programmers and software engineers](images/next-community.png)
+[![Next Community: Community of programmers and software engineers](images/next-community.png)](https://github.com/NextCommunity/NextCommunity.github.io)
 
 </div>
 
