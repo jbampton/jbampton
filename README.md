@@ -48,8 +48,6 @@
 
 ### Join FREE: Community of open-source programmers and software engineers. 
 
-[![Next Community: Community of programmers and software engineers](images/next-community.png)](https://github.com/NextCommunity/NextCommunity.github.io)
-
 </div>
 
 #### We welcome contributions! Feel free to:
@@ -58,6 +56,12 @@
 - Fork the repository and open pull requests.
 - Suggest new ways to improve the avatar grid or functionality.
 - Spread the word by adding a ⭐ to the repository.
+
+<div align="center">
+
+[![Next Community: Community of programmers and software engineers](images/next-community.png)](https://github.com/NextCommunity/NextCommunity.github.io)
+
+</div>
 
 ---
 
