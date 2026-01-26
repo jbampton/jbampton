@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![Next Community: Community of programmers and software engineers](images/next-community.png)](https://github.com/NextCommunity/NextCommunity.github.io)
+[![Next Community: Community of programmers and software engineers](images/next-community-game.png)](https://github.com/NextCommunity/NextCommunity.github.io)
 
 </div>
 
