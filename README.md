@@ -88,16 +88,3 @@
 - Sound asleep but not in when Dracula arrives? (3,3,3,5). Out for the count
 
 ---
-
-## See the [400 most popular](https://github.com/john-bampton/john-bampton.github.io) GitHub faces in one place.
-
-### We welcome contributions! Feel free to:
-
-- Submit issues for bugs or feature requests.
-- Fork the repository and open pull requests.
-- Suggest new ways to improve the avatar grid or functionality.
-- Spread the word by adding a ⭐ to the repository.
-
-[![The 400 most popular GitHub faces in one place](images/preview.jpg)](https://github.com/john-bampton/john-bampton.github.io)
-
----
