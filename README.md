@@ -75,6 +75,7 @@
 
 - Opening book beside Central Park tavern. (3). Bar
 - Leaves note with answer. (3). Tea
+- European ruler beheaded mathematician. (5). Euler
 - Vegetable found in vehicle along with rubbish. (6). Carrot
 - PC's speed makes music session a failure. (8). Gigaflop
 
