@@ -77,6 +77,7 @@
 - Leaves note with answer. (3). Tea
 - European ruler beheaded mathematician. (5). Euler
 - Vegetable found in vehicle along with rubbish. (6). Carrot
+- Nun with grin switched on. (7). Running
 - PC's speed makes music session a failure. (8). Gigaflop
 
 ### Level Two
