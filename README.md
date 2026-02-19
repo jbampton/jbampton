@@ -52,6 +52,7 @@ Author and mathematican [Marcus du Sautoy](https://en.wikipedia.org/wiki/Marcus_
 far I have only worked on two types of puzzles: the Word Square and the Word Chain.
 - Found a small `Simply Word Fill-Ins` [Puzzler](https://www.puzzler.com.au/magazines/) brand magazine issue number 87 with 100 puzzles from 2024 which cost $6.95 AUD. Whilst I did enjoy completing two fill-ins,
   I found it was really easy to complete them since the answers were given and you just had to fill-in the grid. I definitely prefer a much harder challenge.
+- Opened a [Spider-Man brand LEGO minifigure](https://www.lego.com/en-au/product/spider-man-across-the-spider-verse-71050) which cost $5 AUD from [Coles Supermarket](https://en.wikipedia.org/wiki/Coles_Supermarkets). There are 12 to collect and each minifigure comes in a blind pick small cardboard box. This one was the `Spider-Byte` minifigure the last packet on the shelf.
 
 ## 2026
 
