@@ -50,6 +50,8 @@
 Author and mathematican [Marcus du Sautoy](https://en.wikipedia.org/wiki/Marcus_du_Sautoy) gave an interesting account of the history of chess and its origins over 8.5 pages with a mathematical perspective. 
 - Recommenced working on [Mindful Mixed Puzzles: Over 600 puzzles](https://lakepress.com.au/products/mindful-600-puzzles-mixed-puzzles-pastel-green). This fantastic ring bound book has 8 types of puzzles and so
 far I have only worked on two types of puzzles: the Word Square and the Word Chain.
+- Found a small `Simply Word Fill-Ins` [Puzzler](https://www.puzzler.com.au/magazines/) brand magazine issue number 87 with 100 puzzles from 2024 which cost $6.95 AUD. Whilst I did enjoy completing the first fill-in
+  I found it was really easy to complete since the answers were given and you just had to fill-in the grid. I definitely prefer a much harder challenge.
 
 ## 2026
 
