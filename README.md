@@ -56,6 +56,9 @@
   [Check out the Minute Cryptic YouTube Channel](https://www.youtube.com/@MinuteCryptic)
 - Currently reading [Checkmate! The Wonderful World of Chess](https://www.amazon.com.au/Checkmate-Wonderful-World-John-Foley/dp/1839352485) by author John Foley up to page 40.
   A glossy colorful and easy to read 112 page book aimed at beginners and children full of illustrations.
+- I'm happy with the QX Chess small magnetic foldable chess board that I am now using on my work desk.
+  [No. QX2677](https://www.mrtoys.com.au/games/board-games/chess-sets/magnetic-chess-47245.html) with black and white pieces and black and gray colored squares
+  originally bought for $10 AUD
 
 ---
 
