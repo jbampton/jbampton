@@ -42,9 +42,26 @@
 
 ---
 
-# [Cryptic Crosswords](https://en.wikipedia.org/wiki/Cryptic_crossword)
+# Some things about me
 
-## Open Your Mind
+- Currently working on some of the puzzles from the magazine "Christine's Big Crossword" Issue 392.
+  This magazine has 28+ giant puzzles and cost $9.50 AUD.
+  `Lovatts Crosswords and Puzzles` is a family run business that sells a number of different
+  [puzzle magazines](https://lovattspuzzles.com/lovatts-crossword-puzzle-magazines/)
+- I am up to puzzle 16 from [The Times Chess Winning Moves: 540 Chess Puzzles from Tournament Play](https://www.amazon.co.uk/Times-Chess-Winning-Moves-Tournament/dp/0008748888).
+  Really enjoyed the first 15 puzzles and the commentary from author Byron Jacobs.
+  Published in 2025 most puzzles are from modern games with the first intro puzzle being a Magnus Carslen victory.
+  [The Times](https://en.wikipedia.org/wiki/The_Times) is a British daily national newspaper based in London.
+- I have read 50 pages of the famous book [Minute Cryptic](https://www.minutecryptic.com/) a bestseller that teaches you how to solve cryptic crossword clues.
+  [Check out the Minute Cryptic YouTube Channel](https://www.youtube.com/@MinuteCryptic)
+  
+---
+
+## [Cryptic Crosswords](https://en.wikipedia.org/wiki/Cryptic_crossword)
+
+Some notable clues and answers from various publications
+
+### Open Your Mind
 
 - Fuel exploded in tube. (4). Flue
 - Loves cracking answer. (5). Solve
