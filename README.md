@@ -54,7 +54,9 @@
   [The Times](https://en.wikipedia.org/wiki/The_Times) is a British daily national newspaper based in London.
 - I have read 50 pages of the famous book [Minute Cryptic](https://www.minutecryptic.com/) a bestseller that teaches you how to solve cryptic crossword clues.
   [Check out the Minute Cryptic YouTube Channel](https://www.youtube.com/@MinuteCryptic)
-  
+- Currently reading [Checkmate! The Wonderful World of Chess](https://www.amazon.com.au/Checkmate-Wonderful-World-John-Foley/dp/1839352485) by author John Foley up to page 40.
+  A glossy colorful and easy to read 112 page book aimed at beginners and children full of illustrations.
+
 ---
 
 ## [Cryptic Crosswords](https://en.wikipedia.org/wiki/Cryptic_crossword)
