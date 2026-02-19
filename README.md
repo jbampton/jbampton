@@ -44,12 +44,12 @@
 
 # Some things about me
 
-# Feb 20th, 2026
+## Feb 20th, 2026
 
 Just enjoyed reading the section on chess from [Around the World in 80 Games: A mathematician unlocks the secrets of the greatest games](https://www.amazon.com.au/Around-World-80-Games-mathematician-ebook/dp/B0BY85GH3Z).
 Author and mathematican [Marcus du Sautoy](https://en.wikipedia.org/wiki/Marcus_du_Sautoy) gave an interesting account of the history of chess and its origins over 8.5 pages with a mathematical perspective. 
 
-# 2026
+## 2026
 
 - Currently working on some of the puzzles from the magazine "Christine's Big Crossword" Issue 392.
   This magazine has 28+ giant puzzles and cost $9.50 AUD.
