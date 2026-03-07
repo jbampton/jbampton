@@ -54,6 +54,10 @@ far I have only worked on two types of puzzles: the Word Square and the Word Cha
   I found it was really easy to complete them since the answers were given and you just had to fill-in the grid. I definitely prefer a much harder challenge.
 - Opened a [Spider-Man brand LEGO minifigure](https://www.lego.com/en-au/product/spider-man-across-the-spider-verse-71050) which cost $5 AUD from [Coles Supermarket](https://en.wikipedia.org/wiki/Coles_Supermarkets). There are 12 to collect and each minifigure comes in a blind pick small cardboard box. This one was the `Spider-Byte` minifigure the last packet on the shelf.
 
+<a href="https://www.lego.com/en-au/product/spider-man-across-the-spider-verse-71050">
+  <img src="images/spider-man.jpg" alt="LEGO minifigures Spider-Man">
+</a>
+
 ## 2026
 
 - Currently working on some of the puzzles from the magazine "Christine's Big Crossword" Issue 392.
@@ -101,5 +105,9 @@ Some notable clues and answers from various publications
 ### Mind Blown
 
 - Sound asleep but not in when Dracula arrives? (3,3,3,5). Out for the count
+
+---
+
+
 
 ---
