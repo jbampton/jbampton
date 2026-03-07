@@ -108,6 +108,8 @@ Some notable clues and answers from various publications
 
 ---
 
-
+<a href="#">
+  <img alt="Jada Toys Metalfigs" src="images/metalfigs-rick-mayor-alien.jpg">
+</a>
 
 ---
