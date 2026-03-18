@@ -26,6 +26,13 @@
   </p>
 </div>
 
+<div align="center">
+  <p>
+    <a href="https://discord.gg/hKUH56YHXp">
+      <img src="https://img.shields.io/badge/metropolis-discord-lightgreen?style=for-the-badge&labelColor=orange" alt="Join the Metropolis Discord"></a>
+  </p>
+</div>
+
 <hr>
 
 <div align="center">
