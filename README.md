@@ -8,6 +8,7 @@
     <a href="https://discord.gg/hKUH56YHXp">
       <img src="https://img.shields.io/badge/metropolis_retro-discord-lightgreen?style=for-the-badge&labelColor=orange" alt="Join the Metropolis Retro Discord"></a>
   </p>
+  <p>Metropolis Retro: Iconic Style. Timeless Soul. Relive the Golden Era.</p>
 </div>
 
 <hr>
