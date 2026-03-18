@@ -1,11 +1,24 @@
 <!-- start-data -->
 <div align="center">
   <h1>✨ How's tricks? 🪄 🔮 🧝‍♂️ </h1>
-  <h2>👨‍🔬 🏩 💾 🇦🇺</h2>
 </div>
+
+<hr>
+
+<div align="center">
+  <h2><a href="https://nextcommunity.github.io/">Next Community</a></h2>
+  <h3>Join FREE: Community of open-source programmers and software engineers</h3>
+  <h4>Come and join the <a href="https://github.com/NextCommunity/NextCommunity.github.io/milestone/3">Hackfest</a> 🖥️ ⏩</h3>
+  <p>
+    Let us all go <strong>Next Level</strong> until May 1st. Let's Go !!
+  </p>
+</div>
+
+<hr>
 
 <div align="center">
   <h2>Career Achievements ✅</h2>
+  <h3>👨‍🔬 🏩 💾 🇦🇺</h2>
   <a href="https://projects.apache.org/committee.html?cloudstack">
     <img src="./projects/apache-cloudstack.png"
       alt="Apache CloudStack Team Members"
