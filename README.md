@@ -77,6 +77,10 @@
 
 # Some things about me
 
+## Mar 22nd, 2026
+
+- Recently bought two new books: The Sun Two-Speed Crossword Collection #12 and Daily Mail The Big Book of Cryptic Crosswords Volume 8. Both crossword books are fantastic and I really like the Two-Speed style with both cryptic and quick clues for each puzzle.
+
 ## Feb 20th, 2026
 
 - Just enjoyed reading the section on chess from [Around the World in 80 Games: A mathematician unlocks the secrets of the greatest games](https://www.amazon.com.au/Around-World-80-Games-mathematician-ebook/dp/B0BY85GH3Z).
@@ -133,6 +137,7 @@ Some notable clues and answers from various publications
 ### Level Two
 
 - Everything's ready: eg lass mostly prepared. (3,7,2). All systems go
+- Go wild - show off your locks. (3,4,4,4). Let your hair down
 - Modern, before sixty seconds have passed. (2,2,3,6). Up to the minute
 
 ### Mind Blown
