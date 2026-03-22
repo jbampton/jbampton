@@ -14,7 +14,8 @@
     <a href="https://discord.gg/hKUH56YHXp">
       <img src="https://img.shields.io/badge/metropolis_retro-discord-lightgreen?style=for-the-badge&labelColor=orange" alt="Join the Metropolis Retro Discord"></a>
   </p>
-  <p>Add a ⭐ to <a href="https://github.com/metropolis-retro/.github">this repo</a> and you will be auto-invited to join the Metropolis Retro GitHub Organization ⏩ 🏢</p>
+  <p>Add a ⭐ to <a href="https://github.com/metropolis-retro/.github">this repo</a> and you will be auto-invited to join the
+    <a href="https://github.com/metropolis-retro">Metropolis Retro GitHub Organization</a> ⏩ 🏢</p>
 </div>
 
 <hr>
