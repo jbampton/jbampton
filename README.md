@@ -5,10 +5,16 @@
 
 <div align="center">
   <p>
+    <a href="https://github.com/metropolis-retro">
+      <img src="https://avatars.githubusercontent.com/u/85593293?s=200&v=4" alt="Metropolis Retro">
+    </a>
+  </p>
+  <h3>Metropolis Retro: Iconic Style. Timeless Soul. Relive the Golden Era.</h3>
+  <p>
     <a href="https://discord.gg/hKUH56YHXp">
       <img src="https://img.shields.io/badge/metropolis_retro-discord-lightgreen?style=for-the-badge&labelColor=orange" alt="Join the Metropolis Retro Discord"></a>
   </p>
-  <p>Metropolis Retro: Iconic Style. Timeless Soul. Relive the Golden Era.</p>
+  <p>Add a ⭐ to <a href="https://github.com/metropolis-retro/.github">this repo</a> and you will be auto-invited to join the Metropolis Retro GitHub Organization ⏩ 🏢</p>
 </div>
 
 <hr>
