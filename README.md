@@ -1,163 +1,96 @@
 <!-- start-data -->
 <div align="center">
-  <h1>✨ How's tricks? 🪄 🔮 🧝‍♂️ </h1>
-</div>
-
-<div align="center">
+  <h1>🏆 jbampton's Open Source Contribution Leaderboard 🏆</h1>
+  <p><em>🤖 Auto-updated daily at 4:17 AM UTC via GitHub Actions</em></p>
+  <p><em>Waiting for first workflow run …</em></p>
   <p>
-    <a href="https://github.com/metropolis-retro">
-      <img src="https://avatars.githubusercontent.com/u/85593293?s=200&v=4" alt="Metropolis Retro">
+    <a href="https://github.com/jbampton">
+      <img src="https://img.shields.io/badge/GitHub-jbampton-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
+    </a>
+    <a href="https://github.com/sponsors/jbampton">
+      <img src="https://img.shields.io/badge/Sponsor-❤️-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor">
     </a>
   </p>
-  <h3>Metropolis Retro: Iconic Style. Timeless Soul. Relive the Golden Era.</h3>
-  <p>
-    <a href="https://discord.gg/hKUH56YHXp">
-      <img src="https://img.shields.io/badge/metropolis_retro-discord-lightgreen?style=for-the-badge&labelColor=orange" alt="Join the Metropolis Retro Discord"></a>
-  </p>
-  <p>Add a ⭐ to <a href="https://github.com/metropolis-retro/.github">this repo</a> and you will be auto-invited to join the
-    <a href="https://github.com/metropolis-retro">Metropolis Retro GitHub Organization</a> ⏩ 🏢</p>
 </div>
 
-<hr>
+---
 
 <div align="center">
-  <h2><a href="https://nextcommunity.github.io/">Next Community</a></h2>
-  <h3><a href="https://github.com/NextCommunity/">Join FREE</a>: Community of open-source programmers and software engineers</h3>
-  <h4>Come and join the <a href="https://github.com/NextCommunity/NextCommunity.github.io/milestone/3">Hackfest</a> 🖥️ ⏩</h3>
-  <p>
-    Let us all go <strong>Next Level</strong> until May 1st. Let's Go !!
-  </p>
-  <p>
-    <a href="https://github.com/NextCommunity/NextCommunity.github.io/issues?q=state%3Aopen%20label%3Ahacktoberfest">
-      <img src="https://img.shields.io/badge/hacktoberfest-0E8A16" alt="hacktoberfest"></a>
-    <a href="https://github.com/NextCommunity/NextCommunity.github.io/issues?q=state%3Aopen%20label%3Ahacktoberfest-accepted">
-      <img src="https://img.shields.io/badge/hacktoberfest-accepted-000000?labelColor=purple" alt="hacktoberfest-accepted"></a>
-  </p>
-  <p>
-    <a href="https://nextcommunity.github.io/"><img src="https://img.shields.io/badge/Easter-Eggs-ff69b4?labelColor=9b59b6" alt="Easter Eggs"></a>
-  </p>
-  <p>
-    <a href="https://github.com/sponsors/jbampton">
-      <img src="https://img.shields.io/github/sponsors/jbampton?style=for-the-badge&label=Sponsor%20John%20Bampton&labelColor=orange&color=pink" alt="Sponsor John Bampton"></a>
-    <a href="https://github.com/sponsors/BaseMax">
-      <img src="https://img.shields.io/github/sponsors/BaseMax?style=for-the-badge&label=Sponsor%20Max%20Base&labelColor=lightgreen&color=lightblue" alt="Sponsor Max Base"></a>    
-  </p>
+
+## 📊 Stats Overview
+
+| Metric | Value |
+|--------|-------|
+| 📦 Total Repos Contributed | **—** |
+| 📝 Total Commits | **—** |
+| ✍️ Authored Commits | **—** |
+| 🤝 Co-authored Commits | **—** |
+| 🔥 Longest Streak | **—** |
+| ⚡ Best Active Streak | **—** |
+| 🎯 Total Points | **—** |
+
 </div>
 
-<hr>
+---
 
 <div align="center">
-  <h2>Career Achievements ✅</h2>
-  <h3>👨‍🔬 🏩 💾 🇦🇺</h2>
-  <a href="https://projects.apache.org/committee.html?cloudstack">
-    <img src="./projects/apache-cloudstack.png"
-      alt="Apache CloudStack Team Members"
-      title="Apache CloudStack Team Members"></a>
-  <a href="https://projects.apache.org/committee.html?openoffice">
-    <img src="./projects/apache-openoffice.png"
-      alt="Apache OpenOffice Team Members"
-      title="Apache OpenOffice Team Members"></a>
-  <a href="https://projects.apache.org/committee.html?sedona">
-    <img src="./projects/apache-sedona.png"
-      alt="Apache Sedona Team Members"
-      title="Apache Sedona Team Members"></a>
-  <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html">
-    <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4"
-      alt="Happy Days at The ASF"
-      title="Happy Days at The ASF"></a>
-  <a href="https://contributors.rubyonrails.org">
-    <img src="images/rails.png"
-      alt="Rails Contributors All Time"
-      title="Rails Contributors All Time"></a>
-  <a href="https://curl.se/docs/thanks.html">
-    <img src="projects/curl.png"
-      alt="Thanks for Your Contribution to the curl Project!"
-      title="Thanks for Your Contribution to the curl Project!"></a>
-  <a href="https://gitista.com/australia/">
-    <img src="projects/gitista.png" width="200px"
-      alt="Top 100 Open Source Contributors in Australia"
-      title="Discover the leading GitHub developers from Australia ranked by contributions"></a>
-  <a href="https://www.codewars.com/users/leaderboard">
-    <img src="projects/codewars-logo.svg" width="200px"
-      alt="Codewars Top 500 Leaderboard"
-      title="Codewars Top 500 Leaderboard"></a>
+
+## 🏅 Profile Badges
+
+- 🌱 **Explorer** — The journey has begun!
+
 </div>
 
 ---
 
-# Some things about me
+## 🏆 Contribution Leaderboard
 
-## Mar 22nd, 2026
-
-- Recently bought two new books: The Sun Two-Speed Crossword Collection #12 and Daily Mail The Big Book of Cryptic Crosswords Volume 8. Both crossword books are fantastic and I really like the Two-Speed style with both cryptic and quick clues for each puzzle.
-
-## Feb 20th, 2026
-
-- Just enjoyed reading the section on chess from [Around the World in 80 Games: A mathematician unlocks the secrets of the greatest games](https://www.amazon.com.au/Around-World-80-Games-mathematician-ebook/dp/B0BY85GH3Z).
-Author and mathematican [Marcus du Sautoy](https://en.wikipedia.org/wiki/Marcus_du_Sautoy) gave an interesting account of the history of chess and its origins over 8.5 pages with a mathematical perspective. 
-- Recommenced working on [Mindful Mixed Puzzles: Over 600 puzzles](https://lakepress.com.au/products/mindful-600-puzzles-mixed-puzzles-pastel-green). This fantastic ring bound book has 8 types of puzzles and so
-far I have only worked on two types of puzzles: the Word Square and the Word Chain.
-- Found a small `Simply Word Fill-Ins` [Puzzler](https://www.puzzler.com.au/magazines/) brand magazine issue number 87 with 100 puzzles from 2024 which cost $6.95 AUD. Whilst I did enjoy completing two fill-ins,
-  I found it was really easy to complete them since the answers were given and you just had to fill-in the grid. I definitely prefer a much harder challenge.
-- Opened a [Spider-Man brand LEGO minifigure](https://www.lego.com/en-au/product/spider-man-across-the-spider-verse-71050) which cost $5 AUD from [Coles Supermarket](https://en.wikipedia.org/wiki/Coles_Supermarkets). There are 12 to collect and each minifigure comes in a blind pick small cardboard box. This one was the `Spider-Byte` minifigure the last packet on the shelf.
-
-<a href="https://www.lego.com/en-au/product/spider-man-across-the-spider-verse-71050">
-  <img src="images/spider-man.jpg" alt="LEGO minifigures Spider-Man">
-</a>
-
-## 2026
-
-- Currently working on some of the puzzles from the magazine "Christine's Big Crossword" Issue 392.
-  This magazine has 28+ giant puzzles and cost $9.50 AUD.
-  `Lovatts Crosswords and Puzzles` is a family run business that sells a number of different
-  [puzzle magazines](https://lovattspuzzles.com/lovatts-crossword-puzzle-magazines/)
-- I am up to puzzle 16 from [The Times Chess Winning Moves: 540 Chess Puzzles from Tournament Play](https://www.amazon.co.uk/Times-Chess-Winning-Moves-Tournament/dp/0008748888).
-  Really enjoyed the first 15 puzzles and the commentary from author Byron Jacobs.
-  Published in 2025 most puzzles are from modern games with the first intro puzzle being a Magnus Carslen victory.
-  [The Times](https://en.wikipedia.org/wiki/The_Times) is a British daily national newspaper based in London.
-- I have read 50 pages of the famous book [Minute Cryptic](https://www.minutecryptic.com/) a bestseller that teaches you how to solve cryptic crossword clues.
-  [Check out the Minute Cryptic YouTube Channel](https://www.youtube.com/@MinuteCryptic)
-- Currently reading [Checkmate! The Wonderful World of Chess](https://www.amazon.com.au/Checkmate-Wonderful-World-John-Foley/dp/1839352485) by author John Foley up to page 42.
-  A glossy colorful and easy to read 112 page book aimed at beginners and children full of illustrations.
-- I'm happy with the QX Chess small magnetic foldable chess board that I am now using on my work desk.
-  [No. QX2677](https://www.mrtoys.com.au/games/board-games/chess-sets/magnetic-chess-47245.html) with black and white pieces and black and gray colored squares
-  originally bought for $10 AUD
+| # | 🏷️ Repository | 📝 Total | ✍️ Authored | 🤝 Co-authored | 📅 First Commit | 🔥 Streak | ⚡ Active | 🎯 Points | 🏅 Badge | 💬 Description |
+|---|--------------|----------|------------|----------------|-----------------|-----------|----------|----------|---------|-------------|
+| — | _Run the workflow to populate this table_ | — | — | — | — | — | — | — | — | — |
 
 ---
 
-## [Cryptic Crosswords](https://en.wikipedia.org/wiki/Cryptic_crossword)
+### 📖 Legend
 
-Some notable clues and answers from various publications
+| Symbol | Meaning |
+|--------|---------|
+| 📝 Total | Total number of commits (authored + co-authored) |
+| ✍️ Authored | Commits directly authored by jbampton |
+| 🤝 Co-authored | Commits where jbampton was the committer but not the primary author |
+| 📅 First Commit | Date of the earliest commit to the repository |
+| 🔥 Streak | Longest run of consecutive calendar days with at least one commit |
+| ⚡ Active | Current streak — consecutive days ending today or yesterday (UTC) |
+| 🎯 Points | Weighted score combining commits, streaks, and milestone bonuses |
+| 🏅 Badge | Tier badge awarded based on total commits to the repo |
+| 💬 Description | Auto-generated flavour text describing the contribution level |
 
-### Open Your Mind
+### 🎯 Points System
 
-- Fuel exploded in tube. (4). Flue
-- Loves cracking answer. (5). Solve
-- Pay no attention to damaged region. (6). Ignore
+| Action | Points |
+|--------|--------|
+| Each authored commit | **+1** |
+| Each co-authored commit | **+3** (collaboration bonus) |
+| Every 10-day streak | **+5** |
+| 100+ commits in a repo | **+10** milestone bonus |
+| 500+ commits in a repo | **+25** milestone bonus |
+| 1,000+ commits in a repo | **+50** milestone bonus |
 
-### Level One
+### 🏅 Badge Tiers
 
-- Opening book beside Central Park tavern. (3). Bar
-- Leaves note with answer. (3). Tea
-- European ruler beheaded mathematician. (5). Euler
-- Vegetable found in vehicle along with rubbish. (6). Carrot
-- Nun with grin switched on. (7). Running
-- PC's speed makes music session a failure. (8). Gigaflop
-
-### Level Two
-
-- Everything's ready: eg lass mostly prepared. (3,7,2). All systems go
-- Go wild - show off your locks. (3,4,4,4). Let your hair down
-- Modern, before sixty seconds have passed. (2,2,3,6). Up to the minute
-
-### Mind Blown
-
-- Sound asleep but not in when Dracula arrives? (3,3,3,5). Out for the count
+| Badge | Commits |
+|-------|---------|
+| 🌱 Seedling | 1 – 4 |
+| 🌿 Growing | 5 – 19 |
+| 🌳 Rooted | 20 – 49 |
+| 🔥 On Fire | 50 – 99 |
+| 💎 Diamond | 100 – 499 |
+| 🌟 Super Star | 500 – 999 |
+| 👑 Legend | 1,000 + |
 
 ---
 
-<a href="#">
-  <img alt="Jada Toys Metalfigs" src="images/metalfigs-rick-mayor-alien.jpg">
-</a>
-
----
+<div align="center">
+  <p><em>🤖 Generated with ❤️ by <a href="https://github.com/jbampton/jbampton">jbampton/jbampton</a></em></p>
+  <p><em>Data sourced from the GitHub Search API · Limited to the 1,000 most recent commits per category</em></p>
+</div>
