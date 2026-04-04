@@ -2,7 +2,7 @@
 <div align="center">
   <h1>🏆 jbampton's Open Source Contribution Leaderboard 🏆</h1>
   <p><em>🤖 Auto-updated daily at 4:17 AM UTC via GitHub Actions</em></p>
-  <p><em>Waiting for first workflow run …</em></p>
+  <p><em>Last updated: 2026-04-04 20:11 UTC</em></p>
   <p>
     <a href="https://github.com/jbampton">
       <img src="https://img.shields.io/badge/GitHub-jbampton-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
@@ -21,13 +21,13 @@
 
 | Metric | Value |
 |--------|-------|
-| 📦 Total Repos Contributed | **—** |
-| 📝 Total Commits | **—** |
-| ✍️ Authored Commits | **—** |
-| 🤝 Co-authored Commits | **—** |
-| 🔥 Longest Streak | **—** |
-| ⚡ Best Active Streak | **—** |
-| 🎯 Total Points | **—** |
+| 📦 Total Repos Contributed | **20** |
+| 📝 Total Commits | **1,236** |
+| ✍️ Authored Commits | **1,236** |
+| 🤝 Co-authored Commits | **0** |
+| 🔥 Longest Streak | **10 days** |
+| ⚡ Best Active Streak | **2 days** |
+| 🎯 Total Points | **1,321** |
 
 </div>
 
@@ -37,7 +37,8 @@
 
 ## 🏅 Profile Badges
 
-- 🌱 **Explorer** — The journey has begun!
+- 🏆 **Grand Master** — 1,000+ total commits
+- 💎 **Century Club** — 100+ commits in a single repo
 
 </div>
 
@@ -47,7 +48,26 @@
 
 | # | 🏷️ Repository | 📝 Total | ✍️ Authored | 🤝 Co-authored | 📅 First Commit | 🔥 Streak | ⚡ Active | 🎯 Points | 🏅 Badge | 💬 Description |
 |---|--------------|----------|------------|----------------|-----------------|-----------|----------|----------|---------|-------------|
-| — | _Run the workflow to populate this table_ | — | — | — | — | — | — | — | — | — |
+| 1 | [apache/cloudstack](https://github.com/apache/cloudstack) | 100 | 100 | 0 | 2023-03-27 | 3 days | 💤 0 days | 110 | 💎 Diamond | 🛡️ Centurion — committed and consistent force |
+| 2 | [apache/sedona](https://github.com/apache/sedona) | 100 | 100 | 0 | 2025-04-02 | 4 days | 💤 0 days | 110 | 💎 Diamond | 🛡️ Centurion — committed and consistent force |
+| 3 | [mruby/mruby](https://github.com/mruby/mruby) | 100 | 100 | 0 | 2023-10-03 | 4 days | 💤 0 days | 110 | 💎 Diamond | 🛡️ Centurion — committed and consistent force |
+| 4 | [NextCommunity/NextCommunity.github.io](https://github.com/NextCommunity/NextCommunity.github.io) | 100 | 100 | 0 | 2025-04-01 | 5 days | ✅ 2 days | 110 | 💎 Diamond | 🛡️ Centurion — committed and consistent force |
+| 5 | [jbampton/jbampton](https://github.com/jbampton/jbampton) | 100 | 100 | 0 | 2025-08-16 | 10 days | ✅ 1 days | 115 | 💎 Diamond | 🛡️ Centurion — committed and consistent force |
+| 6 | [brisbanesocialchess/.github](https://github.com/brisbanesocialchess/.github) | 100 | 100 | 0 | 2025-08-18 | 2 days | 💤 0 days | 110 | 💎 Diamond | 🛡️ Centurion — committed and consistent force |
+| 7 | [brisbanesocialchess/awesome-social-chess](https://github.com/brisbanesocialchess/awesome-social-chess) | 100 | 100 | 0 | 2024-10-29 | 3 days | 💤 0 days | 110 | 💎 Diamond | 🛡️ Centurion — committed and consistent force |
+| 8 | [brisbanesocialchess/brisbanesocialchess.github.io](https://github.com/brisbanesocialchess/brisbanesocialchess.github.io) | 100 | 100 | 0 | 2025-09-17 | 5 days | 💤 0 days | 110 | 💎 Diamond | 🛡️ Centurion — committed and consistent force |
+| 9 | [mruby/mgem-list](https://github.com/mruby/mgem-list) | 88 | 88 | 0 | 2020-12-13 | 2 days | 💤 0 days | 88 | 🔥 On Fire | 🚀 Rising star — making serious impact |
+| 10 | [apache/shiro](https://github.com/apache/shiro) | 75 | 75 | 0 | 2025-06-28 | 3 days | 💤 0 days | 75 | 🔥 On Fire | 🚀 Rising star — making serious impact |
+| 11 | [apache/whimsy](https://github.com/apache/whimsy) | 69 | 69 | 0 | 2021-07-28 | 2 days | 💤 0 days | 69 | 🔥 On Fire | 🚀 Rising star — making serious impact |
+| 12 | [john-bampton/.github](https://github.com/john-bampton/.github) | 61 | 61 | 0 | 2024-11-02 | 3 days | 💤 0 days | 61 | 🔥 On Fire | 🚀 Rising star — making serious impact |
+| 13 | [metropolis-retro/.github](https://github.com/metropolis-retro/.github) | 52 | 52 | 0 | 2022-10-25 | 2 days | ✅ 2 days | 52 | 🔥 On Fire | 🚀 Rising star — making serious impact |
+| 14 | [metropolis-retro/metropolis-retro.github.io](https://github.com/metropolis-retro/metropolis-retro.github.io) | 30 | 30 | 0 | 2026-03-24 | 3 days | 💤 0 days | 30 | 🌳 Rooted | 🎯 Sharpshooter — precision contributions |
+| 15 | [apache/tooling-trusted-releases](https://github.com/apache/tooling-trusted-releases) | 14 | 14 | 0 | 2025-11-04 | 3 days | 💤 0 days | 14 | 🌿 Growing | 🌿 Budding contributor — growing with the project |
+| 16 | [apache/www-site](https://github.com/apache/www-site) | 13 | 13 | 0 | 2022-11-27 | 2 days | 💤 0 days | 13 | 🌿 Growing | 🌿 Budding contributor — growing with the project |
+| 17 | [apache/lucenenet](https://github.com/apache/lucenenet) | 11 | 11 | 0 | 2025-06-28 | 1 days | 💤 0 days | 11 | 🌿 Growing | 🌿 Budding contributor — growing with the project |
+| 18 | [NextCommunity/.github](https://github.com/NextCommunity/.github) | 11 | 11 | 0 | 2026-03-18 | 1 days | ✅ 1 days | 11 | 🌿 Growing | 🌿 Budding contributor — growing with the project |
+| 19 | [apache/sedona-spatialbench](https://github.com/apache/sedona-spatialbench) | 7 | 7 | 0 | 2026-01-22 | 1 days | 💤 0 days | 7 | 🌿 Growing | 🌿 Budding contributor — growing with the project |
+| 20 | [openaustralia/planningalerts](https://github.com/openaustralia/planningalerts) | 5 | 5 | 0 | 2026-03-09 | 1 days | 💤 0 days | 5 | 🌿 Growing | 🌿 Budding contributor — growing with the project |
 
 ---
 
@@ -87,6 +107,7 @@
 | 💎 Diamond | 100 – 499 |
 | 🌟 Super Star | 500 – 999 |
 | 👑 Legend | 1,000 + |
+
 
 ---
 
