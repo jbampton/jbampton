@@ -33,7 +33,7 @@
   <a href="https://gitista.com/australia/">
     <img src="projects/gitista.png" width="200px"
       alt="Top 100 Open Source Contributors in Australia"
-      title="Discover the leading GitHub developers from Australia ranked by contributions"></a>
+      title="Top 100 Open Source Contributors in Australia"></a>
   <a href="https://www.codewars.com/users/leaderboard">
     <img src="projects/codewars-logo.svg" width="200px"
       alt="Codewars Top 500 Leaderboard"
