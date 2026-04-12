@@ -1,6 +1,9 @@
 <!-- start-data -->
 <div align="center">
   <h1>✨ How's tricks? 🪄 🔮 🧝‍♂️ </h1>
+  <a href="#">
+    <img src="images/metalfigs-3-morty-and-crew.jpeg" alt="Morty and Scooby-Doo Crew">
+  </a>
 </div>
 
 <div align="center">
