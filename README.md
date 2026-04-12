@@ -101,6 +101,7 @@ Some notable clues and answers from various publications
 - Leaves note with answer. (3). Tea
 - European ruler beheaded mathematician. (5). Euler
 - Vegetable found in vehicle along with rubbish. (6). Carrot
+- Crazed parrot, one entering Gatwick? (7). Airport
 - Nun with grin switched on. (7). Running
 - PC's speed makes music session a failure. (8). Gigaflop
 
