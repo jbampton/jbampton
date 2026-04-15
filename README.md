@@ -12,7 +12,7 @@
     <img src="images/metalfigs-3-morty-and-crew.jpeg" alt="Morty and Scooby-Doo Crew">
   </a>
   <p>
-    <a href="https://en.wikipedia.org/wiki/Morty_Smith">Morty Smith</a>, <a href="https://en.wikipedia.org/wiki/Shaggy_Rogers">Norville "Shaggy" Rogers</a>, <a href="">Velma Dinkley
+    <a href="https://en.wikipedia.org/wiki/Morty_Smith">Morty Smith</a>, <a href="https://en.wikipedia.org/wiki/Shaggy_Rogers">Norville "Shaggy" Rogers</a>, <a href="https://en.wikipedia.org/wiki/Velma_Dinkley">Velma Dinkley</a>
   </p>
 </div>
 
