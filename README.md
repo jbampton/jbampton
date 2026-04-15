@@ -85,6 +85,10 @@ far I have only worked on two types of puzzles: the Word Square and the Word Cha
 
 ---
 
+[![Metalfigs Daphne, Woody and Bumble Bee](images/metalfigs-daphne-woody-bee.jpeg)](#)
+
+---
+
 ## [Cryptic Crosswords](https://en.wikipedia.org/wiki/Cryptic_crossword)
 
 Some notable clues and answers from various publications
