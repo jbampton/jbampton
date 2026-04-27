@@ -2,21 +2,6 @@
 <div align="center">
   <h1>✨ How's tricks? 🪄 🔮 🧝‍♂️ </h1>
 </div>
-<div>
-  <p><a href="https://www.jadatoys.com">Jada Toys</a>, Inc. is an American manufacturer of collectible scale model cars, action figures, radio controlled model vehicles, and dolls. It was founded in 1999 by Jack and May Li. <a href="https://en.wikipedia.org/wiki/Jada_Toys">Jada's</a> products are predominantly aimed at the collectible market, and are available and popular at retail outlets worldwide.</p>
-  <p>Jada Toys Metalfigs are highly collectible, stylized figurines made from 100% die-cast metal. They feature a heavy, premium feel with high-quality metallic paint and authentic character details. These figures come in various sizes, ranging from the tiny 1.65-inch Nano Metalfigs to larger 6-inch display pieces. While most are static, non-articulated poses, they cover massive franchises like Marvel, DC, Disney, and Transformers. They are popular for both play and display due to their durability and the availability of themed diorama sets.</p>
-  <hr>
-</div>
-<div align="center">
-  <a href="#">
-    <img src="images/metalfigs-3-morty-and-crew.jpeg" alt="Morty and Scooby-Doo Crew">
-  </a>
-  <p>
-    <a href="https://en.wikipedia.org/wiki/Morty_Smith">Morty Smith</a>, <a href="https://en.wikipedia.org/wiki/Shaggy_Rogers">Norville "Shaggy" Rogers</a>, <a href="https://en.wikipedia.org/wiki/Velma_Dinkley">Velma Dinkley</a>
-  </p>
-</div>
-
-<hr>
 
 <div align="center">
   <h2>Career Achievements ✅</h2>
@@ -56,6 +41,22 @@
 </div>
 
 ---
+
+<div>
+  <p><a href="https://www.jadatoys.com">Jada Toys</a>, Inc. is an American manufacturer of collectible scale model cars, action figures, radio controlled model vehicles, and dolls. It was founded in 1999 by Jack and May Li. <a href="https://en.wikipedia.org/wiki/Jada_Toys">Jada's</a> products are predominantly aimed at the collectible market, and are available and popular at retail outlets worldwide.</p>
+  <p>Jada Toys Metalfigs are highly collectible, stylized figurines made from 100% die-cast metal. They feature a heavy, premium feel with high-quality metallic paint and authentic character details. These figures come in various sizes, ranging from the tiny 1.65-inch Nano Metalfigs to larger 6-inch display pieces. While most are static, non-articulated poses, they cover massive franchises like Marvel, DC, Disney, and Transformers. They are popular for both play and display due to their durability and the availability of themed diorama sets.</p>
+  <hr>
+</div>
+<div align="center">
+  <a href="#">
+    <img src="images/metalfigs-3-morty-and-crew.jpeg" alt="Morty and Scooby-Doo Crew">
+  </a>
+  <p>
+    <a href="https://en.wikipedia.org/wiki/Morty_Smith">Morty Smith</a>, <a href="https://en.wikipedia.org/wiki/Shaggy_Rogers">Norville "Shaggy" Rogers</a>, <a href="https://en.wikipedia.org/wiki/Velma_Dinkley">Velma Dinkley</a>
+  </p>
+</div>
+
+<hr>
 
 # Some things about me
 
