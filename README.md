@@ -6,38 +6,17 @@
 <div align="center">
   <h2>Career Achievements ✅</h2>
   <h3>👨‍🔬 🏩 💾 🇦🇺</h2>
-  <a href="https://projects.apache.org/committee.html?cloudstack">
-    <img src="./projects/apache-cloudstack.png"
-      alt="Apache CloudStack Team Members"
-      title="Apache CloudStack Team Members"></a>
-  <a href="https://projects.apache.org/committee.html?openoffice">
-    <img src="./projects/apache-openoffice.png"
-      alt="Apache OpenOffice Team Members"
-      title="Apache OpenOffice Team Members"></a>
-  <a href="https://projects.apache.org/committee.html?sedona">
-    <img src="./projects/apache-sedona.png"
-      alt="Apache Sedona Team Members"
-      title="Apache Sedona Team Members"></a>
-  <a href="https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html">
-    <img src="https://avatars.githubusercontent.com/u/47359?s=200&v=4"
-      alt="Happy Days at The ASF"
-      title="Happy Days at The ASF"></a>
-  <a href="https://contributors.rubyonrails.org">
-    <img src="images/rails.png"
-      alt="Rails Contributors All Time"
-      title="Rails Contributors All Time"></a>
-  <a href="https://curl.se/docs/thanks.html">
-    <img src="projects/curl.png"
-      alt="Thanks for Your Contribution to the curl Project!"
-      title="Thanks for Your Contribution to the curl Project!"></a>
-  <a href="https://gitista.com/australia/">
-    <img src="projects/gitista.png" width="200px"
-      alt="Top 100 Open Source Contributors in Australia"
-      title="Top 100 Open Source Contributors in Australia"></a>
-  <a href="https://www.codewars.com/users/leaderboard">
-    <img src="projects/codewars-logo.svg" width="200px"
-      alt="Codewars Top 500 Leaderboard"
-      title="Codewars Top 500 Leaderboard"></a>
+
+[![Apache CloudStack Committer](https://img.shields.io/badge/CloudStack-145+_Members-8ED1FC?style=for-the-badge&logo=apachecloudstack&logoColor=white)](https://projects.apache.org/committee.html?cloudstack)
+[![Apache OpenOffice Committer](https://img.shields.io/badge/OpenOffice-140+_Members-F0F0F0?style=for-the-badge&logo=apacheopenoffice&logoColor=0091FF)](https://projects.apache.org/committee.html?openoffice)
+[![Apache Sedona Committer](https://img.shields.io/badge/Sedona-20+_Members-EF3C25?style=for-the-badge&logo=apachesedona&logoColor=white)](https://projects.apache.org/committee.html?sedona)
+[![ASF Committer Welcome](https://img.shields.io/badge/ASF_Committer-Happy_Days-D22128?style=for-the-badge&logo=github&logoColor=white)](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
+[![Rails Top 200](https://img.shields.io/badge/Rails_Contributors-Top_200-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://contributors.rubyonrails.org/)
+[![curl Contributor](https://img.shields.io/badge/curl_Contributor-3,660+_Strong-003a5c?style=for-the-badge&logo=curl&logoColor=white)](https://curl.se/docs/thanks.html)
+[![Codewars Rank](https://img.shields.io/badge/Codewars-Top_500-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/leaderboard)
+[![Committers.top Rank](https://img.shields.io/badge/Committers.top_Australia_Rank-Top_100-007ec6?style=for-the-badge&logo=github&labelColor=555555)](https://user-badge.committers.top/australia/jbampton)
+[![Gitista Australia Rank](https://img.shields.io/badge/Gitista_Australia-Rank_Top_10-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://gitista.com/australia/)
+
 </div>
 
 ---
