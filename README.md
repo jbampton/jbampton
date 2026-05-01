@@ -19,25 +19,6 @@
 
 </div>
 
-<div align="center">
-
-[![Apache Airflow Commits](https://img.shields.io/github/commit-activity/t/apache/airflow?authorFilter=jbampton&label=airflow&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/airflow/graphs/contributors)
-[![Apache Airflow Site Commits](https://img.shields.io/github/commit-activity/t/apache/airflow-site?authorFilter=jbampton&label=airflow-site&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/airflow-site/graphs/contributors)
-[![Apache APISIX Commits](https://img.shields.io/github/commit-activity/t/apache/apisix?authorFilter=jbampton&label=apisix&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/apisix/graphs/contributors)
-[![Apache APISIX Dashboard Commits](https://img.shields.io/github/commit-activity/t/apache/apisix-dashboard?authorFilter=jbampton&label=apisix-dashboard&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/apisix-dashboard/graphs/contributors)
-[![Apache APISIX Website Commits](https://img.shields.io/github/commit-activity/t/apache/apisix-website?authorFilter=jbampton&label=apisix-website&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/apisix-website/graphs/contributors)
-[![Apache CloudStack Commits](https://img.shields.io/github/commit-activity/t/apache/cloudstack?authorFilter=jbampton&label=cloudstack&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/cloudstack/graphs/contributors)
-[![Apache CloudStack WWW Commits](https://img.shields.io/github/commit-activity/t/apache/cloudstack-www?authorFilter=jbampton&label=cloudStack-www&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/cloudstack-www/graphs/contributors)
-[![Apache Lucenenet Commits](https://img.shields.io/github/commit-activity/t/apache/lucenenet?authorFilter=jbampton&label=lucenenet&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/lucenenet/graphs/contributors)
-[![Apache OpenDAL Commits](https://img.shields.io/github/commit-activity/t/apache/opendal?authorFilter=jbampton&label=opendal&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/opendal/graphs/contributors)
-[![Apache OpenOffice Commits](https://img.shields.io/github/commit-activity/t/apache/openoffice?authorFilter=jbampton&label=openoffice&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/openoffice/graphs/contributors)
-[![Apache Petri Commits](https://img.shields.io/github/commit-activity/t/apache/petri?authorFilter=jbampton&label=petri&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/petri/graphs/contributors)
-[![Apache Sedona Commits](https://img.shields.io/github/commit-activity/t/apache/sedona?authorFilter=jbampton&label=sedona&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/sedona/graphs/contributors)
-[![Apache Shiro Commits](https://img.shields.io/github/commit-activity/t/apache/shiro?authorFilter=jbampton&label=shiro&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/shiro/graphs/contributors)
-[![Apache Whimsy Commits](https://img.shields.io/github/commit-activity/t/apache/whimsy?authorFilter=jbampton&label=whimsy&style=for-the-badge&logo=apache&logoColor=red&cacheSeconds=86400)](https://github.com/apache/whimsy/graphs/contributors)
-
-</div>
-
 ---
 
 <div>
