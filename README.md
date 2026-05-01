@@ -19,6 +19,19 @@
 
 </div>
 
+<div align="center">
+
+[![Apache Airflow Commits](https://img.shields.io/github/commit-activity/t/apache/airflow?authorFilter=jbampton&label=airflow&style=for-the-badge&logo=apache&logoColor=red)](https://github.com/apache/airflow/graphs/contributors)
+[![Apache APISIX Commits](https://img.shields.io/github/commit-activity/t/apache/apisix?authorFilter=jbampton&label=apisix&style=for-the-badge&logo=apache&logoColor=red)](https://github.com/apache/apisix/graphs/contributors)
+[![Apache CloudStack Commits](https://img.shields.io/github/commit-activity/t/apache/cloudstack?authorFilter=jbampton&label=cloudstack&style=for-the-badge&logo=apache&logoColor=red)](https://github.com/apache/cloudstack/graphs/contributors)
+[![Apache CloudStack WWW Commits](https://img.shields.io/github/commit-activity/t/apache/cloudstack-www?authorFilter=jbampton&label=cloudStack-www&style=for-the-badge&logo=apache&logoColor=red)](https://github.com/apache/cloudstack-www/graphs/contributors)
+[![Apache Lucenenet Commits](https://img.shields.io/github/commit-activity/t/apache/lucenenet?authorFilter=jbampton&label=lucenenet&style=for-the-badge&logo=apache&logoColor=red)](https://github.com/apache/lucenenet/graphs/contributors)
+[![Apache OpenOffice Commits](https://img.shields.io/github/commit-activity/t/apache/openoffice?authorFilter=jbampton&label=openoffice&style=for-the-badge&logo=apache&logoColor=red)](https://github.com/apache/openoffice/graphs/contributors)
+[![Apache Sedona Commits](https://img.shields.io/github/commit-activity/t/apache/sedona?authorFilter=jbampton&label=sedona&style=for-the-badge&logo=apache&logoColor=red)](https://github.com/apache/sedona/graphs/contributors)
+[![Apache Shiro Commits](https://img.shields.io/github/commit-activity/t/apache/shiro?authorFilter=jbampton&label=shiro&style=for-the-badge&logo=apache&logoColor=red)](https://github.com/apache/shiro/graphs/contributors)
+
+</div>
+
 ---
 
 <div>
