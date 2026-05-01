@@ -14,8 +14,8 @@
 [![Rails Top 200](https://img.shields.io/badge/Rails_Contributors-Top_200-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://contributors.rubyonrails.org/)
 [![curl Contributor](https://img.shields.io/badge/curl_Contributor-3,660+_Strong-003a5c?style=for-the-badge&logo=curl&logoColor=white)](https://curl.se/docs/thanks.html)
 [![Codewars Rank](https://img.shields.io/badge/Codewars-Top_500-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/leaderboard)
-[![Committers.top Rank](https://img.shields.io/badge/Committers.top_Australia_Rank-Top_100-007ec6?style=for-the-badge&logo=github&labelColor=555555)](https://user-badge.committers.top/australia/jbampton)
-[![Gitista Australia Rank](https://img.shields.io/badge/Gitista_Australia-Rank_Top_10-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://gitista.com/australia/)
+[![Committers.top Rank](https://img.shields.io/badge/Committers.top_Australia-Top_100-007ec6?style=for-the-badge&logo=github&labelColor=555555)](https://user-badge.committers.top/australia/jbampton)
+[![Gitista Australia Rank](https://img.shields.io/badge/Gitista_Australia-Top_10-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://gitista.com/australia/)
 
 </div>
 
