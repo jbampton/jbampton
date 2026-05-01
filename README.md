@@ -29,6 +29,7 @@
 [![Apache OpenOffice Commits](https://img.shields.io/github/commit-activity/t/apache/openoffice?authorFilter=jbampton&label=openoffice&style=for-the-badge&logo=apache&logoColor=red)](https://github.com/apache/openoffice/graphs/contributors)
 [![Apache Sedona Commits](https://img.shields.io/github/commit-activity/t/apache/sedona?authorFilter=jbampton&label=sedona&style=for-the-badge&logo=apache&logoColor=red)](https://github.com/apache/sedona/graphs/contributors)
 [![Apache Shiro Commits](https://img.shields.io/github/commit-activity/t/apache/shiro?authorFilter=jbampton&label=shiro&style=for-the-badge&logo=apache&logoColor=red)](https://github.com/apache/shiro/graphs/contributors)
+[![Apache Whimsy Commits](https://img.shields.io/github/commit-activity/t/apache/whimsy?authorFilter=jbampton&label=whimsy&style=for-the-badge&logo=apache&logoColor=red)](https://github.com/apache/whimsy/graphs/contributors)
 
 </div>
 
