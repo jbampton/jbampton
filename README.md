@@ -103,6 +103,7 @@ Some notable clues and answers from various publications
 
 ### Level Two
 
+- Treat in barrel for redhead? (6,3). Ginger nut
 - Everything's ready: eg lass mostly prepared. (3,7,2). All systems go
 - Biblical location of endangered variety. (6,2,4). Garden of Eden
 - Go wild - show off your locks. (3,4,4,4). Let your hair down
