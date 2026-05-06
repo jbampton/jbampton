@@ -41,7 +41,7 @@
 
 ## May 6th, 2026
 
-- [The Times Quick Cryptic Crossword Book 1](https://www.amazon.com.au/Times-Quick-Cryptic-Crossword-book/dp/0008139814/) features 80 world-famous crossword puzzles that were originally published in 2014 the year the series first started. From this books one page introduction by Richard Rogan I originally learned about the "NINA" or hidden theme that a puzzle setter will sometimes include. An example puzzle with a quick five page guide on how to solve it follows the introduction. A small book with just 192 pages good to carry around in my bag. [The Times](https://en.wikipedia.org/wiki/The_Times) is a newspaper that started in 1785, a quality publication and I also like their chess books.
+- [The Times Quick Cryptic Crossword Book 1](https://www.amazon.com.au/Times-Quick-Cryptic-Crossword-book/dp/0008139814/) features 80 world-famous crossword puzzles that were originally published in 2014 the year the series first started. From this books one page introduction by [Richard Rogan](https://timesforthetimes.co.uk/richard-rogan-rip) I originally learned about the "NINA" or hidden theme that a puzzle setter will sometimes include. An example puzzle with a quick five page guide on how to solve it follows the introduction. A small book with just 192 pages good to carry around in my bag. [The Times](https://en.wikipedia.org/wiki/The_Times) is a newspaper that started in 1785, a quality publication and I also like their chess books.
 
 ## Mar 22nd, 2026
 
