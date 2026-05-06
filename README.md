@@ -39,9 +39,13 @@
 
 # Some things about me
 
+## May 6th, 2026
+
+- [The Times Quick Cryptic Crossword Book 1](https://www.amazon.com.au/Times-Quick-Cryptic-Crossword-book/dp/0008139814/) features 80 world-famous crossword puzzles that were originally published in 2014 the year the series first started. From this books one page introduction by Richard Rogan I originally learned about the "NINA" or hidden theme that a puzzle setter will sometimes include. An example puzzle with a quick five page guide on how to solve it follows the introduction. A small book with just 192 pages good to carry around in my bag. [The Times](https://en.wikipedia.org/wiki/The_Times) is a newspaper that started in 1785, a quality publication and I also like their chess books.
+
 ## Mar 22nd, 2026
 
-- Recently bought two new books: The Sun Two-Speed Crossword Collection #12 and Daily Mail The Big Book of Cryptic Crosswords Volume 8. Both crossword books are fantastic and I really like the Two-Speed style with both cryptic and quick clues for each puzzle. [The Sun](https://en.wikipedia.org/wiki/The_Sun_(United_Kingdom)) is a British tabloid newspaper, published by the News Group Newspapers division of News UK, itself a wholly owned subsidiary of Lachlan Murdoch's [News Corp](https://en.wikipedia.org/wiki/News_Corp). The [Daily Mail](https://en.wikipedia.org/wiki/Daily_Mail), often known simply as the Mail, is a British daily middle-market tabloid conservative newspaper founded in 1896 and published in London.
+- Recently bought two new books: [The Sun Two-Speed Crossword Collection #12](https://www.amazon.com.au/Two-Speed-Crossword-Collection-two-one/dp/0008673195) and [Daily Mail The Big Book of Cryptic Crosswords Volume 8](https://www.amazon.com.au/Daily-Mail-Book-Cryptic-Crosswords/dp/0600635678). Both crossword books are fantastic and I really like the Two-Speed style with both cryptic and quick clues for each puzzle. [The Sun](https://en.wikipedia.org/wiki/The_Sun_(United_Kingdom)) is a British tabloid newspaper, published by the News Group Newspapers division of News UK, itself a wholly owned subsidiary of Lachlan Murdoch's [News Corp](https://en.wikipedia.org/wiki/News_Corp). The [Daily Mail](https://en.wikipedia.org/wiki/Daily_Mail), often known simply as the Mail, is a British daily middle-market tabloid conservative newspaper founded in 1896 and published in London.
 
 ## Feb 20th, 2026
 
