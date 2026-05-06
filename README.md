@@ -21,6 +21,12 @@
 
 ---
 
+# Special Thank You
+
+Thanks to all the authors and publishers of the great books listed in this readme. I have been collecting books for over 40 years and I recommend that you should buy some of the books listed here. Promoting the books and authors using mostly Amazon links for consistentency but usually I buy the books either locally at Dymocks, QBD, The Cystic Fibrosis Bookshop or at other online stores. 
+
+---
+
 # Some things about me
 
 ## May 6th, 2026
@@ -141,16 +147,19 @@ The evolution of chess literature has shifted significantly toward user-friendly
 
 High-quality chess books use large, high-contrast diagrams with modern piece fonts that are much easier on the eyes than older, cramped layouts. They provide frequent illustrations so you can follow the action without needing to set up a physical board for every move. Better books also categorise puzzles by theme and include verbal explanations of the logic, rather than just listing long strings of confusing notation. Finally, reputable modern publishers use superior paper and ink, ensuring the "black and white" contrast is sharp and the pages don't bleed or fade.
 
-All books in the list below are high quality publications and personally recommended by John.  More books to be added soon.
+All books in the list below are high quality publications and personally recommended. More books to be added soon.
 
-| Title | Author | Publisher | Date |
-| ----- | ------ | --------- | ---- |
-| Chess Winning Moves: 540 Chess Puzzles from Tournament Play | Byron Jacobs | The Times | 2025 |
-| The Chess Player's Bible: Illustrated Strategies For Staying Ahead Of The Game; Second Edition | Eade & Lawrence | Apple Press; A QUARTO BOOK | 2014 |
+| Title | Author | Publisher | Date | Type | # of Pages |
+| ----- | ------ | --------- | ---- | ---- | ---------- |
+| Chess Winning Moves: 540 Chess Puzzles from Tournament Play | Byron Jacobs | The Times | 2025 | Paperback | 240 |
+| Learn Chess From The Greats | Peter J. Tamburro, Jr. | Dover Publications | Published in 2000 this edition printed in 2022 | Paperback | 156+ |
+| The Chess Player's Bible: Illustrated Strategies For Staying Ahead Of The Game; Second Edition | Eade & Lawrence | Apple Press; A QUARTO BOOK | 2014 | Ring bound hardcover | 288 |
 
 ## Chess References in Dictionaries
 
-- [The Bantam Crossword Dictionary](https://www.amazon.com.au/Bantam-Crossword-Dictionary-Walter-Glanze/dp/0553263757): The Easy-to-Use, Easy-to-Read Classic Handbook for Today's Puzzle Solvers. Featuring 40 Special Tables, Plus an Exclusive Long-Word Finder. Reissue Edition November 2007
+A lot of the dictionaries below use different notation to markup words and phrases. More work to be done on markup soon.
+
+- [The Bantam Crossword Dictionary](https://www.amazon.com.au/Bantam-Crossword-Dictionary-Walter-Glanze/dp/0553263757): The Easy-to-Use, Easy-to-Read Classic Handbook for Today's Puzzle Solvers. Featuring 40 Special Tables, Plus an Exclusive Long-Word Finder. Reissue Edition November 2007. This dictionary is a widely used reference handbook for crossword enthusiasts, notably featuring over 50,000 clues and 160,000 solutions. Edited by Walter D. Glanze and Jerome Fried, it is designed for both home and travel use, organized alphabetically for quick reference.
   - **chess defeat** / MATE; CHECKMATE
   - **chess move** / FORK; CASTLE; FIANCHETTO
   - **chess opening** / PIRC; DEBUT; GAMBIT; RUYLOPEZ
@@ -160,8 +169,15 @@ All books in the list below are high quality publications and personally recomme
 
   In [Aron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch)'s very famous book `My System` he describes an isolated pawn on the d-file as an isolated queen pawn or simply an `isolani`.
 
-- [Macquarie Budget Dictionary: Australia's National Dictionary](https://www.amazon.com.au/Macquarie-Budget-Dictionary/dp/1761562754/). This edition published in 2004.
+- [Collins French Dictionary: Pocket Edition](https://www.amazon.com.au/Collins-French-Dictionary-Pocket-Portable/dp/0008183627): Packed with words for when you are on the move. Eighth Edition published in 2017. This dictionary is a portable bilingual dictionary published by HarperCollins. It is designed for learners, travelers, and business professionals, offering modern coverage of French and English.
+  - **èchec** nm failure; (Èchecs): **~ et mat/au roi** checkmate/check;
+  - **èchecs** nmpl (jeu) chess sg; **tenir en ~** to hold in check
+
+- [Macquarie Budget Dictionary: Australia's National Dictionary](https://www.amazon.com.au/Macquarie-Budget-Dictionary/dp/1761562754/). This edition published in 2004. This dictionary is a recognized, compact, and affordable reference for Australian English, often referred to as Australia's national dictionary. It is designed for daily use at home, school, or the office.
   - **chess** n. a game played by two persons, each with sixteen pieces, on a chequered board. 
+
+- [The New Comprehensive A-Z Crossword Dictionary: Compiled by Edy Garcia Schaffer](https://www.ebay.com.au/p/95793516) is a widely recognized, top-selling reference for crossword enthusiasts, often cited as containing over 225,000 entries and 50,000 new words in its revised editions. The 1996 printing is a popular paperback edition, frequently listed as a comprehensive guide spanning over 1,300 pages.
+  ...
 
 ---
 
