@@ -205,8 +205,8 @@ A lot of the dictionaries below use different notation to markup words and phras
   <img alt="Jada Toys Metalfigs" src="images/metalfigs-rick-mayor-alien.jpg">
 </a>
 
-# BasketBall
+# Basketball
 
-Really enjoy taking my Molten Ball out for a trip around the town. A smaller six 6 ball with a great bounce really prefer this over my size 7 balls. If you know about basketballs you will know about the different balls some with the "dead" bounce. Several specialized basketballs are designed to feel "dead" (less bouncy) or feature thicker, heavier construction to improve handling and strength. These are often used for training, such as weighted or heavy trainer basketballs.
+Really enjoy taking my Molten ball out for a trip around the town. A smaller size 6 ball with a great bounce really prefer this over my size 7 balls. If you know about basketballs you will know about the different balls some with the "dead" bounce. Several specialized basketballs are designed to feel "dead" (less bouncy) or feature thicker, heavier construction to improve handling and strength. These are often used for training, such as weighted or heavy trainer basketballs.
 
 [![The Molten BG3200 Indoor / Outdoor Basketball: Size 6](images/molten-bg3200-series-basketball.jpg)](#)
