@@ -21,26 +21,11 @@
 
 ---
 
-<div>
-  <p><a href="https://www.jadatoys.com">Jada Toys</a>, Inc. is an American manufacturer of collectible scale model cars, action figures, radio controlled model vehicles, and dolls. It was founded in 1999 by Jack and May Li. <a href="https://en.wikipedia.org/wiki/Jada_Toys">Jada's</a> products are predominantly aimed at the collectible market, and are available and popular at retail outlets worldwide.</p>
-  <p>Jada Toys Metalfigs are highly collectible, stylized figurines made from 100% die-cast metal. They feature a heavy, premium feel with high-quality metallic paint and authentic character details. These figures come in various sizes, ranging from the tiny 1.65-inch Nano Metalfigs to larger 6-inch display pieces. While most are static, non-articulated poses, they cover massive franchises like Marvel, DC, Disney, and Transformers. They are popular for both play and display due to their durability and the availability of themed diorama sets.</p>
-  <hr>
-</div>
-<div align="center">
-  <a href="#">
-    <img src="images/metalfigs-3-morty-and-crew.jpeg" alt="Morty and Scooby-Doo Crew">
-  </a>
-  <p>
-    <a href="https://en.wikipedia.org/wiki/Morty_Smith">Morty Smith</a>, <a href="https://en.wikipedia.org/wiki/Shaggy_Rogers">Norville "Shaggy" Rogers</a>, <a href="https://en.wikipedia.org/wiki/Velma_Dinkley">Velma Dinkley</a>
-  </p>
-</div>
-
-<hr>
-
 # Some things about me
 
 ## May 6th, 2026
 
+- Tonight I am unboxing and the first new item I have opened is a pink [Faber-Castell](https://en.wikipedia.org/wiki/Faber-Castell) "Sleeve Doppelspitzer". The Faber-Castell Sleeve Doppelspitzer is an ergonomic, award-winning (ISPA Award 2007) double pencil sharpener with an integrated waste container, designed to sharpen both standard and jumbo graphite or colored pencils (up to 11mm diameter). Faber-Castell AG is a German privately held multinational manufacturer of pens, pencils, other office supplies (e.g., staplers, slide rules, erasers, rulers) and art supplies, as well as high-end writing instruments and luxury leather goods. Founded in 1761 Faber-Castell produces quality products.
 - [The Times Quick Cryptic Crossword Book 1](https://www.amazon.com.au/Times-Quick-Cryptic-Crossword-book/dp/0008139814/) features 80 world-famous crossword puzzles that were originally published in 2014 the year the series first started. From this books one page introduction by [Richard Rogan](https://timesforthetimes.co.uk/richard-rogan-rip) I originally learned about the "NINA" or hidden theme that a puzzle setter will sometimes include. An example puzzle with a quick five page guide on how to solve it follows the introduction. A small book with just 192 pages good to carry around in my bag. [The Times](https://en.wikipedia.org/wiki/The_Times) is a newspaper that started in 1785, a quality publication and I also like their chess books.
 
 ## Mar 22nd, 2026
@@ -56,10 +41,6 @@ far I have only worked on two types of puzzles: the Word Square and the Word Cha
 - Found a small `Simply Word Fill-Ins` [Puzzler](https://www.puzzler.com.au/magazines/) brand magazine issue number 87 with 100 puzzles from 2024 which cost $6.95 AUD. Whilst I did enjoy completing two fill-ins,
   I found it was really easy to complete them since the answers were given and you just had to fill-in the grid. I definitely prefer a much harder challenge.
 - Opened a [Spider-Man brand LEGO minifigure](https://www.lego.com/en-au/product/spider-man-across-the-spider-verse-71050) which cost $5 AUD from [Coles Supermarket](https://en.wikipedia.org/wiki/Coles_Supermarkets). There are 12 to collect and each minifigure comes in a blind pick small cardboard box. This one was the `Spider-Byte` minifigure the last packet on the shelf.
-
-<a href="https://www.lego.com/en-au/product/spider-man-across-the-spider-verse-71050">
-  <img src="images/spider-man.jpg" alt="LEGO minifigures Spider-Man">
-</a>
 
 ## 2026
 
@@ -78,10 +59,6 @@ far I have only worked on two types of puzzles: the Word Square and the Word Cha
 - I'm happy with the QX Chess small magnetic foldable chess board that I am now using on my work desk.
   [No. QX2677](https://www.mrtoys.com.au/games/board-games/chess-sets/magnetic-chess-47245.html) with black and white pieces and black and gray colored squares
   originally bought for $10 AUD
-
----
-
-[![Metalfigs Daphne, Woody and Bumble Bee](images/metalfigs-daphne-woody-bee.jpeg)](#)
 
 ---
 
@@ -116,6 +93,32 @@ Some notable clues and answers from various publications
 ### Mind Blown
 
 - Sound asleep but not in when Dracula arrives? (3,3,3,5). Out for the count
+
+---
+
+<a href="https://www.lego.com/en-au/product/spider-man-across-the-spider-verse-71050">
+  <img src="images/spider-man.jpg" alt="LEGO minifigures Spider-Man">
+</a>
+
+---
+
+<div>
+  <p><a href="https://www.jadatoys.com">Jada Toys</a>, Inc. is an American manufacturer of collectible scale model cars, action figures, radio controlled model vehicles, and dolls. It was founded in 1999 by Jack and May Li. <a href="https://en.wikipedia.org/wiki/Jada_Toys">Jada's</a> products are predominantly aimed at the collectible market, and are available and popular at retail outlets worldwide.</p>
+  <p>Jada Toys Metalfigs are highly collectible, stylized figurines made from 100% die-cast metal. They feature a heavy, premium feel with high-quality metallic paint and authentic character details. These figures come in various sizes, ranging from the tiny 1.65-inch Nano Metalfigs to larger 6-inch display pieces. While most are static, non-articulated poses, they cover massive franchises like Marvel, DC, Disney, and Transformers. They are popular for both play and display due to their durability and the availability of themed diorama sets.</p>
+  <hr>
+</div>
+<div align="center">
+  <a href="#">
+    <img src="images/metalfigs-3-morty-and-crew.jpeg" alt="Morty and Scooby-Doo Crew">
+  </a>
+  <p>
+    <a href="https://en.wikipedia.org/wiki/Morty_Smith">Morty Smith</a>, <a href="https://en.wikipedia.org/wiki/Shaggy_Rogers">Norville "Shaggy" Rogers</a>, <a href="https://en.wikipedia.org/wiki/Velma_Dinkley">Velma Dinkley</a>
+  </p>
+</div>
+
+---
+
+[![Metalfigs Daphne, Woody and Bumble Bee](images/metalfigs-daphne-woody-bee.jpeg)](#)
 
 ---
 
