@@ -129,17 +129,21 @@ Some notable clues and answers from various publications
 
 ---
 
-## Printed Chess Books
+<div align="center">
+
+  <h1>Wow !! You just found John's growing Chess World ♟️ </h1>
+  
+</div>
 
 ### The evolution of chess literature has shifted significantly toward user-friendly design, prioritizing visualization and scannability over the dense, notation-heavy layouts of the 20th century.
 
 High-quality chess books use large, high-contrast diagrams with modern piece fonts that are much easier on the eyes than older, cramped layouts. They provide frequent illustrations so you can follow the action without needing to set up a physical board for every move. Better books also categorise puzzles by theme and include verbal explanations of the logic, rather than just listing long strings of confusing notation. Finally, reputable modern publishers use superior paper and ink, ensuring the "black and white" contrast is sharp and the pages don't bleed or fade.
 
-All books in the list below are high quality publications and personally recommended by me.  More books to be added soon.
+All books in the list below are high quality publications and personally recommended by John.  More books to be added soon.
 
 ### Book List
 
 | Title | Author | Publisher | Date |
 | ----- | ------ | --------- | ---- |
 | Chess Winning Moves: 540 Chess Puzzles from Tournament Play | Byron Jacobs | The Times | 2025 |
-
+| The Chess Player's Bible: Illustrated Strategies For Staying Ahead Of The Game; Second Edition | Eade & Lawrence | Apple Press; A QUARTO BOOK | 2014 |
