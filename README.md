@@ -151,14 +151,17 @@ All books in the list below are high quality publications and personally recomme
 ## Chess References in Dictionaries
 
 - [The Bantam Crossword Dictionary](https://www.amazon.com.au/Bantam-Crossword-Dictionary-Walter-Glanze/dp/0553263757): The Easy-to-Use, Easy-to-Read Classic Handbook for Today's Puzzle Solvers. Featuring 40 Special Tables, Plus an Exclusive Long-Word Finder. Reissue Edition November 2007
-  - chess defeat / MATE; CHECKMATE
-  - chess move / FORK; CASTLE; FIANCHETTO
-  - chess opening / PIRC; DEBUT; GAMBIT; RUYLOPEZ
-  - chess piece / MAN; KING; PAWN; ROOK; QUEEN; BISHOP; CASTLE; KNIGHT
-  - chess pieces / MEN
-  - chess term / MATE; ISOLANI; EXCHANGE; ENPASSANT; OPPOSITION
+  - **chess defeat** / MATE; CHECKMATE
+  - **chess move** / FORK; CASTLE; FIANCHETTO
+  - **chess opening** / PIRC; DEBUT; GAMBIT; RUYLOPEZ
+  - **chess piece** / MAN; KING; PAWN; ROOK; QUEEN; BISHOP; CASTLE; KNIGHT
+  - **chess pieces** / MEN
+  - **chess term** / MATE; ISOLANI; EXCHANGE; ENPASSANT; OPPOSITION
 
-  In [Aron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch)'s very famous book My System he describes an isolated pawn on the d-file as an isolated queen pawn or simply an `isolani`.
+  In [Aron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch)'s very famous book `My System` he describes an isolated pawn on the d-file as an isolated queen pawn or simply an `isolani`.
+
+- [Macquarie Budget Dictionary: Australia's National Dictionary](https://www.amazon.com.au/Macquarie-Budget-Dictionary/dp/1761562754/). This edition published in 2004.
+  - **chess** n. a game played by two persons, each with sixteen pieces, on a chequered board. 
 
 ---
 
@@ -168,7 +171,7 @@ All books in the list below are high quality publications and personally recomme
 
 [![](images/new/start-with-ruby.jpg)](#)
 
-# 45+ Years Of Collecting Books
+# 40+ Years Of Collecting Books
 
 [![Bookshelf 1](images/books-1.jpg)](#)
 
