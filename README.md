@@ -69,17 +69,17 @@ far I have only worked on two types of puzzles: the Word Square and the Word Cha
 
 ---
 
-## [Cryptic Crosswords](https://en.wikipedia.org/wiki/Cryptic_crossword)
+# [Cryptic Crosswords](https://en.wikipedia.org/wiki/Cryptic_crossword)
 
 Some notable clues and answers from various publications
 
-### Open Your Mind
+## Open Your Mind
 
 - Fuel exploded in tube. (4). Flue
 - Loves cracking answer. (5). Solve
 - Pay no attention to damaged region. (6). Ignore
 
-### Level One
+## Level One
 
 - Opening book beside Central Park tavern. (3). Bar
 - Leaves note with answer. (3). Tea
@@ -89,7 +89,7 @@ Some notable clues and answers from various publications
 - Nun with grin switched on. (7). Running
 - PC's speed makes music session a failure. (8). Gigaflop
 
-### Level Two
+## Level Two
 
 - Treat in barrel for redhead? (6,3). Ginger nut
 - Everything's ready: eg lass mostly prepared. (3,7,2). All systems go
@@ -97,7 +97,7 @@ Some notable clues and answers from various publications
 - Go wild - show off your locks. (3,4,4,4). Let your hair down
 - Modern, before sixty seconds have passed. (2,2,3,6). Up to the minute
 
-### Mind Blown
+## Mind Blown
 
 - Sound asleep but not in when Dracula arrives? (3,3,3,5). Out for the count
 
