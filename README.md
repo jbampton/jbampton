@@ -29,13 +29,17 @@ Thanks to all the authors and publishers of the great books listed in this readm
 
 # Some things about me
 
-## May 6th, 2026
+## Thursday May 7th, 2026
+
+From [The Big Issue](https://thebigissue.org.au) magazine edition 739 on the 20th June 2025 in `The Regulars` section `Streetsheet`, "MBK" describes his favorite series of books as the [Riftwar Cycle](https://en.wikipedia.org/wiki/The_Riftwar_Cycle). I read about 10 of these fantastic books when I was young and can appreciate "MBK" and his love of [Raymond E Feist](https://en.wikipedia.org/wiki/Raymond_E._Feist). The Riftwar Cycle is a sprawling epic fantasy series created by American author Raymond E. Feist. Spanning 30 books written over three decades (1982–2013), it is one of the most influential "high fantasy" sagas in modern literature. At its core, the series follows the history of the world of Midkemia and the various "Rifts" (magical portals) that connect it to other worlds, leading to planet-scale wars, demonic invasions, and cosmic shifts.
+
+## Wednesday May 6th, 2026
 
 - Tonight I am unboxing and the first new item I have opened is a pink [Faber-Castell](https://en.wikipedia.org/wiki/Faber-Castell) "Sleeve Doppelspitzer". The Faber-Castell Sleeve Doppelspitzer is an ergonomic, award-winning (ISPA Award 2007) double pencil sharpener with an integrated waste container, designed to sharpen both standard and jumbo graphite or colored pencils (up to 11mm diameter). [Faber-Castell](https://www.faber-castell.com) AG is a German privately held multinational manufacturer of pens, pencils, other office supplies (e.g., staplers, slide rules, erasers, rulers) and art supplies, as well as high-end writing instruments and luxury leather goods. Founded in 1761 Faber-Castell produces quality products.
 - [The Times Quick Cryptic Crossword Book 1](https://www.amazon.com.au/Times-Quick-Cryptic-Crossword-book/dp/0008139814/) features 80 world-famous crossword puzzles that were originally published in 2014 the year the series first started. From this books one page introduction by [Richard Rogan](https://timesforthetimes.co.uk/richard-rogan-rip) I originally learned about the "NINA" or hidden theme that a puzzle setter will sometimes include. An example puzzle with a quick five page guide on how to solve it follows the introduction. A small book with just 192 pages good to carry around in my bag. [The Times](https://en.wikipedia.org/wiki/The_Times) is a newspaper that started in 1785, a quality publication and I also like their chess books.
 - I'm a fan of Jeffrey Archers books and recently I read [Twelve Red Herrings](https://en.wikipedia.org/wiki/Twelve_Red_Herrings) for the second time after about 20 years. Twelve Red Herrings is a 1994 collection of twelve suspenseful short stories. The book is famous for its twist endings, where Archer challenges readers to identify a "red herring"—a misleading clue or diversion—hidden within each narrative. [Jeffrey Howard Archer](https://en.wikipedia.org/wiki/Jeffrey_Archer), Baron Archer of Weston-super-Mare (born 15 April 1940) is an English novelist and former politician. He was the Member of Parliament (MP) for Louth (Lincolnshire) from 1969 to 1974, but did not seek re-election after almost going bankrupt. Archer revived his fortunes as a novelist. His novel Kane and Abel (1979) remains one of the best-selling books in the world, with an estimated 34 million copies sold worldwide. Overall his books have sold more than 320 million copies worldwide.
 
-## Mar 22nd, 2026
+## March 22nd, 2026
 
 - Recently bought two new books: [The Sun Two-Speed Crossword Collection #12](https://www.amazon.com.au/Two-Speed-Crossword-Collection-two-one/dp/0008673195) and [Daily Mail The Big Book of Cryptic Crosswords Volume 8](https://www.amazon.com.au/Daily-Mail-Book-Cryptic-Crosswords/dp/0600635678). Both crossword books are fantastic and I really like the Two-Speed style with both cryptic and quick clues for each puzzle. [The Sun](https://en.wikipedia.org/wiki/The_Sun_(United_Kingdom)) is a British tabloid newspaper, published by the News Group Newspapers division of News UK, itself a wholly owned subsidiary of Lachlan Murdoch's [News Corp](https://en.wikipedia.org/wiki/News_Corp). The [Daily Mail](https://en.wikipedia.org/wiki/Daily_Mail), often known simply as the Mail, is a British daily middle-market tabloid conservative newspaper founded in 1896 and published in London.
 
@@ -125,7 +129,7 @@ All books in the list below are high quality publications and personally recomme
 
 ## Chess References in Dictionaries
 
-A lot of the dictionaries below use different notation to markup words and phrases. More work to be done on markup soon.
+A lot of the dictionaries below use different notation to markup words and phrases. More work to be done on markup and links soon.
 
 - [The Bantam Crossword Dictionary](https://www.amazon.com.au/Bantam-Crossword-Dictionary-Walter-Glanze/dp/0553263757): The Easy-to-Use, Easy-to-Read Classic Handbook for Today's Puzzle Solvers. Featuring 40 Special Tables, Plus an Exclusive Long-Word Finder. Reissue Edition November 2007. This dictionary is a widely used reference handbook for crossword enthusiasts, notably featuring over 50,000 clues and 160,000 solutions. Edited by Walter D. Glanze and Jerome Fried, it is designed for both home and travel use, organized alphabetically for quick reference.
   - **chess defeat** / MATE; CHECKMATE
@@ -137,9 +141,15 @@ A lot of the dictionaries below use different notation to markup words and phras
 
   In [Aron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch)'s very famous book [My System](https://en.wikipedia.org/wiki/My_System) he describes an isolated pawn on the d-file as an isolated queen pawn or simply an `isolani`.
 
+- `BBC English: SÖZLÜK` an English / Turkish dictionary first published in 1990 with my edition in 1998 is a small 383 page book created by ABC KİTABEVİ A.Ş. A recognized bilingual pocket dictionary ("Cep Boy") tailored for Turkish speakers learning English. 
+  - **chess** /çes/ n satranç 
+
 - [Collins French Dictionary: Pocket Edition](https://www.amazon.com.au/Collins-French-Dictionary-Pocket-Portable/dp/0008183627): Packed with words for when you are on the move. Eighth Edition published in 2017. This dictionary is a portable bilingual dictionary published by HarperCollins. It is designed for learners, travelers, and business professionals, offering modern coverage of French and English.
   - **èchec** nm failure; (Èchecs): **\~ et mat/au roi** checkmate/check;
   - **èchecs** nmpl (jeu) chess sg; **tenir en \~** to hold in check
+
+- [The Little Macquarie Dictionary](https://www.amazon.com.au/Macquarie-Little-Dictionary/dp/1761562738) first published in 1983 with my copy printed in 1997 is a portable, concise version of the standard Macquarie Dictionary, which is widely regarded as the authority on Australian English. A new version was printed in 2024.
+  - **chess**, n. a game of battle strategy, played by 2 persons on a chequered board.
 
 - [Macquarie Budget Dictionary: Australia's National Dictionary](https://www.amazon.com.au/Macquarie-Budget-Dictionary/dp/1761562754/). This edition published in 2004. This dictionary is a recognized, compact, and affordable reference for Australian English, often referred to as Australia's national dictionary. It is designed for daily use at home, school, or the office.
   - **chess** n. a game played by two persons, each with sixteen pieces, on a chequered board. 
