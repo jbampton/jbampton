@@ -128,7 +128,7 @@ All books in the list below are high quality publications and personally recomme
 | Learn Chess From The Greats | Peter J. Tamburro, Jr. | Dover Publications | Published in 2000 this edition printed in 2022 | Paperback | 156+ |
 | The Chess Player's Bible: Illustrated Strategies For Staying Ahead Of The Game; Second Edition | Eade & Lawrence | Apple Press; A QUARTO BOOK | 2014 | Ring bound hardcover | 288 |
 
-## Chess References in Dictionaries
+## Chess References in Books and Magazines
 
 A lot of the dictionaries below use different notation to markup words and phrases. More work to be done on markup and links soon.
 
@@ -141,6 +141,8 @@ A lot of the dictionaries below use different notation to markup words and phras
   - **chess term** / MATE; ISOLANI; EXCHANGE; ENPASSANT; OPPOSITION
 
   In [Aron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch)'s very famous book [My System](https://en.wikipedia.org/wiki/My_System) he describes an isolated pawn on the d-file as an isolated queen pawn or simply an `isolani`.
+
+- From [The Big Issue](https://thebigissue.org.au) magazine edition 743 on 15th August 2025 in `The Regulars` section `Streetsheet`, Simon plays chess with Renee in Simon's Game Plan. Simon from [Adelaide](https://en.wikipedia.org/wiki/Adelaide) usually opens with the [Sicilian Defence](https://en.wikipedia.org/wiki/Sicilian_Defence), or the [Queen's Gambit](https://en.wikipedia.org/wiki/Queen%27s_Gambit).
 
 - `BBC English: SÖZLÜK` an English / Turkish dictionary first published in 1990 with my edition in 1998 is a small 383 page book created by ABC KİTABEVİ A.Ş. A recognized bilingual pocket dictionary ("Cep Boy") tailored for Turkish speakers learning English. 
   - **chess** /çes/ n satranç 
