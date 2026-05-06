@@ -23,7 +23,7 @@
 
 # Special Thank You
 
-Thanks to all the authors and publishers of the great books listed in this readme. I have been collecting books for over 40 years and I recommend that you should buy some of the books listed here. Promoting the books and authors using mostly Amazon links for consistentency but usually I buy the books either locally at Dymocks, QBD, The Cystic Fibrosis Bookshop or at other online stores. 
+Thanks to all the authors and publishers of the great books listed in this readme. I have been collecting books for over 40 years and I recommend that you should buy some of the books listed here. Promoting the books and authors using mostly Amazon links for consistentency but usually I buy the books either locally at [Dymocks](https://www.dymocks.com.au), [QBD](https://www.qbd.com.au), The [Cystic Fibrosis Bookshop](https://www.cfqld.org.au/cystic-fibrosis-queensland-bookshop/) or at other online stores. 
 
 ---
 
@@ -103,38 +103,6 @@ Some notable clues and answers from various publications
 
 ---
 
-<a href="https://www.lego.com/en-au/product/spider-man-across-the-spider-verse-71050">
-  <img src="images/spider-man.jpg" alt="LEGO minifigures Spider-Man">
-</a>
-
----
-
-<div>
-  <p><a href="https://www.jadatoys.com">Jada Toys</a>, Inc. is an American manufacturer of collectible scale model cars, action figures, radio controlled model vehicles, and dolls. It was founded in 1999 by Jack and May Li. <a href="https://en.wikipedia.org/wiki/Jada_Toys">Jada's</a> products are predominantly aimed at the collectible market, and are available and popular at retail outlets worldwide.</p>
-  <p>Jada Toys Metalfigs are highly collectible, stylized figurines made from 100% die-cast metal. They feature a heavy, premium feel with high-quality metallic paint and authentic character details. These figures come in various sizes, ranging from the tiny 1.65-inch Nano Metalfigs to larger 6-inch display pieces. While most are static, non-articulated poses, they cover massive franchises like Marvel, DC, Disney, and Transformers. They are popular for both play and display due to their durability and the availability of themed diorama sets.</p>
-  <hr>
-</div>
-<div align="center">
-  <a href="#">
-    <img src="images/metalfigs-3-morty-and-crew.jpeg" alt="Morty and Scooby-Doo Crew">
-  </a>
-  <p>
-    <a href="https://en.wikipedia.org/wiki/Morty_Smith">Morty Smith</a>, <a href="https://en.wikipedia.org/wiki/Shaggy_Rogers">Norville "Shaggy" Rogers</a>, <a href="https://en.wikipedia.org/wiki/Velma_Dinkley">Velma Dinkley</a>
-  </p>
-</div>
-
----
-
-[![Metalfigs Daphne, Woody and Bumble Bee](images/metalfigs-daphne-woody-bee.jpeg)](#)
-
----
-
-<a href="#">
-  <img alt="Jada Toys Metalfigs" src="images/metalfigs-rick-mayor-alien.jpg">
-</a>
-
----
-
 <div align="center">
 
   <h1>Wow !! You just found John's growing Chess World ♟️ </h1>
@@ -167,11 +135,11 @@ A lot of the dictionaries below use different notation to markup words and phras
   - **chess pieces** / MEN
   - **chess term** / MATE; ISOLANI; EXCHANGE; ENPASSANT; OPPOSITION
 
-  In [Aron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch)'s very famous book `My System` he describes an isolated pawn on the d-file as an isolated queen pawn or simply an `isolani`.
+  In [Aron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch)'s very famous book [My System](https://en.wikipedia.org/wiki/My_System) he describes an isolated pawn on the d-file as an isolated queen pawn or simply an `isolani`.
 
 - [Collins French Dictionary: Pocket Edition](https://www.amazon.com.au/Collins-French-Dictionary-Pocket-Portable/dp/0008183627): Packed with words for when you are on the move. Eighth Edition published in 2017. This dictionary is a portable bilingual dictionary published by HarperCollins. It is designed for learners, travelers, and business professionals, offering modern coverage of French and English.
-  - **èchec** nm failure; (Èchecs): **~ et mat/au roi** checkmate/check;
-  - **èchecs** nmpl (jeu) chess sg; **tenir en ~** to hold in check
+  - **èchec** nm failure; (Èchecs): **\~ et mat/au roi** checkmate/check;
+  - **èchecs** nmpl (jeu) chess sg; **tenir en \~** to hold in check
 
 - [Macquarie Budget Dictionary: Australia's National Dictionary](https://www.amazon.com.au/Macquarie-Budget-Dictionary/dp/1761562754/). This edition published in 2004. This dictionary is a recognized, compact, and affordable reference for Australian English, often referred to as Australia's national dictionary. It is designed for daily use at home, school, or the office.
   - **chess** n. a game played by two persons, each with sixteen pieces, on a chequered board. 
@@ -185,7 +153,7 @@ A lot of the dictionaries below use different notation to markup words and phras
 
 [![Books vs Cigarettes back cover](images/books-vs-cigarettes.jpeg)](#)
 
-[![](images/new/start-with-ruby.jpg)](#)
+[![Start with Ruby back cover](images/new/start-with-ruby.jpg)](#)
 
 # 40+ Years Of Collecting Books
 
@@ -194,6 +162,38 @@ A lot of the dictionaries below use different notation to markup words and phras
 [![Bookshelf 2](images/books-2.jpg)](#)
 
 [![Bookshelf 3](images/books-3.jpg)](#)
+
+---
+
+<a href="https://www.lego.com/en-au/product/spider-man-across-the-spider-verse-71050">
+  <img src="images/spider-man.jpg" alt="LEGO minifigures Spider-Man">
+</a>
+
+---
+
+<div>
+  <p><a href="https://www.jadatoys.com">Jada Toys</a>, Inc. is an American manufacturer of collectible scale model cars, action figures, radio controlled model vehicles, and dolls. It was founded in 1999 by Jack and May Li. <a href="https://en.wikipedia.org/wiki/Jada_Toys">Jada's</a> products are predominantly aimed at the collectible market, and are available and popular at retail outlets worldwide.</p>
+  <p>Jada Toys Metalfigs are highly collectible, stylized figurines made from 100% die-cast metal. They feature a heavy, premium feel with high-quality metallic paint and authentic character details. These figures come in various sizes, ranging from the tiny 1.65-inch Nano Metalfigs to larger 6-inch display pieces. While most are static, non-articulated poses, they cover massive franchises like Marvel, DC, Disney, and Transformers. They are popular for both play and display due to their durability and the availability of themed diorama sets.</p>
+  <hr>
+</div>
+<div align="center">
+  <a href="#">
+    <img src="images/metalfigs-3-morty-and-crew.jpeg" alt="Morty and Scooby-Doo Crew">
+  </a>
+  <p>
+    <a href="https://en.wikipedia.org/wiki/Morty_Smith">Morty Smith</a>, <a href="https://en.wikipedia.org/wiki/Shaggy_Rogers">Norville "Shaggy" Rogers</a>, <a href="https://en.wikipedia.org/wiki/Velma_Dinkley">Velma Dinkley</a>
+  </p>
+</div>
+
+---
+
+[![Metalfigs Daphne, Woody and Bumble Bee](images/metalfigs-daphne-woody-bee.jpeg)](#)
+
+---
+
+<a href="#">
+  <img alt="Jada Toys Metalfigs" src="images/metalfigs-rick-mayor-alien.jpg">
+</a>
 
 # BasketBall
 
