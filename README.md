@@ -159,3 +159,25 @@ All books in the list below are high quality publications and personally recomme
   - chess term / MATE; ISOLANI; EXCHANGE; ENPASSANT; OPPOSITION
 
   In [Aron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch)'s very famous book My System he describes an isolated pawn on the d-file as an isolated queen pawn or simply an `isolani`.
+
+---
+
+# The Back Covers of Famous Books
+
+[![Books vs Cigarettes back cover](images/books-vs-cigarettes.jpeg)](#)
+
+[![](images/new/start-with-ruby.jpg)](#)
+
+# 45+ Years Of Collecting Books
+
+[![Bookshelf 1](images/books-1.jpg)](#)
+
+[![Bookshelf 2](images/books-2.jpg)](#)
+
+[![Bookshelf 3](images/books-3.jpg)](#)
+
+# BasketBall
+
+Really enjoy taking my Molten Ball out for a trip around the town. A smaller six 6 ball with a great bounce really prefer this over my size 7 balls. If you know about basketballs you will know about the different balls some with the "dead" bounce. Several specialized basketballs are designed to feel "dead" (less bouncy) or feature thicker, heavier construction to improve handling and strength. These are often used for training, such as weighted or heavy trainer basketballs.
+
+[![The Molten BG3200 Indoor / Outdoor Basketball: Size 6](images/molten-bg3200-series-basketball.jpg)](#)
