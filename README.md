@@ -21,6 +21,19 @@
 
 ---
 
+# Disappear for a month and the take 30-day 🪑 Tai Chi Challenge !!! 
+
+## Day 2, Thursday 21st May 2026
+
+Did my first plank for over one minute. Took it easy and did not hold the plank until failure stopped after about 1:15 seconds.
+
+## Day 1, Wednesday 20th May 2026
+
+Walked five kilometers and went to the gym for a short workout with very light weights.
+The highlight was doing the farmers carry with kettle bells and carring the 9kg medicine ball.
+
+---
+
 # Special Thank You
 
 Thanks to all the authors and publishers of the great books listed in this readme. I have been collecting books for over 40 years and I recommend that you should buy some of the books listed here. Promoting the books and authors using mostly Amazon and Wikipedia links for consistentency but usually I buy the books either locally at [Dymocks](https://www.dymocks.com.au), [QBD](https://www.qbd.com.au), The [Cystic Fibrosis Bookshop](https://www.cfqld.org.au/cystic-fibrosis-queensland-bookshop/) or at other online stores. 
