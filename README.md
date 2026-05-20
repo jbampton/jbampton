@@ -21,7 +21,7 @@
 
 ---
 
-# Disappear for a month and take 30-day 🪑 Tai Chi Challenge !!! 
+# Disappear for a month and take the 30-day 🪑 Tai Chi Challenge !!! 
 
 ## Day 2, Thursday 21st May 2026
 
