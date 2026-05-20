@@ -21,6 +21,12 @@
 
 ---
 
+<img src="images/workstation-may-2026.png" alt="My Brisbane-based workstation">
+
+## Where the logic happens. A snapshot of my Brisbane-based workstation—featuring a dedicated Ubuntu Linux ATX machine, dual-display workspace, and a central hub for open-source engineering. Heavily fueled by a mix of classic gaming, chess, and pop culture
+
+---
+
 # Disappear for a month and take the 30-day 🪑 Tai Chi Challenge !!! 
 
 ## Day 2, Thursday 21st May 2026
