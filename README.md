@@ -30,7 +30,7 @@ Did my first plank for over one minute. Took it easy and did not hold the plank 
 ## Day 1, Wednesday 20th May 2026
 
 Walked five kilometers and went to the gym for a short workout with very light weights.
-The highlight was doing the farmers carry with kettle bells and carring the 9kg medicine ball.
+The highlight was doing the farmers carry with kettle bells and carrying the 9kg medicine ball.
 
 ---
 
