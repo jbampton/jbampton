@@ -23,7 +23,7 @@
 
 <img src="images/workstation-may-2026.png" alt="My Brisbane-based workstation">
 
-## Where the logic happens. A snapshot of my Brisbane-based workstation—featuring a dedicated Ubuntu Linux ATX machine, dual-display workspace, and a central hub for open-source engineering. Heavily fueled by a mix of classic gaming, chess, and pop culture
+## Where the logic happens. A snapshot of my Brisbane-based workstation—featuring a dual-display workspace, and a central hub for open-source engineering. Heavily fueled by a mix of classic gaming, chess, and pop culture
 
 ---
 
