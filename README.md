@@ -33,11 +33,11 @@
 
 ## Day 2, Thursday 21st May 2026
 
-Did my first plank for over one minute. Took it easy and did not hold the plank until failure stopped after about 1:15 seconds.
+Walked 1.5 kilometers and did my first plank for over one minute. Took it easy and did not hold the plank until failure stopped after about 1:15 seconds.
 
 ## Day 1, Wednesday 20th May 2026
 
-Walked five kilometers and went to the gym for a short workout with very light weights.
+Walked 5 kilometers and went to the gym for a short workout with very light weights.
 The highlight was doing the farmers carry with kettle bells and carrying the 9kg medicine ball.
 
 ---
