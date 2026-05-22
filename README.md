@@ -31,6 +31,10 @@
 
 # Disappear for a month and take the 30-day 🪑 Tai Chi Challenge !!! 
 
+## Day 3, Friday 22nd May 2026
+
+Walked 3.4 kilometers and did the second plank for about one minute 58 seconds.
+
 ## Day 2, Thursday 21st May 2026
 
 Walked 1.5 kilometers and did my first plank for over one minute. Took it easy and did not hold the plank until failure stopped after about 1:15 seconds.
