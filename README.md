@@ -97,6 +97,7 @@ Some notable clues and answers from various publications
 - Opening book beside Central Park tavern. (3). Bar
 - Leaves note with answer. (3). Tea
 - Message found in short extract. (4). Text
+- Brilliant ring inside worth a lot. (4). Halo
 - European ruler beheaded mathematician. (5). Euler
 - Vegetable found in vehicle along with rubbish. (6). Carrot
 - Crazed parrot, one entering Gatwick? (7). Airport
