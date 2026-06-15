@@ -37,6 +37,10 @@ Thanks to all the authors and publishers of the great books listed in this readm
 
 # Some things about me
 
+## Monday June 15th, 2026
+
+- Opened a Marvel Avengers Powers Unite Pencils Pack of 8 pencils with Iron Man, Captain America, The Hulk, and Black Panther. Each pencil has an eraser at the end and is unsharpened.  
+
 ## Thursday May 7th, 2026
 
 - From [The Big Issue](https://thebigissue.org.au) magazine edition 739 on the 20th June 2025 in `The Regulars` section `Streetsheet`, "MBK" describes his favorite series of books as the [Riftwar Cycle](https://en.wikipedia.org/wiki/The_Riftwar_Cycle). I read about 10 of these fantastic books when I was young and can appreciate "MBK" and his love of [Raymond E Feist](https://en.wikipedia.org/wiki/Raymond_E._Feist). The Riftwar Cycle is a sprawling epic fantasy series created by American author Raymond E. Feist. Spanning 30 books written over three decades (1982–2013), it is one of the most influential "high fantasy" sagas in modern literature. At its core, the series follows the history of the world of Midkemia and the various "Rifts" (magical portals) that connect it to other worlds, leading to planet-scale wars, demonic invasions, and cosmic shifts.
