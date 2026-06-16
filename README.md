@@ -21,14 +21,6 @@
 
 ---
 
-<a href="#">
-<img src="images/workstation-may-2026.png" alt="My Brisbane-based workstation">
-</a>
-
-## Where the logic happens. A snapshot of my Brisbane-based workstation—featuring a dual-display workspace, and a central hub for open-source engineering. Heavily fueled by a mix of classic gaming, chess, and pop culture
-
----
-
 # Special Thank You
 
 Thanks to all the authors and publishers of the great books listed in this readme. I have been collecting books for over 40 years and I recommend that you should buy some of the books listed here. Promoting the books and authors using mostly Amazon and Wikipedia links for consistentency but usually I buy the books either locally at [Dymocks](https://www.dymocks.com.au), [QBD](https://www.qbd.com.au), The [Cystic Fibrosis Bookshop](https://www.cfqld.org.au/cystic-fibrosis-queensland-bookshop/) or at other online stores. 
@@ -227,3 +219,13 @@ A lot of the dictionaries below use different notation to markup words and phras
 Really enjoy taking my Molten ball out for a trip around the town. A smaller size 6 ball with a great bounce really prefer this over my size 7 balls. If you know about basketballs you will know about the different balls some with the "dead" bounce. Several specialized basketballs are designed to feel "dead" (less bouncy) or feature thicker, heavier construction to improve handling and strength. These are often used for training, such as weighted or heavy trainer basketballs.
 
 [![The Molten BG3200 Indoor / Outdoor Basketball: Size 6](images/molten-bg3200-series-basketball.jpg)](#)
+
+---
+
+<a href="#">
+<img src="images/workstation-may-2026.png" alt="My Brisbane-based workstation">
+</a>
+
+## Where the logic happens. A snapshot of my Brisbane-based workstation—featuring a dual-display workspace, and a central hub for open-source engineering. Heavily fueled by a mix of classic gaming, chess, and pop culture
+
+---
