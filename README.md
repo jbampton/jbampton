@@ -21,6 +21,16 @@
 
 ---
 
+<div align="center">
+  <h2>Join The Multi-Project Discord Super-Server</h2>
+  <p>
+    <a href="https://discord.gg/hKUH56YHXp">
+      <img src="https://img.shields.io/badge/metropolis_retro-discord-lightgreen?style=for-the-badge&labelColor=orange" alt="Join the Metropolis Discord"></a>
+  </p>
+</div>
+
+---
+
 # Special Thank You
 
 Thanks to all the authors and publishers of the great books listed in this readme. I have been collecting books for over 40 years and I recommend that you should buy some of the books listed here. Promoting the books and authors using mostly Amazon and Wikipedia links for consistentency but usually I buy the books either locally at [Dymocks](https://www.dymocks.com.au), [QBD](https://www.qbd.com.au), The [Cystic Fibrosis Bookshop](https://www.cfqld.org.au/cystic-fibrosis-queensland-bookshop/) or at other online stores. 
