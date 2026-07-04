@@ -33,7 +33,7 @@
 ---
 
 <div align="center">
-  <h2>🍹✨ Check out "The Tasty Beverage" the new home for all my content</h2>
+  <h2>🥤✨ Check out "The Tasty Beverage" the new home for all my content</h2>
 
   <hr />
 
