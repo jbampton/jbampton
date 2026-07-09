@@ -22,17 +22,6 @@
 ---
 
 <div align="center">
-  <h2>Join the SalamLang Discord Server</h2>
-  <p>
-
-[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/HfY3QHDPdv)](https://discord.gg/HfY3QHDPdv)
-
-  </p>
-</div>
-
----
-
-<div align="center">
   <h2>🥤✨ Check out "The Tasty Beverage" the new home for all my content</h2>
 
 [![Visit The Tasty Beverage](https://img.shields.io/badge/%F0%9F%9A%80%20Visit%20The%20Tasty%20Beverage-FF6B6B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://bambam.rtfd.io)
