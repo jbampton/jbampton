@@ -169,7 +169,7 @@ Across all positions, my strategic venue activation successfully delivered a con
 * **Commercial Impact:** Expanded reliable venue patronage to boost key early-week restaurant sales.
 
 ### 3. Pig 'N' Whistle King George Square (CBD)
-* **Sub-Branch Link:** [Pig 'N' Whistle King George Square (CBD)](https://pignwhistle.com.au)
+* **Sub-Branch Link:** [Pig 'N' Whistle King George Square (CBD)](https://pignwhistle.com.au/king-george-square)
 * **Timeline:** Launched in May 2025 immediately following the Sitar residency. Maintained the twice-weekly hosting circuit alongside the ongoing Royal Hotel residency (Mondays at KGS from **4:00 PM – 6:30 PM**; Thursdays at Nundah). Completed as a successful 3-month block in winter 2025.
 * **Operational Role:** I organized and ran this location entirely on my own, scaling logistics to transport up to 8 chess sets and 8 clocks in a single evening.
 * **Attendance Metric:** Achieved a peak fluid attendance of 21 unique players moving through the tables across a 3-hour window.
