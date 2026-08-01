@@ -9,7 +9,7 @@
 
 [![Apache CloudStack Committer](https://img.shields.io/badge/CloudStack-145+_Members-8ED1FC?style=for-the-badge&logo=apachecloudstack&logoColor=white&cacheSeconds=86400)](https://projects.apache.org/committee.html?cloudstack)
 [![Apache OpenOffice Committer](https://img.shields.io/badge/OpenOffice-140+_Members-F0F0F0?style=for-the-badge&logo=apacheopenoffice&logoColor=0091FF&cacheSeconds=86400)](https://projects.apache.org/committee.html?openoffice)
-[![Apache Sedona Committer](https://img.shields.io/badge/Sedona-20+_Members-EF3C25?style=for-the-badge&logo=apachesedona&logoColor=white&cacheSeconds=86400)](https://projects.apache.org/committee.html?sedona)
+[![Apache Sedona Committer](https://img.shields.io/badge/Sedona-25+_Members-EF3C25?style=for-the-badge&logo=apachesedona&logoColor=white&cacheSeconds=86400)](https://projects.apache.org/committee.html?sedona)
 [![ASF Committer Welcome](https://img.shields.io/badge/ASF_Committer-Happy_Days-D22128?style=for-the-badge&logo=github&logoColor=white&cacheSeconds=86400)](https://www.mail-archive.com/dev@cloudstack.apache.org/msg100220.html)
 [![Rails Top 200](https://img.shields.io/badge/Rails_Contributors-Top_200-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white&cacheSeconds=86400)](https://contributors.rubyonrails.org/)
 [![curl Contributor](https://img.shields.io/badge/curl_Contributor-3,660+_Strong-003a5c?style=for-the-badge&logo=curl&logoColor=white&cacheSeconds=86400)](https://curl.se/docs/thanks.html)
