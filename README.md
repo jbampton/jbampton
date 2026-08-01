@@ -165,7 +165,7 @@ Across all positions, my strategic venue activation successfully delivered a con
 * **Sub-Branch Link:** [Sitar Indian Restaurant (Albion)](https://sitar.com.au)
 * **Timeline:** Initiated in November 2024. Operated concurrently with the Royal Hotel schedule to establish a twice-weekly hosting circuit (Mondays at Albion from **5:00 PM – 7:00 PM**; Thursdays at Nundah).
 * **Operational Role:** I independently organized and managed this location for its entire 6-month block.
-* **Attendance Metric:** Drove a peak turnout of 10 active players.
+* **Attendance Metric:** Drove a peak turnout of 10 active participants.
 * **Commercial Impact:** Expanded reliable venue patronage to boost key early-week restaurant sales.
 
 ### 3. Pig 'N' Whistle King George Square (CBD)
