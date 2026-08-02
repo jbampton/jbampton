@@ -44,9 +44,17 @@
 
 [Apache Sedona](https://sedona.apache.org/latest/) - AT&T, BMW, Boeing, JPMorganChase, Shell, SpaceX, Uber and more
 
-### Please join the Apache Sedona Discord community!
+## Join The ASF Discord Communities!
 
-[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/9A3k5dEBsY)](https://discord.gg/9A3k5dEBsY)
+[![Apache Answer Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/a6PZZbfnFx)](https://discord.gg/a6PZZbfnFx)
+
+[![Apache Burr Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/6Zy2DwP4f3)](https://discord.gg/6Zy2DwP4f3)
+
+[![Apache Hertzbeat Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/Fb6M73htGr)](https://discord.gg/Fb6M73htGr)
+
+[![Apache NuttX Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/YaqhJjHF95)](https://discord.gg/YaqhJjHF95)
+
+[![Apache Sedona Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/9A3k5dEBsY)](https://discord.gg/9A3k5dEBsY)
 
 </div>
 
