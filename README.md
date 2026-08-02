@@ -26,8 +26,31 @@
 
 [![Visit The Tasty Beverage](https://img.shields.io/badge/%F0%9F%9A%80%20Visit%20The%20Tasty%20Beverage-FF6B6B?style=for-the-badge&logo=readthedocs&logoColor=white)](https://bambam.rtfd.io)
 
-  <hr />
 </div>
+
+---
+
+<div align="center">
+
+## Join us at [The Apache Software Foundation](https://apache.org/) and work on global projects
+
+### Our Philosophy is `Community Over Code` and your ideas are welcome
+
+### My ASF Projects listing some large global organizations and users 
+
+[Apache CloudStack](https://cloudstack.apache.org/) - See the [Apache CloudStack Users](https://cloudstack.apache.org/users)
+
+[Apache OpenOffice](https://www.openoffice.org/) - Over 390 million downloads
+
+[Apache Sedona](https://sedona.apache.org/latest/) - AT&T, BMW, Boeing, JPMorganChase, Shell, SpaceX, Uber and more
+
+### Please join the Apache Sedona Discord community!
+
+[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/9A3k5dEBsY)](https://discord.gg/9A3k5dEBsY)
+
+</div>
+
+---
 
 # Event Hosting and Management: Venue Performance and History Report
 
