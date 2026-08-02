@@ -15,7 +15,7 @@
 [![curl Contributor](https://img.shields.io/badge/curl_Contributor-3,660+_Strong-003a5c?style=for-the-badge&logo=curl&logoColor=white&cacheSeconds=86400)](https://curl.se/docs/thanks.html)
 [![Codewars Rank](https://img.shields.io/badge/Codewars-Top_500-B1361E?style=for-the-badge&logo=codewars&logoColor=white&cacheSeconds=86400)](https://www.codewars.com/users/leaderboard)
 [![Committers.top Rank](https://img.shields.io/badge/Committers.top_Australia-Top_100-007ec6?style=for-the-badge&logo=github&labelColor=555555&cacheSeconds=86400)](https://user-badge.committers.top/australia/jbampton)
-[![Gitista Australia Rank](https://img.shields.io/badge/Gitista_Australia-Top_10-2ea44f?style=for-the-badge&logo=github&logoColor=white&cacheSeconds=86400)](https://gitista.com/australia/)
+[![Gitista Australia Rank](https://img.shields.io/badge/Gitista_Australia-Top_25-2ea44f?style=for-the-badge&logo=github&logoColor=white&cacheSeconds=86400)](https://gitista.com/australia/)
 
 </div>
 
