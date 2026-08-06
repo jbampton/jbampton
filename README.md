@@ -56,6 +56,16 @@
 
 [![Apache Sedona Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/9A3k5dEBsY)](https://discord.gg/9A3k5dEBsY)
 
+---
+
+## Meet John ♟️ 😎
+
+<a href="#">
+  <img src="images/john.jpg" alt="Meet John">
+</a>
+
+### Playing two men at once in King George Square at the [Pig N Whistle](https://pignwhistle.com.au/king-george-square). Final Score: John 1.5 : Two Men 0.5. The dark haired office worker resigned after getting his Queen trapped and the blonde Swedish man who was a tourist scored a draw by mutual agreement.  
+
 </div>
 
 ---
