@@ -38,7 +38,7 @@
 
 [Apache CloudStack](https://cloudstack.apache.org/) - See the [Apache CloudStack Users](https://cloudstack.apache.org/users)
 
-[Apache OpenOffice](https://www.openoffice.org/) - Over 390 million downloads
+[Apache OpenOffice](https://www.openoffice.org/) - Over 400 million downloads
 
 [Apache Sedona](https://sedona.apache.org/latest/) - AT&T, BMW, Boeing, JPMorganChase, Shell, SpaceX, Uber and more
 
@@ -50,7 +50,7 @@
   <img src="images/john.jpg" alt="Meet John">
 </a>
 
-### Playing two men at once in King George Square at the [Pig N Whistle](https://pignwhistle.com.au/king-george-square). Final Score: John 1.5 : Two Men 0.5. The dark haired office worker resigned after getting his Queen trapped and the blonde Swedish man who was a tourist scored a draw by mutual agreement.  
+### Playing two men at once in King George Square at the [Pig N Whistle](https://pignwhistle.com.au/king-george-square). Final Score: John 1.5 : Two Men 0.5. The dark haired city worker resigned after getting his Queen trapped and the blonde Swedish man who was a tourist scored a draw by mutual agreement.  
 
 </div>
 
