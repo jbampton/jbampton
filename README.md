@@ -30,20 +30,6 @@
 
 <div align="center">
 
-## Join us at [The Apache Software Foundation](https://apache.org/) and work on global projects
-
-### Our Philosophy is `Community Over Code` and your ideas are welcome
-
-### My ASF Projects listing some large global organizations and users 
-
-[Apache CloudStack](https://cloudstack.apache.org/) - See the [Apache CloudStack Users](https://cloudstack.apache.org/users)
-
-[Apache OpenOffice](https://www.openoffice.org/) - Over 400 million downloads
-
-[Apache Sedona](https://sedona.apache.org/latest/) - AT&T, BMW, Boeing, JPMorganChase, Shell, SpaceX, Uber and more
-
----
-
 ## Meet John ♟️ 😎
 
 <a href="#">
@@ -61,6 +47,7 @@
 The "modified Metcalfe's Law" of open learning states that an educational network's value scales exponentially (closer to $V \propto n^3$ than standard $V \propto n^2$) with each active contributor. This drastically outpaces traditional, isolated university models by leveraging rapid, global, and highly scalable peer-to-peer knowledge exchange.
 
 ### The Mechanics of Open Learning
+
 *   **Hyper-Exponential Growth:** While Metcalfe's original law modeled a network's value as proportional to the square of its users ($V \propto n^2$), recent scaling studies on massive collaborative platforms suggest that modern interaction limits and repository mirroring follow a cube law ($V \propto n^3$). Each new learner doesn't just add one connection; they exponentially increase the nodes for peer-based help, issue tracking, and collaborative iteration.
 *   **The Power of Forks and PRs:** Platforms like GitHub scale through continuous integration and version control. When a student fork or pull request corrects or enhances a public curriculum, that learning compounds for the entire network simultaneously.
 *   **Public Network Value:** In open learning, the educational repository itself becomes a living, crowd-sourced asset. Unlike closed-loop university systems where knowledge is siloed within individual classrooms, GitHub-style learning grows by absorbing the collective intelligence of public contributors.
@@ -75,5 +62,6 @@ The "modified Metcalfe's Law" of open learning states that an educational networ
 | **Asset Lifespan** | Private. Course materials belong to the university and expire/update on a closed schedule. | Public and permanent. Open Educational Resources (OER) remain accessible and mutable globally. |
 
 ### Why Open Source Scaling Wins
+
 In private self-learning or traditional higher education, utility is capped by the number of students enrolled and their individual cognitive capacity. By contrast, the Open Source Initiative model shifts education into a social ecosystem. The marginal cost of distributing an update approaches zero, while the marginal utility of having a global community debug, update, and improve the learning material drives explosive, compounding growth in value.
 
